@@ -1,0 +1,372 @@
+game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
+/zapas/2526082,Vancouver Canucks,Edmonton Oilers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Edmonton Oilers,Vancouver Canucks,2017
+/zapas/2526098,Vancouver Canucks,Ottawa Senators,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Ottawa Senators,Vancouver Canucks,2017
+/zapas/2526109,Vancouver Canucks,Winnipeg Jets,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Winnipeg Jets,Vancouver Canucks,2017
+/zapas/2526127,Vancouver Canucks,Calgary Flames,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Calgary Flames,Vancouver Canucks,2017
+/zapas/2526139,Ottawa Senators,Vancouver Canucks,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Ottawa Senators,Vancouver Canucks,2017
+/zapas/2526152,Boston Bruins,Vancouver Canucks,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Boston Bruins,Vancouver Canucks,2017
+/zapas/2526158,Buffalo Sabres,Vancouver Canucks,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Buffalo Sabres,Vancouver Canucks,2017
+/zapas/2526176,Detroit Red Wings,Vancouver Canucks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Detroit Red Wings,Vancouver Canucks,2017
+/zapas/2526187,Minnesota Wild,Vancouver Canucks,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Minnesota Wild,Vancouver Canucks,2017
+/zapas/2526202,Vancouver Canucks,Washington Capitals,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Washington Capitals,Vancouver Canucks,2017
+/zapas/2526230,Vancouver Canucks,Dallas Stars,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Dallas Stars,Vancouver Canucks,2017
+/zapas/2526237,Vancouver Canucks,New Jersey Devils,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,New Jersey Devils,Vancouver Canucks,2017
+/zapas/2526264,Vancouver Canucks,Pittsburgh Penguins,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Pittsburgh Penguins,Vancouver Canucks,2017
+/zapas/2526276,Vancouver Canucks,Detroit Red Wings,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Detroit Red Wings,Vancouver Canucks,2017
+/zapas/2526284,Calgary Flames,Vancouver Canucks,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Calgary Flames,Vancouver Canucks,2017
+/zapas/2526294,Anaheim Ducks,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Anaheim Ducks,Vancouver Canucks,2017
+/zapas/2526313,San Jose Sharks,Vancouver Canucks,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,San Jose Sharks,Vancouver Canucks,2017
+/zapas/2526328,Los Angeles Kings,Vancouver Canucks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Vancouver Canucks,2017
+/zapas/2526341,Vancouver Canucks,Vegas Golden Knights,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Vancouver Canucks,2017
+/zapas/2526357,Vancouver Canucks,St. Louis Blues,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,St. Louis Blues,Vancouver Canucks,2017
+/zapas/2526370,Philadelphia Flyers,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Philadelphia Flyers,Vancouver Canucks,2017
+/zapas/2526378,Pittsburgh Penguins,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Pittsburgh Penguins,Vancouver Canucks,2017
+/zapas/2526394,New Jersey Devils,Vancouver Canucks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,New Jersey Devils,Vancouver Canucks,2017
+/zapas/2526414,New York Rangers,Vancouver Canucks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Rangers,Vancouver Canucks,2017
+/zapas/2526422,New York Islanders,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Islanders,Vancouver Canucks,2017
+/zapas/2526437,Nashville Predators,Vancouver Canucks,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Nashville Predators,Vancouver Canucks,2017
+/zapas/2526452,Vancouver Canucks,Toronto Maple Leafs,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Toronto Maple Leafs,Vancouver Canucks,2017
+/zapas/2526477,Vancouver Canucks,Carolina Hurricanes,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Carolina Hurricanes,Vancouver Canucks,2017
+/zapas/2526490,Vancouver Canucks,Philadelphia Flyers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Philadelphia Flyers,Vancouver Canucks,2017
+/zapas/2526508,Calgary Flames,Vancouver Canucks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Calgary Flames,Vancouver Canucks,2017
+/zapas/2526518,Winnipeg Jets,Vancouver Canucks,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Winnipeg Jets,Vancouver Canucks,2017
+/zapas/2526532,Vancouver Canucks,Nashville Predators,1,7,0,0.0,3.0,1.0,0.0,1.0,7.0,0.0,Nashville Predators,Vancouver Canucks,2017
+/zapas/2526549,Vancouver Canucks,San Jose Sharks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,San Jose Sharks,Vancouver Canucks,2017
+/zapas/2526563,Vancouver Canucks,Calgary Flames,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Calgary Flames,Vancouver Canucks,2017
+/zapas/2526578,Vancouver Canucks,Montreal Canadiens,5,7,0,0.0,3.0,1.0,0.0,5.0,7.0,0.0,Montreal Canadiens,Vancouver Canucks,2017
+/zapas/2526592,San Jose Sharks,Vancouver Canucks,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,San Jose Sharks,Vancouver Canucks,2017
+/zapas/2526610,Vancouver Canucks,St. Louis Blues,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,St. Louis Blues,Vancouver Canucks,2017
+/zapas/2526627,Vancouver Canucks,Chicago Blackhawks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Vancouver Canucks,2017
+/zapas/2526646,Vancouver Canucks,Los Angeles Kings,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Los Angeles Kings,Vancouver Canucks,2017
+/zapas/2526667,Vancouver Canucks,Anaheim Ducks,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Anaheim Ducks,Vancouver Canucks,2017
+/zapas/2526692,Toronto Maple Leafs,Vancouver Canucks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Toronto Maple Leafs,Vancouver Canucks,2017
+/zapas/2526703,Montreal Canadiens,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Montreal Canadiens,Vancouver Canucks,2017
+/zapas/2526707,Washington Capitals,Vancouver Canucks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Washington Capitals,Vancouver Canucks,2017
+/zapas/2526719,Columbus Blue Jackets,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Columbus Blue Jackets,Vancouver Canucks,2017
+/zapas/2526736,Minnesota Wild,Vancouver Canucks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Minnesota Wild,Vancouver Canucks,2017
+/zapas/2526774,Edmonton Oilers,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Edmonton Oilers,Vancouver Canucks,2017
+/zapas/2526777,Winnipeg Jets,Vancouver Canucks,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Winnipeg Jets,Vancouver Canucks,2017
+/zapas/2526795,Vancouver Canucks,Los Angeles Kings,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Los Angeles Kings,Vancouver Canucks,2017
+/zapas/2526812,Vancouver Canucks,Buffalo Sabres,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Buffalo Sabres,Vancouver Canucks,2017
+/zapas/2526826,Vancouver Canucks,Colorado Avalanche,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Colorado Avalanche,Vancouver Canucks,2017
+/zapas/2526841,Vancouver Canucks,Chicago Blackhawks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Chicago Blackhawks,Vancouver Canucks,2017
+/zapas/2526856,Vancouver Canucks,Tampa Bay Lightning,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Tampa Bay Lightning,Vancouver Canucks,2017
+/zapas/2526872,Florida Panthers,Vancouver Canucks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Florida Panthers,Vancouver Canucks,2017
+/zapas/2526884,Tampa Bay Lightning,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Vancouver Canucks,2017
+/zapas/2526893,Carolina Hurricanes,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Carolina Hurricanes,Vancouver Canucks,2017
+/zapas/2526909,Dallas Stars,Vancouver Canucks,0,6,0,0.0,3.0,0.0,3.0,6.0,0.0,1.0,Dallas Stars,Vancouver Canucks,2017
+/zapas/2526932,Vancouver Canucks,Florida Panthers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Florida Panthers,Vancouver Canucks,2017
+/zapas/2526943,San Jose Sharks,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,San Jose Sharks,Vancouver Canucks,2017
+/zapas/2526957,Vancouver Canucks,Boston Bruins,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Boston Bruins,Vancouver Canucks,2017
+/zapas/2526980,Vancouver Canucks,Colorado Avalanche,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Colorado Avalanche,Vancouver Canucks,2017
+/zapas/2526999,Vegas Golden Knights,Vancouver Canucks,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Vegas Golden Knights,Vancouver Canucks,2017
+/zapas/2527017,Arizona Coyotes,Vancouver Canucks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Vancouver Canucks,2017
+/zapas/2527021,Colorado Avalanche,Vancouver Canucks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Colorado Avalanche,Vancouver Canucks,2017
+/zapas/2527036,Vancouver Canucks,New York Rangers,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,New York Rangers,Vancouver Canucks,2017
+/zapas/2527051,Vancouver Canucks,Nashville Predators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Nashville Predators,Vancouver Canucks,2017
+/zapas/2527073,Vancouver Canucks,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Vancouver Canucks,2017
+/zapas/2527085,Vancouver Canucks,Arizona Coyotes,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Arizona Coyotes,Vancouver Canucks,2017
+/zapas/2527101,Vancouver Canucks,Minnesota Wild,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Minnesota Wild,Vancouver Canucks,2017
+/zapas/2527116,Arizona Coyotes,Vancouver Canucks,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Arizona Coyotes,Vancouver Canucks,2017
+/zapas/2527123,Los Angeles Kings,Vancouver Canucks,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Los Angeles Kings,Vancouver Canucks,2017
+/zapas/2527136,Anaheim Ducks,Vancouver Canucks,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Anaheim Ducks,Vancouver Canucks,2017
+/zapas/2527161,Vancouver Canucks,San Jose Sharks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,San Jose Sharks,Vancouver Canucks,2017
+/zapas/2527184,Vegas Golden Knights,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Vancouver Canucks,2017
+/zapas/2527197,Chicago Blackhawks,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Vancouver Canucks,2017
+/zapas/2527202,St. Louis Blues,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,St. Louis Blues,Vancouver Canucks,2017
+/zapas/2527218,Dallas Stars,Vancouver Canucks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Dallas Stars,Vancouver Canucks,2017
+/zapas/2527239,Vancouver Canucks,Anaheim Ducks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Vancouver Canucks,2017
+/zapas/2527252,Vancouver Canucks,Edmonton Oilers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Edmonton Oilers,Vancouver Canucks,2017
+/zapas/2527262,Vancouver Canucks,Columbus Blue Jackets,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Columbus Blue Jackets,Vancouver Canucks,2017
+/zapas/2527290,Vancouver Canucks,Vegas Golden Knights,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Vegas Golden Knights,Vancouver Canucks,2017
+/zapas/2527304,Vancouver Canucks,Arizona Coyotes,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Arizona Coyotes,Vancouver Canucks,2017
+/zapas/2527323,Edmonton Oilers,Vancouver Canucks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Vancouver Canucks,2017
+/zapas/2647201,Vancouver Canucks,Calgary Flames,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Calgary Flames,Vancouver Canucks,2018
+/zapas/2647226,Calgary Flames,Vancouver Canucks,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Calgary Flames,Vancouver Canucks,2018
+/zapas/2647235,Carolina Hurricanes,Vancouver Canucks,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Carolina Hurricanes,Vancouver Canucks,2018
+/zapas/2647251,Tampa Bay Lightning,Vancouver Canucks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Tampa Bay Lightning,Vancouver Canucks,2018
+/zapas/2647262,Florida Panthers,Vancouver Canucks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Florida Panthers,Vancouver Canucks,2018
+/zapas/2647279,Pittsburgh Penguins,Vancouver Canucks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Pittsburgh Penguins,Vancouver Canucks,2018
+/zapas/2647292,Winnipeg Jets,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Vancouver Canucks,2018
+/zapas/2647309,Vancouver Canucks,Boston Bruins,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Boston Bruins,Vancouver Canucks,2018
+/zapas/2647319,Vancouver Canucks,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Vancouver Canucks,2018
+/zapas/2647331,Vegas Golden Knights,Vancouver Canucks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vegas Golden Knights,Vancouver Canucks,2018
+/zapas/2647341,Arizona Coyotes,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Arizona Coyotes,Vancouver Canucks,2018
+/zapas/2647356,Vancouver Canucks,Pittsburgh Penguins,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Pittsburgh Penguins,Vancouver Canucks,2018
+/zapas/2647364,Vancouver Canucks,Minnesota Wild,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Minnesota Wild,Vancouver Canucks,2018
+/zapas/2647376,Vancouver Canucks,Chicago Blackhawks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Chicago Blackhawks,Vancouver Canucks,2018
+/zapas/2647391,Vancouver Canucks,Colorado Avalanche,7,6,1,2.0,1.0,1.0,2.0,7.0,6.0,1.0,Colorado Avalanche,Vancouver Canucks,2018
+/zapas/2647417,Detroit Red Wings,Vancouver Canucks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Detroit Red Wings,Vancouver Canucks,2018
+/zapas/2647425,Boston Bruins,Vancouver Canucks,5,8,0,0.0,3.0,0.0,3.0,8.0,5.0,1.0,Boston Bruins,Vancouver Canucks,2018
+/zapas/2647440,Buffalo Sabres,Vancouver Canucks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Buffalo Sabres,Vancouver Canucks,2018
+/zapas/2647458,New York Rangers,Vancouver Canucks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,New York Rangers,Vancouver Canucks,2018
+/zapas/2647464,New York Islanders,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Islanders,Vancouver Canucks,2018
+/zapas/2647480,Minnesota Wild,Vancouver Canucks,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Minnesota Wild,Vancouver Canucks,2018
+/zapas/2647493,Vancouver Canucks,Montreal Canadiens,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Montreal Canadiens,Vancouver Canucks,2018
+/zapas/2647514,Vancouver Canucks,Winnipeg Jets,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Winnipeg Jets,Vancouver Canucks,2018
+/zapas/2647527,Anaheim Ducks,Vancouver Canucks,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Anaheim Ducks,Vancouver Canucks,2018
+/zapas/2647544,San Jose Sharks,Vancouver Canucks,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,San Jose Sharks,Vancouver Canucks,2018
+/zapas/2647555,Los Angeles Kings,Vancouver Canucks,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Vancouver Canucks,2018
+/zapas/2647574,Vancouver Canucks,Los Angeles Kings,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Los Angeles Kings,Vancouver Canucks,2018
+/zapas/2647587,Vancouver Canucks,Vegas Golden Knights,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Vegas Golden Knights,Vancouver Canucks,2018
+/zapas/2647594,Vancouver Canucks,Dallas Stars,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Dallas Stars,Vancouver Canucks,2018
+/zapas/2647621,Vancouver Canucks,Minnesota Wild,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Minnesota Wild,Vancouver Canucks,2018
+/zapas/2647635,Vancouver Canucks,Nashville Predators,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Nashville Predators,Vancouver Canucks,2018
+/zapas/2647652,St. Louis Blues,Vancouver Canucks,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,St. Louis Blues,Vancouver Canucks,2018
+/zapas/2647667,Columbus Blue Jackets,Vancouver Canucks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Columbus Blue Jackets,Vancouver Canucks,2018
+/zapas/2647681,Nashville Predators,Vancouver Canucks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Nashville Predators,Vancouver Canucks,2018
+/zapas/2647702,Vancouver Canucks,Philadelphia Flyers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Philadelphia Flyers,Vancouver Canucks,2018
+/zapas/2647709,Vancouver Canucks,Edmonton Oilers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Vancouver Canucks,2018
+/zapas/2647724,Vancouver Canucks,Tampa Bay Lightning,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Vancouver Canucks,2018
+/zapas/2647737,Vancouver Canucks,St. Louis Blues,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,St. Louis Blues,Vancouver Canucks,2018
+/zapas/2647755,Vancouver Canucks,Winnipeg Jets,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Winnipeg Jets,Vancouver Canucks,2018
+/zapas/2647774,Edmonton Oilers,Vancouver Canucks,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Vancouver Canucks,2018
+/zapas/2647795,Calgary Flames,Vancouver Canucks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Calgary Flames,Vancouver Canucks,2018
+/zapas/2647798,New Jersey Devils,Vancouver Canucks,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,New Jersey Devils,Vancouver Canucks,2018
+/zapas/2647813,Ottawa Senators,Vancouver Canucks,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Ottawa Senators,Vancouver Canucks,2018
+/zapas/2647824,Montreal Canadiens,Vancouver Canucks,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Montreal Canadiens,Vancouver Canucks,2018
+/zapas/2647837,Toronto Maple Leafs,Vancouver Canucks,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Toronto Maple Leafs,Vancouver Canucks,2018
+/zapas/2647878,Vancouver Canucks,Arizona Coyotes,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Arizona Coyotes,Vancouver Canucks,2018
+/zapas/2647900,Vancouver Canucks,Florida Panthers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Florida Panthers,Vancouver Canucks,2018
+/zapas/2647922,Vancouver Canucks,Edmonton Oilers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Vancouver Canucks,2018
+/zapas/2647937,Vancouver Canucks,Buffalo Sabres,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Buffalo Sabres,Vancouver Canucks,2018
+/zapas/2647951,Vancouver Canucks,Detroit Red Wings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Detroit Red Wings,Vancouver Canucks,2018
+/zapas/2647968,Vancouver Canucks,Carolina Hurricanes,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Carolina Hurricanes,Vancouver Canucks,2018
+/zapas/2647998,Colorado Avalanche,Vancouver Canucks,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Colorado Avalanche,Vancouver Canucks,2018
+/zapas/2648005,Philadelphia Flyers,Vancouver Canucks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Philadelphia Flyers,Vancouver Canucks,2018
+/zapas/2648012,Washington Capitals,Vancouver Canucks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Washington Capitals,Vancouver Canucks,2018
+/zapas/2648032,Chicago Blackhawks,Vancouver Canucks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Chicago Blackhawks,Vancouver Canucks,2018
+/zapas/2648048,Vancouver Canucks,Calgary Flames,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Calgary Flames,Vancouver Canucks,2018
+/zapas/2648060,Vancouver Canucks,San Jose Sharks,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,San Jose Sharks,Vancouver Canucks,2018
+/zapas/2648074,Anaheim Ducks,Vancouver Canucks,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Anaheim Ducks,Vancouver Canucks,2018
+/zapas/2648084,Los Angeles Kings,Vancouver Canucks,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Vancouver Canucks,2018
+/zapas/2648100,San Jose Sharks,Vancouver Canucks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,San Jose Sharks,Vancouver Canucks,2018
+/zapas/2648137,Vancouver Canucks,Arizona Coyotes,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Arizona Coyotes,Vancouver Canucks,2018
+/zapas/2648152,Vancouver Canucks,New York Islanders,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,New York Islanders,Vancouver Canucks,2018
+/zapas/2648165,Vancouver Canucks,Anaheim Ducks,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Anaheim Ducks,Vancouver Canucks,2018
+/zapas/2648180,Colorado Avalanche,Vancouver Canucks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Vancouver Canucks,2018
+/zapas/2648186,Arizona Coyotes,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Vancouver Canucks,2018
+/zapas/2648209,Vegas Golden Knights,Vancouver Canucks,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Vegas Golden Knights,Vancouver Canucks,2018
+/zapas/2648228,Vancouver Canucks,Toronto Maple Leafs,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Toronto Maple Leafs,Vancouver Canucks,2018
+/zapas/2648238,Edmonton Oilers,Vancouver Canucks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Vancouver Canucks,2018
+/zapas/2648257,Vancouver Canucks,Vegas Golden Knights,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Vegas Golden Knights,Vancouver Canucks,2018
+/zapas/2648280,Vancouver Canucks,New York Rangers,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,New York Rangers,Vancouver Canucks,2018
+/zapas/2648296,Vancouver Canucks,New Jersey Devils,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New Jersey Devils,Vancouver Canucks,2018
+/zapas/2648312,Dallas Stars,Vancouver Canucks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Dallas Stars,Vancouver Canucks,2018
+/zapas/2648317,Chicago Blackhawks,Vancouver Canucks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Vancouver Canucks,2018
+/zapas/2648332,Vancouver Canucks,Ottawa Senators,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Ottawa Senators,Vancouver Canucks,2018
+/zapas/2648359,Vancouver Canucks,Calgary Flames,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Calgary Flames,Vancouver Canucks,2018
+/zapas/2648366,Vancouver Canucks,Columbus Blue Jackets,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Columbus Blue Jackets,Vancouver Canucks,2018
+/zapas/2648381,Vancouver Canucks,Anaheim Ducks,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Anaheim Ducks,Vancouver Canucks,2018
+/zapas/2648393,Vancouver Canucks,Los Angeles Kings,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Los Angeles Kings,Vancouver Canucks,2018
+/zapas/2648410,Vancouver Canucks,Dallas Stars,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Dallas Stars,Vancouver Canucks,2018
+/zapas/2648435,Vancouver Canucks,San Jose Sharks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,San Jose Sharks,Vancouver Canucks,2018
+/zapas/2648447,Nashville Predators,Vancouver Canucks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Nashville Predators,Vancouver Canucks,2018
+/zapas/2648456,St. Louis Blues,Vancouver Canucks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,St. Louis Blues,Vancouver Canucks,2018
+/zapas/2806379,Edmonton Oilers,Vancouver Canucks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Vancouver Canucks,2019
+/zapas/2806405,Calgary Flames,Vancouver Canucks,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Calgary Flames,Vancouver Canucks,2019
+/zapas/2806422,Vancouver Canucks,Los Angeles Kings,8,2,0,3.0,0.0,1.0,3.0,8.0,2.0,1.0,Los Angeles Kings,Vancouver Canucks,2019
+/zapas/2806449,Vancouver Canucks,Philadelphia Flyers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Philadelphia Flyers,Vancouver Canucks,2019
+/zapas/2806465,Vancouver Canucks,Detroit Red Wings,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Detroit Red Wings,Vancouver Canucks,2019
+/zapas/2806477,St. Louis Blues,Vancouver Canucks,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,St. Louis Blues,Vancouver Canucks,2019
+/zapas/2806489,New Jersey Devils,Vancouver Canucks,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,New Jersey Devils,Vancouver Canucks,2019
+/zapas/2806500,New York Rangers,Vancouver Canucks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Rangers,Vancouver Canucks,2019
+/zapas/2806513,Detroit Red Wings,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Detroit Red Wings,Vancouver Canucks,2019
+/zapas/2806536,Vancouver Canucks,Washington Capitals,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Washington Capitals,Vancouver Canucks,2019
+/zapas/2806554,Vancouver Canucks,Florida Panthers,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Florida Panthers,Vancouver Canucks,2019
+/zapas/2806569,Los Angeles Kings,Vancouver Canucks,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Los Angeles Kings,Vancouver Canucks,2019
+/zapas/2806578,Anaheim Ducks,Vancouver Canucks,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Anaheim Ducks,Vancouver Canucks,2019
+/zapas/2806592,San Jose Sharks,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,San Jose Sharks,Vancouver Canucks,2019
+/zapas/2806608,Vancouver Canucks,St. Louis Blues,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,St. Louis Blues,Vancouver Canucks,2019
+/zapas/2806619,Chicago Blackhawks,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Chicago Blackhawks,Vancouver Canucks,2019
+/zapas/2806626,Winnipeg Jets,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Vancouver Canucks,2019
+/zapas/2806641,Vancouver Canucks,New Jersey Devils,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,New Jersey Devils,Vancouver Canucks,2019
+/zapas/2806653,Vancouver Canucks,Nashville Predators,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Nashville Predators,Vancouver Canucks,2019
+/zapas/2806667,Vancouver Canucks,Dallas Stars,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Dallas Stars,Vancouver Canucks,2019
+/zapas/2806687,Vancouver Canucks,Colorado Avalanche,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Colorado Avalanche,Vancouver Canucks,2019
+/zapas/2806703,Dallas Stars,Vancouver Canucks,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Dallas Stars,Vancouver Canucks,2019
+/zapas/2806715,Nashville Predators,Vancouver Canucks,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Nashville Predators,Vancouver Canucks,2019
+/zapas/2806724,Washington Capitals,Vancouver Canucks,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Washington Capitals,Vancouver Canucks,2019
+/zapas/2806743,Philadelphia Flyers,Vancouver Canucks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Philadelphia Flyers,Vancouver Canucks,2019
+/zapas/2806758,Pittsburgh Penguins,Vancouver Canucks,8,6,0,3.0,0.0,0.0,0.0,6.0,8.0,0.0,Pittsburgh Penguins,Vancouver Canucks,2019
+/zapas/2806791,Edmonton Oilers,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Edmonton Oilers,Vancouver Canucks,2019
+/zapas/2806794,Vancouver Canucks,Edmonton Oilers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Vancouver Canucks,2019
+/zapas/2806808,Vancouver Canucks,Ottawa Senators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Ottawa Senators,Vancouver Canucks,2019
+/zapas/2806829,Vancouver Canucks,Buffalo Sabres,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Buffalo Sabres,Vancouver Canucks,2019
+/zapas/2806857,Vancouver Canucks,Toronto Maple Leafs,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Vancouver Canucks,2019
+/zapas/2806872,Vancouver Canucks,Carolina Hurricanes,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,Carolina Hurricanes,Vancouver Canucks,2019
+/zapas/2806890,San Jose Sharks,Vancouver Canucks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,San Jose Sharks,Vancouver Canucks,2019
+/zapas/2806894,Vegas Golden Knights,Vancouver Canucks,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Vegas Golden Knights,Vancouver Canucks,2019
+/zapas/2806908,Vancouver Canucks,Montreal Canadiens,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Montreal Canadiens,Vancouver Canucks,2019
+/zapas/2806923,Vancouver Canucks,Vegas Golden Knights,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Vegas Golden Knights,Vancouver Canucks,2019
+/zapas/2806939,Vancouver Canucks,Pittsburgh Penguins,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Pittsburgh Penguins,Vancouver Canucks,2019
+/zapas/2806955,Vancouver Canucks,Edmonton Oilers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Vancouver Canucks,2019
+/zapas/2806975,Vancouver Canucks,Los Angeles Kings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Vancouver Canucks,2019
+/zapas/2806987,Calgary Flames,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Calgary Flames,Vancouver Canucks,2019
+/zapas/2807013,Vancouver Canucks,Chicago Blackhawks,7,5,0,3.0,0.0,1.0,3.0,7.0,5.0,1.0,Chicago Blackhawks,Vancouver Canucks,2019
+/zapas/2807027,Vancouver Canucks,New York Rangers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Rangers,Vancouver Canucks,2019
+/zapas/2807039,Tampa Bay Lightning,Vancouver Canucks,9,2,0,3.0,0.0,0.0,0.0,2.0,9.0,0.0,Tampa Bay Lightning,Vancouver Canucks,2019
+/zapas/2807057,Florida Panthers,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Florida Panthers,Vancouver Canucks,2019
+/zapas/2807068,Buffalo Sabres,Vancouver Canucks,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Buffalo Sabres,Vancouver Canucks,2019
+/zapas/2807080,Minnesota Wild,Vancouver Canucks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Minnesota Wild,Vancouver Canucks,2019
+/zapas/2807097,Winnipeg Jets,Vancouver Canucks,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Winnipeg Jets,Vancouver Canucks,2019
+/zapas/2807115,Vancouver Canucks,Arizona Coyotes,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Vancouver Canucks,2019
+/zapas/2807130,Vancouver Canucks,San Jose Sharks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,San Jose Sharks,Vancouver Canucks,2019
+/zapas/2807148,Vancouver Canucks,St. Louis Blues,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,St. Louis Blues,Vancouver Canucks,2019
+/zapas/2807157,San Jose Sharks,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,San Jose Sharks,Vancouver Canucks,2019
+/zapas/2807169,New York Islanders,Vancouver Canucks,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Islanders,Vancouver Canucks,2019
+/zapas/2807184,Carolina Hurricanes,Vancouver Canucks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Carolina Hurricanes,Vancouver Canucks,2019
+/zapas/2807188,Boston Bruins,Vancouver Canucks,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Boston Bruins,Vancouver Canucks,2019
+/zapas/2807211,Minnesota Wild,Vancouver Canucks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Minnesota Wild,Vancouver Canucks,2019
+/zapas/2807229,Vancouver Canucks,Calgary Flames,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Calgary Flames,Vancouver Canucks,2019
+/zapas/2807240,Vancouver Canucks,Nashville Predators,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Nashville Predators,Vancouver Canucks,2019
+/zapas/2807255,Vancouver Canucks,Chicago Blackhawks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Chicago Blackhawks,Vancouver Canucks,2019
+/zapas/2807285,Vancouver Canucks,Anaheim Ducks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Anaheim Ducks,Vancouver Canucks,2019
+/zapas/2807308,Vancouver Canucks,Minnesota Wild,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Minnesota Wild,Vancouver Canucks,2019
+/zapas/2807332,Vancouver Canucks,Boston Bruins,9,3,0,3.0,0.0,1.0,3.0,9.0,3.0,1.0,Boston Bruins,Vancouver Canucks,2019
+/zapas/2807345,Montreal Canadiens,Vancouver Canucks,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Vancouver Canucks,2019
+/zapas/2807364,Ottawa Senators,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Ottawa Senators,Vancouver Canucks,2019
+/zapas/2807379,Toronto Maple Leafs,Vancouver Canucks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Toronto Maple Leafs,Vancouver Canucks,2019
+/zapas/2807389,Columbus Blue Jackets,Vancouver Canucks,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Columbus Blue Jackets,Vancouver Canucks,2019
+/zapas/2807408,Vancouver Canucks,Arizona Coyotes,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Arizona Coyotes,Vancouver Canucks,2019
+/zapas/2807423,Vancouver Canucks,Colorado Avalanche,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Colorado Avalanche,Vancouver Canucks,2019
+/zapas/2807440,Vancouver Canucks,Columbus Blue Jackets,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Columbus Blue Jackets,Vancouver Canucks,2019
+/zapas/2807453,Vancouver Canucks,New York Islanders,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,New York Islanders,Vancouver Canucks,2019
+/zapas/2893209,Edmonton Oilers,Vancouver Canucks,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2893216,Edmonton Oilers,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2893232,Calgary Flames,Vancouver Canucks,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2893246,Calgary Flames,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2893265,Vancouver Canucks,Montreal Canadiens,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Montreal Canadiens,Vancouver Canucks,2020
+/zapas/2893273,Vancouver Canucks,Montreal Canadiens,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Montreal Canadiens,Vancouver Canucks,2020
+/zapas/2893288,Vancouver Canucks,Montreal Canadiens,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Montreal Canadiens,Vancouver Canucks,2020
+/zapas/2893300,Vancouver Canucks,Ottawa Senators,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Ottawa Senators,Vancouver Canucks,2020
+/zapas/2893316,Vancouver Canucks,Ottawa Senators,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Ottawa Senators,Vancouver Canucks,2020
+/zapas/2893329,Vancouver Canucks,Ottawa Senators,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Ottawa Senators,Vancouver Canucks,2020
+/zapas/2893332,Winnipeg Jets,Vancouver Canucks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Vancouver Canucks,2020
+/zapas/2893356,Montreal Canadiens,Vancouver Canucks,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Montreal Canadiens,Vancouver Canucks,2020
+/zapas/2893366,Montreal Canadiens,Vancouver Canucks,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Montreal Canadiens,Vancouver Canucks,2020
+/zapas/2893381,Toronto Maple Leafs,Vancouver Canucks,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Toronto Maple Leafs,Vancouver Canucks,2020
+/zapas/2893394,Toronto Maple Leafs,Vancouver Canucks,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Toronto Maple Leafs,Vancouver Canucks,2020
+/zapas/2893408,Toronto Maple Leafs,Vancouver Canucks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Toronto Maple Leafs,Vancouver Canucks,2020
+/zapas/2893433,Vancouver Canucks,Calgary Flames,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2893447,Vancouver Canucks,Calgary Flames,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2893459,Vancouver Canucks,Calgary Flames,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2893469,Calgary Flames,Vancouver Canucks,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2893485,Vancouver Canucks,Winnipeg Jets,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Winnipeg Jets,Vancouver Canucks,2020
+/zapas/2893502,Vancouver Canucks,Winnipeg Jets,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Winnipeg Jets,Vancouver Canucks,2020
+/zapas/2893515,Vancouver Canucks,Edmonton Oilers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2893529,Vancouver Canucks,Edmonton Oilers,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2893550,Winnipeg Jets,Vancouver Canucks,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Winnipeg Jets,Vancouver Canucks,2020
+/zapas/2893562,Winnipeg Jets,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Winnipeg Jets,Vancouver Canucks,2020
+/zapas/2893580,Vancouver Canucks,Toronto Maple Leafs,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Toronto Maple Leafs,Vancouver Canucks,2020
+/zapas/2893595,Vancouver Canucks,Toronto Maple Leafs,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Toronto Maple Leafs,Vancouver Canucks,2020
+/zapas/2893607,Vancouver Canucks,Montreal Canadiens,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Montreal Canadiens,Vancouver Canucks,2020
+/zapas/2893621,Vancouver Canucks,Montreal Canadiens,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Montreal Canadiens,Vancouver Canucks,2020
+/zapas/2893648,Vancouver Canucks,Edmonton Oilers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2893662,Ottawa Senators,Vancouver Canucks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Ottawa Senators,Vancouver Canucks,2020
+/zapas/2893673,Ottawa Senators,Vancouver Canucks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Ottawa Senators,Vancouver Canucks,2020
+/zapas/2893687,Montreal Canadiens,Vancouver Canucks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Vancouver Canucks,2020
+/zapas/2893699,Montreal Canadiens,Vancouver Canucks,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Montreal Canadiens,Vancouver Canucks,2020
+/zapas/2893709,Vancouver Canucks,Winnipeg Jets,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Winnipeg Jets,Vancouver Canucks,2020
+/zapas/2893721,Vancouver Canucks,Winnipeg Jets,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Winnipeg Jets,Vancouver Canucks,2020
+/zapas/2893907,Vancouver Canucks,Toronto Maple Leafs,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Toronto Maple Leafs,Vancouver Canucks,2020
+/zapas/2893919,Vancouver Canucks,Toronto Maple Leafs,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Toronto Maple Leafs,Vancouver Canucks,2020
+/zapas/2893945,Vancouver Canucks,Ottawa Senators,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Ottawa Senators,Vancouver Canucks,2020
+/zapas/2893959,Vancouver Canucks,Ottawa Senators,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Ottawa Senators,Vancouver Canucks,2020
+/zapas/2893971,Ottawa Senators,Vancouver Canucks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Ottawa Senators,Vancouver Canucks,2020
+/zapas/2893986,Ottawa Senators,Vancouver Canucks,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Ottawa Senators,Vancouver Canucks,2020
+/zapas/2894001,Toronto Maple Leafs,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Vancouver Canucks,2020
+/zapas/2894016,Toronto Maple Leafs,Vancouver Canucks,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Toronto Maple Leafs,Vancouver Canucks,2020
+/zapas/2894037,Vancouver Canucks,Edmonton Oilers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2894051,Vancouver Canucks,Edmonton Oilers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2893794,Edmonton Oilers,Vancouver Canucks,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2893866,Edmonton Oilers,Vancouver Canucks,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2893806,Winnipeg Jets,Vancouver Canucks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Vancouver Canucks,2020
+/zapas/2893820,Winnipeg Jets,Vancouver Canucks,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Winnipeg Jets,Vancouver Canucks,2020
+/zapas/2893852,Calgary Flames,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2893879,Edmonton Oilers,Vancouver Canucks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Edmonton Oilers,Vancouver Canucks,2020
+/zapas/2893776,Vancouver Canucks,Calgary Flames,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2894073,Vancouver Canucks,Calgary Flames,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2893834,Calgary Flames,Vancouver Canucks,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Calgary Flames,Vancouver Canucks,2020
+/zapas/2896985,Edmonton Oilers,Vancouver Canucks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Vancouver Canucks,2021
+/zapas/2897000,Philadelphia Flyers,Vancouver Canucks,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Philadelphia Flyers,Vancouver Canucks,2021
+/zapas/2897010,Detroit Red Wings,Vancouver Canucks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Detroit Red Wings,Vancouver Canucks,2021
+/zapas/2897024,Buffalo Sabres,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Buffalo Sabres,Vancouver Canucks,2021
+/zapas/2897034,Chicago Blackhawks,Vancouver Canucks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Chicago Blackhawks,Vancouver Canucks,2021
+/zapas/2897048,Seattle Kraken,Vancouver Canucks,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Seattle Kraken,Vancouver Canucks,2021
+/zapas/2897071,Vancouver Canucks,Minnesota Wild,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Minnesota Wild,Vancouver Canucks,2021
+/zapas/2897083,Vancouver Canucks,Philadelphia Flyers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Philadelphia Flyers,Vancouver Canucks,2021
+/zapas/2897098,Vancouver Canucks,Edmonton Oilers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Edmonton Oilers,Vancouver Canucks,2021
+/zapas/2897116,Vancouver Canucks,New York Rangers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Rangers,Vancouver Canucks,2021
+/zapas/2897138,Vancouver Canucks,Nashville Predators,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Nashville Predators,Vancouver Canucks,2021
+/zapas/2897155,Vancouver Canucks,Dallas Stars,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Dallas Stars,Vancouver Canucks,2021
+/zapas/2897163,Vancouver Canucks,Anaheim Ducks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Anaheim Ducks,Vancouver Canucks,2021
+/zapas/2897178,Colorado Avalanche,Vancouver Canucks,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Colorado Avalanche,Vancouver Canucks,2021
+/zapas/2897192,Vegas Golden Knights,Vancouver Canucks,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Vegas Golden Knights,Vancouver Canucks,2021
+/zapas/2897205,Anaheim Ducks,Vancouver Canucks,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Anaheim Ducks,Vancouver Canucks,2021
+/zapas/2897225,Vancouver Canucks,Colorado Avalanche,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Colorado Avalanche,Vancouver Canucks,2021
+/zapas/2897240,Vancouver Canucks,Winnipeg Jets,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Vancouver Canucks,2021
+/zapas/2897255,Vancouver Canucks,Chicago Blackhawks,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Chicago Blackhawks,Vancouver Canucks,2021
+/zapas/2897282,Pittsburgh Penguins,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Pittsburgh Penguins,Vancouver Canucks,2021
+/zapas/2897297,Columbus Blue Jackets,Vancouver Canucks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Vancouver Canucks,2021
+/zapas/2897310,Boston Bruins,Vancouver Canucks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Boston Bruins,Vancouver Canucks,2021
+/zapas/2897317,Montreal Canadiens,Vancouver Canucks,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Montreal Canadiens,Vancouver Canucks,2021
+/zapas/2897330,Ottawa Senators,Vancouver Canucks,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Ottawa Senators,Vancouver Canucks,2021
+/zapas/2897348,Vancouver Canucks,Pittsburgh Penguins,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Pittsburgh Penguins,Vancouver Canucks,2021
+/zapas/2897364,Vancouver Canucks,Los Angeles Kings,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Los Angeles Kings,Vancouver Canucks,2021
+/zapas/2897379,Vancouver Canucks,Boston Bruins,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Boston Bruins,Vancouver Canucks,2021
+/zapas/2897393,Vancouver Canucks,Winnipeg Jets,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Winnipeg Jets,Vancouver Canucks,2021
+/zapas/2897412,Vancouver Canucks,Carolina Hurricanes,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Carolina Hurricanes,Vancouver Canucks,2021
+/zapas/2897418,Vancouver Canucks,Columbus Blue Jackets,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Columbus Blue Jackets,Vancouver Canucks,2021
+/zapas/2897435,San Jose Sharks,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,San Jose Sharks,Vancouver Canucks,2021
+/zapas/2897522,Anaheim Ducks,Vancouver Canucks,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Anaheim Ducks,Vancouver Canucks,2021
+/zapas/2897533,Los Angeles Kings,Vancouver Canucks,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Los Angeles Kings,Vancouver Canucks,2021
+/zapas/2897548,Seattle Kraken,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Seattle Kraken,Vancouver Canucks,2021
+/zapas/2897624,Florida Panthers,Vancouver Canucks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Florida Panthers,Vancouver Canucks,2021
+/zapas/2897639,Tampa Bay Lightning,Vancouver Canucks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Tampa Bay Lightning,Vancouver Canucks,2021
+/zapas/2897660,Carolina Hurricanes,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Carolina Hurricanes,Vancouver Canucks,2021
+/zapas/2897662,Washington Capitals,Vancouver Canucks,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Washington Capitals,Vancouver Canucks,2021
+/zapas/2897675,Nashville Predators,Vancouver Canucks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Nashville Predators,Vancouver Canucks,2021
+/zapas/2897694,Vancouver Canucks,Florida Panthers,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Florida Panthers,Vancouver Canucks,2021
+/zapas/2897713,Vancouver Canucks,St. Louis Blues,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,St. Louis Blues,Vancouver Canucks,2021
+/zapas/2897725,Vancouver Canucks,Edmonton Oilers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Vancouver Canucks,2021
+/zapas/2897740,Winnipeg Jets,Vancouver Canucks,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Winnipeg Jets,Vancouver Canucks,2021
+/zapas/2897753,Calgary Flames,Vancouver Canucks,1,0,1,2.0,1.0,0.0,1.0,0.0,1.0,0.0,Calgary Flames,Vancouver Canucks,2021
+/zapas/2897772,Chicago Blackhawks,Vancouver Canucks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Chicago Blackhawks,Vancouver Canucks,2021
+/zapas/2897778,Nashville Predators,Vancouver Canucks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Nashville Predators,Vancouver Canucks,2021
+/zapas/2897462,Vancouver Canucks,Arizona Coyotes,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Arizona Coyotes,Vancouver Canucks,2021
+/zapas/2897577,Vancouver Canucks,New York Islanders,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,New York Islanders,Vancouver Canucks,2021
+/zapas/2897452,Vancouver Canucks,Toronto Maple Leafs,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Toronto Maple Leafs,Vancouver Canucks,2021
+/zapas/2897476,San Jose Sharks,Vancouver Canucks,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,San Jose Sharks,Vancouver Canucks,2021
+/zapas/2897489,Vancouver Canucks,Anaheim Ducks,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Anaheim Ducks,Vancouver Canucks,2021
+/zapas/2897504,Vancouver Canucks,Seattle Kraken,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Seattle Kraken,Vancouver Canucks,2021
+/zapas/2897796,Vancouver Canucks,Calgary Flames,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Calgary Flames,Vancouver Canucks,2021
+/zapas/2897825,New York Rangers,Vancouver Canucks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New York Rangers,Vancouver Canucks,2021
+/zapas/2897829,New Jersey Devils,Vancouver Canucks,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,New Jersey Devils,Vancouver Canucks,2021
+/zapas/2897851,New York Islanders,Vancouver Canucks,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,New York Islanders,Vancouver Canucks,2021
+/zapas/2897865,Toronto Maple Leafs,Vancouver Canucks,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Toronto Maple Leafs,Vancouver Canucks,2021
+/zapas/2897894,Vancouver Canucks,Montreal Canadiens,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Montreal Canadiens,Vancouver Canucks,2021
+/zapas/2897909,Vancouver Canucks,Washington Capitals,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Washington Capitals,Vancouver Canucks,2021
+/zapas/2897923,Vancouver Canucks,Tampa Bay Lightning,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Tampa Bay Lightning,Vancouver Canucks,2021
+/zapas/2897934,Vancouver Canucks,New Jersey Devils,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,New Jersey Devils,Vancouver Canucks,2021
+/zapas/2897949,Vancouver Canucks,Detroit Red Wings,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Detroit Red Wings,Vancouver Canucks,2021
+/zapas/2897964,Vancouver Canucks,Calgary Flames,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Calgary Flames,Vancouver Canucks,2021
+/zapas/2897975,Vancouver Canucks,Buffalo Sabres,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Buffalo Sabres,Vancouver Canucks,2021
+/zapas/2897997,Colorado Avalanche,Vancouver Canucks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Colorado Avalanche,Vancouver Canucks,2021
+/zapas/2898004,Minnesota Wild,Vancouver Canucks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Minnesota Wild,Vancouver Canucks,2021
+/zapas/2898020,Dallas Stars,Vancouver Canucks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Dallas Stars,Vancouver Canucks,2021
+/zapas/2898038,St. Louis Blues,Vancouver Canucks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,St. Louis Blues,Vancouver Canucks,2021
+/zapas/2898049,Vancouver Canucks,St. Louis Blues,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,St. Louis Blues,Vancouver Canucks,2021
+/zapas/2898081,Vancouver Canucks,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Vancouver Canucks,2021
+/zapas/2898104,Vegas Golden Knights,Vancouver Canucks,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Vegas Golden Knights,Vancouver Canucks,2021
+/zapas/2898109,Arizona Coyotes,Vancouver Canucks,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Arizona Coyotes,Vancouver Canucks,2021
+/zapas/2898123,Vancouver Canucks,San Jose Sharks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,San Jose Sharks,Vancouver Canucks,2021
+/zapas/2898145,Vancouver Canucks,Vegas Golden Knights,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Vegas Golden Knights,Vancouver Canucks,2021
+/zapas/2898162,Vancouver Canucks,Arizona Coyotes,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Arizona Coyotes,Vancouver Canucks,2021
+/zapas/2898197,Vancouver Canucks,Dallas Stars,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Dallas Stars,Vancouver Canucks,2021
+/zapas/2897595,Vancouver Canucks,Ottawa Senators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Ottawa Senators,Vancouver Canucks,2021
+/zapas/2898217,Minnesota Wild,Vancouver Canucks,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Minnesota Wild,Vancouver Canucks,2021
+/zapas/2898232,Calgary Flames,Vancouver Canucks,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Calgary Flames,Vancouver Canucks,2021
+/zapas/2898253,Vancouver Canucks,Seattle Kraken,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Seattle Kraken,Vancouver Canucks,2021
+/zapas/2898279,Vancouver Canucks,Los Angeles Kings,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Los Angeles Kings,Vancouver Canucks,2021
+/zapas/2898181,Edmonton Oilers,Vancouver Canucks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Vancouver Canucks,2021

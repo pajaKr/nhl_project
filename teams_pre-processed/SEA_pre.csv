@@ -1,0 +1,83 @@
+game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
+/zapas/2896982,Vegas Golden Knights,Seattle Kraken,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Vegas Golden Knights,Seattle Kraken,2021
+/zapas/2896990,Nashville Predators,Seattle Kraken,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Nashville Predators,Seattle Kraken,2021
+/zapas/2897014,Columbus Blue Jackets,Seattle Kraken,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Columbus Blue Jackets,Seattle Kraken,2021
+/zapas/2897019,Philadelphia Flyers,Seattle Kraken,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Philadelphia Flyers,Seattle Kraken,2021
+/zapas/2897028,New Jersey Devils,Seattle Kraken,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,New Jersey Devils,Seattle Kraken,2021
+/zapas/2897048,Seattle Kraken,Vancouver Canucks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Seattle Kraken,2021
+/zapas/2897073,Seattle Kraken,Montreal Canadiens,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Montreal Canadiens,Seattle Kraken,2021
+/zapas/2897087,Seattle Kraken,Minnesota Wild,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Minnesota Wild,Seattle Kraken,2021
+/zapas/2897110,Seattle Kraken,New York Rangers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Rangers,Seattle Kraken,2021
+/zapas/2897113,Edmonton Oilers,Seattle Kraken,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Edmonton Oilers,Seattle Kraken,2021
+/zapas/2897130,Seattle Kraken,Buffalo Sabres,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Seattle Kraken,2021
+/zapas/2897143,Arizona Coyotes,Seattle Kraken,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Arizona Coyotes,Seattle Kraken,2021
+/zapas/2897164,Vegas Golden Knights,Seattle Kraken,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Seattle Kraken,2021
+/zapas/2897177,Seattle Kraken,Anaheim Ducks,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Anaheim Ducks,Seattle Kraken,2021
+/zapas/2897193,Seattle Kraken,Minnesota Wild,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Minnesota Wild,Seattle Kraken,2021
+/zapas/2897227,Seattle Kraken,Chicago Blackhawks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Chicago Blackhawks,Seattle Kraken,2021
+/zapas/2897241,Seattle Kraken,Colorado Avalanche,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Colorado Avalanche,Seattle Kraken,2021
+/zapas/2897257,Seattle Kraken,Washington Capitals,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Washington Capitals,Seattle Kraken,2021
+/zapas/2897273,Seattle Kraken,Carolina Hurricanes,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Carolina Hurricanes,Seattle Kraken,2021
+/zapas/2897293,Tampa Bay Lightning,Seattle Kraken,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Tampa Bay Lightning,Seattle Kraken,2021
+/zapas/2897305,Florida Panthers,Seattle Kraken,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Florida Panthers,Seattle Kraken,2021
+/zapas/2897316,Buffalo Sabres,Seattle Kraken,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Buffalo Sabres,Seattle Kraken,2021
+/zapas/2897331,Detroit Red Wings,Seattle Kraken,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Detroit Red Wings,Seattle Kraken,2021
+/zapas/2897344,Seattle Kraken,Edmonton Oilers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Seattle Kraken,2021
+/zapas/2897365,Seattle Kraken,Pittsburgh Penguins,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Pittsburgh Penguins,Seattle Kraken,2021
+/zapas/2897385,Seattle Kraken,Winnipeg Jets,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Winnipeg Jets,Seattle Kraken,2021
+/zapas/2897402,Seattle Kraken,Columbus Blue Jackets,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Columbus Blue Jackets,Seattle Kraken,2021
+/zapas/2897419,San Jose Sharks,Seattle Kraken,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,San Jose Sharks,Seattle Kraken,2021
+/zapas/2897432,Anaheim Ducks,Seattle Kraken,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Anaheim Ducks,Seattle Kraken,2021
+/zapas/2897453,Seattle Kraken,Edmonton Oilers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Edmonton Oilers,Seattle Kraken,2021
+/zapas/2897523,Seattle Kraken,Philadelphia Flyers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Philadelphia Flyers,Seattle Kraken,2021
+/zapas/2897535,Seattle Kraken,Calgary Flames,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Calgary Flames,Seattle Kraken,2021
+/zapas/2897548,Seattle Kraken,Vancouver Canucks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Seattle Kraken,2021
+/zapas/2897612,Colorado Avalanche,Seattle Kraken,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Colorado Avalanche,Seattle Kraken,2021
+/zapas/2897629,Dallas Stars,Seattle Kraken,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Dallas Stars,Seattle Kraken,2021
+/zapas/2897635,St. Louis Blues,Seattle Kraken,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,St. Louis Blues,Seattle Kraken,2021
+/zapas/2897647,Seattle Kraken,Los Angeles Kings,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Los Angeles Kings,Seattle Kraken,2021
+/zapas/2897665,Seattle Kraken,Chicago Blackhawks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Seattle Kraken,2021
+/zapas/2897687,Seattle Kraken,San Jose Sharks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,San Jose Sharks,Seattle Kraken,2021
+/zapas/2897696,Seattle Kraken,St. Louis Blues,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,St. Louis Blues,Seattle Kraken,2021
+/zapas/2897714,Seattle Kraken,Florida Panthers,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Florida Panthers,Seattle Kraken,2021
+/zapas/2897726,Seattle Kraken,Nashville Predators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Nashville Predators,Seattle Kraken,2021
+/zapas/2897746,Pittsburgh Penguins,Seattle Kraken,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Pittsburgh Penguins,Seattle Kraken,2021
+/zapas/2897769,New York Rangers,Seattle Kraken,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,New York Rangers,Seattle Kraken,2021
+/zapas/2897780,Boston Bruins,Seattle Kraken,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Boston Bruins,Seattle Kraken,2021
+/zapas/2897761,New York Islanders,Seattle Kraken,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,New York Islanders,Seattle Kraken,2021
+/zapas/2897477,Seattle Kraken,Arizona Coyotes,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Seattle Kraken,2021
+/zapas/2898009,Anaheim Ducks,Seattle Kraken,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Anaheim Ducks,Seattle Kraken,2021
+/zapas/2897463,Seattle Kraken,Toronto Maple Leafs,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Toronto Maple Leafs,Seattle Kraken,2021
+/zapas/2897604,Winnipeg Jets,Seattle Kraken,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Winnipeg Jets,Seattle Kraken,2021
+/zapas/2897492,Calgary Flames,Seattle Kraken,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Calgary Flames,Seattle Kraken,2021
+/zapas/2897504,Vancouver Canucks,Seattle Kraken,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Seattle Kraken,2021
+/zapas/2897569,Seattle Kraken,New York Islanders,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,New York Islanders,Seattle Kraken,2021
+/zapas/2897798,Seattle Kraken,Boston Bruins,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Boston Bruins,Seattle Kraken,2021
+/zapas/2897821,San Jose Sharks,Seattle Kraken,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,San Jose Sharks,Seattle Kraken,2021
+/zapas/2897841,Seattle Kraken,Nashville Predators,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Nashville Predators,Seattle Kraken,2021
+/zapas/2897869,Washington Capitals,Seattle Kraken,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Washington Capitals,Seattle Kraken,2021
+/zapas/2897878,Carolina Hurricanes,Seattle Kraken,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Carolina Hurricanes,Seattle Kraken,2021
+/zapas/2897889,Toronto Maple Leafs,Seattle Kraken,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Toronto Maple Leafs,Seattle Kraken,2021
+/zapas/2897903,Ottawa Senators,Seattle Kraken,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Ottawa Senators,Seattle Kraken,2021
+/zapas/2897919,Montreal Canadiens,Seattle Kraken,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Seattle Kraken,2021
+/zapas/2897945,Seattle Kraken,Tampa Bay Lightning,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Tampa Bay Lightning,Seattle Kraken,2021
+/zapas/2897967,Seattle Kraken,Detroit Red Wings,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Detroit Red Wings,Seattle Kraken,2021
+/zapas/2897995,Arizona Coyotes,Seattle Kraken,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Seattle Kraken,2021
+/zapas/2898016,Los Angeles Kings,Seattle Kraken,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Seattle Kraken,2021
+/zapas/2898035,Los Angeles Kings,Seattle Kraken,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Los Angeles Kings,Seattle Kraken,2021
+/zapas/2898051,Seattle Kraken,Vegas Golden Knights,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Vegas Golden Knights,Seattle Kraken,2021
+/zapas/2898065,Seattle Kraken,Vegas Golden Knights,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Seattle Kraken,2021
+/zapas/2898083,Seattle Kraken,Dallas Stars,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Dallas Stars,Seattle Kraken,2021
+/zapas/2898106,St. Louis Blues,Seattle Kraken,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,St. Louis Blues,Seattle Kraken,2021
+/zapas/2898112,Chicago Blackhawks,Seattle Kraken,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Chicago Blackhawks,Seattle Kraken,2021
+/zapas/2898125,Seattle Kraken,Calgary Flames,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Calgary Flames,Seattle Kraken,2021
+/zapas/2898147,Calgary Flames,Seattle Kraken,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Calgary Flames,Seattle Kraken,2021
+/zapas/2898178,Seattle Kraken,New Jersey Devils,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New Jersey Devils,Seattle Kraken,2021
+/zapas/2897583,Seattle Kraken,Ottawa Senators,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Ottawa Senators,Seattle Kraken,2021
+/zapas/2898211,Seattle Kraken,Colorado Avalanche,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Colorado Avalanche,Seattle Kraken,2021
+/zapas/2898227,Minnesota Wild,Seattle Kraken,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Minnesota Wild,Seattle Kraken,2021
+/zapas/2898233,Dallas Stars,Seattle Kraken,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Dallas Stars,Seattle Kraken,2021
+/zapas/2898253,Vancouver Canucks,Seattle Kraken,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Seattle Kraken,2021
+/zapas/2898267,Seattle Kraken,Los Angeles Kings,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Los Angeles Kings,Seattle Kraken,2021
+/zapas/2898281,Seattle Kraken,San Jose Sharks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,San Jose Sharks,Seattle Kraken,2021
+/zapas/2898159,Winnipeg Jets,Seattle Kraken,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Seattle Kraken,2021

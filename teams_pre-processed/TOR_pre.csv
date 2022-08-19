@@ -1,0 +1,373 @@
+game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
+/zapas/2526055,Winnipeg Jets,Toronto Maple Leafs,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2017
+/zapas/2526070,Toronto Maple Leafs,New York Rangers,8,5,0,3.0,0.0,1.0,3.0,8.0,5.0,1.0,New York Rangers,Toronto Maple Leafs,2017
+/zapas/2526089,Toronto Maple Leafs,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Toronto Maple Leafs,2017
+/zapas/2526100,Toronto Maple Leafs,New Jersey Devils,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,New Jersey Devils,Toronto Maple Leafs,2017
+/zapas/2526119,Montreal Canadiens,Toronto Maple Leafs,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2017
+/zapas/2526136,Washington Capitals,Toronto Maple Leafs,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Washington Capitals,Toronto Maple Leafs,2017
+/zapas/2526146,Toronto Maple Leafs,Detroit Red Wings,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2017
+/zapas/2526168,Ottawa Senators,Toronto Maple Leafs,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Ottawa Senators,Toronto Maple Leafs,2017
+/zapas/2526177,Toronto Maple Leafs,Los Angeles Kings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Toronto Maple Leafs,2017
+/zapas/2526192,Toronto Maple Leafs,Carolina Hurricanes,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,2017
+/zapas/2526211,Toronto Maple Leafs,Philadelphia Flyers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,2017
+/zapas/2526231,San Jose Sharks,Toronto Maple Leafs,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,San Jose Sharks,Toronto Maple Leafs,2017
+/zapas/2526238,Anaheim Ducks,Toronto Maple Leafs,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Anaheim Ducks,Toronto Maple Leafs,2017
+/zapas/2526251,Los Angeles Kings,Toronto Maple Leafs,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Los Angeles Kings,Toronto Maple Leafs,2017
+/zapas/2526255,St. Louis Blues,Toronto Maple Leafs,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,St. Louis Blues,Toronto Maple Leafs,2017
+/zapas/2526272,Toronto Maple Leafs,Vegas Golden Knights,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,2017
+/zapas/2526286,Toronto Maple Leafs,Minnesota Wild,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Minnesota Wild,Toronto Maple Leafs,2017
+/zapas/2526297,Toronto Maple Leafs,Boston Bruins,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Boston Bruins,Toronto Maple Leafs,2017
+/zapas/2526304,Boston Bruins,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Boston Bruins,Toronto Maple Leafs,2017
+/zapas/2526332,Toronto Maple Leafs,New Jersey Devils,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,New Jersey Devils,Toronto Maple Leafs,2017
+/zapas/2526352,Montreal Canadiens,Toronto Maple Leafs,0,6,0,0.0,3.0,0.0,3.0,6.0,0.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2017
+/zapas/2526365,Toronto Maple Leafs,Arizona Coyotes,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Arizona Coyotes,Toronto Maple Leafs,2017
+/zapas/2526375,Florida Panthers,Toronto Maple Leafs,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Florida Panthers,Toronto Maple Leafs,2017
+/zapas/2526397,Carolina Hurricanes,Toronto Maple Leafs,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,2017
+/zapas/2526402,Toronto Maple Leafs,Washington Capitals,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Washington Capitals,Toronto Maple Leafs,2017
+/zapas/2526428,Calgary Flames,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Calgary Flames,Toronto Maple Leafs,2017
+/zapas/2526441,Edmonton Oilers,Toronto Maple Leafs,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2017
+/zapas/2526452,Vancouver Canucks,Toronto Maple Leafs,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Vancouver Canucks,Toronto Maple Leafs,2017
+/zapas/2526480,Toronto Maple Leafs,Calgary Flames,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Calgary Flames,Toronto Maple Leafs,2017
+/zapas/2526504,Pittsburgh Penguins,Toronto Maple Leafs,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,2017
+/zapas/2526512,Toronto Maple Leafs,Edmonton Oilers,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2017
+/zapas/2526522,Philadelphia Flyers,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,2017
+/zapas/2526538,Minnesota Wild,Toronto Maple Leafs,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Minnesota Wild,Toronto Maple Leafs,2017
+/zapas/2526548,Detroit Red Wings,Toronto Maple Leafs,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Detroit Red Wings,Toronto Maple Leafs,2017
+/zapas/2526570,Toronto Maple Leafs,Carolina Hurricanes,8,1,0,3.0,0.0,1.0,3.0,8.0,1.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,2017
+/zapas/2526580,Columbus Blue Jackets,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,2017
+/zapas/2526603,New York Rangers,Toronto Maple Leafs,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Rangers,Toronto Maple Leafs,2017
+/zapas/2526626,Arizona Coyotes,Toronto Maple Leafs,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Arizona Coyotes,Toronto Maple Leafs,2017
+/zapas/2526638,Colorado Avalanche,Toronto Maple Leafs,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Colorado Avalanche,Toronto Maple Leafs,2017
+/zapas/2526647,Vegas Golden Knights,Toronto Maple Leafs,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Vegas Golden Knights,Toronto Maple Leafs,2017
+/zapas/2526658,Toronto Maple Leafs,Tampa Bay Lightning,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,2017
+/zapas/2526673,Toronto Maple Leafs,San Jose Sharks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,San Jose Sharks,Toronto Maple Leafs,2017
+/zapas/2526692,Toronto Maple Leafs,Vancouver Canucks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Toronto Maple Leafs,2017
+/zapas/2526706,Toronto Maple Leafs,Columbus Blue Jackets,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,2017
+/zapas/2526714,Toronto Maple Leafs,Ottawa Senators,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Ottawa Senators,Toronto Maple Leafs,2017
+/zapas/2526743,Toronto Maple Leafs,St. Louis Blues,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,St. Louis Blues,Toronto Maple Leafs,2017
+/zapas/2526751,Philadelphia Flyers,Toronto Maple Leafs,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,2017
+/zapas/2526767,Ottawa Senators,Toronto Maple Leafs,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Ottawa Senators,Toronto Maple Leafs,2017
+/zapas/2526781,Toronto Maple Leafs,Colorado Avalanche,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Colorado Avalanche,Toronto Maple Leafs,2017
+/zapas/2526798,Chicago Blackhawks,Toronto Maple Leafs,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Toronto Maple Leafs,2017
+/zapas/2526808,Dallas Stars,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Dallas Stars,Toronto Maple Leafs,2017
+/zapas/2526827,Toronto Maple Leafs,New York Islanders,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,New York Islanders,Toronto Maple Leafs,2017
+/zapas/2526833,New York Rangers,Toronto Maple Leafs,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,New York Rangers,Toronto Maple Leafs,2017
+/zapas/2526849,Boston Bruins,Toronto Maple Leafs,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Boston Bruins,Toronto Maple Leafs,2017
+/zapas/2526862,Toronto Maple Leafs,Anaheim Ducks,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Anaheim Ducks,Toronto Maple Leafs,2017
+/zapas/2526877,Toronto Maple Leafs,Nashville Predators,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Nashville Predators,Toronto Maple Leafs,2017
+/zapas/2526898,Toronto Maple Leafs,Ottawa Senators,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Ottawa Senators,Toronto Maple Leafs,2017
+/zapas/2526915,Toronto Maple Leafs,Tampa Bay Lightning,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,2017
+/zapas/2526930,Toronto Maple Leafs,Columbus Blue Jackets,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,2017
+/zapas/2526954,Pittsburgh Penguins,Toronto Maple Leafs,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,2017
+/zapas/2526963,Detroit Red Wings,Toronto Maple Leafs,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2017
+/zapas/2526972,Toronto Maple Leafs,Florida Panthers,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Florida Panthers,Toronto Maple Leafs,2017
+/zapas/2526984,Toronto Maple Leafs,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Toronto Maple Leafs,2017
+/zapas/2527003,Toronto Maple Leafs,Boston Bruins,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Boston Bruins,Toronto Maple Leafs,2017
+/zapas/2527020,Tampa Bay Lightning,Toronto Maple Leafs,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,2017
+/zapas/2527026,Florida Panthers,Toronto Maple Leafs,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Florida Panthers,Toronto Maple Leafs,2017
+/zapas/2527060,Washington Capitals,Toronto Maple Leafs,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Washington Capitals,Toronto Maple Leafs,2017
+/zapas/2527069,Buffalo Sabres,Toronto Maple Leafs,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Buffalo Sabres,Toronto Maple Leafs,2017
+/zapas/2527109,Toronto Maple Leafs,Pittsburgh Penguins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,2017
+/zapas/2527132,Toronto Maple Leafs,Dallas Stars,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Dallas Stars,Toronto Maple Leafs,2017
+/zapas/2527137,Buffalo Sabres,Toronto Maple Leafs,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Toronto Maple Leafs,2017
+/zapas/2527155,Toronto Maple Leafs,Montreal Canadiens,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2017
+/zapas/2527181,Tampa Bay Lightning,Toronto Maple Leafs,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,2017
+/zapas/2527196,Nashville Predators,Toronto Maple Leafs,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Nashville Predators,Toronto Maple Leafs,2017
+/zapas/2527207,Toronto Maple Leafs,Detroit Red Wings,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2017
+/zapas/2527222,Toronto Maple Leafs,Buffalo Sabres,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Buffalo Sabres,Toronto Maple Leafs,2017
+/zapas/2527240,Toronto Maple Leafs,Florida Panthers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Florida Panthers,Toronto Maple Leafs,2017
+/zapas/2527254,New York Islanders,Toronto Maple Leafs,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,New York Islanders,Toronto Maple Leafs,2017
+/zapas/2527263,Toronto Maple Leafs,Winnipeg Jets,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Winnipeg Jets,Toronto Maple Leafs,2017
+/zapas/2527277,Toronto Maple Leafs,Buffalo Sabres,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Toronto Maple Leafs,2017
+/zapas/2527295,New Jersey Devils,Toronto Maple Leafs,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,New Jersey Devils,Toronto Maple Leafs,2017
+/zapas/2527314,Toronto Maple Leafs,Montreal Canadiens,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2017
+/zapas/2647199,Toronto Maple Leafs,Montreal Canadiens,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2018
+/zapas/2647218,Toronto Maple Leafs,Ottawa Senators,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Ottawa Senators,Toronto Maple Leafs,2018
+/zapas/2647228,Chicago Blackhawks,Toronto Maple Leafs,6,7,1,1.0,2.0,0.0,2.0,7.0,6.0,1.0,Chicago Blackhawks,Toronto Maple Leafs,2018
+/zapas/2647239,Dallas Stars,Toronto Maple Leafs,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Dallas Stars,Toronto Maple Leafs,2018
+/zapas/2647250,Detroit Red Wings,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2018
+/zapas/2647263,Washington Capitals,Toronto Maple Leafs,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Washington Capitals,Toronto Maple Leafs,2018
+/zapas/2647272,Toronto Maple Leafs,Los Angeles Kings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Los Angeles Kings,Toronto Maple Leafs,2018
+/zapas/2647288,Toronto Maple Leafs,Pittsburgh Penguins,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,2018
+/zapas/2647304,Toronto Maple Leafs,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Toronto Maple Leafs,2018
+/zapas/2647328,Winnipeg Jets,Toronto Maple Leafs,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2018
+/zapas/2647351,Toronto Maple Leafs,Winnipeg Jets,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2018
+/zapas/2647363,Toronto Maple Leafs,Calgary Flames,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Calgary Flames,Toronto Maple Leafs,2018
+/zapas/2647378,Toronto Maple Leafs,Dallas Stars,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Dallas Stars,Toronto Maple Leafs,2018
+/zapas/2647397,Pittsburgh Penguins,Toronto Maple Leafs,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,2018
+/zapas/2647413,Toronto Maple Leafs,Vegas Golden Knights,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,2018
+/zapas/2647434,Toronto Maple Leafs,New Jersey Devils,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,New Jersey Devils,Toronto Maple Leafs,2018
+/zapas/2647443,Boston Bruins,Toronto Maple Leafs,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Boston Bruins,Toronto Maple Leafs,2018
+/zapas/2647469,Los Angeles Kings,Toronto Maple Leafs,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Los Angeles Kings,Toronto Maple Leafs,2018
+/zapas/2647483,San Jose Sharks,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,San Jose Sharks,Toronto Maple Leafs,2018
+/zapas/2647489,Anaheim Ducks,Toronto Maple Leafs,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Anaheim Ducks,Toronto Maple Leafs,2018
+/zapas/2647506,Toronto Maple Leafs,Columbus Blue Jackets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,2018
+/zapas/2647521,Carolina Hurricanes,Toronto Maple Leafs,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,2018
+/zapas/2647537,Columbus Blue Jackets,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,2018
+/zapas/2647547,Toronto Maple Leafs,Philadelphia Flyers,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,2018
+/zapas/2647560,Toronto Maple Leafs,Boston Bruins,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Boston Bruins,Toronto Maple Leafs,2018
+/zapas/2647577,Toronto Maple Leafs,San Jose Sharks,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,San Jose Sharks,Toronto Maple Leafs,2018
+/zapas/2647595,Minnesota Wild,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Minnesota Wild,Toronto Maple Leafs,2018
+/zapas/2647614,Buffalo Sabres,Toronto Maple Leafs,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Buffalo Sabres,Toronto Maple Leafs,2018
+/zapas/2647627,Toronto Maple Leafs,Detroit Red Wings,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Detroit Red Wings,Toronto Maple Leafs,2018
+/zapas/2647644,Boston Bruins,Toronto Maple Leafs,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Boston Bruins,Toronto Maple Leafs,2018
+/zapas/2647666,Carolina Hurricanes,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,2018
+/zapas/2647680,Tampa Bay Lightning,Toronto Maple Leafs,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,2018
+/zapas/2647695,Florida Panthers,Toronto Maple Leafs,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Florida Panthers,Toronto Maple Leafs,2018
+/zapas/2647716,New Jersey Devils,Toronto Maple Leafs,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,New Jersey Devils,Toronto Maple Leafs,2018
+/zapas/2647729,Toronto Maple Leafs,Florida Panthers,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Florida Panthers,Toronto Maple Leafs,2018
+/zapas/2647751,Toronto Maple Leafs,New York Rangers,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,New York Rangers,Toronto Maple Leafs,2018
+/zapas/2647761,Toronto Maple Leafs,Detroit Red Wings,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2018
+/zapas/2647780,Columbus Blue Jackets,Toronto Maple Leafs,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,2018
+/zapas/2647786,Toronto Maple Leafs,New York Islanders,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,New York Islanders,Toronto Maple Leafs,2018
+/zapas/2647819,Toronto Maple Leafs,Minnesota Wild,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Minnesota Wild,Toronto Maple Leafs,2018
+/zapas/2647837,Toronto Maple Leafs,Vancouver Canucks,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Vancouver Canucks,Toronto Maple Leafs,2018
+/zapas/2647850,Toronto Maple Leafs,Nashville Predators,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Nashville Predators,Toronto Maple Leafs,2018
+/zapas/2647870,New Jersey Devils,Toronto Maple Leafs,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,New Jersey Devils,Toronto Maple Leafs,2018
+/zapas/2647888,Toronto Maple Leafs,Boston Bruins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Boston Bruins,Toronto Maple Leafs,2018
+/zapas/2647904,Toronto Maple Leafs,Colorado Avalanche,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Colorado Avalanche,Toronto Maple Leafs,2018
+/zapas/2647927,Tampa Bay Lightning,Toronto Maple Leafs,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,2018
+/zapas/2647931,Florida Panthers,Toronto Maple Leafs,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Florida Panthers,Toronto Maple Leafs,2018
+/zapas/2647952,Toronto Maple Leafs,Arizona Coyotes,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Arizona Coyotes,Toronto Maple Leafs,2018
+/zapas/2647963,Toronto Maple Leafs,Washington Capitals,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Washington Capitals,Toronto Maple Leafs,2018
+/zapas/2647984,Detroit Red Wings,Toronto Maple Leafs,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Detroit Red Wings,Toronto Maple Leafs,2018
+/zapas/2647990,Toronto Maple Leafs,Pittsburgh Penguins,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,2018
+/zapas/2648003,Toronto Maple Leafs,Anaheim Ducks,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Anaheim Ducks,Toronto Maple Leafs,2018
+/zapas/2648019,Toronto Maple Leafs,Ottawa Senators,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Ottawa Senators,Toronto Maple Leafs,2018
+/zapas/2648045,Montreal Canadiens,Toronto Maple Leafs,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2018
+/zapas/2648057,New York Rangers,Toronto Maple Leafs,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Rangers,Toronto Maple Leafs,2018
+/zapas/2648071,Colorado Avalanche,Toronto Maple Leafs,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Colorado Avalanche,Toronto Maple Leafs,2018
+/zapas/2648083,Vegas Golden Knights,Toronto Maple Leafs,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,2018
+/zapas/2648093,Arizona Coyotes,Toronto Maple Leafs,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Arizona Coyotes,Toronto Maple Leafs,2018
+/zapas/2648119,St. Louis Blues,Toronto Maple Leafs,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,St. Louis Blues,Toronto Maple Leafs,2018
+/zapas/2648127,Toronto Maple Leafs,Washington Capitals,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Washington Capitals,Toronto Maple Leafs,2018
+/zapas/2648150,Toronto Maple Leafs,Montreal Canadiens,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2018
+/zapas/2648160,Toronto Maple Leafs,Buffalo Sabres,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Buffalo Sabres,Toronto Maple Leafs,2018
+/zapas/2648177,Toronto Maple Leafs,Edmonton Oilers,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2018
+/zapas/2648183,New York Islanders,Toronto Maple Leafs,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,New York Islanders,Toronto Maple Leafs,2018
+/zapas/2648200,Toronto Maple Leafs,Buffalo Sabres,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Toronto Maple Leafs,2018
+/zapas/2648216,Calgary Flames,Toronto Maple Leafs,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Calgary Flames,Toronto Maple Leafs,2018
+/zapas/2648228,Vancouver Canucks,Toronto Maple Leafs,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Toronto Maple Leafs,2018
+/zapas/2648248,Edmonton Oilers,Toronto Maple Leafs,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2018
+/zapas/2648263,Toronto Maple Leafs,Tampa Bay Lightning,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,2018
+/zapas/2648278,Toronto Maple Leafs,Chicago Blackhawks,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Chicago Blackhawks,Toronto Maple Leafs,2018
+/zapas/2648291,Toronto Maple Leafs,Philadelphia Flyers,7,6,0,3.0,0.0,1.0,3.0,7.0,6.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,2018
+/zapas/2648303,Ottawa Senators,Toronto Maple Leafs,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Ottawa Senators,Toronto Maple Leafs,2018
+/zapas/2648326,Nashville Predators,Toronto Maple Leafs,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Nashville Predators,Toronto Maple Leafs,2018
+/zapas/2648330,Buffalo Sabres,Toronto Maple Leafs,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Buffalo Sabres,Toronto Maple Leafs,2018
+/zapas/2648353,Toronto Maple Leafs,New York Rangers,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,New York Rangers,Toronto Maple Leafs,2018
+/zapas/2648367,Toronto Maple Leafs,Florida Panthers,7,5,0,3.0,0.0,1.0,3.0,7.0,5.0,1.0,Florida Panthers,Toronto Maple Leafs,2018
+/zapas/2648383,Philadelphia Flyers,Toronto Maple Leafs,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,2018
+/zapas/2648404,Ottawa Senators,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Ottawa Senators,Toronto Maple Leafs,2018
+/zapas/2648421,New York Islanders,Toronto Maple Leafs,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,New York Islanders,Toronto Maple Leafs,2018
+/zapas/2648429,Toronto Maple Leafs,Carolina Hurricanes,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,2018
+/zapas/2648441,Toronto Maple Leafs,Tampa Bay Lightning,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,2018
+/zapas/2648457,Montreal Canadiens,Toronto Maple Leafs,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Montreal Canadiens,Toronto Maple Leafs,2018
+/zapas/2806377,Toronto Maple Leafs,Ottawa Senators,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Ottawa Senators,Toronto Maple Leafs,2019
+/zapas/2806391,Columbus Blue Jackets,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,2019
+/zapas/2806395,Toronto Maple Leafs,Montreal Canadiens,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Montreal Canadiens,Toronto Maple Leafs,2019
+/zapas/2806410,Toronto Maple Leafs,St. Louis Blues,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,St. Louis Blues,Toronto Maple Leafs,2019
+/zapas/2806423,Toronto Maple Leafs,Tampa Bay Lightning,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,2019
+/zapas/2806443,Detroit Red Wings,Toronto Maple Leafs,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2019
+/zapas/2806461,Toronto Maple Leafs,Minnesota Wild,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Minnesota Wild,Toronto Maple Leafs,2019
+/zapas/2806469,Washington Capitals,Toronto Maple Leafs,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Washington Capitals,Toronto Maple Leafs,2019
+/zapas/2806492,Toronto Maple Leafs,Boston Bruins,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Boston Bruins,Toronto Maple Leafs,2019
+/zapas/2806505,Toronto Maple Leafs,Columbus Blue Jackets,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,2019
+/zapas/2806509,Boston Bruins,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Boston Bruins,Toronto Maple Leafs,2019
+/zapas/2806532,Toronto Maple Leafs,San Jose Sharks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,San Jose Sharks,Toronto Maple Leafs,2019
+/zapas/2806539,Montreal Canadiens,Toronto Maple Leafs,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Montreal Canadiens,Toronto Maple Leafs,2019
+/zapas/2806556,Toronto Maple Leafs,Washington Capitals,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Washington Capitals,Toronto Maple Leafs,2019
+/zapas/2806586,Philadelphia Flyers,Toronto Maple Leafs,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,2019
+/zapas/2806604,Toronto Maple Leafs,Los Angeles Kings,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Los Angeles Kings,Toronto Maple Leafs,2019
+/zapas/2806613,Toronto Maple Leafs,Vegas Golden Knights,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,2019
+/zapas/2806630,Toronto Maple Leafs,Philadelphia Flyers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,2019
+/zapas/2806643,Chicago Blackhawks,Toronto Maple Leafs,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Chicago Blackhawks,Toronto Maple Leafs,2019
+/zapas/2806658,New York Islanders,Toronto Maple Leafs,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,New York Islanders,Toronto Maple Leafs,2019
+/zapas/2806670,Toronto Maple Leafs,Boston Bruins,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Boston Bruins,Toronto Maple Leafs,2019
+/zapas/2806684,Pittsburgh Penguins,Toronto Maple Leafs,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,2019
+/zapas/2806705,Vegas Golden Knights,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Toronto Maple Leafs,2019
+/zapas/2806719,Arizona Coyotes,Toronto Maple Leafs,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Toronto Maple Leafs,2019
+/zapas/2806727,Colorado Avalanche,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Colorado Avalanche,Toronto Maple Leafs,2019
+/zapas/2806755,Detroit Red Wings,Toronto Maple Leafs,0,6,0,0.0,3.0,0.0,3.0,6.0,0.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2019
+/zapas/2806772,Buffalo Sabres,Toronto Maple Leafs,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Buffalo Sabres,Toronto Maple Leafs,2019
+/zapas/2806782,Toronto Maple Leafs,Buffalo Sabres,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Buffalo Sabres,Toronto Maple Leafs,2019
+/zapas/2806804,Philadelphia Flyers,Toronto Maple Leafs,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,2019
+/zapas/2806810,Toronto Maple Leafs,Colorado Avalanche,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Colorado Avalanche,Toronto Maple Leafs,2019
+/zapas/2806830,St. Louis Blues,Toronto Maple Leafs,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,St. Louis Blues,Toronto Maple Leafs,2019
+/zapas/2806857,Vancouver Canucks,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,2019
+/zapas/2806870,Calgary Flames,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Calgary Flames,Toronto Maple Leafs,2019
+/zapas/2806882,Edmonton Oilers,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2019
+/zapas/2806901,Toronto Maple Leafs,Buffalo Sabres,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Buffalo Sabres,Toronto Maple Leafs,2019
+/zapas/2806926,New York Rangers,Toronto Maple Leafs,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,New York Rangers,Toronto Maple Leafs,2019
+/zapas/2806933,Toronto Maple Leafs,Detroit Red Wings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2019
+/zapas/2806945,Toronto Maple Leafs,Carolina Hurricanes,8,6,0,3.0,0.0,1.0,3.0,8.0,6.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,2019
+/zapas/2806959,New Jersey Devils,Toronto Maple Leafs,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,New Jersey Devils,Toronto Maple Leafs,2019
+/zapas/2806970,Toronto Maple Leafs,New York Rangers,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,New York Rangers,Toronto Maple Leafs,2019
+/zapas/2806992,Minnesota Wild,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Minnesota Wild,Toronto Maple Leafs,2019
+/zapas/2807009,Winnipeg Jets,Toronto Maple Leafs,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2019
+/zapas/2807022,Toronto Maple Leafs,New York Islanders,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,New York Islanders,Toronto Maple Leafs,2019
+/zapas/2807035,Toronto Maple Leafs,Edmonton Oilers,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Edmonton Oilers,Toronto Maple Leafs,2019
+/zapas/2807051,Toronto Maple Leafs,Winnipeg Jets,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Winnipeg Jets,Toronto Maple Leafs,2019
+/zapas/2807083,Florida Panthers,Toronto Maple Leafs,8,4,0,3.0,0.0,0.0,0.0,4.0,8.0,0.0,Florida Panthers,Toronto Maple Leafs,2019
+/zapas/2807091,Toronto Maple Leafs,New Jersey Devils,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,New Jersey Devils,Toronto Maple Leafs,2019
+/zapas/2807104,Toronto Maple Leafs,Calgary Flames,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Calgary Flames,Toronto Maple Leafs,2019
+/zapas/2807123,Toronto Maple Leafs,Chicago Blackhawks,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Chicago Blackhawks,Toronto Maple Leafs,2019
+/zapas/2807146,Nashville Predators,Toronto Maple Leafs,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Nashville Predators,Toronto Maple Leafs,2019
+/zapas/2807152,Dallas Stars,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Dallas Stars,Toronto Maple Leafs,2019
+/zapas/2807172,Toronto Maple Leafs,Ottawa Senators,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Ottawa Senators,Toronto Maple Leafs,2019
+/zapas/2807185,Toronto Maple Leafs,Florida Panthers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Florida Panthers,Toronto Maple Leafs,2019
+/zapas/2807201,New York Rangers,Toronto Maple Leafs,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Rangers,Toronto Maple Leafs,2019
+/zapas/2807215,Toronto Maple Leafs,Anaheim Ducks,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Anaheim Ducks,Toronto Maple Leafs,2019
+/zapas/2807222,Montreal Canadiens,Toronto Maple Leafs,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Montreal Canadiens,Toronto Maple Leafs,2019
+/zapas/2807243,Toronto Maple Leafs,Arizona Coyotes,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Toronto Maple Leafs,2019
+/zapas/2807257,Toronto Maple Leafs,Dallas Stars,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Dallas Stars,Toronto Maple Leafs,2019
+/zapas/2807277,Ottawa Senators,Toronto Maple Leafs,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Ottawa Senators,Toronto Maple Leafs,2019
+/zapas/2807289,Buffalo Sabres,Toronto Maple Leafs,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Buffalo Sabres,Toronto Maple Leafs,2019
+/zapas/2807297,Pittsburgh Penguins,Toronto Maple Leafs,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,2019
+/zapas/2807309,Toronto Maple Leafs,Pittsburgh Penguins,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,2019
+/zapas/2807327,Toronto Maple Leafs,Carolina Hurricanes,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,2019
+/zapas/2807346,Tampa Bay Lightning,Toronto Maple Leafs,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,2019
+/zapas/2807363,Florida Panthers,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Florida Panthers,Toronto Maple Leafs,2019
+/zapas/2807379,Toronto Maple Leafs,Vancouver Canucks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Vancouver Canucks,Toronto Maple Leafs,2019
+/zapas/2807404,San Jose Sharks,Toronto Maple Leafs,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,San Jose Sharks,Toronto Maple Leafs,2019
+/zapas/2807417,Los Angeles Kings,Toronto Maple Leafs,1,0,1,2.0,1.0,0.0,1.0,0.0,1.0,0.0,Los Angeles Kings,Toronto Maple Leafs,2019
+/zapas/2807424,Anaheim Ducks,Toronto Maple Leafs,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Anaheim Ducks,Toronto Maple Leafs,2019
+/zapas/2807446,Toronto Maple Leafs,Tampa Bay Lightning,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,2019
+/zapas/2893213,Toronto Maple Leafs,Montreal Canadiens,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2893230,Ottawa Senators,Toronto Maple Leafs,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Ottawa Senators,Toronto Maple Leafs,2020
+/zapas/2893238,Ottawa Senators,Toronto Maple Leafs,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Ottawa Senators,Toronto Maple Leafs,2020
+/zapas/2893251,Toronto Maple Leafs,Winnipeg Jets,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2893264,Toronto Maple Leafs,Edmonton Oilers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Edmonton Oilers,Toronto Maple Leafs,2020
+/zapas/2893281,Toronto Maple Leafs,Edmonton Oilers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2020
+/zapas/2893294,Calgary Flames,Toronto Maple Leafs,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Calgary Flames,Toronto Maple Leafs,2020
+/zapas/2893305,Calgary Flames,Toronto Maple Leafs,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Calgary Flames,Toronto Maple Leafs,2020
+/zapas/2893319,Edmonton Oilers,Toronto Maple Leafs,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2020
+/zapas/2893334,Edmonton Oilers,Toronto Maple Leafs,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Edmonton Oilers,Toronto Maple Leafs,2020
+/zapas/2893381,Toronto Maple Leafs,Vancouver Canucks,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Vancouver Canucks,Toronto Maple Leafs,2020
+/zapas/2893394,Toronto Maple Leafs,Vancouver Canucks,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,2020
+/zapas/2893408,Toronto Maple Leafs,Vancouver Canucks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,2020
+/zapas/2893421,Montreal Canadiens,Toronto Maple Leafs,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2893446,Toronto Maple Leafs,Montreal Canadiens,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2893458,Toronto Maple Leafs,Ottawa Senators,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Ottawa Senators,Toronto Maple Leafs,2020
+/zapas/2893472,Toronto Maple Leafs,Ottawa Senators,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Ottawa Senators,Toronto Maple Leafs,2020
+/zapas/2893480,Toronto Maple Leafs,Ottawa Senators,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Ottawa Senators,Toronto Maple Leafs,2020
+/zapas/2893496,Montreal Canadiens,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2893508,Toronto Maple Leafs,Calgary Flames,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Calgary Flames,Toronto Maple Leafs,2020
+/zapas/2893519,Toronto Maple Leafs,Calgary Flames,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Calgary Flames,Toronto Maple Leafs,2020
+/zapas/2893539,Edmonton Oilers,Toronto Maple Leafs,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2020
+/zapas/2893554,Edmonton Oilers,Toronto Maple Leafs,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2020
+/zapas/2893567,Edmonton Oilers,Toronto Maple Leafs,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2020
+/zapas/2893580,Vancouver Canucks,Toronto Maple Leafs,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Vancouver Canucks,Toronto Maple Leafs,2020
+/zapas/2893595,Vancouver Canucks,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Toronto Maple Leafs,2020
+/zapas/2893617,Toronto Maple Leafs,Winnipeg Jets,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2893632,Toronto Maple Leafs,Winnipeg Jets,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2893647,Toronto Maple Leafs,Winnipeg Jets,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2893652,Ottawa Senators,Toronto Maple Leafs,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Ottawa Senators,Toronto Maple Leafs,2020
+/zapas/2893688,Toronto Maple Leafs,Calgary Flames,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Calgary Flames,Toronto Maple Leafs,2020
+/zapas/2893700,Toronto Maple Leafs,Calgary Flames,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Calgary Flames,Toronto Maple Leafs,2020
+/zapas/2893731,Ottawa Senators,Toronto Maple Leafs,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Ottawa Senators,Toronto Maple Leafs,2020
+/zapas/2893747,Toronto Maple Leafs,Edmonton Oilers,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2020
+/zapas/2893761,Toronto Maple Leafs,Edmonton Oilers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Toronto Maple Leafs,2020
+/zapas/2893774,Winnipeg Jets,Toronto Maple Leafs,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2893788,Winnipeg Jets,Toronto Maple Leafs,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2893811,Calgary Flames,Toronto Maple Leafs,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Calgary Flames,Toronto Maple Leafs,2020
+/zapas/2893815,Calgary Flames,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Calgary Flames,Toronto Maple Leafs,2020
+/zapas/2893831,Toronto Maple Leafs,Montreal Canadiens,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2893856,Toronto Maple Leafs,Ottawa Senators,6,5,0,3.0,0.0,1.0,3.0,6.0,5.0,1.0,Ottawa Senators,Toronto Maple Leafs,2020
+/zapas/2893869,Montreal Canadiens,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2893878,Toronto Maple Leafs,Calgary Flames,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Calgary Flames,Toronto Maple Leafs,2020
+/zapas/2893891,Toronto Maple Leafs,Winnipeg Jets,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2893907,Vancouver Canucks,Toronto Maple Leafs,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Toronto Maple Leafs,2020
+/zapas/2893919,Vancouver Canucks,Toronto Maple Leafs,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Vancouver Canucks,Toronto Maple Leafs,2020
+/zapas/2893934,Winnipeg Jets,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2893953,Winnipeg Jets,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2893985,Montreal Canadiens,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2894001,Toronto Maple Leafs,Vancouver Canucks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,2020
+/zapas/2894016,Toronto Maple Leafs,Vancouver Canucks,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,2020
+/zapas/2894028,Montreal Canadiens,Toronto Maple Leafs,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2894058,Toronto Maple Leafs,Montreal Canadiens,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2894072,Toronto Maple Leafs,Montreal Canadiens,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2020
+/zapas/2894043,Ottawa Senators,Toronto Maple Leafs,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Ottawa Senators,Toronto Maple Leafs,2020
+/zapas/2893947,Winnipeg Jets,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Winnipeg Jets,Toronto Maple Leafs,2020
+/zapas/2896986,Toronto Maple Leafs,Montreal Canadiens,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2021
+/zapas/2896992,Ottawa Senators,Toronto Maple Leafs,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Ottawa Senators,Toronto Maple Leafs,2021
+/zapas/2897008,Toronto Maple Leafs,Ottawa Senators,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Ottawa Senators,Toronto Maple Leafs,2021
+/zapas/2897018,Toronto Maple Leafs,New York Rangers,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,New York Rangers,Toronto Maple Leafs,2021
+/zapas/2897046,Toronto Maple Leafs,San Jose Sharks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,San Jose Sharks,Toronto Maple Leafs,2021
+/zapas/2897057,Pittsburgh Penguins,Toronto Maple Leafs,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,2021
+/zapas/2897069,Carolina Hurricanes,Toronto Maple Leafs,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,2021
+/zapas/2897079,Chicago Blackhawks,Toronto Maple Leafs,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Toronto Maple Leafs,2021
+/zapas/2897106,Toronto Maple Leafs,Detroit Red Wings,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2021
+/zapas/2897122,Toronto Maple Leafs,Vegas Golden Knights,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,2021
+/zapas/2897133,Toronto Maple Leafs,Tampa Bay Lightning,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,2021
+/zapas/2897148,Toronto Maple Leafs,Boston Bruins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Boston Bruins,Toronto Maple Leafs,2021
+/zapas/2897160,Toronto Maple Leafs,Los Angeles Kings,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Los Angeles Kings,Toronto Maple Leafs,2021
+/zapas/2897175,Philadelphia Flyers,Toronto Maple Leafs,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,2021
+/zapas/2897189,Toronto Maple Leafs,Calgary Flames,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Calgary Flames,Toronto Maple Leafs,2021
+/zapas/2897198,Buffalo Sabres,Toronto Maple Leafs,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Buffalo Sabres,Toronto Maple Leafs,2021
+/zapas/2897219,Toronto Maple Leafs,Nashville Predators,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Nashville Predators,Toronto Maple Leafs,2021
+/zapas/2897235,Toronto Maple Leafs,New York Rangers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Rangers,Toronto Maple Leafs,2021
+/zapas/2897248,Toronto Maple Leafs,Pittsburgh Penguins,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,2021
+/zapas/2897260,New York Islanders,Toronto Maple Leafs,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,New York Islanders,Toronto Maple Leafs,2021
+/zapas/2897271,Los Angeles Kings,Toronto Maple Leafs,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Los Angeles Kings,Toronto Maple Leafs,2021
+/zapas/2897286,San Jose Sharks,Toronto Maple Leafs,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,San Jose Sharks,Toronto Maple Leafs,2021
+/zapas/2897307,Anaheim Ducks,Toronto Maple Leafs,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Anaheim Ducks,Toronto Maple Leafs,2021
+/zapas/2897329,Toronto Maple Leafs,Colorado Avalanche,8,3,0,3.0,0.0,1.0,3.0,8.0,3.0,1.0,Colorado Avalanche,Toronto Maple Leafs,2021
+/zapas/2897350,Minnesota Wild,Toronto Maple Leafs,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Minnesota Wild,Toronto Maple Leafs,2021
+/zapas/2897360,Winnipeg Jets,Toronto Maple Leafs,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Winnipeg Jets,Toronto Maple Leafs,2021
+/zapas/2897375,Toronto Maple Leafs,Columbus Blue Jackets,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,2021
+/zapas/2897389,Toronto Maple Leafs,Tampa Bay Lightning,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,2021
+/zapas/2897408,Toronto Maple Leafs,Chicago Blackhawks,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Chicago Blackhawks,Toronto Maple Leafs,2021
+/zapas/2897421,Edmonton Oilers,Toronto Maple Leafs,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2021
+/zapas/2897552,Toronto Maple Leafs,Ottawa Senators,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,Ottawa Senators,Toronto Maple Leafs,2021
+/zapas/2897578,Toronto Maple Leafs,Edmonton Oilers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Toronto Maple Leafs,2021
+/zapas/2897599,Colorado Avalanche,Toronto Maple Leafs,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Colorado Avalanche,Toronto Maple Leafs,2021
+/zapas/2897618,Vegas Golden Knights,Toronto Maple Leafs,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,2021
+/zapas/2897628,Arizona Coyotes,Toronto Maple Leafs,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Arizona Coyotes,Toronto Maple Leafs,2021
+/zapas/2897651,St. Louis Blues,Toronto Maple Leafs,5,6,0,0.0,3.0,0.0,3.0,6.0,5.0,1.0,St. Louis Blues,Toronto Maple Leafs,2021
+/zapas/2897684,New York Rangers,Toronto Maple Leafs,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,New York Rangers,Toronto Maple Leafs,2021
+/zapas/2898195,New York Islanders,Toronto Maple Leafs,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,New York Islanders,Toronto Maple Leafs,2021
+/zapas/2897734,Toronto Maple Leafs,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Toronto Maple Leafs,2021
+/zapas/2897758,Detroit Red Wings,Toronto Maple Leafs,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2021
+/zapas/2897670,Toronto Maple Leafs,New Jersey Devils,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,New Jersey Devils,Toronto Maple Leafs,2021
+/zapas/2897783,New Jersey Devils,Toronto Maple Leafs,1,7,0,0.0,3.0,0.0,3.0,7.0,1.0,1.0,New Jersey Devils,Toronto Maple Leafs,2021
+/zapas/2897564,Toronto Maple Leafs,Carolina Hurricanes,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,2021
+/zapas/2897436,Calgary Flames,Toronto Maple Leafs,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Calgary Flames,Toronto Maple Leafs,2021
+/zapas/2897452,Vancouver Canucks,Toronto Maple Leafs,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vancouver Canucks,Toronto Maple Leafs,2021
+/zapas/2897463,Seattle Kraken,Toronto Maple Leafs,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Seattle Kraken,Toronto Maple Leafs,2021
+/zapas/2897528,Toronto Maple Leafs,Pittsburgh Penguins,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,2021
+/zapas/2897497,Toronto Maple Leafs,St. Louis Blues,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,St. Louis Blues,Toronto Maple Leafs,2021
+/zapas/2897589,Montreal Canadiens,Toronto Maple Leafs,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Montreal Canadiens,Toronto Maple Leafs,2021
+/zapas/2897517,Columbus Blue Jackets,Toronto Maple Leafs,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,2021
+/zapas/2897800,Toronto Maple Leafs,Minnesota Wild,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Minnesota Wild,Toronto Maple Leafs,2021
+/zapas/2898262,Detroit Red Wings,Toronto Maple Leafs,7,10,0,0.0,3.0,0.0,3.0,10.0,7.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2021
+/zapas/2897831,Washington Capitals,Toronto Maple Leafs,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Washington Capitals,Toronto Maple Leafs,2021
+/zapas/2897843,Toronto Maple Leafs,Buffalo Sabres,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Buffalo Sabres,Toronto Maple Leafs,2021
+/zapas/2897865,Toronto Maple Leafs,Vancouver Canucks,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Vancouver Canucks,Toronto Maple Leafs,2021
+/zapas/2897882,Columbus Blue Jackets,Toronto Maple Leafs,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,2021
+/zapas/2897889,Toronto Maple Leafs,Seattle Kraken,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Seattle Kraken,Toronto Maple Leafs,2021
+/zapas/2897902,Toronto Maple Leafs,Arizona Coyotes,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Arizona Coyotes,Toronto Maple Leafs,2021
+/zapas/2897928,Buffalo Sabres,Toronto Maple Leafs,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Buffalo Sabres,Toronto Maple Leafs,2021
+/zapas/2897941,Toronto Maple Leafs,Dallas Stars,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Dallas Stars,Toronto Maple Leafs,2021
+/zapas/2897954,Toronto Maple Leafs,Carolina Hurricanes,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,2021
+/zapas/2897969,Nashville Predators,Toronto Maple Leafs,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Nashville Predators,Toronto Maple Leafs,2021
+/zapas/2897999,Toronto Maple Leafs,New Jersey Devils,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,New Jersey Devils,Toronto Maple Leafs,2021
+/zapas/2898023,Montreal Canadiens,Toronto Maple Leafs,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Montreal Canadiens,Toronto Maple Leafs,2021
+/zapas/2898030,Toronto Maple Leafs,Florida Panthers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Florida Panthers,Toronto Maple Leafs,2021
+/zapas/2898044,Boston Bruins,Toronto Maple Leafs,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Boston Bruins,Toronto Maple Leafs,2021
+/zapas/2898060,Toronto Maple Leafs,Winnipeg Jets,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Winnipeg Jets,Toronto Maple Leafs,2021
+/zapas/2898079,Philadelphia Flyers,Toronto Maple Leafs,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,2021
+/zapas/2898092,Tampa Bay Lightning,Toronto Maple Leafs,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,2021
+/zapas/2898100,Florida Panthers,Toronto Maple Leafs,7,6,1,2.0,1.0,0.0,1.0,6.0,7.0,0.0,Florida Panthers,Toronto Maple Leafs,2021
+/zapas/2898113,Dallas Stars,Toronto Maple Leafs,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Dallas Stars,Toronto Maple Leafs,2021
+/zapas/2898131,Toronto Maple Leafs,Montreal Canadiens,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Montreal Canadiens,Toronto Maple Leafs,2021
+/zapas/2898152,Toronto Maple Leafs,Buffalo Sabres,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Buffalo Sabres,Toronto Maple Leafs,2021
+/zapas/2898170,Toronto Maple Leafs,Washington Capitals,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Washington Capitals,Toronto Maple Leafs,2021
+/zapas/2898188,Ottawa Senators,Toronto Maple Leafs,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Ottawa Senators,Toronto Maple Leafs,2021
+/zapas/2897709,Toronto Maple Leafs,New York Islanders,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New York Islanders,Toronto Maple Leafs,2021
+/zapas/2898204,Toronto Maple Leafs,Philadelphia Flyers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,2021
+/zapas/2898219,Tampa Bay Lightning,Toronto Maple Leafs,8,1,0,3.0,0.0,0.0,0.0,1.0,8.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,2021
+/zapas/2898239,Florida Panthers,Toronto Maple Leafs,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Florida Panthers,Toronto Maple Leafs,2021
+/zapas/2898250,Washington Capitals,Toronto Maple Leafs,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Washington Capitals,Toronto Maple Leafs,2021
+/zapas/2897815,Toronto Maple Leafs,Detroit Red Wings,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Detroit Red Wings,Toronto Maple Leafs,2021
+/zapas/2898287,Toronto Maple Leafs,Boston Bruins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Boston Bruins,Toronto Maple Leafs,2021

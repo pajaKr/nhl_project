@@ -1,0 +1,374 @@
+game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
+/zapas/2526065,Anaheim Ducks,Arizona Coyotes,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Arizona Coyotes,Anaheim Ducks,2017
+/zapas/2526081,Anaheim Ducks,Philadelphia Flyers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Philadelphia Flyers,Anaheim Ducks,2017
+/zapas/2526092,Anaheim Ducks,Calgary Flames,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Calgary Flames,Anaheim Ducks,2017
+/zapas/2526103,Anaheim Ducks,New York Islanders,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,New York Islanders,Anaheim Ducks,2017
+/zapas/2526114,Colorado Avalanche,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Colorado Avalanche,Anaheim Ducks,2017
+/zapas/2526132,Anaheim Ducks,Buffalo Sabres,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Buffalo Sabres,Anaheim Ducks,2017
+/zapas/2526163,Anaheim Ducks,Montreal Canadiens,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Montreal Canadiens,Anaheim Ducks,2017
+/zapas/2526182,Philadelphia Flyers,Anaheim Ducks,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Philadelphia Flyers,Anaheim Ducks,2017
+/zapas/2526198,Florida Panthers,Anaheim Ducks,8,3,0,3.0,0.0,0.0,0.0,3.0,8.0,0.0,Florida Panthers,Anaheim Ducks,2017
+/zapas/2526213,Tampa Bay Lightning,Anaheim Ducks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Tampa Bay Lightning,Anaheim Ducks,2017
+/zapas/2526221,Carolina Hurricanes,Anaheim Ducks,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Carolina Hurricanes,Anaheim Ducks,2017
+/zapas/2526238,Anaheim Ducks,Toronto Maple Leafs,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Toronto Maple Leafs,Anaheim Ducks,2017
+/zapas/2526253,Anaheim Ducks,Nashville Predators,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Nashville Predators,Anaheim Ducks,2017
+/zapas/2526266,San Jose Sharks,Anaheim Ducks,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,San Jose Sharks,Anaheim Ducks,2017
+/zapas/2526285,Anaheim Ducks,Los Angeles Kings,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Los Angeles Kings,Anaheim Ducks,2017
+/zapas/2526294,Anaheim Ducks,Vancouver Canucks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Anaheim Ducks,2017
+/zapas/2526317,Anaheim Ducks,Tampa Bay Lightning,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Tampa Bay Lightning,Anaheim Ducks,2017
+/zapas/2526331,Anaheim Ducks,Boston Bruins,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Boston Bruins,Anaheim Ducks,2017
+/zapas/2526363,Anaheim Ducks,Florida Panthers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Florida Panthers,Anaheim Ducks,2017
+/zapas/2526369,San Jose Sharks,Anaheim Ducks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,San Jose Sharks,Anaheim Ducks,2017
+/zapas/2526386,Anaheim Ducks,Vegas Golden Knights,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Anaheim Ducks,2017
+/zapas/2526389,Anaheim Ducks,Winnipeg Jets,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Anaheim Ducks,2017
+/zapas/2526412,Los Angeles Kings,Anaheim Ducks,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Los Angeles Kings,Anaheim Ducks,2017
+/zapas/2526420,Chicago Blackhawks,Anaheim Ducks,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Chicago Blackhawks,Anaheim Ducks,2017
+/zapas/2526433,St. Louis Blues,Anaheim Ducks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,St. Louis Blues,Anaheim Ducks,2017
+/zapas/2526445,Columbus Blue Jackets,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Anaheim Ducks,2017
+/zapas/2526458,Nashville Predators,Anaheim Ducks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Nashville Predators,Anaheim Ducks,2017
+/zapas/2526478,Vegas Golden Knights,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Vegas Golden Knights,Anaheim Ducks,2017
+/zapas/2526483,Anaheim Ducks,Ottawa Senators,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Ottawa Senators,Anaheim Ducks,2017
+/zapas/2526497,Anaheim Ducks,Minnesota Wild,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Minnesota Wild,Anaheim Ducks,2017
+/zapas/2526519,Anaheim Ducks,Carolina Hurricanes,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Carolina Hurricanes,Anaheim Ducks,2017
+/zapas/2526537,St. Louis Blues,Anaheim Ducks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,St. Louis Blues,Anaheim Ducks,2017
+/zapas/2526556,Washington Capitals,Anaheim Ducks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Washington Capitals,Anaheim Ducks,2017
+/zapas/2526566,New Jersey Devils,Anaheim Ducks,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New Jersey Devils,Anaheim Ducks,2017
+/zapas/2526573,New York Rangers,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Rangers,Anaheim Ducks,2017
+/zapas/2526585,New York Islanders,Anaheim Ducks,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,New York Islanders,Anaheim Ducks,2017
+/zapas/2526604,Pittsburgh Penguins,Anaheim Ducks,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Pittsburgh Penguins,Anaheim Ducks,2017
+/zapas/2526622,Anaheim Ducks,Vegas Golden Knights,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Anaheim Ducks,2017
+/zapas/2526640,Anaheim Ducks,Calgary Flames,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Calgary Flames,Anaheim Ducks,2017
+/zapas/2526648,Anaheim Ducks,Arizona Coyotes,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Anaheim Ducks,2017
+/zapas/2526667,Vancouver Canucks,Anaheim Ducks,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Vancouver Canucks,Anaheim Ducks,2017
+/zapas/2526679,Edmonton Oilers,Anaheim Ducks,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Edmonton Oilers,Anaheim Ducks,2017
+/zapas/2526694,Calgary Flames,Anaheim Ducks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Calgary Flames,Anaheim Ducks,2017
+/zapas/2526731,Los Angeles Kings,Anaheim Ducks,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Anaheim Ducks,2017
+/zapas/2526738,Colorado Avalanche,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Colorado Avalanche,Anaheim Ducks,2017
+/zapas/2526748,Anaheim Ducks,Pittsburgh Penguins,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Pittsburgh Penguins,Anaheim Ducks,2017
+/zapas/2526761,Anaheim Ducks,Los Angeles Kings,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Los Angeles Kings,Anaheim Ducks,2017
+/zapas/2526778,Anaheim Ducks,San Jose Sharks,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,San Jose Sharks,Anaheim Ducks,2017
+/zapas/2526794,Anaheim Ducks,New York Rangers,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,New York Rangers,Anaheim Ducks,2017
+/zapas/2526813,Anaheim Ducks,Winnipeg Jets,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Winnipeg Jets,Anaheim Ducks,2017
+/zapas/2526818,Boston Bruins,Anaheim Ducks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Boston Bruins,Anaheim Ducks,2017
+/zapas/2526835,Ottawa Senators,Anaheim Ducks,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Ottawa Senators,Anaheim Ducks,2017
+/zapas/2526846,Montreal Canadiens,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Montreal Canadiens,Anaheim Ducks,2017
+/zapas/2526862,Toronto Maple Leafs,Anaheim Ducks,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Toronto Maple Leafs,Anaheim Ducks,2017
+/zapas/2526866,Buffalo Sabres,Anaheim Ducks,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Buffalo Sabres,Anaheim Ducks,2017
+/zapas/2526896,Anaheim Ducks,Edmonton Oilers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Edmonton Oilers,Anaheim Ducks,2017
+/zapas/2526914,Anaheim Ducks,San Jose Sharks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,San Jose Sharks,Anaheim Ducks,2017
+/zapas/2526924,Detroit Red Wings,Anaheim Ducks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Detroit Red Wings,Anaheim Ducks,2017
+/zapas/2526940,Chicago Blackhawks,Anaheim Ducks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Chicago Blackhawks,Anaheim Ducks,2017
+/zapas/2526949,Minnesota Wild,Anaheim Ducks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Minnesota Wild,Anaheim Ducks,2017
+/zapas/2526971,Vegas Golden Knights,Anaheim Ducks,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Vegas Golden Knights,Anaheim Ducks,2017
+/zapas/2526982,Anaheim Ducks,Dallas Stars,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Dallas Stars,Anaheim Ducks,2017
+/zapas/2527010,Arizona Coyotes,Anaheim Ducks,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Arizona Coyotes,Anaheim Ducks,2017
+/zapas/2527015,Anaheim Ducks,Edmonton Oilers,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Edmonton Oilers,Anaheim Ducks,2017
+/zapas/2527053,Anaheim Ducks,Columbus Blue Jackets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Columbus Blue Jackets,Anaheim Ducks,2017
+/zapas/2527064,Anaheim Ducks,Chicago Blackhawks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Chicago Blackhawks,Anaheim Ducks,2017
+/zapas/2527082,Anaheim Ducks,Washington Capitals,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Washington Capitals,Anaheim Ducks,2017
+/zapas/2527093,Nashville Predators,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Nashville Predators,Anaheim Ducks,2017
+/zapas/2527100,Dallas Stars,Anaheim Ducks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Dallas Stars,Anaheim Ducks,2017
+/zapas/2527122,Anaheim Ducks,St. Louis Blues,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,St. Louis Blues,Anaheim Ducks,2017
+/zapas/2527136,Anaheim Ducks,Vancouver Canucks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vancouver Canucks,Anaheim Ducks,2017
+/zapas/2527150,Anaheim Ducks,Detroit Red Wings,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Detroit Red Wings,Anaheim Ducks,2017
+/zapas/2527169,Anaheim Ducks,New Jersey Devils,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New Jersey Devils,Anaheim Ducks,2017
+/zapas/2527189,Calgary Flames,Anaheim Ducks,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Calgary Flames,Anaheim Ducks,2017
+/zapas/2527203,Winnipeg Jets,Anaheim Ducks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Winnipeg Jets,Anaheim Ducks,2017
+/zapas/2527221,Edmonton Oilers,Anaheim Ducks,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Edmonton Oilers,Anaheim Ducks,2017
+/zapas/2527239,Vancouver Canucks,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vancouver Canucks,Anaheim Ducks,2017
+/zapas/2527258,Anaheim Ducks,Los Angeles Kings,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Los Angeles Kings,Anaheim Ducks,2017
+/zapas/2527276,Anaheim Ducks,Colorado Avalanche,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Colorado Avalanche,Anaheim Ducks,2017
+/zapas/2527294,Anaheim Ducks,Minnesota Wild,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Minnesota Wild,Anaheim Ducks,2017
+/zapas/2527310,Anaheim Ducks,Dallas Stars,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Dallas Stars,Anaheim Ducks,2017
+/zapas/2527320,Arizona Coyotes,Anaheim Ducks,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Arizona Coyotes,Anaheim Ducks,2017
+/zapas/2647202,San Jose Sharks,Anaheim Ducks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,San Jose Sharks,Anaheim Ducks,2018
+/zapas/2647224,Arizona Coyotes,Anaheim Ducks,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Arizona Coyotes,Anaheim Ducks,2018
+/zapas/2647233,Anaheim Ducks,Detroit Red Wings,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Detroit Red Wings,Anaheim Ducks,2018
+/zapas/2647242,Anaheim Ducks,Arizona Coyotes,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Arizona Coyotes,Anaheim Ducks,2018
+/zapas/2647265,Dallas Stars,Anaheim Ducks,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Dallas Stars,Anaheim Ducks,2018
+/zapas/2647270,St. Louis Blues,Anaheim Ducks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,St. Louis Blues,Anaheim Ducks,2018
+/zapas/2647287,Anaheim Ducks,New York Islanders,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,New York Islanders,Anaheim Ducks,2018
+/zapas/2647310,Vegas Golden Knights,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Vegas Golden Knights,Anaheim Ducks,2018
+/zapas/2647315,Anaheim Ducks,Buffalo Sabres,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Buffalo Sabres,Anaheim Ducks,2018
+/zapas/2647325,Chicago Blackhawks,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Chicago Blackhawks,Anaheim Ducks,2018
+/zapas/2647338,Dallas Stars,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Dallas Stars,Anaheim Ducks,2018
+/zapas/2647362,Anaheim Ducks,San Jose Sharks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,San Jose Sharks,Anaheim Ducks,2018
+/zapas/2647374,Anaheim Ducks,Philadelphia Flyers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Philadelphia Flyers,Anaheim Ducks,2018
+/zapas/2647387,Anaheim Ducks,New York Rangers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New York Rangers,Anaheim Ducks,2018
+/zapas/2647407,Anaheim Ducks,Columbus Blue Jackets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Columbus Blue Jackets,Anaheim Ducks,2018
+/zapas/2647420,Los Angeles Kings,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Anaheim Ducks,2018
+/zapas/2647424,Anaheim Ducks,Calgary Flames,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Calgary Flames,Anaheim Ducks,2018
+/zapas/2647439,Anaheim Ducks,Minnesota Wild,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Minnesota Wild,Anaheim Ducks,2018
+/zapas/2647461,Anaheim Ducks,Nashville Predators,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Nashville Predators,Anaheim Ducks,2018
+/zapas/2647474,Vegas Golden Knights,Anaheim Ducks,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Vegas Golden Knights,Anaheim Ducks,2018
+/zapas/2647489,Anaheim Ducks,Toronto Maple Leafs,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Toronto Maple Leafs,Anaheim Ducks,2018
+/zapas/2647504,Anaheim Ducks,Colorado Avalanche,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Colorado Avalanche,Anaheim Ducks,2018
+/zapas/2647527,Anaheim Ducks,Vancouver Canucks,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Vancouver Canucks,Anaheim Ducks,2018
+/zapas/2647531,Anaheim Ducks,Edmonton Oilers,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Edmonton Oilers,Anaheim Ducks,2018
+/zapas/2647558,Nashville Predators,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Nashville Predators,Anaheim Ducks,2018
+/zapas/2647568,Tampa Bay Lightning,Anaheim Ducks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Tampa Bay Lightning,Anaheim Ducks,2018
+/zapas/2647576,Florida Panthers,Anaheim Ducks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Florida Panthers,Anaheim Ducks,2018
+/zapas/2647590,Carolina Hurricanes,Anaheim Ducks,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Carolina Hurricanes,Anaheim Ducks,2018
+/zapas/2647605,Washington Capitals,Anaheim Ducks,5,6,0,0.0,3.0,0.0,3.0,6.0,5.0,1.0,Washington Capitals,Anaheim Ducks,2018
+/zapas/2647625,Anaheim Ducks,Chicago Blackhawks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Chicago Blackhawks,Anaheim Ducks,2018
+/zapas/2647641,Anaheim Ducks,Carolina Hurricanes,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Carolina Hurricanes,Anaheim Ducks,2018
+/zapas/2647656,Anaheim Ducks,New Jersey Devils,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,New Jersey Devils,Anaheim Ducks,2018
+/zapas/2647676,Anaheim Ducks,Dallas Stars,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Dallas Stars,Anaheim Ducks,2018
+/zapas/2647699,Columbus Blue Jackets,Anaheim Ducks,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Columbus Blue Jackets,Anaheim Ducks,2018
+/zapas/2647710,Pittsburgh Penguins,Anaheim Ducks,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Pittsburgh Penguins,Anaheim Ducks,2018
+/zapas/2647717,New York Rangers,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New York Rangers,Anaheim Ducks,2018
+/zapas/2647728,Boston Bruins,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Boston Bruins,Anaheim Ducks,2018
+/zapas/2647750,Buffalo Sabres,Anaheim Ducks,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Buffalo Sabres,Anaheim Ducks,2018
+/zapas/2647777,San Jose Sharks,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,San Jose Sharks,Anaheim Ducks,2018
+/zapas/2647794,Anaheim Ducks,Arizona Coyotes,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Arizona Coyotes,Anaheim Ducks,2018
+/zapas/2647809,Anaheim Ducks,Tampa Bay Lightning,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Tampa Bay Lightning,Anaheim Ducks,2018
+/zapas/2647833,Anaheim Ducks,Vegas Golden Knights,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Vegas Golden Knights,Anaheim Ducks,2018
+/zapas/2647848,Anaheim Ducks,Edmonton Oilers,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Edmonton Oilers,Anaheim Ducks,2018
+/zapas/2647868,Anaheim Ducks,Ottawa Senators,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Ottawa Senators,Anaheim Ducks,2018
+/zapas/2647884,Anaheim Ducks,Pittsburgh Penguins,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Pittsburgh Penguins,Anaheim Ducks,2018
+/zapas/2647898,Winnipeg Jets,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Winnipeg Jets,Anaheim Ducks,2018
+/zapas/2647913,Detroit Red Wings,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Detroit Red Wings,Anaheim Ducks,2018
+/zapas/2647929,Minnesota Wild,Anaheim Ducks,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Minnesota Wild,Anaheim Ducks,2018
+/zapas/2647938,New Jersey Devils,Anaheim Ducks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New Jersey Devils,Anaheim Ducks,2018
+/zapas/2647950,New York Islanders,Anaheim Ducks,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,New York Islanders,Anaheim Ducks,2018
+/zapas/2647967,Anaheim Ducks,St. Louis Blues,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,St. Louis Blues,Anaheim Ducks,2018
+/zapas/2647989,Winnipeg Jets,Anaheim Ducks,9,3,0,3.0,0.0,0.0,0.0,3.0,9.0,0.0,Winnipeg Jets,Anaheim Ducks,2018
+/zapas/2648003,Toronto Maple Leafs,Anaheim Ducks,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Toronto Maple Leafs,Anaheim Ducks,2018
+/zapas/2648013,Montreal Canadiens,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Montreal Canadiens,Anaheim Ducks,2018
+/zapas/2648027,Ottawa Senators,Anaheim Ducks,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Ottawa Senators,Anaheim Ducks,2018
+/zapas/2648040,Philadelphia Flyers,Anaheim Ducks,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Philadelphia Flyers,Anaheim Ducks,2018
+/zapas/2648074,Anaheim Ducks,Vancouver Canucks,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Vancouver Canucks,Anaheim Ducks,2018
+/zapas/2648089,Anaheim Ducks,Boston Bruins,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Boston Bruins,Anaheim Ducks,2018
+/zapas/2648107,Anaheim Ducks,Washington Capitals,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Washington Capitals,Anaheim Ducks,2018
+/zapas/2648120,Minnesota Wild,Anaheim Ducks,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Minnesota Wild,Anaheim Ducks,2018
+/zapas/2648141,Calgary Flames,Anaheim Ducks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Calgary Flames,Anaheim Ducks,2018
+/zapas/2648153,Edmonton Oilers,Anaheim Ducks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Edmonton Oilers,Anaheim Ducks,2018
+/zapas/2648165,Vancouver Canucks,Anaheim Ducks,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Vancouver Canucks,Anaheim Ducks,2018
+/zapas/2648181,Anaheim Ducks,Chicago Blackhawks,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Chicago Blackhawks,Anaheim Ducks,2018
+/zapas/2648195,Anaheim Ducks,Vegas Golden Knights,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Vegas Golden Knights,Anaheim Ducks,2018
+/zapas/2648210,Anaheim Ducks,Colorado Avalanche,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Colorado Avalanche,Anaheim Ducks,2018
+/zapas/2648225,Arizona Coyotes,Anaheim Ducks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Anaheim Ducks,2018
+/zapas/2648229,Anaheim Ducks,St. Louis Blues,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,St. Louis Blues,Anaheim Ducks,2018
+/zapas/2648245,Anaheim Ducks,Montreal Canadiens,8,2,0,3.0,0.0,1.0,3.0,8.0,2.0,1.0,Montreal Canadiens,Anaheim Ducks,2018
+/zapas/2648262,Anaheim Ducks,Los Angeles Kings,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Los Angeles Kings,Anaheim Ducks,2018
+/zapas/2648277,Anaheim Ducks,Nashville Predators,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Nashville Predators,Anaheim Ducks,2018
+/zapas/2648288,Arizona Coyotes,Anaheim Ducks,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Arizona Coyotes,Anaheim Ducks,2018
+/zapas/2648294,Colorado Avalanche,Anaheim Ducks,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Colorado Avalanche,Anaheim Ducks,2018
+/zapas/2648314,Anaheim Ducks,Florida Panthers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Florida Panthers,Anaheim Ducks,2018
+/zapas/2648333,Anaheim Ducks,Winnipeg Jets,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Winnipeg Jets,Anaheim Ducks,2018
+/zapas/2648347,Anaheim Ducks,San Jose Sharks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,San Jose Sharks,Anaheim Ducks,2018
+/zapas/2648361,Los Angeles Kings,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Los Angeles Kings,Anaheim Ducks,2018
+/zapas/2648381,Vancouver Canucks,Anaheim Ducks,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Vancouver Canucks,Anaheim Ducks,2018
+/zapas/2648399,Calgary Flames,Anaheim Ducks,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Calgary Flames,Anaheim Ducks,2018
+/zapas/2648411,Edmonton Oilers,Anaheim Ducks,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Edmonton Oilers,Anaheim Ducks,2018
+/zapas/2648439,Anaheim Ducks,Calgary Flames,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Calgary Flames,Anaheim Ducks,2018
+/zapas/2648454,Anaheim Ducks,Los Angeles Kings,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Los Angeles Kings,Anaheim Ducks,2018
+/zapas/2806388,Anaheim Ducks,Arizona Coyotes,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Arizona Coyotes,Anaheim Ducks,2019
+/zapas/2806404,Anaheim Ducks,San Jose Sharks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,San Jose Sharks,Anaheim Ducks,2019
+/zapas/2806416,Detroit Red Wings,Anaheim Ducks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Detroit Red Wings,Anaheim Ducks,2019
+/zapas/2806426,Pittsburgh Penguins,Anaheim Ducks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Pittsburgh Penguins,Anaheim Ducks,2019
+/zapas/2806435,Columbus Blue Jackets,Anaheim Ducks,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Columbus Blue Jackets,Anaheim Ducks,2019
+/zapas/2806454,Boston Bruins,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Boston Bruins,Anaheim Ducks,2019
+/zapas/2806472,Anaheim Ducks,Buffalo Sabres,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Anaheim Ducks,2019
+/zapas/2806488,Anaheim Ducks,Carolina Hurricanes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Carolina Hurricanes,Anaheim Ducks,2019
+/zapas/2806504,Anaheim Ducks,Calgary Flames,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Calgary Flames,Anaheim Ducks,2019
+/zapas/2806514,Nashville Predators,Anaheim Ducks,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Nashville Predators,Anaheim Ducks,2019
+/zapas/2806528,Dallas Stars,Anaheim Ducks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Dallas Stars,Anaheim Ducks,2019
+/zapas/2806544,Colorado Avalanche,Anaheim Ducks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Colorado Avalanche,Anaheim Ducks,2019
+/zapas/2806552,Vegas Golden Knights,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Anaheim Ducks,2019
+/zapas/2806563,Anaheim Ducks,Winnipeg Jets,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Winnipeg Jets,Anaheim Ducks,2019
+/zapas/2806578,Anaheim Ducks,Vancouver Canucks,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Vancouver Canucks,Anaheim Ducks,2019
+/zapas/2806595,Anaheim Ducks,Chicago Blackhawks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Chicago Blackhawks,Anaheim Ducks,2019
+/zapas/2806609,Anaheim Ducks,Minnesota Wild,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Minnesota Wild,Anaheim Ducks,2019
+/zapas/2806645,Anaheim Ducks,Edmonton Oilers,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Edmonton Oilers,Anaheim Ducks,2019
+/zapas/2806654,Anaheim Ducks,Detroit Red Wings,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Detroit Red Wings,Anaheim Ducks,2019
+/zapas/2806668,Anaheim Ducks,San Jose Sharks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,San Jose Sharks,Anaheim Ducks,2019
+/zapas/2806685,St. Louis Blues,Anaheim Ducks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,St. Louis Blues,Anaheim Ducks,2019
+/zapas/2806692,Washington Capitals,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Washington Capitals,Anaheim Ducks,2019
+/zapas/2806710,Florida Panthers,Anaheim Ducks,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Florida Panthers,Anaheim Ducks,2019
+/zapas/2806731,Tampa Bay Lightning,Anaheim Ducks,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Tampa Bay Lightning,Anaheim Ducks,2019
+/zapas/2806748,Anaheim Ducks,New York Islanders,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,New York Islanders,Anaheim Ducks,2019
+/zapas/2806762,Arizona Coyotes,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Arizona Coyotes,Anaheim Ducks,2019
+/zapas/2806768,Anaheim Ducks,Winnipeg Jets,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Winnipeg Jets,Anaheim Ducks,2019
+/zapas/2806799,Anaheim Ducks,Los Angeles Kings,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Anaheim Ducks,2019
+/zapas/2806827,Anaheim Ducks,Washington Capitals,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Washington Capitals,Anaheim Ducks,2019
+/zapas/2806839,Winnipeg Jets,Anaheim Ducks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Anaheim Ducks,2019
+/zapas/2806852,Minnesota Wild,Anaheim Ducks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Minnesota Wild,Anaheim Ducks,2019
+/zapas/2806873,Anaheim Ducks,Los Angeles Kings,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Los Angeles Kings,Anaheim Ducks,2019
+/zapas/2806879,Anaheim Ducks,New York Rangers,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Rangers,Anaheim Ducks,2019
+/zapas/2806904,Philadelphia Flyers,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Philadelphia Flyers,Anaheim Ducks,2019
+/zapas/2806911,New Jersey Devils,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New Jersey Devils,Anaheim Ducks,2019
+/zapas/2806929,New York Islanders,Anaheim Ducks,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,New York Islanders,Anaheim Ducks,2019
+/zapas/2806941,New York Rangers,Anaheim Ducks,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,New York Rangers,Anaheim Ducks,2019
+/zapas/2806967,Anaheim Ducks,Vegas Golden Knights,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Vegas Golden Knights,Anaheim Ducks,2019
+/zapas/2806986,Anaheim Ducks,Philadelphia Flyers,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Philadelphia Flyers,Anaheim Ducks,2019
+/zapas/2806991,Vegas Golden Knights,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Anaheim Ducks,2019
+/zapas/2807012,Arizona Coyotes,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Arizona Coyotes,Anaheim Ducks,2019
+/zapas/2807034,Anaheim Ducks,Nashville Predators,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Nashville Predators,Anaheim Ducks,2019
+/zapas/2807050,Anaheim Ducks,Columbus Blue Jackets,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Columbus Blue Jackets,Anaheim Ducks,2019
+/zapas/2807063,Anaheim Ducks,Dallas Stars,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Dallas Stars,Anaheim Ducks,2019
+/zapas/2807075,Chicago Blackhawks,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Chicago Blackhawks,Anaheim Ducks,2019
+/zapas/2807089,St. Louis Blues,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,St. Louis Blues,Anaheim Ducks,2019
+/zapas/2807111,Nashville Predators,Anaheim Ducks,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Nashville Predators,Anaheim Ducks,2019
+/zapas/2807117,Carolina Hurricanes,Anaheim Ducks,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Carolina Hurricanes,Anaheim Ducks,2019
+/zapas/2807149,San Jose Sharks,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,San Jose Sharks,Anaheim Ducks,2019
+/zapas/2807154,Anaheim Ducks,Arizona Coyotes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Anaheim Ducks,2019
+/zapas/2807167,Anaheim Ducks,Tampa Bay Lightning,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Tampa Bay Lightning,Anaheim Ducks,2019
+/zapas/2807180,Los Angeles Kings,Anaheim Ducks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Los Angeles Kings,Anaheim Ducks,2019
+/zapas/2807195,Ottawa Senators,Anaheim Ducks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Ottawa Senators,Anaheim Ducks,2019
+/zapas/2807204,Montreal Canadiens,Anaheim Ducks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Montreal Canadiens,Anaheim Ducks,2019
+/zapas/2807215,Toronto Maple Leafs,Anaheim Ducks,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Toronto Maple Leafs,Anaheim Ducks,2019
+/zapas/2807232,Buffalo Sabres,Anaheim Ducks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Buffalo Sabres,Anaheim Ducks,2019
+/zapas/2807266,Anaheim Ducks,Calgary Flames,0,6,0,0.0,3.0,1.0,0.0,0.0,6.0,0.0,Calgary Flames,Anaheim Ducks,2019
+/zapas/2807285,Vancouver Canucks,Anaheim Ducks,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Vancouver Canucks,Anaheim Ducks,2019
+/zapas/2807292,Calgary Flames,Anaheim Ducks,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Calgary Flames,Anaheim Ducks,2019
+/zapas/2807306,Anaheim Ducks,Florida Panthers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Florida Panthers,Anaheim Ducks,2019
+/zapas/2807323,Anaheim Ducks,Colorado Avalanche,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Colorado Avalanche,Anaheim Ducks,2019
+/zapas/2807341,Anaheim Ducks,Vegas Golden Knights,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Vegas Golden Knights,Anaheim Ducks,2019
+/zapas/2807356,Anaheim Ducks,Edmonton Oilers,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Edmonton Oilers,Anaheim Ducks,2019
+/zapas/2807374,Anaheim Ducks,Pittsburgh Penguins,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Pittsburgh Penguins,Anaheim Ducks,2019
+/zapas/2807391,Anaheim Ducks,New Jersey Devils,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,New Jersey Devils,Anaheim Ducks,2019
+/zapas/2807401,Chicago Blackhawks,Anaheim Ducks,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Chicago Blackhawks,Anaheim Ducks,2019
+/zapas/2807407,Colorado Avalanche,Anaheim Ducks,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Colorado Avalanche,Anaheim Ducks,2019
+/zapas/2807424,Anaheim Ducks,Toronto Maple Leafs,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Toronto Maple Leafs,Anaheim Ducks,2019
+/zapas/2807439,Anaheim Ducks,Minnesota Wild,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Minnesota Wild,Anaheim Ducks,2019
+/zapas/2807454,Anaheim Ducks,Ottawa Senators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Ottawa Senators,Anaheim Ducks,2019
+/zapas/2807252,Anaheim Ducks,St. Louis Blues,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,St. Louis Blues,Anaheim Ducks,2019
+/zapas/2893223,Vegas Golden Knights,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Anaheim Ducks,2020
+/zapas/2893239,Vegas Golden Knights,Anaheim Ducks,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Vegas Golden Knights,Anaheim Ducks,2020
+/zapas/2893253,Anaheim Ducks,Minnesota Wild,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Minnesota Wild,Anaheim Ducks,2020
+/zapas/2893267,Anaheim Ducks,Minnesota Wild,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Minnesota Wild,Anaheim Ducks,2020
+/zapas/2893282,Anaheim Ducks,Colorado Avalanche,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Anaheim Ducks,2020
+/zapas/2893299,Anaheim Ducks,Colorado Avalanche,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Colorado Avalanche,Anaheim Ducks,2020
+/zapas/2893307,Arizona Coyotes,Anaheim Ducks,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Arizona Coyotes,Anaheim Ducks,2020
+/zapas/2893321,Arizona Coyotes,Anaheim Ducks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Arizona Coyotes,Anaheim Ducks,2020
+/zapas/2893343,Anaheim Ducks,St. Louis Blues,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,St. Louis Blues,Anaheim Ducks,2020
+/zapas/2893351,Anaheim Ducks,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Anaheim Ducks,2020
+/zapas/2893369,Los Angeles Kings,Anaheim Ducks,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Los Angeles Kings,Anaheim Ducks,2020
+/zapas/2893386,Anaheim Ducks,San Jose Sharks,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,San Jose Sharks,Anaheim Ducks,2020
+/zapas/2893395,Anaheim Ducks,San Jose Sharks,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,San Jose Sharks,Anaheim Ducks,2020
+/zapas/2893418,Vegas Golden Knights,Anaheim Ducks,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Vegas Golden Knights,Anaheim Ducks,2020
+/zapas/2893434,Vegas Golden Knights,Anaheim Ducks,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Vegas Golden Knights,Anaheim Ducks,2020
+/zapas/2893460,San Jose Sharks,Anaheim Ducks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,San Jose Sharks,Anaheim Ducks,2020
+/zapas/2893481,Anaheim Ducks,Minnesota Wild,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Minnesota Wild,Anaheim Ducks,2020
+/zapas/2893497,Anaheim Ducks,Minnesota Wild,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Minnesota Wild,Anaheim Ducks,2020
+/zapas/2893505,Arizona Coyotes,Anaheim Ducks,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Arizona Coyotes,Anaheim Ducks,2020
+/zapas/2893517,Arizona Coyotes,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Arizona Coyotes,Anaheim Ducks,2020
+/zapas/2893546,Anaheim Ducks,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Anaheim Ducks,2020
+/zapas/2893560,Anaheim Ducks,St. Louis Blues,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,St. Louis Blues,Anaheim Ducks,2020
+/zapas/2893570,Anaheim Ducks,St. Louis Blues,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,St. Louis Blues,Anaheim Ducks,2020
+/zapas/2893582,Colorado Avalanche,Anaheim Ducks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Anaheim Ducks,2020
+/zapas/2893592,Colorado Avalanche,Anaheim Ducks,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Colorado Avalanche,Anaheim Ducks,2020
+/zapas/2893608,Anaheim Ducks,Los Angeles Kings,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Los Angeles Kings,Anaheim Ducks,2020
+/zapas/2893622,Anaheim Ducks,Los Angeles Kings,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Los Angeles Kings,Anaheim Ducks,2020
+/zapas/2893637,Anaheim Ducks,San Jose Sharks,0,6,0,0.0,3.0,1.0,0.0,0.0,6.0,0.0,San Jose Sharks,Anaheim Ducks,2020
+/zapas/2893649,Anaheim Ducks,San Jose Sharks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,San Jose Sharks,Anaheim Ducks,2020
+/zapas/2893775,Colorado Avalanche,Anaheim Ducks,8,4,0,3.0,0.0,0.0,0.0,4.0,8.0,0.0,Colorado Avalanche,Anaheim Ducks,2020
+/zapas/2893684,Anaheim Ducks,Arizona Coyotes,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Anaheim Ducks,2020
+/zapas/2893669,Anaheim Ducks,Arizona Coyotes,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Arizona Coyotes,Anaheim Ducks,2020
+/zapas/2893704,Minnesota Wild,Anaheim Ducks,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Minnesota Wild,Anaheim Ducks,2020
+/zapas/2893717,Minnesota Wild,Anaheim Ducks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Minnesota Wild,Anaheim Ducks,2020
+/zapas/2893732,St. Louis Blues,Anaheim Ducks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,St. Louis Blues,Anaheim Ducks,2020
+/zapas/2893738,St. Louis Blues,Anaheim Ducks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,St. Louis Blues,Anaheim Ducks,2020
+/zapas/2893758,Colorado Avalanche,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Colorado Avalanche,Anaheim Ducks,2020
+/zapas/2893791,Anaheim Ducks,Arizona Coyotes,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Arizona Coyotes,Anaheim Ducks,2020
+/zapas/2893812,Anaheim Ducks,Arizona Coyotes,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Arizona Coyotes,Anaheim Ducks,2020
+/zapas/2893449,San Jose Sharks,Anaheim Ducks,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,San Jose Sharks,Anaheim Ducks,2020
+/zapas/2893848,Anaheim Ducks,Colorado Avalanche,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Colorado Avalanche,Anaheim Ducks,2020
+/zapas/2893864,Anaheim Ducks,Colorado Avalanche,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Anaheim Ducks,2020
+/zapas/2893872,San Jose Sharks,Anaheim Ducks,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,San Jose Sharks,Anaheim Ducks,2020
+/zapas/2893883,San Jose Sharks,Anaheim Ducks,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,San Jose Sharks,Anaheim Ducks,2020
+/zapas/2893897,Anaheim Ducks,Vegas Golden Knights,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Vegas Golden Knights,Anaheim Ducks,2020
+/zapas/2893913,Anaheim Ducks,Vegas Golden Knights,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Anaheim Ducks,2020
+/zapas/2893932,Los Angeles Kings,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Anaheim Ducks,2020
+/zapas/2893533,Anaheim Ducks,Vegas Golden Knights,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Vegas Golden Knights,Anaheim Ducks,2020
+/zapas/2893973,Los Angeles Kings,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Anaheim Ducks,2020
+/zapas/2893988,Los Angeles Kings,Anaheim Ducks,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Anaheim Ducks,2020
+/zapas/2894003,Anaheim Ducks,Los Angeles Kings,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Los Angeles Kings,Anaheim Ducks,2020
+/zapas/2894018,Anaheim Ducks,Los Angeles Kings,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Los Angeles Kings,Anaheim Ducks,2020
+/zapas/2894020,St. Louis Blues,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,St. Louis Blues,Anaheim Ducks,2020
+/zapas/2894038,St. Louis Blues,Anaheim Ducks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,St. Louis Blues,Anaheim Ducks,2020
+/zapas/2894054,Minnesota Wild,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Minnesota Wild,Anaheim Ducks,2020
+/zapas/2894065,Minnesota Wild,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Minnesota Wild,Anaheim Ducks,2020
+/zapas/2896988,Anaheim Ducks,Winnipeg Jets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Anaheim Ducks,2021
+/zapas/2896998,Anaheim Ducks,Minnesota Wild,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Minnesota Wild,Anaheim Ducks,2021
+/zapas/2897017,Calgary Flames,Anaheim Ducks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Calgary Flames,Anaheim Ducks,2021
+/zapas/2897020,Edmonton Oilers,Anaheim Ducks,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Edmonton Oilers,Anaheim Ducks,2021
+/zapas/2897036,Winnipeg Jets,Anaheim Ducks,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Winnipeg Jets,Anaheim Ducks,2021
+/zapas/2897050,Minnesota Wild,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Minnesota Wild,Anaheim Ducks,2021
+/zapas/2897072,Anaheim Ducks,Winnipeg Jets,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Anaheim Ducks,2021
+/zapas/2897084,Anaheim Ducks,Buffalo Sabres,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Buffalo Sabres,Anaheim Ducks,2021
+/zapas/2897092,Vegas Golden Knights,Anaheim Ducks,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Vegas Golden Knights,Anaheim Ducks,2021
+/zapas/2897108,Anaheim Ducks,Montreal Canadiens,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Montreal Canadiens,Anaheim Ducks,2021
+/zapas/2897117,Anaheim Ducks,New Jersey Devils,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,New Jersey Devils,Anaheim Ducks,2021
+/zapas/2897139,Anaheim Ducks,Arizona Coyotes,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Anaheim Ducks,2021
+/zapas/2897156,Anaheim Ducks,St. Louis Blues,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,St. Louis Blues,Anaheim Ducks,2021
+/zapas/2897163,Vancouver Canucks,Anaheim Ducks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Anaheim Ducks,2021
+/zapas/2897177,Seattle Kraken,Anaheim Ducks,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Seattle Kraken,Anaheim Ducks,2021
+/zapas/2897205,Anaheim Ducks,Vancouver Canucks,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Vancouver Canucks,Anaheim Ducks,2021
+/zapas/2897214,Anaheim Ducks,Washington Capitals,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Washington Capitals,Anaheim Ducks,2021
+/zapas/2897229,Anaheim Ducks,Carolina Hurricanes,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Carolina Hurricanes,Anaheim Ducks,2021
+/zapas/2897265,Nashville Predators,Anaheim Ducks,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Nashville Predators,Anaheim Ducks,2021
+/zapas/2897274,Colorado Avalanche,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Colorado Avalanche,Anaheim Ducks,2021
+/zapas/2897285,Anaheim Ducks,Ottawa Senators,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Ottawa Senators,Anaheim Ducks,2021
+/zapas/2897307,Anaheim Ducks,Toronto Maple Leafs,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Toronto Maple Leafs,Anaheim Ducks,2021
+/zapas/2897318,Los Angeles Kings,Anaheim Ducks,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Los Angeles Kings,Anaheim Ducks,2021
+/zapas/2897327,Anaheim Ducks,Vegas Golden Knights,6,5,0,3.0,0.0,1.0,3.0,6.0,5.0,1.0,Vegas Golden Knights,Anaheim Ducks,2021
+/zapas/2897343,Anaheim Ducks,Calgary Flames,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Calgary Flames,Anaheim Ducks,2021
+/zapas/2897368,Washington Capitals,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Washington Capitals,Anaheim Ducks,2021
+/zapas/2897374,Buffalo Sabres,Anaheim Ducks,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Buffalo Sabres,Anaheim Ducks,2021
+/zapas/2897392,Columbus Blue Jackets,Anaheim Ducks,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Columbus Blue Jackets,Anaheim Ducks,2021
+/zapas/2897411,Pittsburgh Penguins,Anaheim Ducks,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Pittsburgh Penguins,Anaheim Ducks,2021
+/zapas/2897415,St. Louis Blues,Anaheim Ducks,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,St. Louis Blues,Anaheim Ducks,2021
+/zapas/2897432,Anaheim Ducks,Seattle Kraken,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Seattle Kraken,Anaheim Ducks,2021
+/zapas/2897446,Anaheim Ducks,Arizona Coyotes,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Arizona Coyotes,Anaheim Ducks,2021
+/zapas/2897522,Anaheim Ducks,Vancouver Canucks,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Vancouver Canucks,Anaheim Ducks,2021
+/zapas/2897540,Vegas Golden Knights,Anaheim Ducks,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Vegas Golden Knights,Anaheim Ducks,2021
+/zapas/2897557,Colorado Avalanche,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Colorado Avalanche,Anaheim Ducks,2021
+/zapas/2897568,Anaheim Ducks,Philadelphia Flyers,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Philadelphia Flyers,Anaheim Ducks,2021
+/zapas/2897597,Anaheim Ducks,New York Rangers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,New York Rangers,Anaheim Ducks,2021
+/zapas/2897581,Anaheim Ducks,Detroit Red Wings,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Detroit Red Wings,Anaheim Ducks,2021
+/zapas/2897619,Anaheim Ducks,Pittsburgh Penguins,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Pittsburgh Penguins,Anaheim Ducks,2021
+/zapas/2897644,Minnesota Wild,Anaheim Ducks,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Minnesota Wild,Anaheim Ducks,2021
+/zapas/2897650,Chicago Blackhawks,Anaheim Ducks,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Chicago Blackhawks,Anaheim Ducks,2021
+/zapas/2897682,Anaheim Ducks,Colorado Avalanche,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Colorado Avalanche,Anaheim Ducks,2021
+/zapas/2897695,Anaheim Ducks,Tampa Bay Lightning,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Tampa Bay Lightning,Anaheim Ducks,2021
+/zapas/2897721,Boston Bruins,Anaheim Ducks,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Boston Bruins,Anaheim Ducks,2021
+/zapas/2897734,Toronto Maple Leafs,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Toronto Maple Leafs,Anaheim Ducks,2021
+/zapas/2897741,Montreal Canadiens,Anaheim Ducks,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Montreal Canadiens,Anaheim Ducks,2021
+/zapas/2897757,Ottawa Senators,Anaheim Ducks,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Ottawa Senators,Anaheim Ducks,2021
+/zapas/2897774,Detroit Red Wings,Anaheim Ducks,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Detroit Red Wings,Anaheim Ducks,2021
+/zapas/2898009,Anaheim Ducks,Seattle Kraken,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Seattle Kraken,Anaheim Ducks,2021
+/zapas/2897478,Calgary Flames,Anaheim Ducks,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Calgary Flames,Anaheim Ducks,2021
+/zapas/2897470,Edmonton Oilers,Anaheim Ducks,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Edmonton Oilers,Anaheim Ducks,2021
+/zapas/2897489,Vancouver Canucks,Anaheim Ducks,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Vancouver Canucks,Anaheim Ducks,2021
+/zapas/2897506,Anaheim Ducks,San Jose Sharks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,San Jose Sharks,Anaheim Ducks,2021
+/zapas/2897804,Anaheim Ducks,Los Angeles Kings,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Anaheim Ducks,2021
+/zapas/2897820,Anaheim Ducks,New York Islanders,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,New York Islanders,Anaheim Ducks,2021
+/zapas/2897833,Anaheim Ducks,Boston Bruins,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Boston Bruins,Anaheim Ducks,2021
+/zapas/2897854,Anaheim Ducks,Vegas Golden Knights,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Vegas Golden Knights,Anaheim Ducks,2021
+/zapas/2897872,Anaheim Ducks,San Jose Sharks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,San Jose Sharks,Anaheim Ducks,2021
+/zapas/2897884,Chicago Blackhawks,Anaheim Ducks,8,3,0,3.0,0.0,0.0,0.0,3.0,8.0,0.0,Chicago Blackhawks,Anaheim Ducks,2021
+/zapas/2897899,Nashville Predators,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Nashville Predators,Anaheim Ducks,2021
+/zapas/2897921,New Jersey Devils,Anaheim Ducks,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,New Jersey Devils,Anaheim Ducks,2021
+/zapas/2897929,New York Islanders,Anaheim Ducks,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,New York Islanders,Anaheim Ducks,2021
+/zapas/2897943,New York Rangers,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Rangers,Anaheim Ducks,2021
+/zapas/2897958,Anaheim Ducks,Florida Panthers,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Florida Panthers,Anaheim Ducks,2021
+/zapas/2897981,Anaheim Ducks,Nashville Predators,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Nashville Predators,Anaheim Ducks,2021
+/zapas/2897996,Anaheim Ducks,Chicago Blackhawks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Chicago Blackhawks,Anaheim Ducks,2021
+/zapas/2898017,San Jose Sharks,Anaheim Ducks,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,San Jose Sharks,Anaheim Ducks,2021
+/zapas/2898040,Anaheim Ducks,Dallas Stars,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Dallas Stars,Anaheim Ducks,2021
+/zapas/2898055,Anaheim Ducks,Dallas Stars,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Dallas Stars,Anaheim Ducks,2021
+/zapas/2898064,Arizona Coyotes,Anaheim Ducks,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Arizona Coyotes,Anaheim Ducks,2021
+/zapas/2898082,Anaheim Ducks,Edmonton Oilers,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Edmonton Oilers,Anaheim Ducks,2021
+/zapas/2898105,Anaheim Ducks,Calgary Flames,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Calgary Flames,Anaheim Ducks,2021
+/zapas/2898134,Philadelphia Flyers,Anaheim Ducks,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Philadelphia Flyers,Anaheim Ducks,2021
+/zapas/2898142,Carolina Hurricanes,Anaheim Ducks,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Carolina Hurricanes,Anaheim Ducks,2021
+/zapas/2898154,Florida Panthers,Anaheim Ducks,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Florida Panthers,Anaheim Ducks,2021
+/zapas/2898171,Tampa Bay Lightning,Anaheim Ducks,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Tampa Bay Lightning,Anaheim Ducks,2021
+/zapas/2898191,Anaheim Ducks,Columbus Blue Jackets,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Columbus Blue Jackets,Anaheim Ducks,2021
+/zapas/2898201,Anaheim Ducks,Los Angeles Kings,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Los Angeles Kings,Anaheim Ducks,2021
+/zapas/2898230,Los Angeles Kings,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Anaheim Ducks,2021
+/zapas/2898242,Anaheim Ducks,St. Louis Blues,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,St. Louis Blues,Anaheim Ducks,2021
+/zapas/2898254,San Jose Sharks,Anaheim Ducks,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,San Jose Sharks,Anaheim Ducks,2021
+/zapas/2898283,Dallas Stars,Anaheim Ducks,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Dallas Stars,Anaheim Ducks,2021

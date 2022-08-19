@@ -1,0 +1,354 @@
+game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2526396,0.0,0.0,Ottawa Senators,Columbus Blue Jackets,28.0,64.0,67.0,33.0,57.0,48.0
+/zapas/2526404,0.0,1.0,Ottawa Senators,New York Islanders,27.0,62.0,67.0,35.0,76.0,65.0
+/zapas/2526432,0.0,0.0,Ottawa Senators,Montreal Canadiens,26.0,62.0,67.0,27.0,52.0,64.0
+/zapas/2526443,1.0,0.0,Ottawa Senators,New York Islanders,24.0,60.0,67.0,40.0,79.0,62.0
+/zapas/2526463,0.0,0.0,Ottawa Senators,Winnipeg Jets,24.0,60.0,72.0,42.0,71.0,48.0
+/zapas/2526483,0.0,0.0,Ottawa Senators,Anaheim Ducks,21.0,54.0,76.0,24.0,51.0,65.0
+/zapas/2526491,0.0,0.0,Ottawa Senators,Los Angeles Kings,21.0,54.0,76.0,32.0,58.0,44.0
+/zapas/2526507,0.0,0.0,Ottawa Senators,San Jose Sharks,21.0,53.0,75.0,36.0,52.0,44.0
+/zapas/2526520,0.0,0.0,Ottawa Senators,Buffalo Sabres,18.0,47.0,77.0,16.0,38.0,66.0
+/zapas/2526529,1.0,1.0,Ottawa Senators,New York Rangers,17.0,47.0,77.0,39.0,74.0,53.0
+/zapas/2526553,1.0,1.0,Ottawa Senators,Montreal Canadiens,17.0,45.0,75.0,30.0,56.0,55.0
+/zapas/2526574,0.0,1.0,Ottawa Senators,Minnesota Wild,19.0,44.0,70.0,32.0,54.0,55.0
+/zapas/2526587,0.0,0.0,Ottawa Senators,Tampa Bay Lightning,19.0,45.0,68.0,40.0,73.0,48.0
+/zapas/2526601,0.0,0.0,Ottawa Senators,Florida Panthers,17.0,45.0,71.0,27.0,50.0,59.0
+/zapas/2526612,0.0,0.0,Ottawa Senators,Boston Bruins,17.0,41.0,67.0,38.0,60.0,45.0
+/zapas/2526631,1.0,1.0,Ottawa Senators,Columbus Blue Jackets,15.0,38.0,69.0,34.0,54.0,54.0
+/zapas/2526641,0.0,1.0,Ottawa Senators,Boston Bruins,15.0,39.0,70.0,41.0,65.0,43.0
+/zapas/2526668,0.0,0.0,Ottawa Senators,Detroit Red Wings,15.0,38.0,72.0,25.0,55.0,68.0
+/zapas/2526684,1.0,1.0,Ottawa Senators,San Jose Sharks,15.0,37.0,71.0,35.0,59.0,55.0
+/zapas/2526691,1.0,1.0,Ottawa Senators,Tampa Bay Lightning,17.0,43.0,73.0,40.0,67.0,43.0
+/zapas/2526710,0.0,1.0,Ottawa Senators,Chicago Blackhawks,20.0,47.0,71.0,30.0,62.0,58.0
+/zapas/2526714,1.0,0.0,Ottawa Senators,Toronto Maple Leafs,20.0,47.0,74.0,29.0,57.0,54.0
+/zapas/2526754,0.0,1.0,Ottawa Senators,St. Louis Blues,23.0,50.0,75.0,28.0,48.0,51.0
+/zapas/2526767,0.0,1.0,Ottawa Senators,Toronto Maple Leafs,23.0,50.0,77.0,25.0,51.0,54.0
+/zapas/2526782,0.0,0.0,Ottawa Senators,Minnesota Wild,20.0,47.0,76.0,35.0,58.0,51.0
+/zapas/2526790,0.0,0.0,Ottawa Senators,St. Louis Blues,20.0,48.0,74.0,25.0,47.0,54.0
+/zapas/2526803,0.0,1.0,Ottawa Senators,Boston Bruins,20.0,48.0,74.0,46.0,78.0,40.0
+/zapas/2526816,0.0,0.0,Ottawa Senators,Carolina Hurricanes,19.0,47.0,73.0,32.0,57.0,63.0
+/zapas/2526835,1.0,1.0,Ottawa Senators,Anaheim Ducks,19.0,48.0,70.0,36.0,61.0,51.0
+/zapas/2526847,1.0,0.0,Ottawa Senators,Philadelphia Flyers,21.0,48.0,68.0,30.0,58.0,61.0
+/zapas/2526860,0.0,0.0,Ottawa Senators,Montreal Canadiens,20.0,49.0,69.0,22.0,48.0,63.0
+/zapas/2526870,1.0,1.0,Ottawa Senators,New Jersey Devils,17.0,47.0,73.0,31.0,59.0,57.0
+/zapas/2526883,1.0,1.0,Ottawa Senators,Nashville Predators,20.0,48.0,70.0,35.0,55.0,49.0
+/zapas/2526898,0.0,0.0,Ottawa Senators,Toronto Maple Leafs,21.0,49.0,69.0,33.0,63.0,54.0
+/zapas/2526922,0.0,0.0,Ottawa Senators,Pittsburgh Penguins,21.0,52.0,74.0,38.0,72.0,53.0
+/zapas/2526936,1.0,1.0,Ottawa Senators,Buffalo Sabres,21.0,54.0,75.0,24.0,57.0,65.0
+/zapas/2526950,1.0,1.0,Ottawa Senators,New York Rangers,20.0,52.0,73.0,19.0,46.0,71.0
+/zapas/2526969,0.0,0.0,Ottawa Senators,Nashville Predators,23.0,58.0,71.0,36.0,57.0,46.0
+/zapas/2526981,0.0,0.0,Ottawa Senators,Chicago Blackhawks,22.0,59.0,74.0,20.0,49.0,60.0
+/zapas/2526988,0.0,1.0,Ottawa Senators,Tampa Bay Lightning,21.0,55.0,72.0,32.0,68.0,66.0
+/zapas/2527000,0.0,1.0,Ottawa Senators,Philadelphia Flyers,18.0,52.0,73.0,37.0,64.0,54.0
+/zapas/2527025,0.0,0.0,Ottawa Senators,Washington Capitals,18.0,53.0,70.0,28.0,60.0,68.0
+/zapas/2527052,1.0,0.0,Ottawa Senators,Vegas Golden Knights,15.0,51.0,70.0,37.0,73.0,56.0
+/zapas/2527059,0.0,0.0,Ottawa Senators,Arizona Coyotes,18.0,55.0,70.0,29.0,55.0,58.0
+/zapas/2527071,1.0,0.0,Ottawa Senators,Dallas Stars,18.0,53.0,68.0,36.0,57.0,47.0
+/zapas/2527089,0.0,1.0,Ottawa Senators,Buffalo Sabres,20.0,55.0,67.0,27.0,55.0,56.0
+/zapas/2527099,0.0,1.0,Ottawa Senators,Calgary Flames,21.0,58.0,68.0,26.0,59.0,69.0
+/zapas/2527121,1.0,0.0,Ottawa Senators,Florida Panthers,21.0,57.0,67.0,44.0,72.0,53.0
+/zapas/2527127,1.0,0.0,Ottawa Senators,Tampa Bay Lightning,24.0,61.0,68.0,37.0,78.0,66.0
+/zapas/2527147,1.0,1.0,Ottawa Senators,Dallas Stars,25.0,66.0,71.0,31.0,50.0,53.0
+/zapas/2527158,0.0,0.0,Ottawa Senators,Columbus Blue Jackets,25.0,65.0,70.0,33.0,64.0,55.0
+/zapas/2527179,0.0,1.0,Ottawa Senators,Florida Panthers,25.0,65.0,68.0,41.0,69.0,53.0
+/zapas/2527194,0.0,1.0,Ottawa Senators,Edmonton Oilers,22.0,62.0,72.0,24.0,60.0,63.0
+/zapas/2527209,0.0,1.0,Ottawa Senators,Carolina Hurricanes,20.0,60.0,75.0,26.0,59.0,73.0
+/zapas/2527225,0.0,0.0,Ottawa Senators,Carolina Hurricanes,20.0,59.0,74.0,26.0,60.0,74.0
+/zapas/2527232,0.0,1.0,Ottawa Senators,New York Islanders,20.0,57.0,72.0,16.0,51.0,69.0
+/zapas/2527247,1.0,1.0,Ottawa Senators,Florida Panthers,18.0,57.0,74.0,38.0,65.0,50.0
+/zapas/2527261,0.0,0.0,Ottawa Senators,Detroit Red Wings,17.0,54.0,73.0,15.0,50.0,68.0
+/zapas/2527278,0.0,1.0,Ottawa Senators,Winnipeg Jets,17.0,52.0,70.0,39.0,71.0,52.0
+/zapas/2527292,1.0,0.0,Ottawa Senators,Buffalo Sabres,16.0,55.0,73.0,22.0,48.0,70.0
+/zapas/2527307,0.0,0.0,Ottawa Senators,Pittsburgh Penguins,19.0,56.0,71.0,30.0,73.0,70.0
+/zapas/2527313,0.0,0.0,Ottawa Senators,Boston Bruins,19.0,53.0,70.0,36.0,68.0,58.0
+/zapas/2647207,0.0,1.0,Ottawa Senators,Chicago Blackhawks,19.0,53.0,72.0,19.0,53.0,80.0
+/zapas/2647218,1.0,0.0,Ottawa Senators,Toronto Maple Leafs,17.0,51.0,72.0,36.0,71.0,59.0
+/zapas/2647230,0.0,0.0,Ottawa Senators,Boston Bruins,20.0,55.0,73.0,33.0,59.0,58.0
+/zapas/2647240,0.0,1.0,Ottawa Senators,Philadelphia Flyers,18.0,55.0,77.0,29.0,64.0,69.0
+/zapas/2647257,1.0,1.0,Ottawa Senators,Los Angeles Kings,17.0,56.0,80.0,35.0,57.0,45.0
+/zapas/2647274,1.0,1.0,Ottawa Senators,Dallas Stars,20.0,60.0,79.0,25.0,57.0,62.0
+/zapas/2647305,1.0,1.0,Ottawa Senators,Montreal Canadiens,20.0,59.0,77.0,25.0,57.0,65.0
+/zapas/2647323,0.0,1.0,Ottawa Senators,Boston Bruins,19.0,56.0,76.0,32.0,62.0,58.0
+/zapas/2647345,0.0,0.0,Ottawa Senators,Colorado Avalanche,17.0,54.0,78.0,32.0,59.0,49.0
+/zapas/2647361,0.0,0.0,Ottawa Senators,Vegas Golden Knights,17.0,56.0,82.0,27.0,50.0,56.0
+/zapas/2647373,0.0,0.0,Ottawa Senators,Arizona Coyotes,18.0,57.0,79.0,30.0,59.0,46.0
+/zapas/2647381,1.0,1.0,Ottawa Senators,Buffalo Sabres,18.0,56.0,78.0,26.0,57.0,72.0
+/zapas/2647393,0.0,0.0,Ottawa Senators,Buffalo Sabres,21.0,58.0,75.0,26.0,58.0,71.0
+/zapas/2647405,0.0,1.0,Ottawa Senators,Tampa Bay Lightning,21.0,59.0,80.0,37.0,70.0,58.0
+/zapas/2647416,1.0,1.0,Ottawa Senators,New Jersey Devils,22.0,59.0,80.0,38.0,64.0,56.0
+/zapas/2647429,0.0,1.0,Ottawa Senators,Vegas Golden Knights,23.0,63.0,81.0,24.0,50.0,62.0
+/zapas/2647445,1.0,0.0,Ottawa Senators,Tampa Bay Lightning,23.0,66.0,84.0,42.0,73.0,54.0
+/zapas/2647452,0.0,0.0,Ottawa Senators,Florida Panthers,26.0,67.0,82.0,32.0,61.0,62.0
+/zapas/2647479,1.0,1.0,Ottawa Senators,Detroit Red Wings,23.0,64.0,85.0,23.0,59.0,69.0
+/zapas/2647494,1.0,1.0,Ottawa Senators,Pittsburgh Penguins,26.0,66.0,82.0,27.0,66.0,62.0
+/zapas/2647510,0.0,1.0,Ottawa Senators,Florida Panthers,29.0,70.0,81.0,31.0,65.0,64.0
+/zapas/2647525,0.0,0.0,Ottawa Senators,Minnesota Wild,28.0,72.0,84.0,36.0,64.0,53.0
+/zapas/2647543,0.0,0.0,Ottawa Senators,Dallas Stars,25.0,71.0,87.0,27.0,52.0,58.0
+/zapas/2647563,0.0,0.0,Ottawa Senators,New York Rangers,25.0,72.0,87.0,31.0,60.0,58.0
+/zapas/2647566,1.0,0.0,Ottawa Senators,Philadelphia Flyers,25.0,70.0,84.0,27.0,60.0,67.0
+/zapas/2647582,1.0,1.0,Ottawa Senators,New York Rangers,25.0,69.0,86.0,34.0,63.0,58.0
+/zapas/2647593,1.0,1.0,Ottawa Senators,San Jose Sharks,25.0,68.0,85.0,32.0,63.0,63.0
+/zapas/2647619,0.0,0.0,Ottawa Senators,Montreal Canadiens,26.0,70.0,84.0,26.0,59.0,69.0
+/zapas/2647631,0.0,1.0,Ottawa Senators,Montreal Canadiens,26.0,71.0,85.0,26.0,61.0,69.0
+/zapas/2647645,1.0,1.0,Ottawa Senators,Pittsburgh Penguins,26.0,70.0,84.0,27.0,69.0,64.0
+/zapas/2647654,0.0,1.0,Ottawa Senators,Boston Bruins,27.0,69.0,81.0,29.0,48.0,51.0
+/zapas/2647669,0.0,0.0,Ottawa Senators,Nashville Predators,28.0,69.0,78.0,33.0,60.0,54.0
+/zapas/2647688,1.0,0.0,Ottawa Senators,Detroit Red Wings,25.0,66.0,79.0,29.0,63.0,61.0
+/zapas/2647694,0.0,0.0,Ottawa Senators,Montreal Canadiens,28.0,68.0,72.0,29.0,63.0,72.0
+/zapas/2647713,1.0,1.0,Ottawa Senators,Nashville Predators,27.0,67.0,73.0,34.0,58.0,52.0
+/zapas/2647740,0.0,0.0,Ottawa Senators,New Jersey Devils,26.0,64.0,73.0,20.0,55.0,77.0
+/zapas/2647752,0.0,1.0,Ottawa Senators,Washington Capitals,26.0,63.0,73.0,38.0,73.0,53.0
+/zapas/2647779,0.0,0.0,Ottawa Senators,New York Islanders,23.0,57.0,73.0,30.0,54.0,60.0
+/zapas/2647787,0.0,1.0,Ottawa Senators,Washington Capitals,23.0,59.0,74.0,44.0,78.0,48.0
+/zapas/2647803,0.0,0.0,Ottawa Senators,Columbus Blue Jackets,20.0,59.0,76.0,35.0,65.0,57.0
+/zapas/2647813,0.0,1.0,Ottawa Senators,Vancouver Canucks,17.0,56.0,78.0,28.0,57.0,55.0
+/zapas/2647835,0.0,1.0,Ottawa Senators,Minnesota Wild,18.0,54.0,75.0,22.0,52.0,60.0
+/zapas/2647843,0.0,1.0,Ottawa Senators,Carolina Hurricanes,18.0,53.0,73.0,29.0,50.0,55.0
+/zapas/2647868,1.0,0.0,Ottawa Senators,Anaheim Ducks,18.0,53.0,72.0,28.0,52.0,59.0
+/zapas/2647880,1.0,0.0,Ottawa Senators,Los Angeles Kings,20.0,53.0,69.0,23.0,46.0,55.0
+/zapas/2647894,0.0,0.0,Ottawa Senators,San Jose Sharks,20.0,53.0,67.0,44.0,83.0,58.0
+/zapas/2647919,1.0,1.0,Ottawa Senators,Colorado Avalanche,17.0,51.0,71.0,21.0,60.0,74.0
+/zapas/2647934,1.0,0.0,Ottawa Senators,Carolina Hurricanes,17.0,50.0,71.0,31.0,59.0,65.0
+/zapas/2647940,0.0,0.0,Ottawa Senators,St. Louis Blues,20.0,52.0,67.0,33.0,52.0,54.0
+/zapas/2647959,0.0,1.0,Ottawa Senators,Arizona Coyotes,20.0,52.0,65.0,25.0,55.0,62.0
+/zapas/2647982,0.0,0.0,Ottawa Senators,Pittsburgh Penguins,18.0,52.0,67.0,40.0,75.0,56.0
+/zapas/2647991,0.0,1.0,Ottawa Senators,Detroit Red Wings,17.0,54.0,70.0,19.0,55.0,67.0
+/zapas/2648019,0.0,0.0,Ottawa Senators,Toronto Maple Leafs,17.0,53.0,69.0,34.0,71.0,57.0
+/zapas/2648027,1.0,1.0,Ottawa Senators,Anaheim Ducks,14.0,53.0,72.0,13.0,36.0,74.0
+/zapas/2648042,1.0,1.0,Ottawa Senators,Winnipeg Jets,17.0,55.0,67.0,35.0,67.0,56.0
+/zapas/2648065,0.0,1.0,Ottawa Senators,Carolina Hurricanes,18.0,56.0,66.0,39.0,72.0,57.0
+/zapas/2648077,0.0,0.0,Ottawa Senators,Detroit Red Wings,18.0,55.0,65.0,21.0,54.0,67.0
+/zapas/2648094,1.0,0.0,Ottawa Senators,Winnipeg Jets,18.0,57.0,64.0,35.0,69.0,59.0
+/zapas/2648110,0.0,0.0,Ottawa Senators,Chicago Blackhawks,20.0,58.0,61.0,32.0,81.0,71.0
+/zapas/2648129,0.0,0.0,Ottawa Senators,New Jersey Devils,20.0,63.0,66.0,20.0,56.0,74.0
+/zapas/2648138,0.0,1.0,Ottawa Senators,Columbus Blue Jackets,20.0,60.0,64.0,27.0,59.0,61.0
+/zapas/2648158,0.0,1.0,Ottawa Senators,Calgary Flames,19.0,57.0,63.0,40.0,77.0,64.0
+/zapas/2648169,0.0,0.0,Ottawa Senators,Washington Capitals,19.0,55.0,61.0,25.0,60.0,77.0
+/zapas/2648185,0.0,1.0,Ottawa Senators,Edmonton Oilers,19.0,53.0,63.0,19.0,55.0,73.0
+/zapas/2648202,0.0,0.0,Ottawa Senators,Tampa Bay Lightning,17.0,53.0,66.0,40.0,65.0,45.0
+/zapas/2648211,1.0,0.0,Ottawa Senators,Florida Panthers,14.0,50.0,70.0,32.0,67.0,61.0
+/zapas/2648219,0.0,0.0,Ottawa Senators,New York Islanders,17.0,52.0,68.0,34.0,51.0,39.0
+/zapas/2648233,0.0,1.0,Ottawa Senators,New York Islanders,15.0,51.0,71.0,33.0,52.0,42.0
+/zapas/2648249,0.0,0.0,Ottawa Senators,Boston Bruins,12.0,49.0,74.0,44.0,66.0,44.0
+/zapas/2648265,0.0,0.0,Ottawa Senators,Philadelphia Flyers,12.0,49.0,74.0,40.0,70.0,57.0
+/zapas/2648284,1.0,1.0,Ottawa Senators,St. Louis Blues,12.0,49.0,74.0,40.0,60.0,42.0
+/zapas/2648303,1.0,1.0,Ottawa Senators,Toronto Maple Leafs,15.0,48.0,69.0,37.0,78.0,65.0
+/zapas/2648332,0.0,0.0,Ottawa Senators,Vancouver Canucks,18.0,54.0,69.0,20.0,46.0,61.0
+/zapas/2648342,0.0,0.0,Ottawa Senators,Calgary Flames,18.0,54.0,71.0,35.0,63.0,56.0
+/zapas/2648351,1.0,0.0,Ottawa Senators,Edmonton Oilers,15.0,51.0,76.0,26.0,53.0,66.0
+/zapas/2648379,1.0,1.0,Ottawa Senators,Buffalo Sabres,14.0,50.0,77.0,12.0,45.0,77.0
+/zapas/2648390,0.0,1.0,Ottawa Senators,Florida Panthers,17.0,53.0,73.0,27.0,72.0,71.0
+/zapas/2648404,1.0,1.0,Ottawa Senators,Toronto Maple Leafs,17.0,53.0,75.0,31.0,69.0,71.0
+/zapas/2648422,0.0,1.0,Ottawa Senators,Tampa Bay Lightning,18.0,53.0,74.0,44.0,80.0,53.0
+/zapas/2648437,1.0,0.0,Ottawa Senators,New York Rangers,18.0,48.0,71.0,19.0,48.0,67.0
+/zapas/2648440,0.0,0.0,Ottawa Senators,Buffalo Sabres,21.0,52.0,68.0,9.0,43.0,81.0
+/zapas/2648458,0.0,1.0,Ottawa Senators,Columbus Blue Jackets,21.0,54.0,70.0,31.0,57.0,50.0
+/zapas/2806377,0.0,0.0,Ottawa Senators,Toronto Maple Leafs,21.0,55.0,74.0,28.0,65.0,75.0
+/zapas/2806396,0.0,1.0,Ottawa Senators,New York Rangers,21.0,56.0,72.0,20.0,47.0,65.0
+/zapas/2806427,0.0,1.0,Ottawa Senators,St. Louis Blues,21.0,55.0,72.0,40.0,68.0,49.0
+/zapas/2806438,1.0,1.0,Ottawa Senators,Tampa Bay Lightning,21.0,58.0,73.0,42.0,85.0,61.0
+/zapas/2806455,0.0,1.0,Ottawa Senators,Minnesota Wild,21.0,59.0,73.0,17.0,39.0,67.0
+/zapas/2806481,0.0,0.0,Ottawa Senators,Vegas Golden Knights,20.0,55.0,70.0,29.0,66.0,59.0
+/zapas/2806491,0.0,0.0,Ottawa Senators,Arizona Coyotes,21.0,55.0,69.0,28.0,46.0,46.0
+/zapas/2806508,0.0,0.0,Ottawa Senators,Dallas Stars,21.0,55.0,71.0,24.0,50.0,55.0
+/zapas/2806519,1.0,1.0,Ottawa Senators,Detroit Red Wings,21.0,54.0,70.0,31.0,55.0,64.0
+/zapas/2806534,0.0,1.0,Ottawa Senators,New York Islanders,21.0,57.0,72.0,34.0,50.0,47.0
+/zapas/2806549,1.0,1.0,Ottawa Senators,San Jose Sharks,18.0,53.0,74.0,22.0,57.0,70.0
+/zapas/2806583,0.0,0.0,Ottawa Senators,Boston Bruins,21.0,54.0,69.0,41.0,74.0,54.0
+/zapas/2806597,1.0,0.0,Ottawa Senators,New York Rangers,21.0,55.0,69.0,27.0,58.0,64.0
+/zapas/2806601,0.0,0.0,Ottawa Senators,New York Islanders,22.0,57.0,68.0,41.0,58.0,41.0
+/zapas/2806618,1.0,1.0,Ottawa Senators,Los Angeles Kings,19.0,54.0,72.0,21.0,54.0,77.0
+/zapas/2806632,1.0,1.0,Ottawa Senators,Carolina Hurricanes,21.0,55.0,69.0,34.0,64.0,54.0
+/zapas/2806647,0.0,0.0,Ottawa Senators,Carolina Hurricanes,21.0,55.0,68.0,34.0,64.0,55.0
+/zapas/2806657,1.0,0.0,Ottawa Senators,New Jersey Devils,21.0,55.0,71.0,25.0,53.0,72.0
+/zapas/2806674,1.0,1.0,Ottawa Senators,Philadelphia Flyers,21.0,55.0,72.0,29.0,63.0,65.0
+/zapas/2806680,0.0,0.0,Ottawa Senators,Buffalo Sabres,24.0,55.0,68.0,33.0,66.0,56.0
+/zapas/2806699,1.0,0.0,Ottawa Senators,Detroit Red Wings,24.0,55.0,66.0,17.0,42.0,76.0
+/zapas/2806707,1.0,0.0,Ottawa Senators,Montreal Canadiens,27.0,56.0,64.0,33.0,72.0,63.0
+/zapas/2806723,1.0,1.0,Ottawa Senators,New York Rangers,29.0,57.0,61.0,30.0,68.0,70.0
+/zapas/2806745,0.0,0.0,Ottawa Senators,Columbus Blue Jackets,32.0,57.0,56.0,27.0,55.0,62.0
+/zapas/2806754,0.0,1.0,Ottawa Senators,Boston Bruins,29.0,53.0,55.0,43.0,82.0,53.0
+/zapas/2806771,0.0,0.0,Ottawa Senators,Minnesota Wild,29.0,54.0,55.0,31.0,57.0,61.0
+/zapas/2806781,0.0,0.0,Ottawa Senators,Calgary Flames,28.0,54.0,59.0,22.0,47.0,63.0
+/zapas/2806808,0.0,0.0,Ottawa Senators,Vancouver Canucks,28.0,53.0,57.0,27.0,67.0,67.0
+/zapas/2806812,1.0,0.0,Ottawa Senators,Edmonton Oilers,28.0,54.0,60.0,29.0,60.0,63.0
+/zapas/2806828,0.0,0.0,Ottawa Senators,Philadelphia Flyers,28.0,54.0,60.0,32.0,60.0,56.0
+/zapas/2806846,1.0,1.0,Ottawa Senators,Boston Bruins,28.0,55.0,60.0,41.0,76.0,53.0
+/zapas/2806861,0.0,0.0,Ottawa Senators,Montreal Canadiens,28.0,55.0,60.0,29.0,60.0,67.0
+/zapas/2806877,1.0,1.0,Ottawa Senators,Columbus Blue Jackets,29.0,55.0,58.0,23.0,46.0,55.0
+/zapas/2806895,0.0,0.0,Ottawa Senators,Florida Panthers,28.0,53.0,59.0,27.0,66.0,60.0
+/zapas/2806902,0.0,0.0,Ottawa Senators,Tampa Bay Lightning,28.0,53.0,61.0,32.0,75.0,64.0
+/zapas/2806918,1.0,1.0,Ottawa Senators,Nashville Predators,27.0,53.0,63.0,26.0,62.0,66.0
+/zapas/2806934,0.0,1.0,Ottawa Senators,Philadelphia Flyers,26.0,54.0,66.0,33.0,61.0,53.0
+/zapas/2806951,1.0,1.0,Ottawa Senators,Buffalo Sabres,27.0,56.0,63.0,28.0,64.0,68.0
+/zapas/2806979,0.0,1.0,Ottawa Senators,New Jersey Devils,27.0,55.0,62.0,22.0,51.0,68.0
+/zapas/2806988,0.0,0.0,Ottawa Senators,Pittsburgh Penguins,25.0,56.0,65.0,38.0,71.0,55.0
+/zapas/2807008,0.0,1.0,Ottawa Senators,Florida Panthers,25.0,56.0,66.0,32.0,69.0,63.0
+/zapas/2807024,0.0,1.0,Ottawa Senators,Tampa Bay Lightning,22.0,55.0,69.0,36.0,70.0,57.0
+/zapas/2807043,0.0,0.0,Ottawa Senators,Washington Capitals,20.0,56.0,73.0,37.0,66.0,60.0
+/zapas/2807065,0.0,0.0,Ottawa Senators,Detroit Red Wings,17.0,53.0,78.0,12.0,38.0,77.0
+/zapas/2807069,0.0,1.0,Ottawa Senators,Montreal Canadiens,18.0,55.0,80.0,21.0,56.0,58.0
+/zapas/2807096,0.0,1.0,Ottawa Senators,Chicago Blackhawks,19.0,55.0,80.0,28.0,60.0,69.0
+/zapas/2807110,0.0,1.0,Ottawa Senators,Vegas Golden Knights,20.0,55.0,76.0,30.0,64.0,67.0
+/zapas/2807122,1.0,1.0,Ottawa Senators,Calgary Flames,20.0,56.0,77.0,37.0,60.0,56.0
+/zapas/2807145,0.0,1.0,Ottawa Senators,New Jersey Devils,23.0,59.0,74.0,24.0,56.0,70.0
+/zapas/2807150,1.0,0.0,Ottawa Senators,Buffalo Sabres,21.0,57.0,76.0,27.0,57.0,65.0
+/zapas/2807163,0.0,1.0,Ottawa Senators,Washington Capitals,24.0,59.0,74.0,34.0,70.0,63.0
+/zapas/2807172,0.0,0.0,Ottawa Senators,Toronto Maple Leafs,21.0,57.0,77.0,41.0,86.0,67.0
+/zapas/2807195,0.0,1.0,Ottawa Senators,Anaheim Ducks,21.0,56.0,76.0,21.0,51.0,67.0
+/zapas/2807209,0.0,1.0,Ottawa Senators,Colorado Avalanche,20.0,54.0,76.0,30.0,74.0,65.0
+/zapas/2807219,0.0,0.0,Ottawa Senators,Winnipeg Jets,20.0,54.0,74.0,23.0,58.0,67.0
+/zapas/2807250,0.0,0.0,Ottawa Senators,Colorado Avalanche,19.0,53.0,75.0,33.0,74.0,62.0
+/zapas/2807261,1.0,1.0,Ottawa Senators,Arizona Coyotes,17.0,48.0,74.0,25.0,53.0,63.0
+/zapas/2807277,0.0,1.0,Ottawa Senators,Toronto Maple Leafs,19.0,47.0,71.0,30.0,72.0,70.0
+/zapas/2807287,1.0,1.0,Ottawa Senators,Dallas Stars,16.0,46.0,74.0,37.0,58.0,50.0
+/zapas/2807298,1.0,1.0,Ottawa Senators,Buffalo Sabres,17.0,47.0,73.0,28.0,56.0,61.0
+/zapas/2807313,0.0,1.0,Ottawa Senators,Winnipeg Jets,20.0,52.0,72.0,28.0,57.0,58.0
+/zapas/2807328,0.0,1.0,Ottawa Senators,Montreal Canadiens,20.0,50.0,71.0,25.0,55.0,56.0
+/zapas/2807343,0.0,0.0,Ottawa Senators,Columbus Blue Jackets,20.0,47.0,69.0,35.0,49.0,45.0
+/zapas/2807353,0.0,0.0,Ottawa Senators,Nashville Predators,21.0,49.0,67.0,31.0,53.0,59.0
+/zapas/2807364,1.0,1.0,Ottawa Senators,Vancouver Canucks,20.0,49.0,67.0,33.0,66.0,65.0
+/zapas/2807381,1.0,1.0,Ottawa Senators,Detroit Red Wings,22.0,53.0,67.0,9.0,32.0,76.0
+/zapas/2807398,0.0,0.0,Ottawa Senators,Pittsburgh Penguins,23.0,55.0,67.0,28.0,54.0,59.0
+/zapas/2807414,1.0,1.0,Ottawa Senators,New York Islanders,23.0,56.0,70.0,24.0,51.0,62.0
+/zapas/2807429,1.0,0.0,Ottawa Senators,San Jose Sharks,23.0,55.0,71.0,23.0,50.0,61.0
+/zapas/2807454,0.0,0.0,Ottawa Senators,Anaheim Ducks,24.0,54.0,68.0,28.0,56.0,66.0
+/zapas/2807458,0.0,0.0,Ottawa Senators,Los Angeles Kings,21.0,51.0,71.0,28.0,51.0,56.0
+/zapas/2893230,1.0,1.0,Ottawa Senators,Toronto Maple Leafs,21.0,50.0,69.0,28.0,57.0,61.0
+/zapas/2893238,0.0,1.0,Ottawa Senators,Toronto Maple Leafs,23.0,54.0,70.0,26.0,58.0,65.0
+/zapas/2893261,0.0,1.0,Ottawa Senators,Winnipeg Jets,22.0,54.0,70.0,37.0,63.0,45.0
+/zapas/2893272,0.0,1.0,Ottawa Senators,Winnipeg Jets,23.0,56.0,70.0,38.0,66.0,46.0
+/zapas/2893284,0.0,0.0,Ottawa Senators,Winnipeg Jets,23.0,55.0,69.0,38.0,66.0,45.0
+/zapas/2893300,0.0,0.0,Ottawa Senators,Vancouver Canucks,23.0,58.0,72.0,22.0,67.0,77.0
+/zapas/2893316,0.0,0.0,Ottawa Senators,Vancouver Canucks,20.0,56.0,77.0,22.0,68.0,76.0
+/zapas/2893329,0.0,0.0,Ottawa Senators,Vancouver Canucks,20.0,55.0,78.0,22.0,70.0,77.0
+/zapas/2893346,0.0,0.0,Ottawa Senators,Edmonton Oilers,18.0,52.0,79.0,27.0,61.0,63.0
+/zapas/2893361,0.0,0.0,Ottawa Senators,Edmonton Oilers,15.0,50.0,83.0,27.0,65.0,66.0
+/zapas/2893380,1.0,0.0,Ottawa Senators,Montreal Canadiens,15.0,51.0,82.0,34.0,72.0,60.0
+/zapas/2893393,0.0,1.0,Ottawa Senators,Montreal Canadiens,18.0,54.0,81.0,34.0,71.0,59.0
+/zapas/2893407,0.0,1.0,Ottawa Senators,Edmonton Oilers,17.0,52.0,79.0,29.0,70.0,67.0
+/zapas/2893417,0.0,1.0,Ottawa Senators,Edmonton Oilers,17.0,51.0,79.0,29.0,70.0,66.0
+/zapas/2893424,0.0,0.0,Ottawa Senators,Winnipeg Jets,14.0,48.0,80.0,36.0,65.0,49.0
+/zapas/2893439,1.0,0.0,Ottawa Senators,Winnipeg Jets,12.0,45.0,82.0,39.0,69.0,48.0
+/zapas/2893458,1.0,0.0,Ottawa Senators,Toronto Maple Leafs,15.0,44.0,76.0,40.0,62.0,49.0
+/zapas/2893472,0.0,0.0,Ottawa Senators,Toronto Maple Leafs,14.0,46.0,78.0,38.0,63.0,53.0
+/zapas/2893480,0.0,0.0,Ottawa Senators,Toronto Maple Leafs,12.0,45.0,79.0,41.0,63.0,49.0
+/zapas/2893501,1.0,1.0,Ottawa Senators,Montreal Canadiens,12.0,46.0,81.0,32.0,64.0,58.0
+/zapas/2893514,1.0,1.0,Ottawa Senators,Montreal Canadiens,14.0,47.0,80.0,30.0,60.0,59.0
+/zapas/2893528,1.0,1.0,Ottawa Senators,Calgary Flames,13.0,47.0,81.0,27.0,51.0,56.0
+/zapas/2893545,0.0,1.0,Ottawa Senators,Calgary Flames,16.0,51.0,79.0,26.0,49.0,58.0
+/zapas/2893558,1.0,1.0,Ottawa Senators,Calgary Flames,15.0,51.0,81.0,26.0,52.0,61.0
+/zapas/2893566,0.0,0.0,Ottawa Senators,Montreal Canadiens,18.0,55.0,78.0,32.0,65.0,60.0
+/zapas/2893575,0.0,0.0,Ottawa Senators,Calgary Flames,18.0,53.0,75.0,23.0,48.0,64.0
+/zapas/2893599,1.0,0.0,Ottawa Senators,Calgary Flames,18.0,55.0,75.0,26.0,52.0,63.0
+/zapas/2893605,0.0,0.0,Ottawa Senators,Edmonton Oilers,20.0,58.0,73.0,38.0,68.0,60.0
+/zapas/2893619,0.0,0.0,Ottawa Senators,Edmonton Oilers,20.0,59.0,72.0,38.0,67.0,59.0
+/zapas/2893635,0.0,0.0,Ottawa Senators,Edmonton Oilers,20.0,55.0,71.0,41.0,70.0,54.0
+/zapas/2893652,1.0,1.0,Ottawa Senators,Toronto Maple Leafs,20.0,55.0,73.0,36.0,69.0,50.0
+/zapas/2893662,0.0,1.0,Ottawa Senators,Vancouver Canucks,20.0,56.0,74.0,22.0,46.0,63.0
+/zapas/2893673,0.0,1.0,Ottawa Senators,Vancouver Canucks,21.0,57.0,75.0,24.0,47.0,59.0
+/zapas/2893708,1.0,1.0,Ottawa Senators,Calgary Flames,22.0,58.0,75.0,28.0,51.0,64.0
+/zapas/2893720,1.0,1.0,Ottawa Senators,Calgary Flames,25.0,58.0,73.0,25.0,49.0,65.0
+/zapas/2893731,0.0,1.0,Ottawa Senators,Toronto Maple Leafs,28.0,60.0,69.0,32.0,62.0,50.0
+/zapas/2893786,0.0,1.0,Ottawa Senators,Montreal Canadiens,26.0,60.0,71.0,27.0,56.0,56.0
+/zapas/2893802,1.0,0.0,Ottawa Senators,Montreal Canadiens,24.0,55.0,70.0,30.0,58.0,53.0
+/zapas/2894053,0.0,0.0,Ottawa Senators,Winnipeg Jets,27.0,60.0,71.0,32.0,60.0,55.0
+/zapas/2893830,0.0,1.0,Ottawa Senators,Edmonton Oilers,27.0,60.0,68.0,37.0,62.0,51.0
+/zapas/2893846,0.0,1.0,Ottawa Senators,Edmonton Oilers,25.0,59.0,70.0,37.0,59.0,52.0
+/zapas/2893856,0.0,0.0,Ottawa Senators,Toronto Maple Leafs,23.0,55.0,69.0,35.0,61.0,46.0
+/zapas/2893870,1.0,1.0,Ottawa Senators,Winnipeg Jets,20.0,54.0,74.0,36.0,65.0,52.0
+/zapas/2893881,0.0,1.0,Ottawa Senators,Winnipeg Jets,23.0,55.0,70.0,33.0,62.0,54.0
+/zapas/2893755,1.0,0.0,Ottawa Senators,Montreal Canadiens,20.0,52.0,72.0,29.0,57.0,54.0
+/zapas/2893915,1.0,0.0,Ottawa Senators,Calgary Flames,23.0,55.0,69.0,24.0,50.0,56.0
+/zapas/2893945,1.0,0.0,Ottawa Senators,Vancouver Canucks,26.0,56.0,64.0,30.0,52.0,54.0
+/zapas/2893959,0.0,0.0,Ottawa Senators,Vancouver Canucks,27.0,55.0,61.0,27.0,47.0,56.0
+/zapas/2893971,1.0,1.0,Ottawa Senators,Vancouver Canucks,27.0,55.0,62.0,30.0,51.0,56.0
+/zapas/2893986,1.0,1.0,Ottawa Senators,Vancouver Canucks,30.0,56.0,56.0,29.0,49.0,54.0
+/zapas/2894015,0.0,0.0,Ottawa Senators,Montreal Canadiens,33.0,60.0,53.0,26.0,49.0,63.0
+/zapas/2894029,1.0,1.0,Ottawa Senators,Winnipeg Jets,31.0,58.0,53.0,28.0,55.0,56.0
+/zapas/2893772,1.0,1.0,Ottawa Senators,Montreal Canadiens,33.0,58.0,51.0,27.0,48.0,60.0
+/zapas/2894064,1.0,0.0,Ottawa Senators,Winnipeg Jets,35.0,61.0,49.0,28.0,54.0,54.0
+/zapas/2893923,0.0,0.0,Ottawa Senators,Calgary Flames,35.0,63.0,50.0,20.0,45.0,53.0
+/zapas/2894043,1.0,1.0,Ottawa Senators,Toronto Maple Leafs,32.0,61.0,55.0,42.0,68.0,52.0
+/zapas/2896992,1.0,1.0,Ottawa Senators,Toronto Maple Leafs,33.0,63.0,55.0,40.0,68.0,56.0
+/zapas/2897008,0.0,0.0,Ottawa Senators,Toronto Maple Leafs,36.0,65.0,53.0,37.0,66.0,57.0
+/zapas/2897015,1.0,1.0,Ottawa Senators,Dallas Stars,33.0,60.0,53.0,29.0,57.0,59.0
+/zapas/2897038,0.0,1.0,Ottawa Senators,San Jose Sharks,36.0,60.0,51.0,21.0,54.0,75.0
+/zapas/2897053,0.0,1.0,Ottawa Senators,New York Rangers,36.0,59.0,49.0,33.0,55.0,56.0
+/zapas/2897066,0.0,1.0,Ottawa Senators,Washington Capitals,36.0,60.0,49.0,40.0,72.0,49.0
+/zapas/2897093,1.0,0.0,Ottawa Senators,Dallas Stars,36.0,60.0,50.0,23.0,50.0,63.0
+/zapas/2897114,0.0,0.0,Ottawa Senators,Chicago Blackhawks,36.0,60.0,49.0,11.0,51.0,84.0
+/zapas/2897120,0.0,0.0,Ottawa Senators,Minnesota Wild,36.0,59.0,51.0,33.0,66.0,69.0
+/zapas/2897135,0.0,1.0,Ottawa Senators,Vegas Golden Knights,34.0,59.0,56.0,31.0,62.0,54.0
+/zapas/2897150,0.0,1.0,Ottawa Senators,Tampa Bay Lightning,31.0,56.0,59.0,33.0,58.0,58.0
+/zapas/2897168,0.0,0.0,Ottawa Senators,Boston Bruins,28.0,56.0,64.0,32.0,61.0,51.0
+/zapas/2897183,0.0,1.0,Ottawa Senators,Los Angeles Kings,28.0,56.0,63.0,26.0,51.0,57.0
+/zapas/2897199,1.0,1.0,Ottawa Senators,Pittsburgh Penguins,25.0,54.0,64.0,34.0,66.0,58.0
+/zapas/2897208,0.0,1.0,Ottawa Senators,Calgary Flames,25.0,54.0,64.0,35.0,68.0,49.0
+/zapas/2897263,0.0,0.0,Ottawa Senators,Colorado Avalanche,24.0,52.0,65.0,39.0,75.0,53.0
+/zapas/2897272,0.0,0.0,Ottawa Senators,San Jose Sharks,21.0,55.0,71.0,27.0,50.0,62.0
+/zapas/2897285,0.0,0.0,Ottawa Senators,Anaheim Ducks,18.0,53.0,76.0,30.0,65.0,56.0
+/zapas/2897299,0.0,0.0,Ottawa Senators,Los Angeles Kings,15.0,49.0,78.0,24.0,50.0,57.0
+/zapas/2897330,0.0,1.0,Ottawa Senators,Vancouver Canucks,15.0,50.0,76.0,18.0,45.0,64.0
+/zapas/2897342,1.0,0.0,Ottawa Senators,Carolina Hurricanes,13.0,48.0,79.0,42.0,61.0,44.0
+/zapas/2897352,1.0,1.0,Ottawa Senators,Colorado Avalanche,13.0,48.0,79.0,36.0,80.0,65.0
+/zapas/2897221,1.0,0.0,Ottawa Senators,New Jersey Devils,15.0,53.0,81.0,23.0,57.0,71.0
+/zapas/2897377,0.0,1.0,Ottawa Senators,New York Islanders,14.0,53.0,81.0,20.0,38.0,61.0
+/zapas/2897409,1.0,1.0,Ottawa Senators,Tampa Bay Lightning,14.0,55.0,84.0,44.0,73.0,44.0
+/zapas/2897429,1.0,0.0,Ottawa Senators,Florida Panthers,17.0,57.0,81.0,33.0,70.0,62.0
+/zapas/2897441,0.0,0.0,Ottawa Senators,Tampa Bay Lightning,20.0,60.0,76.0,40.0,66.0,48.0
+/zapas/2897460,0.0,0.0,Ottawa Senators,Philadelphia Flyers,17.0,57.0,77.0,21.0,45.0,71.0
+/zapas/2897552,0.0,0.0,Ottawa Senators,Toronto Maple Leafs,18.0,59.0,76.0,44.0,73.0,47.0
+/zapas/2897633,1.0,0.0,Ottawa Senators,Calgary Flames,17.0,55.0,77.0,31.0,61.0,53.0
+/zapas/2897613,1.0,0.0,Ottawa Senators,Edmonton Oilers,20.0,58.0,73.0,22.0,54.0,69.0
+/zapas/2897678,0.0,1.0,Ottawa Senators,Buffalo Sabres,23.0,61.0,72.0,16.0,45.0,72.0
+/zapas/2897693,0.0,0.0,Ottawa Senators,Pittsburgh Penguins,23.0,60.0,72.0,44.0,71.0,48.0
+/zapas/2897712,0.0,0.0,Ottawa Senators,Washington Capitals,23.0,64.0,76.0,28.0,62.0,65.0
+/zapas/2897717,1.0,0.0,Ottawa Senators,Columbus Blue Jackets,21.0,60.0,76.0,17.0,56.0,84.0
+/zapas/2897728,1.0,1.0,Ottawa Senators,Buffalo Sabres,24.0,62.0,73.0,18.0,51.0,72.0
+/zapas/2897742,0.0,1.0,Ottawa Senators,Carolina Hurricanes,27.0,62.0,66.0,38.0,76.0,55.0
+/zapas/2897757,0.0,1.0,Ottawa Senators,Anaheim Ducks,28.0,61.0,63.0,27.0,51.0,56.0
+/zapas/2897773,1.0,1.0,Ottawa Senators,Edmonton Oilers,28.0,62.0,61.0,21.0,58.0,73.0
+/zapas/2897784,0.0,0.0,Ottawa Senators,New York Islanders,30.0,63.0,59.0,32.0,57.0,49.0
+/zapas/2898114,1.0,1.0,Ottawa Senators,New Jersey Devils,30.0,62.0,57.0,13.0,54.0,81.0
+/zapas/2897498,1.0,1.0,Ottawa Senators,Carolina Hurricanes,30.0,63.0,56.0,44.0,75.0,50.0
+/zapas/2897543,0.0,1.0,Ottawa Senators,Pittsburgh Penguins,31.0,61.0,54.0,42.0,78.0,56.0
+/zapas/2897529,0.0,1.0,Ottawa Senators,Boston Bruins,29.0,58.0,54.0,35.0,63.0,64.0
+/zapas/2897515,1.0,0.0,Ottawa Senators,Washington Capitals,29.0,55.0,51.0,26.0,60.0,61.0
+/zapas/2897482,0.0,1.0,Ottawa Senators,St. Louis Blues,29.0,55.0,52.0,40.0,72.0,54.0
+/zapas/2898213,1.0,0.0,Ottawa Senators,Buffalo Sabres,26.0,49.0,55.0,24.0,54.0,68.0
+/zapas/2897465,0.0,1.0,Ottawa Senators,Boston Bruins,29.0,51.0,54.0,34.0,57.0,63.0
+/zapas/2897250,0.0,1.0,Ottawa Senators,New York Rangers,29.0,50.0,53.0,35.0,65.0,52.0
+/zapas/2897565,1.0,1.0,Ottawa Senators,Minnesota Wild,29.0,51.0,49.0,36.0,81.0,67.0
+/zapas/2897816,0.0,1.0,Ottawa Senators,Montreal Canadiens,29.0,51.0,51.0,16.0,50.0,83.0
+/zapas/2897838,0.0,0.0,Ottawa Senators,Tampa Bay Lightning,26.0,46.0,49.0,40.0,74.0,60.0
+/zapas/2897850,0.0,0.0,Ottawa Senators,Florida Panthers,26.0,47.0,51.0,36.0,90.0,64.0
+/zapas/2897864,0.0,0.0,Ottawa Senators,Arizona Coyotes,26.0,43.0,48.0,21.0,50.0,67.0
+/zapas/2897871,0.0,0.0,Ottawa Senators,Vegas Golden Knights,25.0,46.0,53.0,28.0,53.0,56.0
+/zapas/2897885,1.0,0.0,Ottawa Senators,St. Louis Blues,22.0,45.0,54.0,38.0,70.0,54.0
+/zapas/2897903,1.0,1.0,Ottawa Senators,Seattle Kraken,22.0,44.0,55.0,15.0,47.0,73.0
+/zapas/2897920,0.0,1.0,Ottawa Senators,Chicago Blackhawks,23.0,46.0,55.0,19.0,60.0,79.0
+/zapas/2897933,0.0,1.0,Ottawa Senators,Arizona Coyotes,23.0,48.0,59.0,22.0,62.0,69.0
+/zapas/2897948,0.0,1.0,Ottawa Senators,Columbus Blue Jackets,21.0,48.0,62.0,35.0,78.0,77.0
+/zapas/2897962,1.0,1.0,Ottawa Senators,Philadelphia Flyers,21.0,48.0,62.0,20.0,54.0,75.0
+/zapas/2897971,0.0,0.0,Ottawa Senators,Montreal Canadiens,21.0,47.0,62.0,22.0,63.0,80.0
+/zapas/2898007,0.0,0.0,Ottawa Senators,New York Islanders,18.0,44.0,64.0,30.0,63.0,58.0
+/zapas/2897652,1.0,0.0,Ottawa Senators,Winnipeg Jets,18.0,44.0,65.0,34.0,76.0,66.0
+/zapas/2898024,0.0,1.0,Ottawa Senators,Florida Panthers,21.0,49.0,65.0,40.0,83.0,58.0
+/zapas/2898042,0.0,0.0,Ottawa Senators,Nashville Predators,19.0,48.0,68.0,29.0,73.0,69.0
+/zapas/2898068,1.0,0.0,Ottawa Senators,Detroit Red Wings,19.0,47.0,67.0,19.0,63.0,96.0
+/zapas/2898086,1.0,1.0,Ottawa Senators,Detroit Red Wings,19.0,49.0,68.0,16.0,59.0,98.0
+/zapas/2898098,1.0,0.0,Ottawa Senators,Montreal Canadiens,21.0,52.0,67.0,30.0,69.0,69.0
+/zapas/2897237,0.0,1.0,Ottawa Senators,Nashville Predators,24.0,57.0,68.0,35.0,80.0,63.0
+/zapas/2898133,0.0,0.0,Ottawa Senators,New York Rangers,21.0,55.0,68.0,37.0,65.0,57.0
+/zapas/2898138,0.0,1.0,Ottawa Senators,Winnipeg Jets,21.0,55.0,71.0,31.0,72.0,68.0
+/zapas/2898153,1.0,0.0,Ottawa Senators,Detroit Red Wings,21.0,56.0,70.0,18.0,60.0,96.0
+/zapas/2898168,1.0,0.0,Ottawa Senators,Boston Bruins,24.0,60.0,68.0,35.0,71.0,57.0
+/zapas/2898188,0.0,1.0,Ottawa Senators,Toronto Maple Leafs,27.0,58.0,62.0,40.0,88.0,72.0
+/zapas/2897583,0.0,0.0,Ottawa Senators,Seattle Kraken,28.0,61.0,65.0,23.0,54.0,65.0
+/zapas/2897595,1.0,0.0,Ottawa Senators,Vancouver Canucks,25.0,59.0,68.0,36.0,72.0,52.0
+/zapas/2898228,1.0,0.0,Ottawa Senators,Columbus Blue Jackets,25.0,59.0,68.0,22.0,57.0,75.0
+/zapas/2898236,1.0,1.0,Ottawa Senators,Montreal Canadiens,27.0,58.0,63.0,16.0,57.0,82.0
+/zapas/2898261,1.0,1.0,Ottawa Senators,New Jersey Devils,30.0,61.0,62.0,17.0,59.0,83.0
+/zapas/2898275,0.0,1.0,Ottawa Senators,Florida Panthers,32.0,65.0,62.0,42.0,86.0,61.0
+/zapas/2898291,1.0,0.0,Ottawa Senators,Philadelphia Flyers,29.0,62.0,65.0,17.0,55.0,81.0

@@ -1,0 +1,352 @@
+game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2526364,1.0,0.0,Columbus Blue Jackets,Buffalo Sabres,31.0,59.0,51.0,18.0,46.0,71.0
+/zapas/2526381,1.0,1.0,Columbus Blue Jackets,Calgary Flames,31.0,57.0,53.0,31.0,62.0,63.0
+/zapas/2526396,1.0,1.0,Columbus Blue Jackets,Ottawa Senators,33.0,57.0,48.0,28.0,64.0,67.0
+/zapas/2526418,0.0,0.0,Columbus Blue Jackets,Montreal Canadiens,34.0,60.0,49.0,25.0,52.0,67.0
+/zapas/2526425,1.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,31.0,58.0,51.0,29.0,60.0,61.0
+/zapas/2526445,1.0,1.0,Columbus Blue Jackets,Anaheim Ducks,31.0,56.0,49.0,28.0,57.0,61.0
+/zapas/2526456,0.0,0.0,Columbus Blue Jackets,Washington Capitals,31.0,55.0,49.0,30.0,53.0,58.0
+/zapas/2526471,0.0,1.0,Columbus Blue Jackets,New Jersey Devils,31.0,58.0,51.0,30.0,54.0,63.0
+/zapas/2526493,1.0,0.0,Columbus Blue Jackets,New Jersey Devils,31.0,55.0,49.0,31.0,53.0,60.0
+/zapas/2526505,1.0,1.0,Columbus Blue Jackets,Arizona Coyotes,31.0,55.0,51.0,21.0,48.0,62.0
+/zapas/2526524,0.0,1.0,Columbus Blue Jackets,Edmonton Oilers,32.0,54.0,50.0,25.0,64.0,66.0
+/zapas/2526535,1.0,1.0,Columbus Blue Jackets,New York Islanders,32.0,55.0,53.0,32.0,71.0,70.0
+/zapas/2526558,0.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,33.0,57.0,54.0,28.0,57.0,62.0
+/zapas/2526565,0.0,0.0,Columbus Blue Jackets,Boston Bruins,30.0,51.0,53.0,33.0,56.0,52.0
+/zapas/2526580,1.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,29.0,49.0,55.0,36.0,60.0,43.0
+/zapas/2526586,0.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,32.0,50.0,52.0,25.0,61.0,58.0
+/zapas/2526606,1.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,33.0,51.0,52.0,28.0,51.0,58.0
+/zapas/2526616,0.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,35.0,52.0,50.0,24.0,59.0,59.0
+/zapas/2526631,0.0,0.0,Columbus Blue Jackets,Ottawa Senators,34.0,54.0,54.0,15.0,38.0,69.0
+/zapas/2526649,0.0,1.0,Columbus Blue Jackets,Tampa Bay Lightning,32.0,56.0,58.0,39.0,70.0,48.0
+/zapas/2526663,1.0,0.0,Columbus Blue Jackets,Dallas Stars,29.0,54.0,63.0,34.0,64.0,51.0
+/zapas/2526681,0.0,0.0,Columbus Blue Jackets,Colorado Avalanche,29.0,53.0,62.0,29.0,60.0,57.0
+/zapas/2526701,1.0,1.0,Columbus Blue Jackets,Florida Panthers,27.0,52.0,64.0,31.0,50.0,58.0
+/zapas/2526706,1.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,26.0,50.0,64.0,31.0,60.0,55.0
+/zapas/2526717,0.0,0.0,Columbus Blue Jackets,Buffalo Sabres,28.0,52.0,63.0,16.0,41.0,70.0
+/zapas/2526719,0.0,1.0,Columbus Blue Jackets,Vancouver Canucks,26.0,50.0,64.0,17.0,48.0,79.0
+/zapas/2526753,1.0,1.0,Columbus Blue Jackets,Dallas Stars,23.0,48.0,67.0,32.0,63.0,52.0
+/zapas/2526796,0.0,0.0,Columbus Blue Jackets,Vegas Golden Knights,25.0,47.0,64.0,45.0,67.0,41.0
+/zapas/2526810,1.0,0.0,Columbus Blue Jackets,Arizona Coyotes,25.0,49.0,66.0,17.0,46.0,69.0
+/zapas/2526820,0.0,1.0,Columbus Blue Jackets,Minnesota Wild,25.0,46.0,64.0,34.0,57.0,53.0
+/zapas/2526844,0.0,1.0,Columbus Blue Jackets,San Jose Sharks,23.0,47.0,67.0,28.0,64.0,69.0
+/zapas/2526853,0.0,0.0,Columbus Blue Jackets,New York Islanders,23.0,46.0,63.0,22.0,59.0,78.0
+/zapas/2526869,0.0,1.0,Columbus Blue Jackets,Washington Capitals,20.0,43.0,63.0,32.0,62.0,59.0
+/zapas/2526891,0.0,0.0,Columbus Blue Jackets,Washington Capitals,20.0,44.0,64.0,32.0,60.0,58.0
+/zapas/2526902,1.0,1.0,Columbus Blue Jackets,New Jersey Devils,20.0,44.0,61.0,25.0,54.0,60.0
+/zapas/2526920,1.0,0.0,Columbus Blue Jackets,New York Islanders,20.0,46.0,60.0,20.0,60.0,81.0
+/zapas/2526930,0.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,22.0,48.0,58.0,33.0,63.0,54.0
+/zapas/2526944,0.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,20.0,49.0,63.0,36.0,68.0,61.0
+/zapas/2526962,0.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,20.0,46.0,60.0,45.0,79.0,50.0
+/zapas/2526973,1.0,0.0,Columbus Blue Jackets,New Jersey Devils,20.0,44.0,60.0,25.0,57.0,65.0
+/zapas/2526986,0.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,23.0,46.0,56.0,37.0,68.0,56.0
+/zapas/2527009,1.0,1.0,Columbus Blue Jackets,Chicago Blackhawks,20.0,45.0,57.0,19.0,43.0,60.0
+/zapas/2527018,1.0,1.0,Columbus Blue Jackets,Washington Capitals,23.0,48.0,57.0,31.0,62.0,64.0
+/zapas/2527043,0.0,0.0,Columbus Blue Jackets,Los Angeles Kings,24.0,50.0,56.0,31.0,55.0,51.0
+/zapas/2527053,0.0,0.0,Columbus Blue Jackets,Anaheim Ducks,22.0,49.0,59.0,33.0,55.0,56.0
+/zapas/2527068,1.0,0.0,Columbus Blue Jackets,San Jose Sharks,22.0,50.0,60.0,32.0,66.0,60.0
+/zapas/2527077,1.0,1.0,Columbus Blue Jackets,Vegas Golden Knights,25.0,52.0,57.0,36.0,73.0,58.0
+/zapas/2527088,1.0,1.0,Columbus Blue Jackets,Colorado Avalanche,26.0,54.0,57.0,26.0,52.0,63.0
+/zapas/2527098,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,28.0,56.0,55.0,21.0,50.0,62.0
+/zapas/2527120,1.0,1.0,Columbus Blue Jackets,Montreal Canadiens,28.0,57.0,56.0,21.0,49.0,64.0
+/zapas/2527139,1.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,30.0,60.0,55.0,31.0,61.0,59.0
+/zapas/2527158,1.0,1.0,Columbus Blue Jackets,Ottawa Senators,33.0,64.0,55.0,25.0,65.0,70.0
+/zapas/2527170,1.0,0.0,Columbus Blue Jackets,Boston Bruins,36.0,63.0,52.0,38.0,71.0,58.0
+/zapas/2527176,1.0,0.0,Columbus Blue Jackets,New York Rangers,38.0,66.0,53.0,22.0,53.0,71.0
+/zapas/2527193,1.0,1.0,Columbus Blue Jackets,Florida Panthers,41.0,69.0,52.0,41.0,73.0,54.0
+/zapas/2527214,0.0,1.0,Columbus Blue Jackets,St. Louis Blues,41.0,67.0,51.0,26.0,54.0,61.0
+/zapas/2527238,1.0,0.0,Columbus Blue Jackets,Edmonton Oilers,38.0,64.0,52.0,31.0,63.0,55.0
+/zapas/2527251,1.0,0.0,Columbus Blue Jackets,Calgary Flames,41.0,68.0,49.0,20.0,44.0,70.0
+/zapas/2527262,0.0,0.0,Columbus Blue Jackets,Vancouver Canucks,43.0,72.0,48.0,23.0,52.0,61.0
+/zapas/2527285,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,44.0,74.0,48.0,18.0,50.0,65.0
+/zapas/2527299,0.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,43.0,77.0,51.0,31.0,73.0,68.0
+/zapas/2527319,0.0,0.0,Columbus Blue Jackets,Nashville Predators,44.0,80.0,54.0,41.0,67.0,54.0
+/zapas/2647208,1.0,0.0,Columbus Blue Jackets,Detroit Red Wings,41.0,79.0,56.0,14.0,52.0,72.0
+/zapas/2647213,0.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,40.0,77.0,57.0,27.0,62.0,65.0
+/zapas/2647236,1.0,1.0,Columbus Blue Jackets,Colorado Avalanche,40.0,76.0,55.0,33.0,64.0,51.0
+/zapas/2647245,1.0,0.0,Columbus Blue Jackets,Florida Panthers,43.0,79.0,53.0,38.0,60.0,49.0
+/zapas/2647261,0.0,0.0,Columbus Blue Jackets,Tampa Bay Lightning,43.0,80.0,55.0,32.0,71.0,69.0
+/zapas/2647290,1.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,40.0,78.0,62.0,34.0,72.0,67.0
+/zapas/2647307,0.0,1.0,Columbus Blue Jackets,Chicago Blackhawks,41.0,79.0,61.0,22.0,60.0,82.0
+/zapas/2647321,0.0,1.0,Columbus Blue Jackets,Arizona Coyotes,38.0,77.0,63.0,24.0,52.0,51.0
+/zapas/2647335,1.0,0.0,Columbus Blue Jackets,St. Louis Blues,35.0,73.0,65.0,27.0,59.0,65.0
+/zapas/2647352,1.0,1.0,Columbus Blue Jackets,Buffalo Sabres,35.0,75.0,66.0,24.0,53.0,72.0
+/zapas/2647368,0.0,1.0,Columbus Blue Jackets,Detroit Red Wings,34.0,78.0,69.0,18.0,53.0,70.0
+/zapas/2647389,1.0,0.0,Columbus Blue Jackets,San Jose Sharks,32.0,76.0,70.0,28.0,66.0,63.0
+/zapas/2647403,0.0,0.0,Columbus Blue Jackets,Los Angeles Kings,32.0,75.0,68.0,25.0,51.0,61.0
+/zapas/2647407,0.0,0.0,Columbus Blue Jackets,Anaheim Ducks,29.0,72.0,72.0,30.0,52.0,52.0
+/zapas/2647415,1.0,1.0,Columbus Blue Jackets,Dallas Stars,30.0,73.0,73.0,35.0,61.0,53.0
+/zapas/2647435,1.0,0.0,Columbus Blue Jackets,Washington Capitals,30.0,70.0,71.0,33.0,71.0,66.0
+/zapas/2647449,0.0,1.0,Columbus Blue Jackets,New York Rangers,30.0,67.0,71.0,22.0,50.0,63.0
+/zapas/2647460,1.0,0.0,Columbus Blue Jackets,Dallas Stars,30.0,67.0,71.0,34.0,61.0,57.0
+/zapas/2647478,1.0,1.0,Columbus Blue Jackets,Florida Panthers,31.0,64.0,68.0,37.0,65.0,56.0
+/zapas/2647496,1.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,33.0,67.0,66.0,26.0,56.0,60.0
+/zapas/2647506,0.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,36.0,69.0,63.0,39.0,70.0,51.0
+/zapas/2647537,1.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,34.0,68.0,65.0,40.0,70.0,51.0
+/zapas/2647552,0.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,37.0,71.0,64.0,25.0,63.0,63.0
+/zapas/2647564,1.0,0.0,Columbus Blue Jackets,Detroit Red Wings,34.0,68.0,66.0,25.0,57.0,63.0
+/zapas/2647581,1.0,1.0,Columbus Blue Jackets,Minnesota Wild,34.0,70.0,67.0,38.0,68.0,53.0
+/zapas/2647600,0.0,0.0,Columbus Blue Jackets,New York Islanders,37.0,72.0,61.0,31.0,62.0,60.0
+/zapas/2647618,0.0,1.0,Columbus Blue Jackets,Calgary Flames,34.0,68.0,61.0,37.0,65.0,53.0
+/zapas/2647629,1.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,34.0,73.0,66.0,27.0,60.0,68.0
+/zapas/2647649,0.0,1.0,Columbus Blue Jackets,Washington Capitals,36.0,76.0,65.0,34.0,68.0,60.0
+/zapas/2647667,0.0,1.0,Columbus Blue Jackets,Vancouver Canucks,33.0,69.0,65.0,23.0,64.0,69.0
+/zapas/2647678,1.0,1.0,Columbus Blue Jackets,Los Angeles Kings,31.0,66.0,64.0,23.0,47.0,54.0
+/zapas/2647699,0.0,1.0,Columbus Blue Jackets,Anaheim Ducks,34.0,67.0,60.0,34.0,55.0,60.0
+/zapas/2647711,1.0,1.0,Columbus Blue Jackets,Vegas Golden Knights,32.0,64.0,61.0,38.0,73.0,59.0
+/zapas/2647733,1.0,1.0,Columbus Blue Jackets,New Jersey Devils,35.0,64.0,57.0,20.0,57.0,82.0
+/zapas/2647744,1.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,37.0,64.0,55.0,27.0,58.0,69.0
+/zapas/2647757,1.0,0.0,Columbus Blue Jackets,New Jersey Devils,37.0,64.0,57.0,23.0,59.0,73.0
+/zapas/2647766,1.0,0.0,Columbus Blue Jackets,New York Rangers,37.0,65.0,56.0,27.0,59.0,68.0
+/zapas/2647780,0.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,38.0,65.0,54.0,41.0,82.0,57.0
+/zapas/2647803,1.0,1.0,Columbus Blue Jackets,Ottawa Senators,35.0,65.0,57.0,20.0,59.0,76.0
+/zapas/2647829,0.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,35.0,64.0,57.0,29.0,48.0,54.0
+/zapas/2647839,1.0,0.0,Columbus Blue Jackets,Florida Panthers,32.0,62.0,60.0,26.0,63.0,69.0
+/zapas/2647861,0.0,0.0,Columbus Blue Jackets,Tampa Bay Lightning,34.0,64.0,59.0,47.0,93.0,60.0
+/zapas/2647873,1.0,1.0,Columbus Blue Jackets,Nashville Predators,31.0,60.0,61.0,29.0,56.0,51.0
+/zapas/2647890,1.0,0.0,Columbus Blue Jackets,Washington Capitals,33.0,62.0,60.0,41.0,73.0,53.0
+/zapas/2647899,1.0,1.0,Columbus Blue Jackets,New York Rangers,32.0,57.0,56.0,22.0,50.0,76.0
+/zapas/2647911,1.0,1.0,Columbus Blue Jackets,New Jersey Devils,32.0,60.0,59.0,27.0,62.0,67.0
+/zapas/2647932,0.0,1.0,Columbus Blue Jackets,Montreal Canadiens,35.0,62.0,57.0,36.0,58.0,52.0
+/zapas/2647946,0.0,0.0,Columbus Blue Jackets,Minnesota Wild,35.0,57.0,52.0,24.0,45.0,59.0
+/zapas/2647973,0.0,1.0,Columbus Blue Jackets,Buffalo Sabres,33.0,54.0,51.0,22.0,54.0,66.0
+/zapas/2647978,0.0,0.0,Columbus Blue Jackets,Winnipeg Jets,33.0,58.0,52.0,34.0,65.0,57.0
+/zapas/2647995,0.0,1.0,Columbus Blue Jackets,St. Louis Blues,33.0,59.0,53.0,33.0,57.0,52.0
+/zapas/2648017,1.0,0.0,Columbus Blue Jackets,Colorado Avalanche,30.0,57.0,56.0,18.0,58.0,73.0
+/zapas/2648034,1.0,0.0,Columbus Blue Jackets,Arizona Coyotes,32.0,62.0,57.0,27.0,58.0,63.0
+/zapas/2648049,1.0,0.0,Columbus Blue Jackets,Vegas Golden Knights,32.0,65.0,59.0,36.0,60.0,51.0
+/zapas/2648064,1.0,1.0,Columbus Blue Jackets,Washington Capitals,32.0,67.0,61.0,27.0,60.0,76.0
+/zapas/2648076,0.0,1.0,Columbus Blue Jackets,New York Islanders,32.0,66.0,58.0,40.0,54.0,35.0
+/zapas/2648098,1.0,0.0,Columbus Blue Jackets,Chicago Blackhawks,29.0,63.0,61.0,32.0,82.0,72.0
+/zapas/2648109,0.0,1.0,Columbus Blue Jackets,Tampa Bay Lightning,30.0,64.0,60.0,42.0,66.0,43.0
+/zapas/2648118,0.0,0.0,Columbus Blue Jackets,Montreal Canadiens,30.0,63.0,61.0,32.0,51.0,48.0
+/zapas/2648138,1.0,0.0,Columbus Blue Jackets,Ottawa Senators,27.0,59.0,61.0,20.0,60.0,64.0
+/zapas/2648148,1.0,1.0,Columbus Blue Jackets,San Jose Sharks,30.0,60.0,57.0,43.0,83.0,61.0
+/zapas/2648171,0.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,31.0,60.0,54.0,28.0,66.0,73.0
+/zapas/2648184,1.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,31.0,62.0,55.0,42.0,69.0,55.0
+/zapas/2648197,0.0,1.0,Columbus Blue Jackets,Edmonton Oilers,31.0,62.0,55.0,20.0,55.0,72.0
+/zapas/2648212,0.0,1.0,Columbus Blue Jackets,Winnipeg Jets,29.0,60.0,58.0,30.0,65.0,66.0
+/zapas/2648218,1.0,0.0,Columbus Blue Jackets,New Jersey Devils,26.0,55.0,58.0,20.0,51.0,66.0
+/zapas/2648232,0.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,25.0,53.0,58.0,31.0,66.0,67.0
+/zapas/2648253,1.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,25.0,52.0,57.0,32.0,66.0,65.0
+/zapas/2648264,0.0,0.0,Columbus Blue Jackets,New York Islanders,28.0,55.0,56.0,30.0,53.0,49.0
+/zapas/2648272,1.0,1.0,Columbus Blue Jackets,Boston Bruins,28.0,51.0,53.0,44.0,64.0,45.0
+/zapas/2648292,1.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,31.0,55.0,53.0,44.0,73.0,44.0
+/zapas/2648301,0.0,0.0,Columbus Blue Jackets,Boston Bruins,34.0,56.0,49.0,42.0,66.0,49.0
+/zapas/2648329,0.0,0.0,Columbus Blue Jackets,Calgary Flames,32.0,51.0,48.0,35.0,63.0,57.0
+/zapas/2648343,0.0,0.0,Columbus Blue Jackets,Edmonton Oilers,29.0,49.0,50.0,26.0,53.0,66.0
+/zapas/2648366,1.0,0.0,Columbus Blue Jackets,Vancouver Canucks,26.0,46.0,51.0,22.0,49.0,61.0
+/zapas/2648377,1.0,1.0,Columbus Blue Jackets,New York Islanders,26.0,48.0,51.0,32.0,51.0,48.0
+/zapas/2648389,1.0,1.0,Columbus Blue Jackets,Montreal Canadiens,29.0,52.0,48.0,31.0,60.0,55.0
+/zapas/2648408,1.0,0.0,Columbus Blue Jackets,Nashville Predators,29.0,53.0,48.0,31.0,47.0,52.0
+/zapas/2648416,1.0,0.0,Columbus Blue Jackets,Buffalo Sabres,32.0,57.0,45.0,10.0,44.0,80.0
+/zapas/2648428,0.0,1.0,Columbus Blue Jackets,Boston Bruins,35.0,59.0,42.0,36.0,72.0,57.0
+/zapas/2648452,1.0,0.0,Columbus Blue Jackets,New York Rangers,32.0,58.0,48.0,19.0,48.0,67.0
+/zapas/2648458,1.0,0.0,Columbus Blue Jackets,Ottawa Senators,31.0,57.0,50.0,21.0,54.0,70.0
+/zapas/2806391,0.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,34.0,61.0,47.0,28.0,64.0,76.0
+/zapas/2806398,0.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,32.0,58.0,48.0,35.0,56.0,47.0
+/zapas/2806411,1.0,1.0,Columbus Blue Jackets,Buffalo Sabres,32.0,60.0,51.0,16.0,51.0,72.0
+/zapas/2806435,0.0,1.0,Columbus Blue Jackets,Anaheim Ducks,34.0,62.0,49.0,39.0,64.0,53.0
+/zapas/2806445,1.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,32.0,61.0,50.0,40.0,67.0,48.0
+/zapas/2806470,1.0,1.0,Columbus Blue Jackets,Dallas Stars,35.0,64.0,49.0,25.0,49.0,53.0
+/zapas/2806486,0.0,0.0,Columbus Blue Jackets,Chicago Blackhawks,35.0,63.0,50.0,31.0,62.0,55.0
+/zapas/2806496,0.0,1.0,Columbus Blue Jackets,New York Islanders,36.0,65.0,51.0,32.0,46.0,46.0
+/zapas/2806505,1.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,34.0,60.0,50.0,27.0,64.0,72.0
+/zapas/2806524,1.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,33.0,61.0,53.0,34.0,63.0,52.0
+/zapas/2806541,0.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,34.0,64.0,54.0,20.0,55.0,70.0
+/zapas/2806565,0.0,1.0,Columbus Blue Jackets,Edmonton Oilers,34.0,66.0,57.0,30.0,57.0,61.0
+/zapas/2806576,0.0,0.0,Columbus Blue Jackets,St. Louis Blues,34.0,66.0,57.0,36.0,63.0,59.0
+/zapas/2806588,0.0,1.0,Columbus Blue Jackets,Calgary Flames,32.0,64.0,61.0,29.0,63.0,58.0
+/zapas/2806603,0.0,1.0,Columbus Blue Jackets,Vegas Golden Knights,29.0,60.0,64.0,28.0,60.0,62.0
+/zapas/2806622,1.0,0.0,Columbus Blue Jackets,Arizona Coyotes,26.0,55.0,64.0,33.0,57.0,45.0
+/zapas/2806636,0.0,0.0,Columbus Blue Jackets,Colorado Avalanche,26.0,53.0,64.0,33.0,71.0,59.0
+/zapas/2806649,0.0,0.0,Columbus Blue Jackets,Montreal Canadiens,23.0,51.0,68.0,33.0,73.0,63.0
+/zapas/2806673,1.0,1.0,Columbus Blue Jackets,St. Louis Blues,24.0,51.0,65.0,37.0,62.0,57.0
+/zapas/2806698,1.0,1.0,Columbus Blue Jackets,Montreal Canadiens,24.0,51.0,65.0,34.0,73.0,62.0
+/zapas/2806713,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,24.0,50.0,65.0,17.0,44.0,77.0
+/zapas/2806728,0.0,0.0,Columbus Blue Jackets,Winnipeg Jets,27.0,54.0,65.0,32.0,54.0,56.0
+/zapas/2806745,1.0,1.0,Columbus Blue Jackets,Ottawa Senators,27.0,55.0,62.0,32.0,57.0,56.0
+/zapas/2806760,0.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,28.0,52.0,59.0,30.0,61.0,63.0
+/zapas/2806776,1.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,28.0,53.0,60.0,33.0,71.0,54.0
+/zapas/2806786,0.0,0.0,Columbus Blue Jackets,New York Islanders,28.0,55.0,60.0,41.0,62.0,50.0
+/zapas/2806805,0.0,1.0,Columbus Blue Jackets,Arizona Coyotes,25.0,52.0,60.0,28.0,54.0,52.0
+/zapas/2806820,0.0,1.0,Columbus Blue Jackets,New York Rangers,24.0,52.0,61.0,34.0,67.0,65.0
+/zapas/2806834,0.0,0.0,Columbus Blue Jackets,Florida Panthers,23.0,52.0,61.0,30.0,73.0,68.0
+/zapas/2806845,1.0,0.0,Columbus Blue Jackets,Washington Capitals,21.0,49.0,62.0,42.0,74.0,54.0
+/zapas/2806866,0.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,22.0,50.0,61.0,34.0,68.0,55.0
+/zapas/2806877,0.0,0.0,Columbus Blue Jackets,Ottawa Senators,23.0,46.0,55.0,29.0,55.0,58.0
+/zapas/2806897,1.0,1.0,Columbus Blue Jackets,Washington Capitals,24.0,48.0,55.0,43.0,71.0,51.0
+/zapas/2806905,1.0,0.0,Columbus Blue Jackets,Detroit Red Wings,26.0,48.0,51.0,16.0,43.0,79.0
+/zapas/2806917,1.0,1.0,Columbus Blue Jackets,Los Angeles Kings,29.0,53.0,51.0,30.0,53.0,51.0
+/zapas/2806937,1.0,1.0,Columbus Blue Jackets,New Jersey Devils,31.0,55.0,51.0,21.0,43.0,66.0
+/zapas/2806949,1.0,0.0,Columbus Blue Jackets,New York Islanders,31.0,57.0,50.0,33.0,59.0,58.0
+/zapas/2806961,0.0,0.0,Columbus Blue Jackets,Washington Capitals,34.0,58.0,48.0,38.0,63.0,56.0
+/zapas/2806980,0.0,1.0,Columbus Blue Jackets,Chicago Blackhawks,34.0,57.0,47.0,24.0,53.0,69.0
+/zapas/2806995,1.0,1.0,Columbus Blue Jackets,Florida Panthers,33.0,56.0,48.0,32.0,71.0,63.0
+/zapas/2807003,1.0,0.0,Columbus Blue Jackets,Boston Bruins,33.0,55.0,47.0,36.0,63.0,51.0
+/zapas/2807018,0.0,1.0,Columbus Blue Jackets,San Jose Sharks,32.0,52.0,44.0,22.0,47.0,63.0
+/zapas/2807038,1.0,0.0,Columbus Blue Jackets,Los Angeles Kings,32.0,51.0,43.0,25.0,50.0,57.0
+/zapas/2807050,1.0,0.0,Columbus Blue Jackets,Anaheim Ducks,32.0,54.0,45.0,20.0,51.0,68.0
+/zapas/2807064,0.0,0.0,Columbus Blue Jackets,San Jose Sharks,35.0,56.0,45.0,20.0,48.0,68.0
+/zapas/2807076,1.0,0.0,Columbus Blue Jackets,Vegas Golden Knights,32.0,52.0,46.0,35.0,68.0,62.0
+/zapas/2807095,1.0,1.0,Columbus Blue Jackets,Boston Bruins,35.0,55.0,44.0,30.0,60.0,60.0
+/zapas/2807109,1.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,38.0,56.0,40.0,35.0,65.0,51.0
+/zapas/2807127,1.0,1.0,Columbus Blue Jackets,New Jersey Devils,41.0,57.0,39.0,25.0,57.0,67.0
+/zapas/2807134,1.0,0.0,Columbus Blue Jackets,New York Rangers,44.0,61.0,35.0,30.0,71.0,66.0
+/zapas/2807142,1.0,1.0,Columbus Blue Jackets,Winnipeg Jets,44.0,58.0,34.0,22.0,62.0,74.0
+/zapas/2807168,0.0,0.0,Columbus Blue Jackets,Buffalo Sabres,46.0,62.0,36.0,24.0,52.0,65.0
+/zapas/2807183,1.0,0.0,Columbus Blue Jackets,Montreal Canadiens,46.0,60.0,34.0,25.0,59.0,55.0
+/zapas/2807194,1.0,1.0,Columbus Blue Jackets,Florida Panthers,46.0,61.0,37.0,42.0,81.0,66.0
+/zapas/2807217,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,45.0,57.0,34.0,11.0,39.0,74.0
+/zapas/2807227,0.0,1.0,Columbus Blue Jackets,Colorado Avalanche,46.0,56.0,32.0,30.0,75.0,65.0
+/zapas/2807239,0.0,1.0,Columbus Blue Jackets,Tampa Bay Lightning,43.0,52.0,33.0,51.0,75.0,39.0
+/zapas/2807256,0.0,0.0,Columbus Blue Jackets,Buffalo Sabres,41.0,50.0,33.0,23.0,48.0,62.0
+/zapas/2807269,0.0,1.0,Columbus Blue Jackets,New York Rangers,41.0,52.0,35.0,34.0,71.0,59.0
+/zapas/2807288,0.0,0.0,Columbus Blue Jackets,New Jersey Devils,40.0,51.0,35.0,28.0,63.0,68.0
+/zapas/2807296,0.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,38.0,50.0,38.0,30.0,69.0,64.0
+/zapas/2807312,0.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,36.0,49.0,42.0,33.0,71.0,60.0
+/zapas/2807331,0.0,0.0,Columbus Blue Jackets,Nashville Predators,37.0,50.0,43.0,30.0,53.0,61.0
+/zapas/2807343,1.0,1.0,Columbus Blue Jackets,Ottawa Senators,35.0,49.0,45.0,20.0,47.0,69.0
+/zapas/2807354,0.0,0.0,Columbus Blue Jackets,Minnesota Wild,34.0,49.0,45.0,29.0,60.0,60.0
+/zapas/2807371,0.0,1.0,Columbus Blue Jackets,Minnesota Wild,34.0,52.0,47.0,32.0,65.0,58.0
+/zapas/2807389,1.0,1.0,Columbus Blue Jackets,Vancouver Canucks,31.0,49.0,52.0,33.0,66.0,60.0
+/zapas/2807406,0.0,0.0,Columbus Blue Jackets,Calgary Flames,31.0,51.0,55.0,27.0,70.0,67.0
+/zapas/2807434,0.0,0.0,Columbus Blue Jackets,Edmonton Oilers,29.0,50.0,56.0,34.0,69.0,59.0
+/zapas/2807440,1.0,0.0,Columbus Blue Jackets,Vancouver Canucks,26.0,46.0,60.0,30.0,67.0,64.0
+/zapas/2893214,0.0,0.0,Columbus Blue Jackets,Nashville Predators,26.0,46.0,60.0,33.0,52.0,54.0
+/zapas/2893231,0.0,0.0,Columbus Blue Jackets,Nashville Predators,23.0,43.0,60.0,34.0,49.0,50.0
+/zapas/2893250,1.0,0.0,Columbus Blue Jackets,Detroit Red Wings,22.0,44.0,63.0,17.0,38.0,68.0
+/zapas/2893260,0.0,0.0,Columbus Blue Jackets,Detroit Red Wings,22.0,43.0,62.0,17.0,40.0,68.0
+/zapas/2893271,0.0,1.0,Columbus Blue Jackets,Tampa Bay Lightning,21.0,44.0,65.0,37.0,67.0,53.0
+/zapas/2893287,1.0,1.0,Columbus Blue Jackets,Tampa Bay Lightning,19.0,44.0,68.0,36.0,66.0,53.0
+/zapas/2893313,0.0,1.0,Columbus Blue Jackets,Florida Panthers,22.0,48.0,68.0,26.0,53.0,64.0
+/zapas/2893327,1.0,1.0,Columbus Blue Jackets,Florida Panthers,22.0,50.0,70.0,27.0,57.0,66.0
+/zapas/2893331,1.0,0.0,Columbus Blue Jackets,Chicago Blackhawks,23.0,50.0,68.0,25.0,60.0,61.0
+/zapas/2893344,0.0,0.0,Columbus Blue Jackets,Chicago Blackhawks,26.0,51.0,66.0,25.0,59.0,60.0
+/zapas/2893365,0.0,1.0,Columbus Blue Jackets,Dallas Stars,25.0,49.0,65.0,32.0,56.0,50.0
+/zapas/2893379,1.0,1.0,Columbus Blue Jackets,Dallas Stars,25.0,51.0,66.0,32.0,58.0,52.0
+/zapas/2893401,0.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,27.0,52.0,65.0,34.0,67.0,55.0
+/zapas/2893406,1.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,26.0,54.0,67.0,34.0,68.0,58.0
+/zapas/2893422,1.0,0.0,Columbus Blue Jackets,Chicago Blackhawks,27.0,53.0,66.0,31.0,59.0,54.0
+/zapas/2893437,0.0,0.0,Columbus Blue Jackets,Chicago Blackhawks,30.0,55.0,66.0,29.0,61.0,58.0
+/zapas/2893464,0.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,31.0,57.0,64.0,35.0,70.0,57.0
+/zapas/2893479,1.0,1.0,Columbus Blue Jackets,Nashville Predators,28.0,55.0,68.0,24.0,47.0,65.0
+/zapas/2893495,0.0,1.0,Columbus Blue Jackets,Nashville Predators,30.0,56.0,65.0,24.0,44.0,60.0
+/zapas/2893512,0.0,1.0,Columbus Blue Jackets,Chicago Blackhawks,30.0,57.0,65.0,30.0,61.0,58.0
+/zapas/2893526,0.0,1.0,Columbus Blue Jackets,Chicago Blackhawks,28.0,60.0,70.0,29.0,61.0,61.0
+/zapas/2893536,0.0,0.0,Columbus Blue Jackets,Nashville Predators,28.0,59.0,69.0,24.0,48.0,64.0
+/zapas/2893549,0.0,0.0,Columbus Blue Jackets,Nashville Predators,28.0,58.0,66.0,24.0,46.0,63.0
+/zapas/2893565,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,25.0,56.0,67.0,18.0,42.0,68.0
+/zapas/2893574,1.0,0.0,Columbus Blue Jackets,Dallas Stars,27.0,58.0,65.0,21.0,48.0,54.0
+/zapas/2893590,0.0,0.0,Columbus Blue Jackets,Dallas Stars,29.0,59.0,64.0,21.0,50.0,55.0
+/zapas/2893615,0.0,1.0,Columbus Blue Jackets,Florida Panthers,26.0,54.0,67.0,37.0,64.0,58.0
+/zapas/2893630,0.0,1.0,Columbus Blue Jackets,Florida Panthers,25.0,53.0,67.0,38.0,65.0,58.0
+/zapas/2893646,1.0,1.0,Columbus Blue Jackets,Dallas Stars,24.0,54.0,70.0,22.0,54.0,57.0
+/zapas/2893661,0.0,1.0,Columbus Blue Jackets,Dallas Stars,23.0,56.0,72.0,21.0,55.0,60.0
+/zapas/2893680,1.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,24.0,56.0,71.0,39.0,71.0,53.0
+/zapas/2893695,1.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,26.0,56.0,67.0,37.0,67.0,51.0
+/zapas/2893706,0.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,25.0,55.0,66.0,38.0,67.0,51.0
+/zapas/2893730,0.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,25.0,50.0,63.0,38.0,65.0,48.0
+/zapas/2893746,0.0,0.0,Columbus Blue Jackets,Detroit Red Wings,23.0,50.0,65.0,23.0,45.0,67.0
+/zapas/2893754,0.0,0.0,Columbus Blue Jackets,Detroit Red Wings,20.0,45.0,63.0,26.0,46.0,65.0
+/zapas/2893769,1.0,0.0,Columbus Blue Jackets,Tampa Bay Lightning,19.0,44.0,64.0,40.0,69.0,50.0
+/zapas/2893784,0.0,0.0,Columbus Blue Jackets,Tampa Bay Lightning,22.0,44.0,58.0,40.0,70.0,49.0
+/zapas/2893801,0.0,0.0,Columbus Blue Jackets,Florida Panthers,19.0,43.0,61.0,35.0,63.0,53.0
+/zapas/2893810,0.0,0.0,Columbus Blue Jackets,Florida Panthers,19.0,43.0,62.0,38.0,68.0,52.0
+/zapas/2893826,1.0,1.0,Columbus Blue Jackets,Tampa Bay Lightning,18.0,38.0,59.0,37.0,66.0,54.0
+/zapas/2893840,0.0,1.0,Columbus Blue Jackets,Tampa Bay Lightning,21.0,42.0,59.0,34.0,63.0,58.0
+/zapas/2893854,0.0,1.0,Columbus Blue Jackets,Chicago Blackhawks,21.0,45.0,63.0,21.0,51.0,68.0
+/zapas/2893868,0.0,1.0,Columbus Blue Jackets,Chicago Blackhawks,21.0,47.0,64.0,24.0,52.0,66.0
+/zapas/2893884,0.0,0.0,Columbus Blue Jackets,Dallas Stars,19.0,46.0,67.0,27.0,51.0,52.0
+/zapas/2893900,0.0,0.0,Columbus Blue Jackets,Dallas Stars,16.0,44.0,69.0,30.0,53.0,49.0
+/zapas/2893918,0.0,0.0,Columbus Blue Jackets,Florida Panthers,16.0,45.0,69.0,33.0,59.0,51.0
+/zapas/2893931,0.0,0.0,Columbus Blue Jackets,Florida Panthers,16.0,45.0,69.0,34.0,58.0,49.0
+/zapas/2893941,0.0,0.0,Columbus Blue Jackets,Tampa Bay Lightning,15.0,42.0,69.0,30.0,56.0,61.0
+/zapas/2893964,0.0,0.0,Columbus Blue Jackets,Tampa Bay Lightning,13.0,39.0,69.0,33.0,58.0,58.0
+/zapas/2893982,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,13.0,41.0,71.0,27.0,47.0,59.0
+/zapas/2894013,0.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,13.0,39.0,69.0,42.0,63.0,42.0
+/zapas/2894027,0.0,1.0,Columbus Blue Jackets,Nashville Predators,12.0,37.0,69.0,39.0,65.0,43.0
+/zapas/2894042,1.0,1.0,Columbus Blue Jackets,Nashville Predators,13.0,40.0,70.0,38.0,67.0,46.0
+/zapas/2894057,0.0,1.0,Columbus Blue Jackets,Detroit Red Wings,15.0,41.0,68.0,27.0,46.0,51.0
+/zapas/2894071,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,15.0,42.0,70.0,27.0,48.0,52.0
+/zapas/2896997,1.0,1.0,Columbus Blue Jackets,Arizona Coyotes,17.0,46.0,70.0,23.0,58.0,64.0
+/zapas/2897026,0.0,0.0,Columbus Blue Jackets,Detroit Red Wings,19.0,51.0,69.0,28.0,54.0,57.0
+/zapas/2897042,1.0,1.0,Columbus Blue Jackets,New York Islanders,19.0,50.0,68.0,24.0,46.0,50.0
+/zapas/2897059,0.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,21.0,53.0,67.0,40.0,64.0,48.0
+/zapas/2897070,1.0,1.0,Columbus Blue Jackets,Dallas Stars,18.0,50.0,70.0,28.0,56.0,58.0
+/zapas/2897095,0.0,0.0,Columbus Blue Jackets,New York Rangers,21.0,50.0,65.0,30.0,52.0,63.0
+/zapas/2897111,1.0,0.0,Columbus Blue Jackets,New Jersey Devils,21.0,47.0,65.0,25.0,60.0,72.0
+/zapas/2897126,1.0,0.0,Columbus Blue Jackets,Colorado Avalanche,22.0,48.0,64.0,34.0,63.0,57.0
+/zapas/2897154,1.0,1.0,Columbus Blue Jackets,Colorado Avalanche,24.0,52.0,64.0,35.0,64.0,57.0
+/zapas/2897191,0.0,1.0,Columbus Blue Jackets,Washington Capitals,27.0,55.0,61.0,37.0,64.0,51.0
+/zapas/2897204,0.0,1.0,Columbus Blue Jackets,New York Rangers,27.0,56.0,61.0,29.0,46.0,63.0
+/zapas/2897212,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,27.0,58.0,61.0,29.0,57.0,59.0
+/zapas/2897231,1.0,0.0,Columbus Blue Jackets,Arizona Coyotes,30.0,62.0,61.0,12.0,40.0,75.0
+/zapas/2897242,0.0,0.0,Columbus Blue Jackets,Vegas Golden Knights,31.0,64.0,61.0,34.0,65.0,55.0
+/zapas/2897267,1.0,0.0,Columbus Blue Jackets,Buffalo Sabres,29.0,65.0,64.0,23.0,57.0,66.0
+/zapas/2897284,1.0,1.0,Columbus Blue Jackets,Winnipeg Jets,31.0,71.0,66.0,35.0,64.0,50.0
+/zapas/2897297,1.0,1.0,Columbus Blue Jackets,Vancouver Canucks,33.0,71.0,62.0,18.0,47.0,66.0
+/zapas/2897303,0.0,0.0,Columbus Blue Jackets,St. Louis Blues,33.0,71.0,62.0,32.0,65.0,56.0
+/zapas/2897320,0.0,0.0,Columbus Blue Jackets,Nashville Predators,33.0,72.0,63.0,31.0,55.0,59.0
+/zapas/2897335,0.0,0.0,Columbus Blue Jackets,Dallas Stars,31.0,67.0,65.0,31.0,57.0,56.0
+/zapas/2897356,0.0,0.0,Columbus Blue Jackets,Washington Capitals,28.0,61.0,66.0,38.0,69.0,54.0
+/zapas/2897363,1.0,1.0,Columbus Blue Jackets,San Jose Sharks,26.0,60.0,68.0,25.0,46.0,55.0
+/zapas/2897375,0.0,0.0,Columbus Blue Jackets,Toronto Maple Leafs,29.0,65.0,68.0,43.0,68.0,43.0
+/zapas/2897392,0.0,1.0,Columbus Blue Jackets,Anaheim Ducks,27.0,66.0,71.0,37.0,69.0,54.0
+/zapas/2897402,1.0,0.0,Columbus Blue Jackets,Seattle Kraken,28.0,66.0,68.0,25.0,60.0,70.0
+/zapas/2897418,0.0,0.0,Columbus Blue Jackets,Vancouver Canucks,27.0,67.0,71.0,25.0,50.0,60.0
+/zapas/2897437,0.0,0.0,Columbus Blue Jackets,Edmonton Oilers,27.0,70.0,71.0,28.0,62.0,66.0
+/zapas/2897539,1.0,1.0,Columbus Blue Jackets,Nashville Predators,25.0,68.0,73.0,37.0,61.0,53.0
+/zapas/2897555,0.0,1.0,Columbus Blue Jackets,Carolina Hurricanes,25.0,67.0,72.0,38.0,60.0,42.0
+/zapas/2897576,0.0,1.0,Columbus Blue Jackets,Tampa Bay Lightning,22.0,67.0,77.0,36.0,66.0,61.0
+/zapas/2897591,0.0,0.0,Columbus Blue Jackets,New Jersey Devils,22.0,66.0,80.0,18.0,57.0,79.0
+/zapas/2897609,1.0,1.0,Columbus Blue Jackets,New Jersey Devils,22.0,64.0,78.0,21.0,59.0,76.0
+/zapas/2897626,0.0,1.0,Columbus Blue Jackets,Chicago Blackhawks,22.0,63.0,78.0,23.0,50.0,68.0
+/zapas/2897641,1.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,20.0,60.0,78.0,40.0,70.0,48.0
+/zapas/2897657,0.0,0.0,Columbus Blue Jackets,Florida Panthers,23.0,64.0,75.0,38.0,83.0,66.0
+/zapas/2897692,1.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,20.0,59.0,80.0,17.0,51.0,77.0
+/zapas/2897701,0.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,20.0,58.0,81.0,44.0,73.0,51.0
+/zapas/2897717,0.0,1.0,Columbus Blue Jackets,Ottawa Senators,17.0,56.0,84.0,21.0,60.0,76.0
+/zapas/2897737,0.0,1.0,Columbus Blue Jackets,Calgary Flames,17.0,54.0,80.0,29.0,66.0,60.0
+/zapas/2897747,1.0,1.0,Columbus Blue Jackets,New York Rangers,17.0,54.0,80.0,35.0,64.0,53.0
+/zapas/2897767,1.0,0.0,Columbus Blue Jackets,Montreal Canadiens,20.0,57.0,80.0,10.0,42.0,83.0
+/zapas/2897775,0.0,1.0,Columbus Blue Jackets,Florida Panthers,23.0,62.0,80.0,40.0,88.0,59.0
+/zapas/2898277,1.0,0.0,Columbus Blue Jackets,Washington Capitals,20.0,60.0,84.0,26.0,58.0,61.0
+/zapas/2897472,1.0,0.0,Columbus Blue Jackets,Buffalo Sabres,23.0,61.0,83.0,21.0,47.0,65.0
+/zapas/2897615,1.0,0.0,Columbus Blue Jackets,Montreal Canadiens,24.0,64.0,84.0,9.0,43.0,91.0
+/zapas/2897455,0.0,0.0,Columbus Blue Jackets,Calgary Flames,25.0,61.0,81.0,33.0,71.0,57.0
+/zapas/2897520,1.0,0.0,Columbus Blue Jackets,Chicago Blackhawks,25.0,60.0,83.0,24.0,51.0,70.0
+/zapas/2897503,1.0,1.0,Columbus Blue Jackets,Buffalo Sabres,28.0,65.0,82.0,21.0,53.0,71.0
+/zapas/2897517,1.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,29.0,68.0,82.0,37.0,83.0,62.0
+/zapas/2897801,1.0,0.0,Columbus Blue Jackets,Florida Panthers,31.0,68.0,78.0,42.0,95.0,58.0
+/zapas/2897809,0.0,0.0,Columbus Blue Jackets,Carolina Hurricanes,34.0,72.0,74.0,39.0,77.0,59.0
+/zapas/2897827,0.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,34.0,71.0,75.0,36.0,63.0,57.0
+/zapas/2897840,1.0,1.0,Columbus Blue Jackets,New Jersey Devils,31.0,69.0,75.0,18.0,68.0,77.0
+/zapas/2897860,0.0,1.0,Columbus Blue Jackets,Los Angeles Kings,34.0,71.0,74.0,37.0,65.0,64.0
+/zapas/2897870,0.0,1.0,Columbus Blue Jackets,Boston Bruins,32.0,68.0,78.0,33.0,55.0,58.0
+/zapas/2897882,0.0,1.0,Columbus Blue Jackets,Toronto Maple Leafs,33.0,70.0,74.0,35.0,85.0,75.0
+/zapas/2897679,0.0,0.0,Columbus Blue Jackets,New York Islanders,30.0,72.0,78.0,23.0,58.0,64.0
+/zapas/2897912,1.0,1.0,Columbus Blue Jackets,Minnesota Wild,30.0,70.0,79.0,31.0,77.0,74.0
+/zapas/2897932,1.0,1.0,Columbus Blue Jackets,Vegas Golden Knights,32.0,72.0,79.0,27.0,47.0,55.0
+/zapas/2897948,1.0,0.0,Columbus Blue Jackets,Ottawa Senators,35.0,78.0,77.0,21.0,48.0,62.0
+/zapas/2897957,0.0,1.0,Columbus Blue Jackets,Washington Capitals,35.0,77.0,75.0,30.0,65.0,57.0
+/zapas/2897974,1.0,1.0,Columbus Blue Jackets,St. Louis Blues,32.0,73.0,79.0,34.0,70.0,60.0
+/zapas/2897992,0.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,35.0,74.0,75.0,34.0,59.0,54.0
+/zapas/2898012,0.0,0.0,Columbus Blue Jackets,Winnipeg Jets,32.0,70.0,76.0,31.0,73.0,69.0
+/zapas/2898021,0.0,0.0,Columbus Blue Jackets,Minnesota Wild,31.0,69.0,77.0,29.0,70.0,76.0
+/zapas/2898048,0.0,1.0,Columbus Blue Jackets,New York Islanders,29.0,69.0,79.0,33.0,65.0,55.0
+/zapas/2898062,0.0,0.0,Columbus Blue Jackets,New York Islanders,29.0,70.0,77.0,35.0,67.0,55.0
+/zapas/2898076,0.0,0.0,Columbus Blue Jackets,Boston Bruins,26.0,65.0,78.0,41.0,76.0,49.0
+/zapas/2898093,0.0,1.0,Columbus Blue Jackets,Boston Bruins,23.0,60.0,80.0,44.0,80.0,47.0
+/zapas/2898102,1.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,22.0,58.0,80.0,22.0,54.0,74.0
+/zapas/2898117,0.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,22.0,56.0,79.0,21.0,53.0,74.0
+/zapas/2898132,1.0,0.0,Columbus Blue Jackets,Detroit Red Wings,22.0,57.0,79.0,17.0,58.0,96.0
+/zapas/2898161,1.0,1.0,Columbus Blue Jackets,Montreal Canadiens,24.0,60.0,80.0,22.0,69.0,81.0
+/zapas/2898177,0.0,0.0,Columbus Blue Jackets,Los Angeles Kings,24.0,61.0,78.0,27.0,54.0,65.0
+/zapas/2898191,0.0,0.0,Columbus Blue Jackets,Anaheim Ducks,23.0,59.0,76.0,13.0,48.0,77.0
+/zapas/2898202,0.0,0.0,Columbus Blue Jackets,San Jose Sharks,22.0,59.0,77.0,20.0,52.0,65.0
+/zapas/2898228,0.0,1.0,Columbus Blue Jackets,Ottawa Senators,22.0,57.0,75.0,25.0,59.0,68.0
+/zapas/2898251,1.0,1.0,Columbus Blue Jackets,Edmonton Oilers,23.0,58.0,71.0,44.0,86.0,54.0
+/zapas/2898263,0.0,0.0,Columbus Blue Jackets,Tampa Bay Lightning,24.0,60.0,71.0,32.0,75.0,52.0
+/zapas/2898293,1.0,1.0,Columbus Blue Jackets,Tampa Bay Lightning,21.0,55.0,71.0,32.0,75.0,52.0
+/zapas/2898156,0.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,21.0,56.0,72.0,26.0,69.0,62.0

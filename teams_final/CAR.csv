@@ -1,0 +1,350 @@
+game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2526397,0.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,30.0,58.0,59.0,30.0,62.0,59.0
+/zapas/2526413,1.0,1.0,Carolina Hurricanes,Nashville Predators,28.0,57.0,60.0,41.0,67.0,54.0
+/zapas/2526425,0.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,29.0,60.0,61.0,31.0,58.0,51.0
+/zapas/2526444,0.0,0.0,Carolina Hurricanes,New York Rangers,30.0,61.0,62.0,34.0,71.0,59.0
+/zapas/2526459,1.0,1.0,Carolina Hurricanes,Florida Panthers,27.0,57.0,64.0,24.0,56.0,65.0
+/zapas/2526477,0.0,0.0,Carolina Hurricanes,Vancouver Canucks,26.0,58.0,65.0,33.0,56.0,55.0
+/zapas/2526492,0.0,0.0,Carolina Hurricanes,San Jose Sharks,26.0,55.0,64.0,34.0,50.0,45.0
+/zapas/2526509,0.0,0.0,Carolina Hurricanes,Los Angeles Kings,27.0,58.0,64.0,31.0,58.0,47.0
+/zapas/2526519,0.0,0.0,Carolina Hurricanes,Anaheim Ducks,25.0,54.0,64.0,25.0,49.0,59.0
+/zapas/2526528,1.0,0.0,Carolina Hurricanes,Vegas Golden Knights,25.0,55.0,65.0,30.0,69.0,72.0
+/zapas/2526545,1.0,0.0,Carolina Hurricanes,Buffalo Sabres,26.0,55.0,63.0,19.0,39.0,62.0
+/zapas/2526558,1.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,28.0,57.0,62.0,33.0,57.0,54.0
+/zapas/2526570,0.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,30.0,58.0,61.0,33.0,56.0,48.0
+/zapas/2526588,1.0,0.0,Carolina Hurricanes,Nashville Predators,27.0,56.0,68.0,43.0,79.0,53.0
+/zapas/2526605,1.0,1.0,Carolina Hurricanes,Buffalo Sabres,27.0,57.0,68.0,17.0,38.0,62.0
+/zapas/2526617,1.0,1.0,Carolina Hurricanes,Montreal Canadiens,29.0,58.0,66.0,28.0,54.0,57.0
+/zapas/2526634,1.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,29.0,56.0,66.0,26.0,63.0,59.0
+/zapas/2526644,0.0,0.0,Carolina Hurricanes,St. Louis Blues,32.0,54.0,61.0,26.0,50.0,48.0
+/zapas/2526659,0.0,1.0,Carolina Hurricanes,Washington Capitals,29.0,53.0,63.0,41.0,65.0,48.0
+/zapas/2526671,1.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,27.0,53.0,66.0,23.0,58.0,56.0
+/zapas/2526690,0.0,0.0,Carolina Hurricanes,Boston Bruins,30.0,56.0,60.0,44.0,71.0,39.0
+/zapas/2526709,0.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,30.0,53.0,62.0,41.0,71.0,46.0
+/zapas/2526716,1.0,0.0,Carolina Hurricanes,Washington Capitals,28.0,53.0,64.0,42.0,68.0,49.0
+/zapas/2526720,0.0,1.0,Carolina Hurricanes,Washington Capitals,30.0,54.0,62.0,39.0,66.0,51.0
+/zapas/2526734,0.0,1.0,Carolina Hurricanes,Calgary Flames,30.0,56.0,61.0,33.0,57.0,48.0
+/zapas/2526768,1.0,0.0,Carolina Hurricanes,Detroit Red Wings,28.0,54.0,63.0,24.0,50.0,65.0
+/zapas/2526776,0.0,1.0,Carolina Hurricanes,Vegas Golden Knights,31.0,57.0,61.0,44.0,65.0,42.0
+/zapas/2526787,0.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,30.0,54.0,61.0,26.0,56.0,54.0
+/zapas/2526804,1.0,0.0,Carolina Hurricanes,Montreal Canadiens,29.0,53.0,61.0,22.0,46.0,64.0
+/zapas/2526816,1.0,1.0,Carolina Hurricanes,Ottawa Senators,32.0,57.0,63.0,19.0,47.0,73.0
+/zapas/2526834,1.0,1.0,Carolina Hurricanes,Montreal Canadiens,33.0,56.0,62.0,21.0,47.0,66.0
+/zapas/2526843,0.0,1.0,Carolina Hurricanes,Detroit Red Wings,34.0,53.0,58.0,27.0,48.0,50.0
+/zapas/2526861,0.0,1.0,Carolina Hurricanes,San Jose Sharks,31.0,52.0,61.0,30.0,64.0,66.0
+/zapas/2526868,0.0,1.0,Carolina Hurricanes,Philadelphia Flyers,31.0,52.0,56.0,29.0,59.0,64.0
+/zapas/2526893,1.0,1.0,Carolina Hurricanes,Vancouver Canucks,29.0,49.0,57.0,18.0,52.0,70.0
+/zapas/2526901,1.0,1.0,Carolina Hurricanes,Colorado Avalanche,29.0,49.0,56.0,38.0,63.0,47.0
+/zapas/2526923,1.0,1.0,Carolina Hurricanes,Los Angeles Kings,29.0,49.0,56.0,26.0,52.0,51.0
+/zapas/2526933,0.0,0.0,Carolina Hurricanes,New Jersey Devils,29.0,54.0,58.0,19.0,52.0,70.0
+/zapas/2526945,0.0,1.0,Carolina Hurricanes,New York Islanders,29.0,54.0,60.0,23.0,61.0,75.0
+/zapas/2526961,0.0,1.0,Carolina Hurricanes,New Jersey Devils,28.0,50.0,58.0,24.0,56.0,66.0
+/zapas/2526996,0.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,26.0,48.0,61.0,45.0,79.0,51.0
+/zapas/2527005,0.0,0.0,Carolina Hurricanes,Detroit Red Wings,26.0,48.0,60.0,22.0,49.0,58.0
+/zapas/2527023,0.0,0.0,Carolina Hurricanes,Boston Bruins,26.0,45.0,58.0,41.0,64.0,48.0
+/zapas/2527038,1.0,0.0,Carolina Hurricanes,Philadelphia Flyers,24.0,45.0,61.0,36.0,61.0,53.0
+/zapas/2527047,1.0,1.0,Carolina Hurricanes,New Jersey Devils,27.0,46.0,58.0,25.0,49.0,59.0
+/zapas/2527066,0.0,1.0,Carolina Hurricanes,Winnipeg Jets,30.0,48.0,55.0,35.0,66.0,52.0
+/zapas/2527080,0.0,0.0,Carolina Hurricanes,Minnesota Wild,27.0,47.0,57.0,39.0,71.0,59.0
+/zapas/2527094,1.0,0.0,Carolina Hurricanes,Chicago Blackhawks,27.0,48.0,58.0,21.0,51.0,64.0
+/zapas/2527117,0.0,0.0,Carolina Hurricanes,New York Rangers,30.0,50.0,57.0,19.0,48.0,75.0
+/zapas/2527125,0.0,1.0,Carolina Hurricanes,Boston Bruins,27.0,47.0,58.0,38.0,70.0,56.0
+/zapas/2527157,0.0,1.0,Carolina Hurricanes,Philadelphia Flyers,24.0,49.0,63.0,31.0,61.0,60.0
+/zapas/2527165,1.0,0.0,Carolina Hurricanes,New York Islanders,21.0,49.0,67.0,19.0,55.0,74.0
+/zapas/2527178,0.0,1.0,Carolina Hurricanes,Edmonton Oilers,24.0,52.0,66.0,21.0,55.0,63.0
+/zapas/2527192,1.0,1.0,Carolina Hurricanes,Arizona Coyotes,24.0,54.0,70.0,39.0,57.0,45.0
+/zapas/2527209,1.0,0.0,Carolina Hurricanes,Ottawa Senators,26.0,59.0,73.0,20.0,60.0,75.0
+/zapas/2527225,1.0,1.0,Carolina Hurricanes,Ottawa Senators,26.0,60.0,74.0,20.0,59.0,74.0
+/zapas/2527231,0.0,0.0,Carolina Hurricanes,New Jersey Devils,26.0,61.0,74.0,32.0,62.0,55.0
+/zapas/2527256,1.0,0.0,Carolina Hurricanes,Washington Capitals,23.0,57.0,75.0,37.0,62.0,58.0
+/zapas/2527266,0.0,1.0,Carolina Hurricanes,New York Rangers,26.0,59.0,71.0,20.0,60.0,77.0
+/zapas/2527279,0.0,0.0,Carolina Hurricanes,Florida Panthers,26.0,60.0,70.0,39.0,66.0,50.0
+/zapas/2527297,0.0,0.0,Carolina Hurricanes,Philadelphia Flyers,25.0,60.0,70.0,29.0,61.0,66.0
+/zapas/2527318,1.0,1.0,Carolina Hurricanes,Tampa Bay Lightning,25.0,62.0,68.0,34.0,75.0,69.0
+/zapas/2647206,0.0,1.0,Carolina Hurricanes,New York Islanders,27.0,64.0,67.0,20.0,58.0,73.0
+/zapas/2647213,1.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,27.0,62.0,65.0,40.0,77.0,57.0
+/zapas/2647227,1.0,1.0,Carolina Hurricanes,New York Rangers,27.0,61.0,65.0,20.0,51.0,68.0
+/zapas/2647235,1.0,1.0,Carolina Hurricanes,Vancouver Canucks,27.0,66.0,69.0,24.0,54.0,63.0
+/zapas/2647258,1.0,0.0,Carolina Hurricanes,Minnesota Wild,30.0,69.0,69.0,34.0,59.0,52.0
+/zapas/2647271,0.0,0.0,Carolina Hurricanes,Winnipeg Jets,32.0,72.0,67.0,38.0,62.0,53.0
+/zapas/2647280,0.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,29.0,70.0,68.0,33.0,74.0,67.0
+/zapas/2647301,0.0,1.0,Carolina Hurricanes,Colorado Avalanche,29.0,69.0,66.0,32.0,63.0,52.0
+/zapas/2647317,1.0,0.0,Carolina Hurricanes,Detroit Red Wings,29.0,66.0,63.0,17.0,55.0,76.0
+/zapas/2647344,1.0,1.0,Carolina Hurricanes,San Jose Sharks,32.0,67.0,60.0,32.0,69.0,58.0
+/zapas/2647359,0.0,1.0,Carolina Hurricanes,New York Islanders,31.0,67.0,60.0,26.0,64.0,62.0
+/zapas/2647367,0.0,1.0,Carolina Hurricanes,Boston Bruins,31.0,65.0,55.0,33.0,61.0,53.0
+/zapas/2647392,0.0,0.0,Carolina Hurricanes,Arizona Coyotes,28.0,61.0,53.0,30.0,60.0,46.0
+/zapas/2647401,0.0,0.0,Carolina Hurricanes,Vegas Golden Knights,26.0,59.0,55.0,24.0,52.0,63.0
+/zapas/2647419,0.0,0.0,Carolina Hurricanes,St. Louis Blues,23.0,55.0,57.0,24.0,61.0,74.0
+/zapas/2647431,1.0,0.0,Carolina Hurricanes,Chicago Blackhawks,23.0,53.0,57.0,24.0,58.0,74.0
+/zapas/2647448,0.0,1.0,Carolina Hurricanes,Detroit Red Wings,23.0,53.0,59.0,22.0,55.0,70.0
+/zapas/2647459,1.0,1.0,Carolina Hurricanes,Chicago Blackhawks,24.0,55.0,61.0,21.0,55.0,75.0
+/zapas/2647496,0.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,26.0,56.0,60.0,33.0,67.0,66.0
+/zapas/2647502,1.0,1.0,Carolina Hurricanes,New Jersey Devils,26.0,54.0,60.0,29.0,59.0,65.0
+/zapas/2647521,1.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,27.0,53.0,59.0,40.0,71.0,51.0
+/zapas/2647540,1.0,1.0,Carolina Hurricanes,Florida Panthers,29.0,57.0,59.0,28.0,68.0,71.0
+/zapas/2647551,0.0,0.0,Carolina Hurricanes,New York Islanders,29.0,58.0,59.0,30.0,65.0,62.0
+/zapas/2647567,1.0,0.0,Carolina Hurricanes,Montreal Canadiens,26.0,51.0,58.0,30.0,65.0,71.0
+/zapas/2647590,0.0,1.0,Carolina Hurricanes,Anaheim Ducks,26.0,48.0,56.0,22.0,41.0,62.0
+/zapas/2647610,0.0,0.0,Carolina Hurricanes,Los Angeles Kings,25.0,44.0,54.0,19.0,44.0,66.0
+/zapas/2647626,0.0,0.0,Carolina Hurricanes,San Jose Sharks,25.0,43.0,53.0,29.0,59.0,68.0
+/zapas/2647641,1.0,0.0,Carolina Hurricanes,Anaheim Ducks,25.0,42.0,54.0,30.0,49.0,60.0
+/zapas/2647666,0.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,28.0,45.0,52.0,38.0,71.0,52.0
+/zapas/2647679,0.0,0.0,Carolina Hurricanes,Montreal Canadiens,25.0,43.0,55.0,29.0,63.0,72.0
+/zapas/2647689,0.0,1.0,Carolina Hurricanes,Washington Capitals,23.0,43.0,58.0,38.0,73.0,55.0
+/zapas/2647704,1.0,1.0,Carolina Hurricanes,Arizona Coyotes,24.0,47.0,62.0,24.0,50.0,65.0
+/zapas/2647732,0.0,1.0,Carolina Hurricanes,Detroit Red Wings,27.0,48.0,59.0,25.0,60.0,63.0
+/zapas/2647753,0.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,26.0,46.0,59.0,31.0,65.0,63.0
+/zapas/2647758,1.0,1.0,Carolina Hurricanes,Boston Bruins,26.0,46.0,59.0,32.0,53.0,51.0
+/zapas/2647768,0.0,0.0,Carolina Hurricanes,Washington Capitals,29.0,50.0,58.0,41.0,76.0,51.0
+/zapas/2647781,0.0,0.0,Carolina Hurricanes,New Jersey Devils,26.0,47.0,58.0,23.0,58.0,71.0
+/zapas/2647801,1.0,1.0,Carolina Hurricanes,Philadelphia Flyers,25.0,44.0,56.0,21.0,53.0,73.0
+/zapas/2647823,1.0,0.0,Carolina Hurricanes,Philadelphia Flyers,26.0,44.0,55.0,21.0,53.0,75.0
+/zapas/2647829,1.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,29.0,48.0,54.0,35.0,64.0,57.0
+/zapas/2647843,1.0,0.0,Carolina Hurricanes,Ottawa Senators,29.0,50.0,55.0,18.0,53.0,73.0
+/zapas/2647857,1.0,0.0,Carolina Hurricanes,New York Islanders,29.0,50.0,57.0,38.0,58.0,47.0
+/zapas/2647874,0.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,29.0,50.0,59.0,47.0,93.0,58.0
+/zapas/2647881,1.0,1.0,Carolina Hurricanes,Buffalo Sabres,29.0,50.0,58.0,25.0,52.0,57.0
+/zapas/2647897,1.0,1.0,Carolina Hurricanes,Nashville Predators,29.0,52.0,60.0,30.0,59.0,52.0
+/zapas/2647910,0.0,0.0,Carolina Hurricanes,New York Rangers,31.0,57.0,61.0,19.0,51.0,81.0
+/zapas/2647934,0.0,1.0,Carolina Hurricanes,Ottawa Senators,31.0,59.0,65.0,17.0,50.0,71.0
+/zapas/2647953,1.0,0.0,Carolina Hurricanes,Edmonton Oilers,31.0,59.0,64.0,26.0,64.0,68.0
+/zapas/2647961,0.0,0.0,Carolina Hurricanes,Calgary Flames,31.0,62.0,67.0,40.0,80.0,59.0
+/zapas/2647968,1.0,0.0,Carolina Hurricanes,Vancouver Canucks,32.0,63.0,66.0,37.0,61.0,51.0
+/zapas/2647985,1.0,1.0,Carolina Hurricanes,Vegas Golden Knights,35.0,64.0,62.0,37.0,61.0,49.0
+/zapas/2648002,0.0,1.0,Carolina Hurricanes,Calgary Flames,37.0,64.0,58.0,40.0,80.0,59.0
+/zapas/2648011,1.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,34.0,64.0,62.0,38.0,73.0,56.0
+/zapas/2648021,1.0,0.0,Carolina Hurricanes,Buffalo Sabres,37.0,67.0,58.0,21.0,55.0,68.0
+/zapas/2648035,1.0,0.0,Carolina Hurricanes,New York Rangers,39.0,73.0,60.0,26.0,55.0,71.0
+/zapas/2648054,0.0,0.0,Carolina Hurricanes,New Jersey Devils,39.0,71.0,57.0,23.0,54.0,62.0
+/zapas/2648065,1.0,0.0,Carolina Hurricanes,Ottawa Senators,39.0,72.0,57.0,18.0,56.0,66.0
+/zapas/2648087,1.0,1.0,Carolina Hurricanes,Edmonton Oilers,42.0,76.0,56.0,18.0,58.0,76.0
+/zapas/2648097,1.0,1.0,Carolina Hurricanes,Dallas Stars,42.0,76.0,56.0,34.0,46.0,44.0
+/zapas/2648117,0.0,1.0,Carolina Hurricanes,New York Rangers,42.0,74.0,53.0,24.0,59.0,71.0
+/zapas/2648128,1.0,0.0,Carolina Hurricanes,Florida Panthers,39.0,71.0,53.0,26.0,57.0,65.0
+/zapas/2648146,1.0,0.0,Carolina Hurricanes,Dallas Stars,39.0,70.0,52.0,30.0,45.0,50.0
+/zapas/2648170,1.0,1.0,Carolina Hurricanes,Los Angeles Kings,39.0,69.0,49.0,23.0,54.0,67.0
+/zapas/2648193,1.0,1.0,Carolina Hurricanes,St. Louis Blues,42.0,74.0,47.0,43.0,63.0,38.0
+/zapas/2648203,1.0,0.0,Carolina Hurricanes,Florida Panthers,42.0,75.0,46.0,31.0,65.0,62.0
+/zapas/2648217,0.0,0.0,Carolina Hurricanes,Boston Bruins,41.0,73.0,46.0,40.0,63.0,45.0
+/zapas/2648244,0.0,1.0,Carolina Hurricanes,Winnipeg Jets,42.0,74.0,44.0,28.0,64.0,69.0
+/zapas/2648255,1.0,0.0,Carolina Hurricanes,Nashville Predators,42.0,74.0,48.0,30.0,54.0,55.0
+/zapas/2648268,1.0,0.0,Carolina Hurricanes,Colorado Avalanche,42.0,72.0,47.0,26.0,56.0,58.0
+/zapas/2648292,0.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,44.0,73.0,44.0,31.0,55.0,53.0
+/zapas/2648305,1.0,1.0,Carolina Hurricanes,Buffalo Sabres,41.0,68.0,45.0,16.0,49.0,77.0
+/zapas/2648324,1.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,41.0,67.0,45.0,36.0,66.0,56.0
+/zapas/2648336,0.0,1.0,Carolina Hurricanes,Tampa Bay Lightning,43.0,67.0,43.0,50.0,85.0,45.0
+/zapas/2648356,1.0,1.0,Carolina Hurricanes,Minnesota Wild,40.0,66.0,49.0,27.0,47.0,58.0
+/zapas/2648364,1.0,1.0,Carolina Hurricanes,Montreal Canadiens,41.0,65.0,45.0,28.0,57.0,59.0
+/zapas/2648376,0.0,0.0,Carolina Hurricanes,Washington Capitals,40.0,64.0,46.0,38.0,68.0,54.0
+/zapas/2648388,0.0,1.0,Carolina Hurricanes,Washington Capitals,40.0,63.0,47.0,41.0,72.0,52.0
+/zapas/2648401,1.0,1.0,Carolina Hurricanes,Philadelphia Flyers,37.0,61.0,49.0,30.0,67.0,66.0
+/zapas/2648415,0.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,37.0,63.0,50.0,38.0,62.0,52.0
+/zapas/2648429,1.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,34.0,61.0,53.0,33.0,71.0,71.0
+/zapas/2648445,1.0,1.0,Carolina Hurricanes,New Jersey Devils,37.0,64.0,52.0,21.0,41.0,61.0
+/zapas/2648461,1.0,0.0,Carolina Hurricanes,Philadelphia Flyers,37.0,63.0,50.0,25.0,62.0,71.0
+/zapas/2806384,1.0,1.0,Carolina Hurricanes,Montreal Canadiens,37.0,64.0,53.0,33.0,62.0,53.0
+/zapas/2806399,1.0,0.0,Carolina Hurricanes,Washington Capitals,36.0,62.0,55.0,41.0,63.0,47.0
+/zapas/2806407,1.0,1.0,Carolina Hurricanes,Tampa Bay Lightning,35.0,60.0,55.0,41.0,81.0,59.0
+/zapas/2806412,1.0,0.0,Carolina Hurricanes,Florida Panthers,35.0,60.0,55.0,29.0,68.0,67.0
+/zapas/2806436,1.0,1.0,Carolina Hurricanes,New York Islanders,37.0,63.0,54.0,33.0,48.0,47.0
+/zapas/2806445,0.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,40.0,67.0,48.0,32.0,61.0,50.0
+/zapas/2806467,1.0,0.0,Carolina Hurricanes,Los Angeles Kings,37.0,64.0,48.0,25.0,63.0,75.0
+/zapas/2806473,0.0,0.0,Carolina Hurricanes,San Jose Sharks,37.0,63.0,48.0,21.0,56.0,73.0
+/zapas/2806488,0.0,0.0,Carolina Hurricanes,Anaheim Ducks,37.0,65.0,50.0,39.0,58.0,52.0
+/zapas/2806524,0.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,34.0,63.0,52.0,33.0,61.0,53.0
+/zapas/2806537,1.0,1.0,Carolina Hurricanes,Chicago Blackhawks,33.0,63.0,54.0,23.0,51.0,58.0
+/zapas/2806559,1.0,1.0,Carolina Hurricanes,Calgary Flames,36.0,64.0,48.0,27.0,57.0,56.0
+/zapas/2806575,1.0,1.0,Carolina Hurricanes,Detroit Red Wings,36.0,61.0,48.0,27.0,54.0,67.0
+/zapas/2806587,0.0,1.0,Carolina Hurricanes,New Jersey Devils,37.0,66.0,50.0,22.0,49.0,73.0
+/zapas/2806602,0.0,0.0,Carolina Hurricanes,Philadelphia Flyers,37.0,68.0,51.0,21.0,59.0,77.0
+/zapas/2806617,0.0,1.0,Carolina Hurricanes,New York Rangers,37.0,67.0,52.0,28.0,61.0,65.0
+/zapas/2806632,0.0,0.0,Carolina Hurricanes,Ottawa Senators,34.0,64.0,54.0,21.0,55.0,69.0
+/zapas/2806647,1.0,1.0,Carolina Hurricanes,Ottawa Senators,34.0,64.0,55.0,21.0,55.0,68.0
+/zapas/2806662,1.0,0.0,Carolina Hurricanes,Buffalo Sabres,34.0,68.0,56.0,32.0,64.0,54.0
+/zapas/2806675,1.0,0.0,Carolina Hurricanes,Minnesota Wild,33.0,70.0,59.0,22.0,50.0,68.0
+/zapas/2806702,1.0,0.0,Carolina Hurricanes,Chicago Blackhawks,32.0,70.0,59.0,29.0,61.0,59.0
+/zapas/2806712,0.0,1.0,Carolina Hurricanes,Philadelphia Flyers,33.0,70.0,58.0,27.0,59.0,62.0
+/zapas/2806733,1.0,1.0,Carolina Hurricanes,Florida Panthers,31.0,70.0,61.0,33.0,78.0,72.0
+/zapas/2806739,1.0,0.0,Carolina Hurricanes,Detroit Red Wings,32.0,70.0,60.0,14.0,43.0,80.0
+/zapas/2806757,0.0,0.0,Carolina Hurricanes,New York Rangers,32.0,66.0,57.0,27.0,64.0,73.0
+/zapas/2806777,0.0,1.0,Carolina Hurricanes,Nashville Predators,29.0,63.0,58.0,26.0,65.0,68.0
+/zapas/2806784,1.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,29.0,61.0,58.0,33.0,75.0,66.0
+/zapas/2806800,0.0,0.0,Carolina Hurricanes,Boston Bruins,29.0,62.0,60.0,44.0,80.0,51.0
+/zapas/2806819,1.0,1.0,Carolina Hurricanes,San Jose Sharks,29.0,60.0,57.0,31.0,60.0,64.0
+/zapas/2806835,1.0,1.0,Carolina Hurricanes,Minnesota Wild,31.0,61.0,55.0,36.0,67.0,60.0
+/zapas/2806855,1.0,0.0,Carolina Hurricanes,Edmonton Oilers,33.0,64.0,53.0,31.0,60.0,60.0
+/zapas/2806872,0.0,0.0,Carolina Hurricanes,Vancouver Canucks,33.0,66.0,56.0,25.0,62.0,68.0
+/zapas/2806880,1.0,0.0,Carolina Hurricanes,Calgary Flames,31.0,64.0,56.0,33.0,58.0,59.0
+/zapas/2806906,1.0,0.0,Carolina Hurricanes,Winnipeg Jets,31.0,61.0,53.0,42.0,65.0,47.0
+/zapas/2806920,1.0,0.0,Carolina Hurricanes,Colorado Avalanche,34.0,64.0,51.0,42.0,75.0,53.0
+/zapas/2806936,0.0,1.0,Carolina Hurricanes,Florida Panthers,37.0,66.0,48.0,28.0,71.0,62.0
+/zapas/2806945,0.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,37.0,66.0,48.0,30.0,67.0,62.0
+/zapas/2806960,0.0,0.0,Carolina Hurricanes,New York Rangers,37.0,71.0,52.0,28.0,60.0,65.0
+/zapas/2806974,1.0,1.0,Carolina Hurricanes,Washington Capitals,34.0,66.0,55.0,39.0,62.0,53.0
+/zapas/2806994,1.0,1.0,Carolina Hurricanes,Montreal Canadiens,35.0,67.0,55.0,22.0,61.0,70.0
+/zapas/2807015,0.0,1.0,Carolina Hurricanes,Washington Capitals,36.0,66.0,53.0,37.0,65.0,57.0
+/zapas/2807031,0.0,1.0,Carolina Hurricanes,Tampa Bay Lightning,33.0,65.0,55.0,36.0,69.0,58.0
+/zapas/2807044,1.0,1.0,Carolina Hurricanes,Philadelphia Flyers,33.0,63.0,53.0,31.0,65.0,61.0
+/zapas/2807066,1.0,1.0,Carolina Hurricanes,Arizona Coyotes,32.0,64.0,55.0,30.0,58.0,57.0
+/zapas/2807073,1.0,1.0,Carolina Hurricanes,Los Angeles Kings,32.0,65.0,55.0,24.0,50.0,56.0
+/zapas/2807088,0.0,0.0,Carolina Hurricanes,Washington Capitals,35.0,65.0,52.0,36.0,69.0,60.0
+/zapas/2807109,0.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,35.0,65.0,51.0,38.0,56.0,40.0
+/zapas/2807117,0.0,1.0,Carolina Hurricanes,Anaheim Ducks,32.0,64.0,52.0,18.0,49.0,67.0
+/zapas/2807132,1.0,1.0,Carolina Hurricanes,New York Islanders,33.0,65.0,52.0,26.0,58.0,63.0
+/zapas/2807140,1.0,1.0,Carolina Hurricanes,Winnipeg Jets,33.0,64.0,51.0,25.0,64.0,72.0
+/zapas/2807164,0.0,1.0,Carolina Hurricanes,Vegas Golden Knights,33.0,62.0,50.0,30.0,68.0,66.0
+/zapas/2807184,1.0,1.0,Carolina Hurricanes,Vancouver Canucks,30.0,59.0,51.0,40.0,69.0,60.0
+/zapas/2807196,0.0,0.0,Carolina Hurricanes,St. Louis Blues,31.0,63.0,53.0,36.0,70.0,60.0
+/zapas/2807214,1.0,0.0,Carolina Hurricanes,Arizona Coyotes,28.0,62.0,59.0,27.0,58.0,64.0
+/zapas/2807230,1.0,0.0,Carolina Hurricanes,Vegas Golden Knights,28.0,61.0,59.0,31.0,68.0,65.0
+/zapas/2807249,0.0,0.0,Carolina Hurricanes,Dallas Stars,27.0,64.0,63.0,31.0,56.0,59.0
+/zapas/2807270,1.0,1.0,Carolina Hurricanes,New Jersey Devils,27.0,63.0,63.0,29.0,65.0,68.0
+/zapas/2807284,0.0,1.0,Carolina Hurricanes,Edmonton Oilers,30.0,62.0,57.0,38.0,75.0,63.0
+/zapas/2807301,1.0,0.0,Carolina Hurricanes,Nashville Predators,31.0,62.0,56.0,32.0,57.0,60.0
+/zapas/2807318,0.0,1.0,Carolina Hurricanes,New York Rangers,31.0,60.0,53.0,35.0,66.0,52.0
+/zapas/2807327,1.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,28.0,59.0,57.0,27.0,65.0,69.0
+/zapas/2807350,0.0,1.0,Carolina Hurricanes,Dallas Stars,31.0,62.0,56.0,33.0,52.0,55.0
+/zapas/2807372,0.0,1.0,Carolina Hurricanes,Colorado Avalanche,31.0,62.0,57.0,38.0,59.0,44.0
+/zapas/2807380,0.0,0.0,Carolina Hurricanes,Montreal Canadiens,29.0,59.0,56.0,27.0,56.0,56.0
+/zapas/2807413,0.0,0.0,Carolina Hurricanes,Philadelphia Flyers,27.0,59.0,60.0,44.0,79.0,50.0
+/zapas/2807425,1.0,0.0,Carolina Hurricanes,New York Islanders,24.0,58.0,64.0,24.0,52.0,63.0
+/zapas/2807435,1.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,26.0,61.0,64.0,29.0,55.0,59.0
+/zapas/2807450,1.0,0.0,Carolina Hurricanes,Detroit Red Wings,29.0,65.0,63.0,14.0,36.0,67.0
+/zapas/2893222,1.0,0.0,Carolina Hurricanes,Detroit Red Wings,31.0,69.0,63.0,14.0,36.0,68.0
+/zapas/2893237,0.0,0.0,Carolina Hurricanes,Detroit Red Wings,32.0,70.0,62.0,14.0,34.0,67.0
+/zapas/2893254,1.0,0.0,Carolina Hurricanes,Nashville Predators,29.0,68.0,65.0,37.0,54.0,49.0
+/zapas/2893326,1.0,1.0,Carolina Hurricanes,Tampa Bay Lightning,32.0,69.0,63.0,33.0,64.0,56.0
+/zapas/2893339,1.0,1.0,Carolina Hurricanes,Dallas Stars,32.0,66.0,60.0,33.0,57.0,47.0
+/zapas/2893349,1.0,1.0,Carolina Hurricanes,Dallas Stars,35.0,67.0,55.0,33.0,56.0,48.0
+/zapas/2893358,1.0,0.0,Carolina Hurricanes,Chicago Blackhawks,34.0,66.0,55.0,28.0,59.0,55.0
+/zapas/2893371,0.0,0.0,Carolina Hurricanes,Chicago Blackhawks,34.0,64.0,53.0,27.0,60.0,58.0
+/zapas/2893401,1.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,34.0,67.0,55.0,27.0,52.0,65.0
+/zapas/2893406,0.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,34.0,68.0,58.0,26.0,54.0,67.0
+/zapas/2893426,1.0,0.0,Carolina Hurricanes,Dallas Stars,33.0,67.0,57.0,28.0,53.0,51.0
+/zapas/2893440,1.0,0.0,Carolina Hurricanes,Dallas Stars,33.0,68.0,59.0,25.0,53.0,54.0
+/zapas/2893464,1.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,35.0,70.0,57.0,31.0,57.0,64.0
+/zapas/2893270,0.0,1.0,Carolina Hurricanes,Florida Panthers,35.0,71.0,57.0,37.0,58.0,56.0
+/zapas/2893483,1.0,1.0,Carolina Hurricanes,Chicago Blackhawks,36.0,73.0,57.0,30.0,58.0,55.0
+/zapas/2893753,1.0,1.0,Carolina Hurricanes,Tampa Bay Lightning,39.0,76.0,57.0,40.0,73.0,47.0
+/zapas/2893312,0.0,1.0,Carolina Hurricanes,Tampa Bay Lightning,41.0,77.0,53.0,37.0,69.0,48.0
+/zapas/2893507,0.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,41.0,78.0,53.0,40.0,72.0,48.0
+/zapas/2893524,0.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,39.0,75.0,54.0,40.0,71.0,48.0
+/zapas/2893544,1.0,0.0,Carolina Hurricanes,Florida Panthers,36.0,70.0,55.0,40.0,64.0,54.0
+/zapas/2893557,1.0,0.0,Carolina Hurricanes,Florida Panthers,35.0,69.0,56.0,38.0,65.0,57.0
+/zapas/2893245,1.0,0.0,Carolina Hurricanes,Nashville Predators,34.0,69.0,58.0,24.0,46.0,63.0
+/zapas/2893577,1.0,1.0,Carolina Hurricanes,Detroit Red Wings,37.0,71.0,56.0,18.0,42.0,68.0
+/zapas/2893286,1.0,1.0,Carolina Hurricanes,Florida Panthers,37.0,72.0,56.0,38.0,64.0,57.0
+/zapas/2893613,1.0,1.0,Carolina Hurricanes,Nashville Predators,38.0,75.0,58.0,23.0,49.0,65.0
+/zapas/2893629,1.0,1.0,Carolina Hurricanes,Nashville Predators,37.0,74.0,59.0,22.0,48.0,66.0
+/zapas/2893651,1.0,0.0,Carolina Hurricanes,Detroit Red Wings,38.0,75.0,57.0,21.0,47.0,66.0
+/zapas/2893668,0.0,0.0,Carolina Hurricanes,Detroit Red Wings,39.0,73.0,55.0,20.0,46.0,65.0
+/zapas/2893680,0.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,39.0,71.0,53.0,24.0,56.0,71.0
+/zapas/2893695,0.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,37.0,67.0,51.0,26.0,56.0,67.0
+/zapas/2893706,1.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,38.0,67.0,51.0,25.0,55.0,66.0
+/zapas/2893730,1.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,38.0,65.0,48.0,25.0,50.0,63.0
+/zapas/2893744,1.0,1.0,Carolina Hurricanes,Tampa Bay Lightning,38.0,65.0,48.0,40.0,70.0,52.0
+/zapas/2893764,0.0,0.0,Carolina Hurricanes,Chicago Blackhawks,38.0,62.0,48.0,25.0,57.0,65.0
+/zapas/2893779,1.0,0.0,Carolina Hurricanes,Chicago Blackhawks,37.0,60.0,46.0,26.0,56.0,64.0
+/zapas/2893799,0.0,1.0,Carolina Hurricanes,Dallas Stars,37.0,59.0,46.0,23.0,51.0,55.0
+/zapas/2893808,1.0,1.0,Carolina Hurricanes,Dallas Stars,34.0,57.0,49.0,26.0,52.0,54.0
+/zapas/2893825,1.0,1.0,Carolina Hurricanes,Florida Panthers,37.0,56.0,45.0,38.0,68.0,50.0
+/zapas/2893839,1.0,1.0,Carolina Hurricanes,Florida Panthers,40.0,61.0,44.0,37.0,67.0,51.0
+/zapas/2893853,0.0,1.0,Carolina Hurricanes,Detroit Red Wings,43.0,63.0,41.0,24.0,47.0,67.0
+/zapas/2893867,0.0,1.0,Carolina Hurricanes,Detroit Red Wings,42.0,63.0,43.0,23.0,47.0,68.0
+/zapas/2893887,1.0,1.0,Carolina Hurricanes,Nashville Predators,40.0,61.0,44.0,38.0,62.0,44.0
+/zapas/2893904,1.0,1.0,Carolina Hurricanes,Nashville Predators,40.0,61.0,43.0,36.0,59.0,45.0
+/zapas/2893917,0.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,40.0,59.0,42.0,31.0,62.0,64.0
+/zapas/2893930,1.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,38.0,57.0,43.0,33.0,61.0,60.0
+/zapas/2893942,1.0,0.0,Carolina Hurricanes,Florida Panthers,39.0,58.0,42.0,34.0,59.0,48.0
+/zapas/2893956,0.0,0.0,Carolina Hurricanes,Florida Panthers,39.0,57.0,43.0,31.0,55.0,49.0
+/zapas/2893969,0.0,0.0,Carolina Hurricanes,Dallas Stars,37.0,58.0,46.0,33.0,58.0,50.0
+/zapas/2893977,1.0,0.0,Carolina Hurricanes,Dallas Stars,38.0,59.0,46.0,34.0,59.0,49.0
+/zapas/2893997,1.0,1.0,Carolina Hurricanes,Detroit Red Wings,40.0,62.0,44.0,25.0,44.0,58.0
+/zapas/2894013,1.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,42.0,63.0,42.0,13.0,39.0,69.0
+/zapas/2894026,1.0,1.0,Carolina Hurricanes,Chicago Blackhawks,41.0,62.0,43.0,23.0,52.0,65.0
+/zapas/2894035,1.0,1.0,Carolina Hurricanes,Chicago Blackhawks,42.0,63.0,42.0,23.0,53.0,66.0
+/zapas/2893493,0.0,1.0,Carolina Hurricanes,Chicago Blackhawks,42.0,65.0,42.0,20.0,53.0,70.0
+/zapas/2894063,0.0,0.0,Carolina Hurricanes,Nashville Predators,43.0,65.0,42.0,35.0,62.0,49.0
+/zapas/2894052,0.0,0.0,Carolina Hurricanes,Nashville Predators,40.0,62.0,42.0,35.0,62.0,49.0
+/zapas/2896996,1.0,1.0,Carolina Hurricanes,New York Islanders,40.0,60.0,44.0,29.0,50.0,44.0
+/zapas/2897005,1.0,0.0,Carolina Hurricanes,Nashville Predators,40.0,65.0,47.0,33.0,64.0,49.0
+/zapas/2897037,1.0,0.0,Carolina Hurricanes,Montreal Canadiens,40.0,63.0,47.0,18.0,39.0,69.0
+/zapas/2897059,1.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,40.0,64.0,48.0,21.0,53.0,67.0
+/zapas/2897069,1.0,1.0,Carolina Hurricanes,Toronto Maple Leafs,42.0,65.0,44.0,32.0,58.0,58.0
+/zapas/2897091,1.0,1.0,Carolina Hurricanes,Boston Bruins,45.0,68.0,42.0,39.0,67.0,44.0
+/zapas/2897097,1.0,1.0,Carolina Hurricanes,Chicago Blackhawks,45.0,67.0,41.0,14.0,53.0,81.0
+/zapas/2897112,1.0,1.0,Carolina Hurricanes,Arizona Coyotes,45.0,70.0,43.0,16.0,47.0,74.0
+/zapas/2897128,1.0,0.0,Carolina Hurricanes,Chicago Blackhawks,47.0,70.0,41.0,14.0,54.0,80.0
+/zapas/2897151,0.0,0.0,Carolina Hurricanes,Florida Panthers,47.0,70.0,43.0,46.0,83.0,50.0
+/zapas/2897171,1.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,44.0,68.0,46.0,33.0,60.0,60.0
+/zapas/2897190,0.0,1.0,Carolina Hurricanes,Philadelphia Flyers,45.0,67.0,43.0,32.0,63.0,61.0
+/zapas/2897203,1.0,1.0,Carolina Hurricanes,St. Louis Blues,44.0,65.0,41.0,39.0,68.0,51.0
+/zapas/2897213,1.0,0.0,Carolina Hurricanes,Vegas Golden Knights,44.0,63.0,42.0,35.0,65.0,54.0
+/zapas/2897229,1.0,0.0,Carolina Hurricanes,Anaheim Ducks,44.0,64.0,43.0,34.0,69.0,56.0
+/zapas/2897243,1.0,0.0,Carolina Hurricanes,Los Angeles Kings,45.0,64.0,43.0,24.0,46.0,55.0
+/zapas/2897262,0.0,0.0,Carolina Hurricanes,San Jose Sharks,45.0,64.0,45.0,25.0,50.0,66.0
+/zapas/2897295,1.0,0.0,Carolina Hurricanes,Philadelphia Flyers,42.0,59.0,44.0,31.0,49.0,54.0
+/zapas/2897313,0.0,1.0,Carolina Hurricanes,Washington Capitals,45.0,64.0,44.0,41.0,69.0,49.0
+/zapas/2897321,0.0,0.0,Carolina Hurricanes,Dallas Stars,45.0,66.0,43.0,30.0,58.0,59.0
+/zapas/2897342,0.0,1.0,Carolina Hurricanes,Ottawa Senators,42.0,61.0,44.0,13.0,48.0,79.0
+/zapas/2897357,1.0,1.0,Carolina Hurricanes,Buffalo Sabres,39.0,60.0,45.0,17.0,56.0,80.0
+/zapas/2897373,1.0,0.0,Carolina Hurricanes,Winnipeg Jets,39.0,62.0,46.0,34.0,60.0,53.0
+/zapas/2897386,1.0,0.0,Carolina Hurricanes,Calgary Flames,39.0,61.0,47.0,35.0,63.0,41.0
+/zapas/2897404,1.0,0.0,Carolina Hurricanes,Edmonton Oilers,38.0,59.0,47.0,31.0,65.0,64.0
+/zapas/2897412,0.0,0.0,Carolina Hurricanes,Vancouver Canucks,38.0,59.0,48.0,22.0,49.0,61.0
+/zapas/2897445,1.0,1.0,Carolina Hurricanes,Detroit Red Wings,35.0,54.0,47.0,26.0,51.0,66.0
+/zapas/2897461,1.0,1.0,Carolina Hurricanes,Los Angeles Kings,35.0,57.0,49.0,34.0,55.0,47.0
+/zapas/2897538,1.0,1.0,Carolina Hurricanes,Montreal Canadiens,35.0,58.0,47.0,15.0,47.0,74.0
+/zapas/2897555,1.0,0.0,Carolina Hurricanes,Columbus Blue Jackets,38.0,60.0,42.0,25.0,67.0,72.0
+/zapas/2897594,1.0,1.0,Carolina Hurricanes,Calgary Flames,39.0,65.0,45.0,31.0,60.0,51.0
+/zapas/2897608,0.0,1.0,Carolina Hurricanes,Florida Panthers,42.0,70.0,46.0,37.0,79.0,65.0
+/zapas/2897641,0.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,40.0,70.0,48.0,20.0,60.0,78.0
+/zapas/2897660,1.0,1.0,Carolina Hurricanes,Vancouver Canucks,37.0,66.0,52.0,31.0,52.0,49.0
+/zapas/2897677,1.0,0.0,Carolina Hurricanes,Boston Bruins,37.0,68.0,52.0,39.0,65.0,47.0
+/zapas/2897700,1.0,1.0,Carolina Hurricanes,New York Rangers,37.0,70.0,49.0,39.0,59.0,45.0
+/zapas/2897710,0.0,0.0,Carolina Hurricanes,New Jersey Devils,39.0,75.0,50.0,17.0,56.0,77.0
+/zapas/2897732,1.0,1.0,Carolina Hurricanes,Vegas Golden Knights,39.0,78.0,55.0,38.0,75.0,55.0
+/zapas/2897742,1.0,0.0,Carolina Hurricanes,Ottawa Senators,38.0,76.0,55.0,27.0,62.0,66.0
+/zapas/2897763,1.0,1.0,Carolina Hurricanes,New Jersey Devils,40.0,77.0,53.0,17.0,55.0,72.0
+/zapas/2897771,1.0,1.0,Carolina Hurricanes,San Jose Sharks,43.0,78.0,50.0,25.0,61.0,75.0
+/zapas/2897564,0.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,46.0,78.0,48.0,42.0,92.0,64.0
+/zapas/2897498,0.0,0.0,Carolina Hurricanes,Ottawa Senators,44.0,75.0,50.0,30.0,63.0,56.0
+/zapas/2897481,1.0,0.0,Carolina Hurricanes,Boston Bruins,41.0,74.0,52.0,35.0,64.0,62.0
+/zapas/2897424,0.0,0.0,Carolina Hurricanes,Minnesota Wild,42.0,78.0,51.0,38.0,78.0,56.0
+/zapas/2897516,0.0,1.0,Carolina Hurricanes,Florida Panthers,39.0,77.0,53.0,40.0,93.0,64.0
+/zapas/2897469,1.0,1.0,Carolina Hurricanes,Nashville Predators,40.0,78.0,54.0,31.0,64.0,61.0
+/zapas/2898292,1.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,40.0,78.0,54.0,39.0,71.0,55.0
+/zapas/2897625,1.0,0.0,Carolina Hurricanes,Philadelphia Flyers,40.0,77.0,56.0,11.0,48.0,77.0
+/zapas/2897809,1.0,1.0,Carolina Hurricanes,Columbus Blue Jackets,39.0,77.0,59.0,34.0,72.0,74.0
+/zapas/2897826,1.0,1.0,Carolina Hurricanes,Edmonton Oilers,39.0,74.0,55.0,32.0,65.0,66.0
+/zapas/2897837,0.0,0.0,Carolina Hurricanes,Detroit Red Wings,39.0,70.0,53.0,23.0,66.0,79.0
+/zapas/2897853,0.0,0.0,Carolina Hurricanes,Washington Capitals,39.0,70.0,53.0,22.0,56.0,62.0
+/zapas/2897859,1.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,39.0,70.0,51.0,39.0,65.0,53.0
+/zapas/2897878,1.0,1.0,Carolina Hurricanes,Seattle Kraken,38.0,69.0,52.0,20.0,47.0,68.0
+/zapas/2897908,1.0,1.0,Carolina Hurricanes,Colorado Avalanche,38.0,65.0,53.0,42.0,68.0,52.0
+/zapas/2897922,1.0,1.0,Carolina Hurricanes,Philadelphia Flyers,38.0,61.0,50.0,17.0,50.0,74.0
+/zapas/2897931,0.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,41.0,60.0,44.0,35.0,62.0,54.0
+/zapas/2897954,0.0,0.0,Carolina Hurricanes,Toronto Maple Leafs,39.0,58.0,45.0,34.0,83.0,74.0
+/zapas/2897963,0.0,1.0,Carolina Hurricanes,Washington Capitals,37.0,57.0,46.0,31.0,69.0,57.0
+/zapas/2897980,0.0,1.0,Carolina Hurricanes,New York Rangers,35.0,58.0,49.0,34.0,58.0,52.0
+/zapas/2897994,1.0,1.0,Carolina Hurricanes,Tampa Bay Lightning,32.0,56.0,50.0,36.0,64.0,57.0
+/zapas/2898008,0.0,1.0,Carolina Hurricanes,Dallas Stars,34.0,56.0,48.0,32.0,58.0,58.0
+/zapas/2898019,1.0,0.0,Carolina Hurricanes,St. Louis Blues,35.0,56.0,48.0,31.0,72.0,63.0
+/zapas/2898039,1.0,0.0,Carolina Hurricanes,Washington Capitals,35.0,57.0,50.0,33.0,72.0,61.0
+/zapas/2898045,0.0,0.0,Carolina Hurricanes,Tampa Bay Lightning,38.0,61.0,48.0,34.0,61.0,54.0
+/zapas/2898063,1.0,1.0,Carolina Hurricanes,Montreal Canadiens,38.0,62.0,49.0,30.0,70.0,68.0
+/zapas/2898080,0.0,1.0,Carolina Hurricanes,Minnesota Wild,38.0,61.0,46.0,31.0,68.0,67.0
+/zapas/2898097,0.0,0.0,Carolina Hurricanes,Buffalo Sabres,35.0,58.0,46.0,27.0,58.0,73.0
+/zapas/2898116,1.0,1.0,Carolina Hurricanes,Buffalo Sabres,33.0,56.0,47.0,30.0,59.0,68.0
+/zapas/2898122,0.0,1.0,Carolina Hurricanes,New York Islanders,33.0,57.0,50.0,37.0,67.0,52.0
+/zapas/2898142,1.0,1.0,Carolina Hurricanes,Anaheim Ducks,30.0,56.0,51.0,14.0,46.0,76.0
+/zapas/2898155,1.0,0.0,Carolina Hurricanes,New York Rangers,32.0,58.0,49.0,40.0,68.0,53.0
+/zapas/2898173,0.0,1.0,Carolina Hurricanes,Detroit Red Wings,35.0,62.0,47.0,18.0,54.0,90.0
+/zapas/2898179,0.0,0.0,Carolina Hurricanes,Colorado Avalanche,33.0,59.0,48.0,41.0,69.0,49.0
+/zapas/2898198,1.0,0.0,Carolina Hurricanes,Arizona Coyotes,30.0,60.0,53.0,17.0,51.0,86.0
+/zapas/2898224,1.0,1.0,Carolina Hurricanes,Winnipeg Jets,30.0,63.0,56.0,27.0,61.0,70.0
+/zapas/2898240,1.0,0.0,Carolina Hurricanes,New Jersey Devils,30.0,64.0,57.0,18.0,60.0,80.0
+/zapas/2898247,1.0,0.0,Carolina Hurricanes,New York Islanders,32.0,65.0,55.0,30.0,59.0,62.0
+/zapas/2898264,1.0,0.0,Carolina Hurricanes,New York Rangers,35.0,68.0,54.0,40.0,65.0,43.0
+/zapas/2898278,1.0,1.0,Carolina Hurricanes,New Jersey Devils,37.0,69.0,53.0,18.0,60.0,82.0

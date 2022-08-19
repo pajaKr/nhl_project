@@ -1,0 +1,373 @@
+game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
+/zapas/2526065,Anaheim Ducks,Arizona Coyotes,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Anaheim Ducks,Arizona Coyotes,2017
+/zapas/2526080,Arizona Coyotes,Vegas Golden Knights,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Vegas Golden Knights,Arizona Coyotes,2017
+/zapas/2526099,Vegas Golden Knights,Arizona Coyotes,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Arizona Coyotes,2017
+/zapas/2526110,Arizona Coyotes,Detroit Red Wings,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Detroit Red Wings,Arizona Coyotes,2017
+/zapas/2526126,Arizona Coyotes,Boston Bruins,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Boston Bruins,Arizona Coyotes,2017
+/zapas/2526142,Dallas Stars,Arizona Coyotes,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Dallas Stars,Arizona Coyotes,2017
+/zapas/2526157,Arizona Coyotes,Dallas Stars,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Dallas Stars,Arizona Coyotes,2017
+/zapas/2526173,Arizona Coyotes,Chicago Blackhawks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Chicago Blackhawks,Arizona Coyotes,2017
+/zapas/2526183,New York Islanders,Arizona Coyotes,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Islanders,Arizona Coyotes,2017
+/zapas/2526195,New York Rangers,Arizona Coyotes,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Rangers,Arizona Coyotes,2017
+/zapas/2526215,New Jersey Devils,Arizona Coyotes,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,New Jersey Devils,Arizona Coyotes,2017
+/zapas/2526225,Philadelphia Flyers,Arizona Coyotes,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Philadelphia Flyers,Arizona Coyotes,2017
+/zapas/2526233,Detroit Red Wings,Arizona Coyotes,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Detroit Red Wings,Arizona Coyotes,2017
+/zapas/2526250,Arizona Coyotes,Buffalo Sabres,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Buffalo Sabres,Arizona Coyotes,2017
+/zapas/2526263,Arizona Coyotes,Carolina Hurricanes,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Carolina Hurricanes,Arizona Coyotes,2017
+/zapas/2526274,Washington Capitals,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Washington Capitals,Arizona Coyotes,2017
+/zapas/2526280,Pittsburgh Penguins,Arizona Coyotes,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Pittsburgh Penguins,Arizona Coyotes,2017
+/zapas/2526292,St. Louis Blues,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,St. Louis Blues,Arizona Coyotes,2017
+/zapas/2526314,Arizona Coyotes,Winnipeg Jets,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Arizona Coyotes,2017
+/zapas/2526326,Winnipeg Jets,Arizona Coyotes,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Arizona Coyotes,2017
+/zapas/2526334,Montreal Canadiens,Arizona Coyotes,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Montreal Canadiens,Arizona Coyotes,2017
+/zapas/2526348,Ottawa Senators,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Ottawa Senators,Arizona Coyotes,2017
+/zapas/2526365,Toronto Maple Leafs,Arizona Coyotes,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Toronto Maple Leafs,Arizona Coyotes,2017
+/zapas/2526385,Arizona Coyotes,San Jose Sharks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,San Jose Sharks,Arizona Coyotes,2017
+/zapas/2526399,Arizona Coyotes,Los Angeles Kings,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Los Angeles Kings,Arizona Coyotes,2017
+/zapas/2526408,Arizona Coyotes,Vegas Golden Knights,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Arizona Coyotes,2017
+/zapas/2526429,Edmonton Oilers,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Arizona Coyotes,2017
+/zapas/2526440,Calgary Flames,Arizona Coyotes,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Calgary Flames,Arizona Coyotes,2017
+/zapas/2526457,Arizona Coyotes,New Jersey Devils,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,New Jersey Devils,Arizona Coyotes,2017
+/zapas/2526464,Vegas Golden Knights,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Arizona Coyotes,2017
+/zapas/2526484,Boston Bruins,Arizona Coyotes,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Boston Bruins,Arizona Coyotes,2017
+/zapas/2526505,Columbus Blue Jackets,Arizona Coyotes,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Columbus Blue Jackets,Arizona Coyotes,2017
+/zapas/2526510,Chicago Blackhawks,Arizona Coyotes,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Chicago Blackhawks,Arizona Coyotes,2017
+/zapas/2526543,Arizona Coyotes,Tampa Bay Lightning,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Tampa Bay Lightning,Arizona Coyotes,2017
+/zapas/2526557,Arizona Coyotes,Pittsburgh Penguins,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Pittsburgh Penguins,Arizona Coyotes,2017
+/zapas/2526577,Arizona Coyotes,Florida Panthers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Florida Panthers,Arizona Coyotes,2017
+/zapas/2526596,Arizona Coyotes,Washington Capitals,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Washington Capitals,Arizona Coyotes,2017
+/zapas/2526608,Arizona Coyotes,Colorado Avalanche,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Colorado Avalanche,Arizona Coyotes,2017
+/zapas/2526621,Colorado Avalanche,Arizona Coyotes,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Colorado Avalanche,Arizona Coyotes,2017
+/zapas/2526626,Arizona Coyotes,Toronto Maple Leafs,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Toronto Maple Leafs,Arizona Coyotes,2017
+/zapas/2526648,Anaheim Ducks,Arizona Coyotes,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Anaheim Ducks,Arizona Coyotes,2017
+/zapas/2526678,Arizona Coyotes,Nashville Predators,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Nashville Predators,Arizona Coyotes,2017
+/zapas/2526693,Arizona Coyotes,New York Rangers,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,New York Rangers,Arizona Coyotes,2017
+/zapas/2526723,Arizona Coyotes,Edmonton Oilers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Edmonton Oilers,Arizona Coyotes,2017
+/zapas/2526732,San Jose Sharks,Arizona Coyotes,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,San Jose Sharks,Arizona Coyotes,2017
+/zapas/2526746,Arizona Coyotes,San Jose Sharks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,San Jose Sharks,Arizona Coyotes,2017
+/zapas/2526756,Nashville Predators,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Nashville Predators,Arizona Coyotes,2017
+/zapas/2526771,St. Louis Blues,Arizona Coyotes,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,St. Louis Blues,Arizona Coyotes,2017
+/zapas/2526784,Arizona Coyotes,New York Islanders,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Islanders,Arizona Coyotes,2017
+/zapas/2526810,Arizona Coyotes,Columbus Blue Jackets,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Columbus Blue Jackets,Arizona Coyotes,2017
+/zapas/2526840,Arizona Coyotes,Dallas Stars,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Dallas Stars,Arizona Coyotes,2017
+/zapas/2526858,Los Angeles Kings,Arizona Coyotes,6,0,0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,Los Angeles Kings,Arizona Coyotes,2017
+/zapas/2526874,Winnipeg Jets,Arizona Coyotes,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Arizona Coyotes,2017
+/zapas/2526886,Minnesota Wild,Arizona Coyotes,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Minnesota Wild,Arizona Coyotes,2017
+/zapas/2526903,Arizona Coyotes,Philadelphia Flyers,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Philadelphia Flyers,Arizona Coyotes,2017
+/zapas/2526917,Arizona Coyotes,Chicago Blackhawks,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Chicago Blackhawks,Arizona Coyotes,2017
+/zapas/2526929,San Jose Sharks,Arizona Coyotes,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,San Jose Sharks,Arizona Coyotes,2017
+/zapas/2526941,Arizona Coyotes,Montreal Canadiens,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Arizona Coyotes,2017
+/zapas/2526951,Arizona Coyotes,Edmonton Oilers,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Edmonton Oilers,Arizona Coyotes,2017
+/zapas/2526993,Arizona Coyotes,Calgary Flames,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Calgary Flames,Arizona Coyotes,2017
+/zapas/2527010,Arizona Coyotes,Anaheim Ducks,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Anaheim Ducks,Arizona Coyotes,2017
+/zapas/2527017,Arizona Coyotes,Vancouver Canucks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Vancouver Canucks,Arizona Coyotes,2017
+/zapas/2527042,Arizona Coyotes,Minnesota Wild,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Minnesota Wild,Arizona Coyotes,2017
+/zapas/2527059,Arizona Coyotes,Ottawa Senators,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Ottawa Senators,Arizona Coyotes,2017
+/zapas/2527072,Edmonton Oilers,Arizona Coyotes,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Edmonton Oilers,Arizona Coyotes,2017
+/zapas/2527085,Vancouver Canucks,Arizona Coyotes,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Vancouver Canucks,Arizona Coyotes,2017
+/zapas/2527106,Colorado Avalanche,Arizona Coyotes,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Colorado Avalanche,Arizona Coyotes,2017
+/zapas/2527116,Arizona Coyotes,Vancouver Canucks,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Vancouver Canucks,Arizona Coyotes,2017
+/zapas/2527131,Arizona Coyotes,Los Angeles Kings,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Arizona Coyotes,2017
+/zapas/2527144,Arizona Coyotes,Nashville Predators,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Nashville Predators,Arizona Coyotes,2017
+/zapas/2527160,Arizona Coyotes,Minnesota Wild,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Minnesota Wild,Arizona Coyotes,2017
+/zapas/2527174,Arizona Coyotes,Calgary Flames,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Calgary Flames,Arizona Coyotes,2017
+/zapas/2527186,Buffalo Sabres,Arizona Coyotes,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Buffalo Sabres,Arizona Coyotes,2017
+/zapas/2527192,Carolina Hurricanes,Arizona Coyotes,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Carolina Hurricanes,Arizona Coyotes,2017
+/zapas/2527210,Florida Panthers,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Florida Panthers,Arizona Coyotes,2017
+/zapas/2527227,Tampa Bay Lightning,Arizona Coyotes,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Tampa Bay Lightning,Arizona Coyotes,2017
+/zapas/2527242,Vegas Golden Knights,Arizona Coyotes,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vegas Golden Knights,Arizona Coyotes,2017
+/zapas/2527253,Los Angeles Kings,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Arizona Coyotes,2017
+/zapas/2527269,Arizona Coyotes,St. Louis Blues,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,St. Louis Blues,Arizona Coyotes,2017
+/zapas/2527289,Calgary Flames,Arizona Coyotes,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Calgary Flames,Arizona Coyotes,2017
+/zapas/2527304,Vancouver Canucks,Arizona Coyotes,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Vancouver Canucks,Arizona Coyotes,2017
+/zapas/2527320,Arizona Coyotes,Anaheim Ducks,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Anaheim Ducks,Arizona Coyotes,2017
+/zapas/2647210,Dallas Stars,Arizona Coyotes,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Dallas Stars,Arizona Coyotes,2018
+/zapas/2647224,Arizona Coyotes,Anaheim Ducks,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Anaheim Ducks,Arizona Coyotes,2018
+/zapas/2647242,Anaheim Ducks,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Anaheim Ducks,Arizona Coyotes,2018
+/zapas/2647267,Arizona Coyotes,Buffalo Sabres,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Buffalo Sabres,Arizona Coyotes,2018
+/zapas/2647281,Minnesota Wild,Arizona Coyotes,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Minnesota Wild,Arizona Coyotes,2018
+/zapas/2647293,Chicago Blackhawks,Arizona Coyotes,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Chicago Blackhawks,Arizona Coyotes,2018
+/zapas/2647302,Winnipeg Jets,Arizona Coyotes,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Winnipeg Jets,Arizona Coyotes,2018
+/zapas/2647321,Columbus Blue Jackets,Arizona Coyotes,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Arizona Coyotes,2018
+/zapas/2647341,Arizona Coyotes,Vancouver Canucks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Arizona Coyotes,2018
+/zapas/2647355,Arizona Coyotes,Tampa Bay Lightning,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Tampa Bay Lightning,Arizona Coyotes,2018
+/zapas/2647373,Arizona Coyotes,Ottawa Senators,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Ottawa Senators,Arizona Coyotes,2018
+/zapas/2647392,Arizona Coyotes,Carolina Hurricanes,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Carolina Hurricanes,Arizona Coyotes,2018
+/zapas/2647412,Arizona Coyotes,Philadelphia Flyers,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Philadelphia Flyers,Arizona Coyotes,2018
+/zapas/2647427,Philadelphia Flyers,Arizona Coyotes,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Philadelphia Flyers,Arizona Coyotes,2018
+/zapas/2647447,Pittsburgh Penguins,Arizona Coyotes,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Pittsburgh Penguins,Arizona Coyotes,2018
+/zapas/2647453,Washington Capitals,Arizona Coyotes,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Washington Capitals,Arizona Coyotes,2018
+/zapas/2647466,Detroit Red Wings,Arizona Coyotes,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Detroit Red Wings,Arizona Coyotes,2018
+/zapas/2647482,Arizona Coyotes,Nashville Predators,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Nashville Predators,Arizona Coyotes,2018
+/zapas/2647497,Arizona Coyotes,Boston Bruins,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Boston Bruins,Arizona Coyotes,2018
+/zapas/2647526,Arizona Coyotes,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Arizona Coyotes,2018
+/zapas/2647541,Arizona Coyotes,Colorado Avalanche,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Arizona Coyotes,2018
+/zapas/2647556,Arizona Coyotes,Calgary Flames,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Calgary Flames,Arizona Coyotes,2018
+/zapas/2647570,Minnesota Wild,Arizona Coyotes,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Minnesota Wild,Arizona Coyotes,2018
+/zapas/2647584,Nashville Predators,Arizona Coyotes,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Nashville Predators,Arizona Coyotes,2018
+/zapas/2647602,Arizona Coyotes,St. Louis Blues,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,St. Louis Blues,Arizona Coyotes,2018
+/zapas/2647623,Los Angeles Kings,Arizona Coyotes,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Los Angeles Kings,Arizona Coyotes,2018
+/zapas/2647634,Arizona Coyotes,Washington Capitals,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Washington Capitals,Arizona Coyotes,2018
+/zapas/2647650,Arizona Coyotes,San Jose Sharks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,San Jose Sharks,Arizona Coyotes,2018
+/zapas/2647663,Boston Bruins,Arizona Coyotes,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Boston Bruins,Arizona Coyotes,2018
+/zapas/2647677,Buffalo Sabres,Arizona Coyotes,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Buffalo Sabres,Arizona Coyotes,2018
+/zapas/2647686,New York Rangers,Arizona Coyotes,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Rangers,Arizona Coyotes,2018
+/zapas/2647704,Carolina Hurricanes,Arizona Coyotes,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Carolina Hurricanes,Arizona Coyotes,2018
+/zapas/2647723,Arizona Coyotes,New York Islanders,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Islanders,Arizona Coyotes,2018
+/zapas/2647736,Arizona Coyotes,Montreal Canadiens,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Montreal Canadiens,Arizona Coyotes,2018
+/zapas/2647749,Arizona Coyotes,Colorado Avalanche,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Colorado Avalanche,Arizona Coyotes,2018
+/zapas/2647763,San Jose Sharks,Arizona Coyotes,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,San Jose Sharks,Arizona Coyotes,2018
+/zapas/2647776,Los Angeles Kings,Arizona Coyotes,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Los Angeles Kings,Arizona Coyotes,2018
+/zapas/2647794,Anaheim Ducks,Arizona Coyotes,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Anaheim Ducks,Arizona Coyotes,2018
+/zapas/2647796,Arizona Coyotes,Vegas Golden Knights,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Vegas Golden Knights,Arizona Coyotes,2018
+/zapas/2647818,Arizona Coyotes,Edmonton Oilers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Edmonton Oilers,Arizona Coyotes,2018
+/zapas/2647832,Arizona Coyotes,New Jersey Devils,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New Jersey Devils,Arizona Coyotes,2018
+/zapas/2647845,Arizona Coyotes,New York Rangers,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,New York Rangers,Arizona Coyotes,2018
+/zapas/2647878,Vancouver Canucks,Arizona Coyotes,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vancouver Canucks,Arizona Coyotes,2018
+/zapas/2647895,Edmonton Oilers,Arizona Coyotes,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Edmonton Oilers,Arizona Coyotes,2018
+/zapas/2647902,Calgary Flames,Arizona Coyotes,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Calgary Flames,Arizona Coyotes,2018
+/zapas/2647923,Arizona Coyotes,San Jose Sharks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,San Jose Sharks,Arizona Coyotes,2018
+/zapas/2647936,Arizona Coyotes,Pittsburgh Penguins,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Pittsburgh Penguins,Arizona Coyotes,2018
+/zapas/2647952,Toronto Maple Leafs,Arizona Coyotes,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Toronto Maple Leafs,Arizona Coyotes,2018
+/zapas/2647959,Ottawa Senators,Arizona Coyotes,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Ottawa Senators,Arizona Coyotes,2018
+/zapas/2647964,Montreal Canadiens,Arizona Coyotes,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Montreal Canadiens,Arizona Coyotes,2018
+/zapas/2647999,San Jose Sharks,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,San Jose Sharks,Arizona Coyotes,2018
+/zapas/2648006,Dallas Stars,Arizona Coyotes,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Dallas Stars,Arizona Coyotes,2018
+/zapas/2648015,Nashville Predators,Arizona Coyotes,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Nashville Predators,Arizona Coyotes,2018
+/zapas/2648034,Arizona Coyotes,Columbus Blue Jackets,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Arizona Coyotes,2018
+/zapas/2648043,Arizona Coyotes,Dallas Stars,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Dallas Stars,Arizona Coyotes,2018
+/zapas/2648072,Vegas Golden Knights,Arizona Coyotes,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Arizona Coyotes,2018
+/zapas/2648082,Arizona Coyotes,St. Louis Blues,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,St. Louis Blues,Arizona Coyotes,2018
+/zapas/2648093,Arizona Coyotes,Toronto Maple Leafs,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Toronto Maple Leafs,Arizona Coyotes,2018
+/zapas/2648108,Calgary Flames,Arizona Coyotes,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Calgary Flames,Arizona Coyotes,2018
+/zapas/2648122,Edmonton Oilers,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Edmonton Oilers,Arizona Coyotes,2018
+/zapas/2648137,Vancouver Canucks,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Arizona Coyotes,2018
+/zapas/2648159,Arizona Coyotes,Winnipeg Jets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Arizona Coyotes,2018
+/zapas/2648175,Arizona Coyotes,Florida Panthers,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Florida Panthers,Arizona Coyotes,2018
+/zapas/2648186,Arizona Coyotes,Vancouver Canucks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Arizona Coyotes,2018
+/zapas/2648204,Arizona Coyotes,Detroit Red Wings,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Detroit Red Wings,Arizona Coyotes,2018
+/zapas/2648225,Arizona Coyotes,Anaheim Ducks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Arizona Coyotes,2018
+/zapas/2648239,Arizona Coyotes,Calgary Flames,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Calgary Flames,Arizona Coyotes,2018
+/zapas/2648254,Arizona Coyotes,Los Angeles Kings,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Arizona Coyotes,2018
+/zapas/2648267,Chicago Blackhawks,Arizona Coyotes,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Chicago Blackhawks,Arizona Coyotes,2018
+/zapas/2648274,St. Louis Blues,Arizona Coyotes,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,St. Louis Blues,Arizona Coyotes,2018
+/zapas/2648288,Arizona Coyotes,Anaheim Ducks,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Anaheim Ducks,Arizona Coyotes,2018
+/zapas/2648307,Arizona Coyotes,Edmonton Oilers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Arizona Coyotes,2018
+/zapas/2648316,Tampa Bay Lightning,Arizona Coyotes,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Tampa Bay Lightning,Arizona Coyotes,2018
+/zapas/2648334,Florida Panthers,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Florida Panthers,Arizona Coyotes,2018
+/zapas/2648348,New Jersey Devils,Arizona Coyotes,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,New Jersey Devils,Arizona Coyotes,2018
+/zapas/2648363,New York Islanders,Arizona Coyotes,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,New York Islanders,Arizona Coyotes,2018
+/zapas/2648382,Arizona Coyotes,Chicago Blackhawks,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Chicago Blackhawks,Arizona Coyotes,2018
+/zapas/2648398,Colorado Avalanche,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Arizona Coyotes,2018
+/zapas/2648414,Arizona Coyotes,Minnesota Wild,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Minnesota Wild,Arizona Coyotes,2018
+/zapas/2648436,Arizona Coyotes,Los Angeles Kings,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Los Angeles Kings,Arizona Coyotes,2018
+/zapas/2648451,Vegas Golden Knights,Arizona Coyotes,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,2018
+/zapas/2648466,Arizona Coyotes,Winnipeg Jets,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Winnipeg Jets,Arizona Coyotes,2018
+/zapas/2806388,Anaheim Ducks,Arizona Coyotes,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Anaheim Ducks,Arizona Coyotes,2019
+/zapas/2806402,Arizona Coyotes,Boston Bruins,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Boston Bruins,Arizona Coyotes,2019
+/zapas/2806433,Arizona Coyotes,Vegas Golden Knights,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,2019
+/zapas/2806448,Colorado Avalanche,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Arizona Coyotes,2019
+/zapas/2806463,Winnipeg Jets,Arizona Coyotes,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Arizona Coyotes,2019
+/zapas/2806480,Arizona Coyotes,Nashville Predators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Nashville Predators,Arizona Coyotes,2019
+/zapas/2806491,Arizona Coyotes,Ottawa Senators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Ottawa Senators,Arizona Coyotes,2019
+/zapas/2806512,New York Rangers,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New York Rangers,Arizona Coyotes,2019
+/zapas/2806522,New York Islanders,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,New York Islanders,Arizona Coyotes,2019
+/zapas/2806533,New Jersey Devils,Arizona Coyotes,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New Jersey Devils,Arizona Coyotes,2019
+/zapas/2806553,Buffalo Sabres,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Buffalo Sabres,Arizona Coyotes,2019
+/zapas/2806567,Arizona Coyotes,Montreal Canadiens,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Montreal Canadiens,Arizona Coyotes,2019
+/zapas/2806590,Arizona Coyotes,Colorado Avalanche,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Colorado Avalanche,Arizona Coyotes,2019
+/zapas/2806599,Edmonton Oilers,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Edmonton Oilers,Arizona Coyotes,2019
+/zapas/2806607,Calgary Flames,Arizona Coyotes,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Calgary Flames,Arizona Coyotes,2019
+/zapas/2806622,Arizona Coyotes,Columbus Blue Jackets,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Columbus Blue Jackets,Arizona Coyotes,2019
+/zapas/2806635,Arizona Coyotes,Minnesota Wild,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Minnesota Wild,Arizona Coyotes,2019
+/zapas/2806646,Washington Capitals,Arizona Coyotes,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Washington Capitals,Arizona Coyotes,2019
+/zapas/2806651,St. Louis Blues,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,St. Louis Blues,Arizona Coyotes,2019
+/zapas/2806665,Minnesota Wild,Arizona Coyotes,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Minnesota Wild,Arizona Coyotes,2019
+/zapas/2806677,Arizona Coyotes,Calgary Flames,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Calgary Flames,Arizona Coyotes,2019
+/zapas/2806693,Arizona Coyotes,Los Angeles Kings,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Los Angeles Kings,Arizona Coyotes,2019
+/zapas/2806719,Arizona Coyotes,Toronto Maple Leafs,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Toronto Maple Leafs,Arizona Coyotes,2019
+/zapas/2806726,Los Angeles Kings,Arizona Coyotes,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Arizona Coyotes,2019
+/zapas/2806740,Arizona Coyotes,Edmonton Oilers,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Edmonton Oilers,Arizona Coyotes,2019
+/zapas/2806762,Arizona Coyotes,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Arizona Coyotes,2019
+/zapas/2806775,Vegas Golden Knights,Arizona Coyotes,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Vegas Golden Knights,Arizona Coyotes,2019
+/zapas/2806787,Arizona Coyotes,San Jose Sharks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,San Jose Sharks,Arizona Coyotes,2019
+/zapas/2806805,Columbus Blue Jackets,Arizona Coyotes,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Columbus Blue Jackets,Arizona Coyotes,2019
+/zapas/2806818,Philadelphia Flyers,Arizona Coyotes,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Philadelphia Flyers,Arizona Coyotes,2019
+/zapas/2806825,Pittsburgh Penguins,Arizona Coyotes,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Pittsburgh Penguins,Arizona Coyotes,2019
+/zapas/2806842,Chicago Blackhawks,Arizona Coyotes,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Arizona Coyotes,2019
+/zapas/2806856,Arizona Coyotes,Calgary Flames,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Calgary Flames,Arizona Coyotes,2019
+/zapas/2806871,Arizona Coyotes,Chicago Blackhawks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Arizona Coyotes,2019
+/zapas/2806888,Arizona Coyotes,New Jersey Devils,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,New Jersey Devils,Arizona Coyotes,2019
+/zapas/2806910,San Jose Sharks,Arizona Coyotes,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,San Jose Sharks,Arizona Coyotes,2019
+/zapas/2806922,Arizona Coyotes,Minnesota Wild,5,8,0,0.0,3.0,1.0,0.0,5.0,8.0,0.0,Minnesota Wild,Arizona Coyotes,2019
+/zapas/2806943,Detroit Red Wings,Arizona Coyotes,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Detroit Red Wings,Arizona Coyotes,2019
+/zapas/2806952,Nashville Predators,Arizona Coyotes,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Nashville Predators,Arizona Coyotes,2019
+/zapas/2806976,Vegas Golden Knights,Arizona Coyotes,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Arizona Coyotes,2019
+/zapas/2806985,Arizona Coyotes,Dallas Stars,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Dallas Stars,Arizona Coyotes,2019
+/zapas/2807001,Arizona Coyotes,St. Louis Blues,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,St. Louis Blues,Arizona Coyotes,2019
+/zapas/2807012,Arizona Coyotes,Anaheim Ducks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Anaheim Ducks,Arizona Coyotes,2019
+/zapas/2807026,Arizona Coyotes,Philadelphia Flyers,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Philadelphia Flyers,Arizona Coyotes,2019
+/zapas/2807040,Florida Panthers,Arizona Coyotes,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Florida Panthers,Arizona Coyotes,2019
+/zapas/2807056,Tampa Bay Lightning,Arizona Coyotes,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Tampa Bay Lightning,Arizona Coyotes,2019
+/zapas/2807066,Carolina Hurricanes,Arizona Coyotes,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Carolina Hurricanes,Arizona Coyotes,2019
+/zapas/2807082,Arizona Coyotes,Pittsburgh Penguins,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Pittsburgh Penguins,Arizona Coyotes,2019
+/zapas/2807100,Arizona Coyotes,San Jose Sharks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,San Jose Sharks,Arizona Coyotes,2019
+/zapas/2807115,Vancouver Canucks,Arizona Coyotes,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Vancouver Canucks,Arizona Coyotes,2019
+/zapas/2807121,Edmonton Oilers,Arizona Coyotes,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Edmonton Oilers,Arizona Coyotes,2019
+/zapas/2807154,Anaheim Ducks,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Anaheim Ducks,Arizona Coyotes,2019
+/zapas/2807160,Arizona Coyotes,Los Angeles Kings,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Los Angeles Kings,Arizona Coyotes,2019
+/zapas/2807176,Arizona Coyotes,Chicago Blackhawks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Chicago Blackhawks,Arizona Coyotes,2019
+/zapas/2807200,Arizona Coyotes,Edmonton Oilers,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Edmonton Oilers,Arizona Coyotes,2019
+/zapas/2807214,Arizona Coyotes,Carolina Hurricanes,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Carolina Hurricanes,Arizona Coyotes,2019
+/zapas/2807220,Boston Bruins,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Boston Bruins,Arizona Coyotes,2019
+/zapas/2807236,Montreal Canadiens,Arizona Coyotes,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Montreal Canadiens,Arizona Coyotes,2019
+/zapas/2807243,Toronto Maple Leafs,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Toronto Maple Leafs,Arizona Coyotes,2019
+/zapas/2807261,Ottawa Senators,Arizona Coyotes,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Ottawa Senators,Arizona Coyotes,2019
+/zapas/2807280,Arizona Coyotes,Washington Capitals,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Washington Capitals,Arizona Coyotes,2019
+/zapas/2807293,Arizona Coyotes,New York Islanders,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Islanders,Arizona Coyotes,2019
+/zapas/2807305,Dallas Stars,Arizona Coyotes,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Dallas Stars,Arizona Coyotes,2019
+/zapas/2807314,St. Louis Blues,Arizona Coyotes,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,St. Louis Blues,Arizona Coyotes,2019
+/zapas/2807330,Arizona Coyotes,Tampa Bay Lightning,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Tampa Bay Lightning,Arizona Coyotes,2019
+/zapas/2807355,Arizona Coyotes,Florida Panthers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Florida Panthers,Arizona Coyotes,2019
+/zapas/2807382,Arizona Coyotes,Buffalo Sabres,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Arizona Coyotes,2019
+/zapas/2807408,Vancouver Canucks,Arizona Coyotes,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vancouver Canucks,Arizona Coyotes,2019
+/zapas/2807422,Calgary Flames,Arizona Coyotes,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Calgary Flames,Arizona Coyotes,2019
+/zapas/2807443,Winnipeg Jets,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Winnipeg Jets,Arizona Coyotes,2019
+/zapas/2893217,Arizona Coyotes,San Jose Sharks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,San Jose Sharks,Arizona Coyotes,2020
+/zapas/2893234,Arizona Coyotes,San Jose Sharks,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,San Jose Sharks,Arizona Coyotes,2020
+/zapas/2893252,Vegas Golden Knights,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Arizona Coyotes,2020
+/zapas/2893266,Vegas Golden Knights,Arizona Coyotes,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Arizona Coyotes,2020
+/zapas/2893278,Arizona Coyotes,Vegas Golden Knights,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Arizona Coyotes,2020
+/zapas/2893295,Arizona Coyotes,Vegas Golden Knights,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Vegas Golden Knights,Arizona Coyotes,2020
+/zapas/2893307,Arizona Coyotes,Anaheim Ducks,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Anaheim Ducks,Arizona Coyotes,2020
+/zapas/2893321,Arizona Coyotes,Anaheim Ducks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Arizona Coyotes,2020
+/zapas/2893359,St. Louis Blues,Arizona Coyotes,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,St. Louis Blues,Arizona Coyotes,2020
+/zapas/2893372,St. Louis Blues,Arizona Coyotes,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,St. Louis Blues,Arizona Coyotes,2020
+/zapas/2893756,St. Louis Blues,Arizona Coyotes,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,St. Louis Blues,Arizona Coyotes,2020
+/zapas/2893773,St. Louis Blues,Arizona Coyotes,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,St. Louis Blues,Arizona Coyotes,2020
+/zapas/2893892,Arizona Coyotes,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Arizona Coyotes,2020
+/zapas/2893441,Arizona Coyotes,St. Louis Blues,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,St. Louis Blues,Arizona Coyotes,2020
+/zapas/2893454,Arizona Coyotes,St. Louis Blues,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,St. Louis Blues,Arizona Coyotes,2020
+/zapas/2893475,Arizona Coyotes,Los Angeles Kings,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Los Angeles Kings,Arizona Coyotes,2020
+/zapas/2893490,Arizona Coyotes,Los Angeles Kings,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Arizona Coyotes,2020
+/zapas/2893505,Arizona Coyotes,Anaheim Ducks,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Anaheim Ducks,Arizona Coyotes,2020
+/zapas/2893517,Arizona Coyotes,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Arizona Coyotes,2020
+/zapas/2893521,Arizona Coyotes,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Arizona Coyotes,2020
+/zapas/2893540,Arizona Coyotes,Colorado Avalanche,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Colorado Avalanche,Arizona Coyotes,2020
+/zapas/2893950,Los Angeles Kings,Arizona Coyotes,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Arizona Coyotes,2020
+/zapas/2893583,Arizona Coyotes,Minnesota Wild,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Minnesota Wild,Arizona Coyotes,2020
+/zapas/2893593,Arizona Coyotes,Minnesota Wild,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Minnesota Wild,Arizona Coyotes,2020
+/zapas/2893606,Colorado Avalanche,Arizona Coyotes,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Colorado Avalanche,Arizona Coyotes,2020
+/zapas/2893620,Colorado Avalanche,Arizona Coyotes,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Colorado Avalanche,Arizona Coyotes,2020
+/zapas/2893634,Minnesota Wild,Arizona Coyotes,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Minnesota Wild,Arizona Coyotes,2020
+/zapas/2893650,Minnesota Wild,Arizona Coyotes,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Minnesota Wild,Arizona Coyotes,2020
+/zapas/2893388,Minnesota Wild,Arizona Coyotes,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Minnesota Wild,Arizona Coyotes,2020
+/zapas/2893684,Anaheim Ducks,Arizona Coyotes,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Anaheim Ducks,Arizona Coyotes,2020
+/zapas/2893669,Anaheim Ducks,Arizona Coyotes,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Anaheim Ducks,Arizona Coyotes,2020
+/zapas/2893710,Arizona Coyotes,Colorado Avalanche,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Arizona Coyotes,2020
+/zapas/2893716,Arizona Coyotes,Colorado Avalanche,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Colorado Avalanche,Arizona Coyotes,2020
+/zapas/2893736,Arizona Coyotes,San Jose Sharks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,San Jose Sharks,Arizona Coyotes,2020
+/zapas/2893748,Arizona Coyotes,San Jose Sharks,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,San Jose Sharks,Arizona Coyotes,2020
+/zapas/2893413,Colorado Avalanche,Arizona Coyotes,9,3,0,3.0,0.0,0.0,0.0,3.0,9.0,0.0,Colorado Avalanche,Arizona Coyotes,2020
+/zapas/2893791,Anaheim Ducks,Arizona Coyotes,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Anaheim Ducks,Arizona Coyotes,2020
+/zapas/2893812,Anaheim Ducks,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Anaheim Ducks,Arizona Coyotes,2020
+/zapas/2893818,Los Angeles Kings,Arizona Coyotes,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Los Angeles Kings,Arizona Coyotes,2020
+/zapas/2893832,Los Angeles Kings,Arizona Coyotes,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Los Angeles Kings,Arizona Coyotes,2020
+/zapas/2893847,Vegas Golden Knights,Arizona Coyotes,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Vegas Golden Knights,Arizona Coyotes,2020
+/zapas/2893863,Vegas Golden Knights,Arizona Coyotes,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Vegas Golden Knights,Arizona Coyotes,2020
+/zapas/2893427,Colorado Avalanche,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Colorado Avalanche,Arizona Coyotes,2020
+/zapas/2893397,Minnesota Wild,Arizona Coyotes,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Minnesota Wild,Arizona Coyotes,2020
+/zapas/2893908,Arizona Coyotes,St. Louis Blues,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,St. Louis Blues,Arizona Coyotes,2020
+/zapas/2893920,Arizona Coyotes,Minnesota Wild,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Minnesota Wild,Arizona Coyotes,2020
+/zapas/2893935,Arizona Coyotes,Minnesota Wild,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Minnesota Wild,Arizona Coyotes,2020
+/zapas/2893960,Los Angeles Kings,Arizona Coyotes,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Los Angeles Kings,Arizona Coyotes,2020
+/zapas/2893974,San Jose Sharks,Arizona Coyotes,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,San Jose Sharks,Arizona Coyotes,2020
+/zapas/2893989,San Jose Sharks,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,San Jose Sharks,Arizona Coyotes,2020
+/zapas/2894002,Arizona Coyotes,Vegas Golden Knights,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vegas Golden Knights,Arizona Coyotes,2020
+/zapas/2894017,Arizona Coyotes,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Arizona Coyotes,2020
+/zapas/2894030,Arizona Coyotes,Los Angeles Kings,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Los Angeles Kings,Arizona Coyotes,2020
+/zapas/2894044,Arizona Coyotes,Los Angeles Kings,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Arizona Coyotes,2020
+/zapas/2894061,San Jose Sharks,Arizona Coyotes,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,San Jose Sharks,Arizona Coyotes,2020
+/zapas/2894076,San Jose Sharks,Arizona Coyotes,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,San Jose Sharks,Arizona Coyotes,2020
+/zapas/2896997,Columbus Blue Jackets,Arizona Coyotes,8,2,0,3.0,0.0,0.0,0.0,2.0,8.0,0.0,Columbus Blue Jackets,Arizona Coyotes,2021
+/zapas/2897007,Buffalo Sabres,Arizona Coyotes,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Buffalo Sabres,Arizona Coyotes,2021
+/zapas/2897016,Arizona Coyotes,St. Louis Blues,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,St. Louis Blues,Arizona Coyotes,2021
+/zapas/2897033,Arizona Coyotes,Edmonton Oilers,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Edmonton Oilers,Arizona Coyotes,2021
+/zapas/2897047,Arizona Coyotes,New York Islanders,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,New York Islanders,Arizona Coyotes,2021
+/zapas/2897067,Florida Panthers,Arizona Coyotes,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Florida Panthers,Arizona Coyotes,2021
+/zapas/2897089,Tampa Bay Lightning,Arizona Coyotes,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Tampa Bay Lightning,Arizona Coyotes,2021
+/zapas/2897096,Washington Capitals,Arizona Coyotes,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Washington Capitals,Arizona Coyotes,2021
+/zapas/2897112,Carolina Hurricanes,Arizona Coyotes,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Carolina Hurricanes,Arizona Coyotes,2021
+/zapas/2897124,Philadelphia Flyers,Arizona Coyotes,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Philadelphia Flyers,Arizona Coyotes,2021
+/zapas/2897139,Anaheim Ducks,Arizona Coyotes,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Arizona Coyotes,2021
+/zapas/2897143,Arizona Coyotes,Seattle Kraken,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Seattle Kraken,Arizona Coyotes,2021
+/zapas/2897173,Arizona Coyotes,Minnesota Wild,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Minnesota Wild,Arizona Coyotes,2021
+/zapas/2897187,Chicago Blackhawks,Arizona Coyotes,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Chicago Blackhawks,Arizona Coyotes,2021
+/zapas/2897195,Nashville Predators,Arizona Coyotes,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Nashville Predators,Arizona Coyotes,2021
+/zapas/2897215,St. Louis Blues,Arizona Coyotes,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,St. Louis Blues,Arizona Coyotes,2021
+/zapas/2897231,Arizona Coyotes,Columbus Blue Jackets,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Columbus Blue Jackets,Arizona Coyotes,2021
+/zapas/2897246,Arizona Coyotes,Detroit Red Wings,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Detroit Red Wings,Arizona Coyotes,2021
+/zapas/2897256,Los Angeles Kings,Arizona Coyotes,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Los Angeles Kings,Arizona Coyotes,2021
+/zapas/2897275,Arizona Coyotes,Edmonton Oilers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Edmonton Oilers,Arizona Coyotes,2021
+/zapas/2897302,Arizona Coyotes,Dallas Stars,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Dallas Stars,Arizona Coyotes,2021
+/zapas/2897315,Winnipeg Jets,Arizona Coyotes,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Winnipeg Jets,Arizona Coyotes,2021
+/zapas/2897322,Minnesota Wild,Arizona Coyotes,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Minnesota Wild,Arizona Coyotes,2021
+/zapas/2897345,Arizona Coyotes,Vegas Golden Knights,1,7,0,0.0,3.0,1.0,0.0,1.0,7.0,0.0,Vegas Golden Knights,Arizona Coyotes,2021
+/zapas/2897366,Dallas Stars,Arizona Coyotes,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Dallas Stars,Arizona Coyotes,2021
+/zapas/2897396,Arizona Coyotes,Florida Panthers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Florida Panthers,Arizona Coyotes,2021
+/zapas/2897405,Arizona Coyotes,Philadelphia Flyers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Philadelphia Flyers,Arizona Coyotes,2021
+/zapas/2897433,Arizona Coyotes,New York Rangers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,New York Rangers,Arizona Coyotes,2021
+/zapas/2897446,Anaheim Ducks,Arizona Coyotes,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Anaheim Ducks,Arizona Coyotes,2021
+/zapas/2897519,San Jose Sharks,Arizona Coyotes,8,7,1,2.0,1.0,0.0,1.0,7.0,8.0,0.0,San Jose Sharks,Arizona Coyotes,2021
+/zapas/2897570,Arizona Coyotes,Winnipeg Jets,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Winnipeg Jets,Arizona Coyotes,2021
+/zapas/2897585,Arizona Coyotes,Chicago Blackhawks,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Chicago Blackhawks,Arizona Coyotes,2021
+/zapas/2897601,Arizona Coyotes,Nashville Predators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Nashville Predators,Arizona Coyotes,2021
+/zapas/2897628,Arizona Coyotes,Toronto Maple Leafs,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Toronto Maple Leafs,Arizona Coyotes,2021
+/zapas/2897642,Colorado Avalanche,Arizona Coyotes,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Colorado Avalanche,Arizona Coyotes,2021
+/zapas/2897649,Arizona Coyotes,Colorado Avalanche,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Colorado Avalanche,Arizona Coyotes,2021
+/zapas/2897667,Arizona Coyotes,Montreal Canadiens,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Arizona Coyotes,2021
+/zapas/2897683,New Jersey Devils,Arizona Coyotes,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New Jersey Devils,Arizona Coyotes,2021
+/zapas/2897699,New York Islanders,Arizona Coyotes,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,New York Islanders,Arizona Coyotes,2021
+/zapas/2897711,New York Rangers,Arizona Coyotes,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,New York Rangers,Arizona Coyotes,2021
+/zapas/2897731,Pittsburgh Penguins,Arizona Coyotes,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Pittsburgh Penguins,Arizona Coyotes,2021
+/zapas/2897748,Arizona Coyotes,Boston Bruins,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Boston Bruins,Arizona Coyotes,2021
+/zapas/2897754,Arizona Coyotes,Buffalo Sabres,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Buffalo Sabres,Arizona Coyotes,2021
+/zapas/2897777,Colorado Avalanche,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Arizona Coyotes,2021
+/zapas/2897788,Arizona Coyotes,Calgary Flames,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Calgary Flames,Arizona Coyotes,2021
+/zapas/2897462,Vancouver Canucks,Arizona Coyotes,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Vancouver Canucks,Arizona Coyotes,2021
+/zapas/2897477,Seattle Kraken,Arizona Coyotes,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Seattle Kraken,Arizona Coyotes,2021
+/zapas/2897493,Arizona Coyotes,Tampa Bay Lightning,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Tampa Bay Lightning,Arizona Coyotes,2021
+/zapas/2897508,Arizona Coyotes,Los Angeles Kings,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Los Angeles Kings,Arizona Coyotes,2021
+/zapas/2897558,Arizona Coyotes,Dallas Stars,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Dallas Stars,Arizona Coyotes,2021
+/zapas/2897792,Arizona Coyotes,Los Angeles Kings,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Los Angeles Kings,Arizona Coyotes,2021
+/zapas/2897806,Arizona Coyotes,Vegas Golden Knights,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,2021
+/zapas/2897822,Arizona Coyotes,Winnipeg Jets,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Winnipeg Jets,Arizona Coyotes,2021
+/zapas/2897847,Arizona Coyotes,Colorado Avalanche,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Colorado Avalanche,Arizona Coyotes,2021
+/zapas/2897864,Arizona Coyotes,Ottawa Senators,8,5,0,3.0,0.0,1.0,3.0,8.0,5.0,1.0,Ottawa Senators,Arizona Coyotes,2021
+/zapas/2897890,Detroit Red Wings,Arizona Coyotes,2,9,0,0.0,3.0,0.0,3.0,9.0,2.0,1.0,Detroit Red Wings,Arizona Coyotes,2021
+/zapas/2897902,Toronto Maple Leafs,Arizona Coyotes,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Toronto Maple Leafs,Arizona Coyotes,2021
+/zapas/2897918,Boston Bruins,Arizona Coyotes,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Boston Bruins,Arizona Coyotes,2021
+/zapas/2897933,Ottawa Senators,Arizona Coyotes,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Ottawa Senators,Arizona Coyotes,2021
+/zapas/2897942,Montreal Canadiens,Arizona Coyotes,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Montreal Canadiens,Arizona Coyotes,2021
+/zapas/2897965,Arizona Coyotes,Pittsburgh Penguins,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Pittsburgh Penguins,Arizona Coyotes,2021
+/zapas/2897976,San Jose Sharks,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,San Jose Sharks,Arizona Coyotes,2021
+/zapas/2897995,Arizona Coyotes,Seattle Kraken,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Seattle Kraken,Arizona Coyotes,2021
+/zapas/2898011,Calgary Flames,Arizona Coyotes,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Calgary Flames,Arizona Coyotes,2021
+/zapas/2898029,Winnipeg Jets,Arizona Coyotes,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Winnipeg Jets,Arizona Coyotes,2021
+/zapas/2898036,Edmonton Oilers,Arizona Coyotes,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Edmonton Oilers,Arizona Coyotes,2021
+/zapas/2898050,Arizona Coyotes,San Jose Sharks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,San Jose Sharks,Arizona Coyotes,2021
+/zapas/2898064,Arizona Coyotes,Anaheim Ducks,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Anaheim Ducks,Arizona Coyotes,2021
+/zapas/2898084,Chicago Blackhawks,Arizona Coyotes,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Arizona Coyotes,2021
+/zapas/2898091,St. Louis Blues,Arizona Coyotes,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,St. Louis Blues,Arizona Coyotes,2021
+/zapas/2898109,Arizona Coyotes,Vancouver Canucks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Vancouver Canucks,Arizona Coyotes,2021
+/zapas/2898124,Vegas Golden Knights,Arizona Coyotes,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Vegas Golden Knights,Arizona Coyotes,2021
+/zapas/2898146,Arizona Coyotes,New Jersey Devils,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,New Jersey Devils,Arizona Coyotes,2021
+/zapas/2898162,Vancouver Canucks,Arizona Coyotes,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Vancouver Canucks,Arizona Coyotes,2021
+/zapas/2898180,Calgary Flames,Arizona Coyotes,9,1,0,3.0,0.0,0.0,0.0,1.0,9.0,0.0,Calgary Flames,Arizona Coyotes,2021
+/zapas/2898198,Arizona Coyotes,Carolina Hurricanes,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Carolina Hurricanes,Arizona Coyotes,2021
+/zapas/2898209,Arizona Coyotes,Chicago Blackhawks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Chicago Blackhawks,Arizona Coyotes,2021
+/zapas/2898225,Arizona Coyotes,Washington Capitals,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Washington Capitals,Arizona Coyotes,2021
+/zapas/2898229,Arizona Coyotes,St. Louis Blues,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,St. Louis Blues,Arizona Coyotes,2021
+/zapas/2898258,Minnesota Wild,Arizona Coyotes,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Minnesota Wild,Arizona Coyotes,2021
+/zapas/2898269,Dallas Stars,Arizona Coyotes,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Dallas Stars,Arizona Coyotes,2021
+/zapas/2898280,Arizona Coyotes,Nashville Predators,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Nashville Predators,Arizona Coyotes,2021

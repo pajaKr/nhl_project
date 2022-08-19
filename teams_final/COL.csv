@@ -1,0 +1,352 @@
+game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2526390,0.0,0.0,Colorado Avalanche,Minnesota Wild,32.0,69.0,65.0,33.0,62.0,55.0
+/zapas/2526411,0.0,1.0,Colorado Avalanche,Calgary Flames,30.0,67.0,66.0,29.0,60.0,64.0
+/zapas/2526434,1.0,1.0,Colorado Avalanche,Winnipeg Jets,30.0,68.0,65.0,41.0,66.0,47.0
+/zapas/2526449,0.0,1.0,Colorado Avalanche,New Jersey Devils,29.0,67.0,67.0,32.0,60.0,63.0
+/zapas/2526465,0.0,1.0,Colorado Avalanche,Dallas Stars,26.0,62.0,66.0,34.0,63.0,60.0
+/zapas/2526476,0.0,1.0,Colorado Avalanche,Buffalo Sabres,23.0,61.0,72.0,16.0,38.0,66.0
+/zapas/2526487,0.0,0.0,Colorado Avalanche,Tampa Bay Lightning,23.0,62.0,73.0,41.0,74.0,46.0
+/zapas/2526502,1.0,0.0,Colorado Avalanche,Florida Panthers,23.0,63.0,74.0,26.0,60.0,67.0
+/zapas/2526516,1.0,0.0,Colorado Avalanche,Pittsburgh Penguins,26.0,67.0,73.0,26.0,59.0,61.0
+/zapas/2526523,0.0,0.0,Colorado Avalanche,Washington Capitals,26.0,64.0,71.0,37.0,60.0,52.0
+/zapas/2526540,1.0,1.0,Colorado Avalanche,Florida Panthers,26.0,66.0,69.0,25.0,52.0,64.0
+/zapas/2526559,0.0,1.0,Colorado Avalanche,Tampa Bay Lightning,26.0,62.0,67.0,40.0,73.0,48.0
+/zapas/2526568,1.0,1.0,Colorado Avalanche,Pittsburgh Penguins,23.0,62.0,70.0,26.0,60.0,56.0
+/zapas/2526591,0.0,0.0,Colorado Avalanche,Los Angeles Kings,24.0,61.0,68.0,29.0,55.0,48.0
+/zapas/2526608,1.0,0.0,Colorado Avalanche,Arizona Coyotes,25.0,58.0,64.0,18.0,41.0,59.0
+/zapas/2526621,0.0,1.0,Colorado Avalanche,Arizona Coyotes,27.0,61.0,62.0,17.0,41.0,62.0
+/zapas/2526638,1.0,1.0,Colorado Avalanche,Toronto Maple Leafs,27.0,59.0,61.0,35.0,61.0,46.0
+/zapas/2526652,1.0,1.0,Colorado Avalanche,New York Islanders,26.0,57.0,62.0,27.0,69.0,74.0
+/zapas/2526665,1.0,1.0,Colorado Avalanche,Winnipeg Jets,29.0,61.0,58.0,36.0,67.0,54.0
+/zapas/2526681,1.0,1.0,Colorado Avalanche,Columbus Blue Jackets,29.0,60.0,57.0,29.0,53.0,62.0
+/zapas/2526688,1.0,1.0,Colorado Avalanche,Minnesota Wild,29.0,59.0,57.0,31.0,57.0,57.0
+/zapas/2526729,1.0,0.0,Colorado Avalanche,Dallas Stars,31.0,64.0,56.0,34.0,65.0,49.0
+/zapas/2526738,1.0,1.0,Colorado Avalanche,Anaheim Ducks,34.0,66.0,54.0,34.0,56.0,49.0
+/zapas/2526757,1.0,1.0,Colorado Avalanche,San Jose Sharks,35.0,66.0,53.0,32.0,62.0,63.0
+/zapas/2526764,1.0,1.0,Colorado Avalanche,New York Rangers,38.0,70.0,54.0,29.0,54.0,55.0
+/zapas/2526781,1.0,0.0,Colorado Avalanche,Toronto Maple Leafs,41.0,71.0,48.0,28.0,54.0,55.0
+/zapas/2526789,0.0,0.0,Colorado Avalanche,Montreal Canadiens,44.0,73.0,46.0,22.0,52.0,63.0
+/zapas/2526807,0.0,0.0,Colorado Avalanche,St. Louis Blues,44.0,73.0,45.0,25.0,44.0,53.0
+/zapas/2526826,0.0,0.0,Colorado Avalanche,Vancouver Canucks,41.0,67.0,45.0,15.0,48.0,78.0
+/zapas/2526839,1.0,0.0,Colorado Avalanche,Edmonton Oilers,39.0,68.0,48.0,28.0,49.0,59.0
+/zapas/2526848,0.0,0.0,Colorado Avalanche,Winnipeg Jets,41.0,70.0,46.0,38.0,61.0,48.0
+/zapas/2526876,1.0,1.0,Colorado Avalanche,San Jose Sharks,38.0,68.0,48.0,33.0,64.0,62.0
+/zapas/2526885,0.0,0.0,Colorado Avalanche,St. Louis Blues,41.0,66.0,43.0,29.0,48.0,52.0
+/zapas/2526901,0.0,0.0,Colorado Avalanche,Carolina Hurricanes,38.0,63.0,47.0,29.0,49.0,56.0
+/zapas/2526910,1.0,0.0,Colorado Avalanche,Buffalo Sabres,37.0,63.0,48.0,22.0,52.0,64.0
+/zapas/2526931,1.0,1.0,Colorado Avalanche,Montreal Canadiens,37.0,62.0,50.0,20.0,47.0,62.0
+/zapas/2526946,0.0,0.0,Colorado Avalanche,Winnipeg Jets,40.0,63.0,47.0,39.0,62.0,49.0
+/zapas/2526960,0.0,1.0,Colorado Avalanche,Edmonton Oilers,38.0,60.0,50.0,17.0,47.0,72.0
+/zapas/2526980,1.0,0.0,Colorado Avalanche,Vancouver Canucks,35.0,56.0,53.0,20.0,51.0,62.0
+/zapas/2526992,0.0,0.0,Colorado Avalanche,Edmonton Oilers,35.0,58.0,55.0,19.0,50.0,68.0
+/zapas/2527001,0.0,0.0,Colorado Avalanche,Calgary Flames,33.0,58.0,58.0,31.0,59.0,63.0
+/zapas/2527021,1.0,1.0,Colorado Avalanche,Vancouver Canucks,30.0,52.0,61.0,23.0,57.0,61.0
+/zapas/2527035,1.0,1.0,Colorado Avalanche,Calgary Flames,30.0,51.0,61.0,28.0,55.0,63.0
+/zapas/2527049,1.0,1.0,Colorado Avalanche,Minnesota Wild,30.0,53.0,62.0,40.0,72.0,55.0
+/zapas/2527062,0.0,1.0,Colorado Avalanche,Nashville Predators,30.0,55.0,60.0,41.0,75.0,49.0
+/zapas/2527081,0.0,0.0,Colorado Avalanche,Chicago Blackhawks,28.0,55.0,63.0,19.0,49.0,65.0
+/zapas/2527088,0.0,0.0,Colorado Avalanche,Columbus Blue Jackets,26.0,52.0,63.0,26.0,54.0,57.0
+/zapas/2527106,1.0,1.0,Colorado Avalanche,Arizona Coyotes,27.0,54.0,64.0,34.0,53.0,51.0
+/zapas/2527129,1.0,0.0,Colorado Avalanche,Minnesota Wild,30.0,58.0,63.0,39.0,72.0,58.0
+/zapas/2527142,1.0,0.0,Colorado Avalanche,St. Louis Blues,32.0,60.0,60.0,29.0,49.0,53.0
+/zapas/2527148,0.0,1.0,Colorado Avalanche,Nashville Predators,33.0,60.0,58.0,43.0,72.0,49.0
+/zapas/2527162,1.0,1.0,Colorado Avalanche,Detroit Red Wings,33.0,62.0,59.0,16.0,49.0,68.0
+/zapas/2527183,1.0,0.0,Colorado Avalanche,Chicago Blackhawks,33.0,64.0,59.0,17.0,53.0,75.0
+/zapas/2527198,0.0,1.0,Colorado Avalanche,Los Angeles Kings,36.0,68.0,54.0,30.0,56.0,57.0
+/zapas/2527205,1.0,1.0,Colorado Avalanche,Vegas Golden Knights,36.0,68.0,58.0,34.0,63.0,54.0
+/zapas/2527229,0.0,0.0,Colorado Avalanche,Vegas Golden Knights,35.0,65.0,55.0,35.0,63.0,52.0
+/zapas/2527243,0.0,1.0,Colorado Avalanche,Philadelphia Flyers,32.0,64.0,59.0,31.0,63.0,64.0
+/zapas/2527257,1.0,1.0,Colorado Avalanche,Chicago Blackhawks,32.0,64.0,55.0,24.0,61.0,71.0
+/zapas/2527276,0.0,0.0,Colorado Avalanche,Anaheim Ducks,35.0,67.0,51.0,38.0,59.0,43.0
+/zapas/2527282,0.0,0.0,Colorado Avalanche,Los Angeles Kings,34.0,65.0,51.0,34.0,59.0,48.0
+/zapas/2527306,0.0,0.0,Colorado Avalanche,San Jose Sharks,33.0,64.0,51.0,32.0,67.0,58.0
+/zapas/2527321,1.0,1.0,Colorado Avalanche,St. Louis Blues,33.0,65.0,50.0,28.0,51.0,61.0
+/zapas/2647211,1.0,1.0,Colorado Avalanche,Minnesota Wild,33.0,67.0,51.0,34.0,65.0,58.0
+/zapas/2647225,1.0,1.0,Colorado Avalanche,Philadelphia Flyers,33.0,66.0,50.0,30.0,67.0,67.0
+/zapas/2647236,0.0,0.0,Colorado Avalanche,Columbus Blue Jackets,33.0,64.0,51.0,40.0,76.0,55.0
+/zapas/2647244,1.0,0.0,Colorado Avalanche,Buffalo Sabres,32.0,63.0,52.0,21.0,52.0,76.0
+/zapas/2647268,0.0,1.0,Colorado Avalanche,Calgary Flames,34.0,68.0,51.0,22.0,48.0,67.0
+/zapas/2647277,0.0,0.0,Colorado Avalanche,New York Rangers,34.0,66.0,49.0,16.0,54.0,74.0
+/zapas/2647289,1.0,0.0,Colorado Avalanche,New Jersey Devils,32.0,63.0,50.0,44.0,72.0,49.0
+/zapas/2647301,1.0,0.0,Colorado Avalanche,Carolina Hurricanes,32.0,63.0,52.0,29.0,69.0,66.0
+/zapas/2647316,1.0,0.0,Colorado Avalanche,Philadelphia Flyers,32.0,62.0,52.0,34.0,76.0,71.0
+/zapas/2647330,0.0,1.0,Colorado Avalanche,Tampa Bay Lightning,35.0,64.0,49.0,34.0,71.0,63.0
+/zapas/2647345,1.0,1.0,Colorado Avalanche,Ottawa Senators,32.0,59.0,49.0,17.0,54.0,78.0
+/zapas/2647354,0.0,0.0,Colorado Avalanche,Minnesota Wild,32.0,60.0,51.0,34.0,58.0,52.0
+/zapas/2647385,0.0,0.0,Colorado Avalanche,Calgary Flames,32.0,61.0,47.0,26.0,55.0,64.0
+/zapas/2647391,0.0,0.0,Colorado Avalanche,Vancouver Canucks,30.0,64.0,52.0,33.0,61.0,61.0
+/zapas/2647423,0.0,1.0,Colorado Avalanche,Nashville Predators,31.0,69.0,55.0,44.0,69.0,48.0
+/zapas/2647438,0.0,0.0,Colorado Avalanche,Winnipeg Jets,31.0,69.0,57.0,38.0,63.0,56.0
+/zapas/2647457,1.0,0.0,Colorado Avalanche,Edmonton Oilers,28.0,66.0,62.0,27.0,54.0,61.0
+/zapas/2647473,1.0,1.0,Colorado Avalanche,Boston Bruins,30.0,67.0,59.0,34.0,62.0,50.0
+/zapas/2647487,0.0,1.0,Colorado Avalanche,Washington Capitals,33.0,72.0,59.0,28.0,68.0,68.0
+/zapas/2647504,1.0,0.0,Colorado Avalanche,Anaheim Ducks,34.0,72.0,58.0,22.0,40.0,59.0
+/zapas/2647529,1.0,0.0,Colorado Avalanche,Los Angeles Kings,33.0,71.0,59.0,21.0,41.0,61.0
+/zapas/2647541,1.0,0.0,Colorado Avalanche,Arizona Coyotes,33.0,74.0,61.0,27.0,51.0,51.0
+/zapas/2647553,1.0,1.0,Colorado Avalanche,Dallas Stars,33.0,74.0,60.0,30.0,54.0,55.0
+/zapas/2647569,1.0,0.0,Colorado Avalanche,Nashville Predators,36.0,75.0,57.0,41.0,71.0,50.0
+/zapas/2647579,1.0,1.0,Colorado Avalanche,Pittsburgh Penguins,36.0,72.0,58.0,28.0,66.0,61.0
+/zapas/2647591,0.0,1.0,Colorado Avalanche,St. Louis Blues,38.0,76.0,58.0,23.0,60.0,64.0
+/zapas/2647609,1.0,0.0,Colorado Avalanche,Detroit Red Wings,38.0,76.0,58.0,31.0,62.0,55.0
+/zapas/2647617,0.0,0.0,Colorado Avalanche,Pittsburgh Penguins,38.0,73.0,55.0,26.0,66.0,64.0
+/zapas/2647628,1.0,0.0,Colorado Avalanche,Florida Panthers,35.0,73.0,60.0,29.0,66.0,66.0
+/zapas/2647647,0.0,0.0,Colorado Avalanche,Tampa Bay Lightning,35.0,74.0,61.0,41.0,84.0,60.0
+/zapas/2647672,0.0,1.0,Colorado Avalanche,Edmonton Oilers,35.0,75.0,67.0,28.0,53.0,57.0
+/zapas/2647690,0.0,0.0,Colorado Avalanche,St. Louis Blues,32.0,73.0,70.0,27.0,53.0,61.0
+/zapas/2647701,1.0,1.0,Colorado Avalanche,Dallas Stars,33.0,74.0,71.0,27.0,52.0,56.0
+/zapas/2647714,0.0,1.0,Colorado Avalanche,New York Islanders,36.0,75.0,69.0,27.0,53.0,63.0
+/zapas/2647727,1.0,1.0,Colorado Avalanche,Montreal Canadiens,35.0,70.0,66.0,30.0,63.0,71.0
+/zapas/2647742,0.0,1.0,Colorado Avalanche,Chicago Blackhawks,38.0,71.0,63.0,20.0,57.0,74.0
+/zapas/2647749,0.0,0.0,Colorado Avalanche,Arizona Coyotes,38.0,70.0,60.0,21.0,42.0,60.0
+/zapas/2647775,0.0,0.0,Colorado Avalanche,Vegas Golden Knights,35.0,70.0,65.0,37.0,68.0,58.0
+/zapas/2647793,0.0,1.0,Colorado Avalanche,Chicago Blackhawks,32.0,65.0,64.0,21.0,63.0,78.0
+/zapas/2647805,0.0,1.0,Colorado Avalanche,Los Angeles Kings,32.0,65.0,64.0,26.0,50.0,56.0
+/zapas/2647817,0.0,1.0,Colorado Avalanche,San Jose Sharks,31.0,63.0,64.0,34.0,72.0,65.0
+/zapas/2647831,1.0,1.0,Colorado Avalanche,New York Rangers,28.0,60.0,66.0,28.0,56.0,68.0
+/zapas/2647863,0.0,0.0,Colorado Avalanche,Winnipeg Jets,28.0,61.0,66.0,37.0,73.0,58.0
+/zapas/2647867,0.0,0.0,Colorado Avalanche,Calgary Flames,25.0,62.0,71.0,40.0,76.0,57.0
+/zapas/2647889,0.0,0.0,Colorado Avalanche,Montreal Canadiens,22.0,62.0,74.0,34.0,58.0,56.0
+/zapas/2647904,1.0,0.0,Colorado Avalanche,Toronto Maple Leafs,19.0,56.0,74.0,36.0,74.0,60.0
+/zapas/2647919,0.0,0.0,Colorado Avalanche,Ottawa Senators,21.0,60.0,74.0,17.0,51.0,71.0
+/zapas/2647939,1.0,1.0,Colorado Avalanche,Los Angeles Kings,18.0,60.0,79.0,27.0,50.0,56.0
+/zapas/2647954,0.0,1.0,Colorado Avalanche,Nashville Predators,21.0,64.0,74.0,27.0,60.0,56.0
+/zapas/2647965,0.0,1.0,Colorado Avalanche,Minnesota Wild,18.0,60.0,76.0,30.0,49.0,53.0
+/zapas/2647998,0.0,1.0,Colorado Avalanche,Vancouver Canucks,18.0,61.0,74.0,34.0,58.0,53.0
+/zapas/2648017,0.0,1.0,Colorado Avalanche,Columbus Blue Jackets,18.0,58.0,73.0,30.0,57.0,56.0
+/zapas/2648025,0.0,0.0,Colorado Avalanche,Washington Capitals,17.0,58.0,75.0,30.0,55.0,66.0
+/zapas/2648039,0.0,0.0,Colorado Avalanche,New York Islanders,15.0,55.0,75.0,41.0,58.0,36.0
+/zapas/2648052,0.0,0.0,Colorado Avalanche,Boston Bruins,16.0,57.0,75.0,35.0,63.0,55.0
+/zapas/2648071,0.0,1.0,Colorado Avalanche,Toronto Maple Leafs,14.0,56.0,76.0,32.0,65.0,61.0
+/zapas/2648080,1.0,0.0,Colorado Avalanche,Winnipeg Jets,14.0,57.0,79.0,35.0,69.0,58.0
+/zapas/2648092,0.0,1.0,Colorado Avalanche,St. Louis Blues,17.0,57.0,74.0,41.0,66.0,41.0
+/zapas/2648111,1.0,1.0,Colorado Avalanche,Vegas Golden Knights,17.0,56.0,75.0,31.0,61.0,56.0
+/zapas/2648124,1.0,1.0,Colorado Avalanche,Winnipeg Jets,19.0,57.0,72.0,33.0,68.0,60.0
+/zapas/2648139,1.0,0.0,Colorado Avalanche,Chicago Blackhawks,21.0,62.0,70.0,32.0,86.0,78.0
+/zapas/2648149,1.0,0.0,Colorado Avalanche,Nashville Predators,24.0,63.0,68.0,33.0,62.0,55.0
+/zapas/2648164,0.0,1.0,Colorado Avalanche,Florida Panthers,24.0,62.0,67.0,28.0,60.0,62.0
+/zapas/2648180,1.0,1.0,Colorado Avalanche,Vancouver Canucks,25.0,61.0,64.0,23.0,48.0,59.0
+/zapas/2648196,0.0,0.0,Colorado Avalanche,San Jose Sharks,27.0,61.0,61.0,37.0,76.0,65.0
+/zapas/2648210,0.0,0.0,Colorado Avalanche,Anaheim Ducks,27.0,64.0,62.0,16.0,33.0,66.0
+/zapas/2648224,1.0,1.0,Colorado Avalanche,Detroit Red Wings,24.0,59.0,61.0,22.0,53.0,69.0
+/zapas/2648237,0.0,0.0,Colorado Avalanche,Dallas Stars,26.0,61.0,59.0,33.0,46.0,48.0
+/zapas/2648246,1.0,1.0,Colorado Avalanche,Buffalo Sabres,23.0,54.0,62.0,19.0,57.0,76.0
+/zapas/2648268,0.0,1.0,Colorado Avalanche,Carolina Hurricanes,26.0,56.0,58.0,42.0,72.0,47.0
+/zapas/2648294,0.0,1.0,Colorado Avalanche,Anaheim Ducks,26.0,54.0,56.0,21.0,42.0,60.0
+/zapas/2648309,1.0,1.0,Colorado Avalanche,New Jersey Devils,26.0,56.0,56.0,21.0,51.0,68.0
+/zapas/2648327,1.0,0.0,Colorado Avalanche,Minnesota Wild,29.0,56.0,50.0,27.0,49.0,60.0
+/zapas/2648341,1.0,0.0,Colorado Avalanche,Dallas Stars,31.0,56.0,47.0,31.0,47.0,46.0
+/zapas/2648350,1.0,1.0,Colorado Avalanche,Chicago Blackhawks,33.0,56.0,44.0,34.0,77.0,70.0
+/zapas/2648365,0.0,0.0,Colorado Avalanche,Chicago Blackhawks,35.0,59.0,44.0,31.0,73.0,72.0
+/zapas/2648386,1.0,1.0,Colorado Avalanche,Vegas Golden Knights,36.0,58.0,41.0,34.0,68.0,56.0
+/zapas/2648398,1.0,1.0,Colorado Avalanche,Arizona Coyotes,36.0,58.0,43.0,35.0,50.0,45.0
+/zapas/2648423,0.0,0.0,Colorado Avalanche,St. Louis Blues,38.0,61.0,42.0,33.0,57.0,50.0
+/zapas/2648434,1.0,1.0,Colorado Avalanche,Edmonton Oilers,36.0,60.0,45.0,30.0,60.0,66.0
+/zapas/2648449,1.0,1.0,Colorado Avalanche,Winnipeg Jets,36.0,59.0,46.0,29.0,63.0,61.0
+/zapas/2648469,0.0,0.0,Colorado Avalanche,San Jose Sharks,35.0,57.0,45.0,26.0,61.0,69.0
+/zapas/2806387,1.0,1.0,Colorado Avalanche,Calgary Flames,32.0,54.0,50.0,33.0,64.0,47.0
+/zapas/2806403,1.0,1.0,Colorado Avalanche,Minnesota Wild,34.0,56.0,49.0,24.0,40.0,58.0
+/zapas/2806432,1.0,1.0,Colorado Avalanche,Boston Bruins,35.0,57.0,49.0,37.0,72.0,58.0
+/zapas/2806448,1.0,1.0,Colorado Avalanche,Arizona Coyotes,38.0,58.0,47.0,27.0,42.0,44.0
+/zapas/2806459,1.0,0.0,Colorado Avalanche,Washington Capitals,40.0,60.0,47.0,35.0,63.0,55.0
+/zapas/2806468,0.0,0.0,Colorado Avalanche,Pittsburgh Penguins,41.0,62.0,47.0,38.0,65.0,49.0
+/zapas/2806483,1.0,0.0,Colorado Avalanche,Florida Panthers,42.0,64.0,46.0,30.0,68.0,71.0
+/zapas/2806493,1.0,0.0,Colorado Avalanche,Tampa Bay Lightning,41.0,66.0,50.0,41.0,86.0,62.0
+/zapas/2806507,0.0,0.0,Colorado Avalanche,St. Louis Blues,44.0,72.0,49.0,38.0,72.0,60.0
+/zapas/2806531,1.0,0.0,Colorado Avalanche,Vegas Golden Knights,44.0,70.0,47.0,27.0,58.0,55.0
+/zapas/2806544,0.0,1.0,Colorado Avalanche,Anaheim Ducks,44.0,73.0,48.0,36.0,54.0,50.0
+/zapas/2806568,0.0,1.0,Colorado Avalanche,Florida Panthers,41.0,72.0,52.0,28.0,70.0,80.0
+/zapas/2806577,0.0,1.0,Colorado Avalanche,Dallas Stars,39.0,72.0,55.0,27.0,48.0,53.0
+/zapas/2806590,0.0,0.0,Colorado Avalanche,Arizona Coyotes,36.0,69.0,55.0,31.0,50.0,43.0
+/zapas/2806606,0.0,0.0,Colorado Avalanche,Dallas Stars,35.0,68.0,56.0,28.0,49.0,52.0
+/zapas/2806620,1.0,1.0,Colorado Avalanche,Nashville Predators,32.0,65.0,57.0,40.0,76.0,55.0
+/zapas/2806636,1.0,1.0,Colorado Avalanche,Columbus Blue Jackets,33.0,71.0,59.0,26.0,53.0,64.0
+/zapas/2806652,1.0,0.0,Colorado Avalanche,Winnipeg Jets,35.0,73.0,58.0,29.0,57.0,59.0
+/zapas/2806666,0.0,0.0,Colorado Avalanche,Edmonton Oilers,35.0,71.0,56.0,35.0,61.0,54.0
+/zapas/2806687,1.0,0.0,Colorado Avalanche,Vancouver Canucks,33.0,70.0,60.0,31.0,65.0,54.0
+/zapas/2806704,1.0,0.0,Colorado Avalanche,Calgary Flames,35.0,73.0,59.0,25.0,51.0,61.0
+/zapas/2806716,0.0,0.0,Colorado Avalanche,Minnesota Wild,35.0,71.0,58.0,26.0,55.0,65.0
+/zapas/2806727,0.0,1.0,Colorado Avalanche,Toronto Maple Leafs,32.0,69.0,59.0,24.0,60.0,69.0
+/zapas/2806763,1.0,1.0,Colorado Avalanche,Edmonton Oilers,29.0,68.0,62.0,33.0,62.0,57.0
+/zapas/2806770,1.0,0.0,Colorado Avalanche,Chicago Blackhawks,30.0,69.0,61.0,29.0,57.0,56.0
+/zapas/2806789,1.0,1.0,Colorado Avalanche,Chicago Blackhawks,30.0,68.0,60.0,27.0,56.0,59.0
+/zapas/2806810,1.0,0.0,Colorado Avalanche,Toronto Maple Leafs,32.0,73.0,60.0,24.0,59.0,67.0
+/zapas/2806815,1.0,0.0,Colorado Avalanche,Montreal Canadiens,33.0,71.0,57.0,26.0,62.0,72.0
+/zapas/2806831,1.0,0.0,Colorado Avalanche,Boston Bruins,33.0,68.0,57.0,44.0,78.0,49.0
+/zapas/2806847,0.0,1.0,Colorado Avalanche,Calgary Flames,36.0,71.0,55.0,28.0,52.0,60.0
+/zapas/2806862,1.0,1.0,Colorado Avalanche,Philadelphia Flyers,34.0,69.0,59.0,35.0,61.0,54.0
+/zapas/2806876,1.0,1.0,Colorado Avalanche,New Jersey Devils,37.0,70.0,55.0,21.0,46.0,68.0
+/zapas/2806898,0.0,0.0,Colorado Avalanche,St. Louis Blues,39.0,70.0,52.0,36.0,59.0,50.0
+/zapas/2806912,1.0,0.0,Colorado Avalanche,Chicago Blackhawks,39.0,71.0,55.0,28.0,61.0,66.0
+/zapas/2806920,0.0,1.0,Colorado Avalanche,Carolina Hurricanes,42.0,75.0,53.0,34.0,64.0,51.0
+/zapas/2806938,0.0,1.0,Colorado Avalanche,Chicago Blackhawks,42.0,75.0,52.0,27.0,59.0,66.0
+/zapas/2806956,1.0,0.0,Colorado Avalanche,Vegas Golden Knights,39.0,69.0,53.0,33.0,63.0,55.0
+/zapas/2806962,0.0,1.0,Colorado Avalanche,Minnesota Wild,39.0,72.0,54.0,39.0,71.0,63.0
+/zapas/2806969,0.0,0.0,Colorado Avalanche,Dallas Stars,36.0,72.0,60.0,34.0,57.0,52.0
+/zapas/2806997,0.0,1.0,Colorado Avalanche,Winnipeg Jets,37.0,72.0,57.0,35.0,67.0,58.0
+/zapas/2807010,1.0,1.0,Colorado Avalanche,St. Louis Blues,35.0,71.0,60.0,42.0,66.0,46.0
+/zapas/2807025,1.0,0.0,Colorado Avalanche,New Jersey Devils,35.0,75.0,61.0,24.0,53.0,65.0
+/zapas/2807037,0.0,0.0,Colorado Avalanche,New York Islanders,38.0,78.0,60.0,26.0,48.0,56.0
+/zapas/2807042,0.0,0.0,Colorado Avalanche,New York Rangers,38.0,75.0,56.0,27.0,62.0,62.0
+/zapas/2807067,0.0,1.0,Colorado Avalanche,Pittsburgh Penguins,35.0,74.0,60.0,39.0,68.0,56.0
+/zapas/2807098,0.0,1.0,Colorado Avalanche,Dallas Stars,33.0,72.0,62.0,32.0,49.0,48.0
+/zapas/2807114,1.0,1.0,Colorado Avalanche,San Jose Sharks,31.0,67.0,62.0,20.0,47.0,68.0
+/zapas/2807120,1.0,1.0,Colorado Avalanche,St. Louis Blues,31.0,68.0,61.0,40.0,69.0,54.0
+/zapas/2807135,1.0,1.0,Colorado Avalanche,Detroit Red Wings,31.0,70.0,62.0,15.0,42.0,74.0
+/zapas/2807175,0.0,0.0,Colorado Avalanche,Philadelphia Flyers,31.0,72.0,64.0,28.0,64.0,66.0
+/zapas/2807189,1.0,0.0,Colorado Avalanche,Buffalo Sabres,30.0,71.0,65.0,23.0,49.0,64.0
+/zapas/2807209,1.0,0.0,Colorado Avalanche,Ottawa Senators,30.0,74.0,65.0,20.0,54.0,76.0
+/zapas/2807227,1.0,0.0,Colorado Avalanche,Columbus Blue Jackets,30.0,75.0,65.0,46.0,56.0,32.0
+/zapas/2807235,1.0,0.0,Colorado Avalanche,Minnesota Wild,33.0,75.0,61.0,29.0,62.0,66.0
+/zapas/2807250,1.0,1.0,Colorado Avalanche,Ottawa Senators,33.0,74.0,62.0,19.0,53.0,75.0
+/zapas/2807264,0.0,1.0,Colorado Avalanche,Washington Capitals,36.0,76.0,59.0,31.0,71.0,69.0
+/zapas/2807278,0.0,1.0,Colorado Avalanche,Los Angeles Kings,36.0,75.0,57.0,14.0,44.0,66.0
+/zapas/2807295,0.0,1.0,Colorado Avalanche,Tampa Bay Lightning,33.0,69.0,57.0,49.0,72.0,35.0
+/zapas/2807307,1.0,1.0,Colorado Avalanche,New York Islanders,34.0,68.0,55.0,25.0,53.0,59.0
+/zapas/2807323,1.0,0.0,Colorado Avalanche,Anaheim Ducks,36.0,69.0,53.0,23.0,53.0,66.0
+/zapas/2807334,1.0,0.0,Colorado Avalanche,Los Angeles Kings,39.0,66.0,46.0,18.0,49.0,68.0
+/zapas/2807357,1.0,1.0,Colorado Avalanche,Buffalo Sabres,38.0,61.0,44.0,32.0,58.0,60.0
+/zapas/2807372,1.0,0.0,Colorado Avalanche,Carolina Hurricanes,38.0,59.0,44.0,31.0,62.0,57.0
+/zapas/2807384,1.0,0.0,Colorado Avalanche,Nashville Predators,41.0,62.0,45.0,33.0,53.0,56.0
+/zapas/2807393,1.0,0.0,Colorado Avalanche,Detroit Red Wings,44.0,62.0,42.0,10.0,33.0,72.0
+/zapas/2807407,0.0,1.0,Colorado Avalanche,Anaheim Ducks,46.0,61.0,39.0,27.0,54.0,64.0
+/zapas/2807423,0.0,0.0,Colorado Avalanche,Vancouver Canucks,46.0,62.0,40.0,27.0,61.0,65.0
+/zapas/2807441,1.0,0.0,Colorado Avalanche,San Jose Sharks,43.0,61.0,46.0,24.0,48.0,57.0
+/zapas/2807445,0.0,0.0,Colorado Avalanche,Los Angeles Kings,43.0,60.0,46.0,25.0,51.0,59.0
+/zapas/2807457,1.0,1.0,Colorado Avalanche,New York Rangers,40.0,55.0,46.0,36.0,70.0,58.0
+/zapas/2893210,0.0,1.0,Colorado Avalanche,St. Louis Blues,42.0,55.0,42.0,33.0,61.0,52.0
+/zapas/2893225,1.0,1.0,Colorado Avalanche,St. Louis Blues,39.0,50.0,45.0,36.0,63.0,49.0
+/zapas/2893262,1.0,0.0,Colorado Avalanche,Los Angeles Kings,39.0,54.0,44.0,31.0,54.0,56.0
+/zapas/2893274,0.0,0.0,Colorado Avalanche,Los Angeles Kings,39.0,55.0,45.0,31.0,55.0,56.0
+/zapas/2893282,1.0,0.0,Colorado Avalanche,Anaheim Ducks,36.0,54.0,47.0,25.0,50.0,65.0
+/zapas/2893299,0.0,0.0,Colorado Avalanche,Anaheim Ducks,35.0,54.0,49.0,23.0,49.0,66.0
+/zapas/2893306,1.0,1.0,Colorado Avalanche,San Jose Sharks,35.0,53.0,49.0,22.0,54.0,60.0
+/zapas/2893320,1.0,1.0,Colorado Avalanche,San Jose Sharks,38.0,59.0,49.0,19.0,54.0,65.0
+/zapas/2893333,1.0,0.0,Colorado Avalanche,Minnesota Wild,40.0,59.0,45.0,35.0,68.0,55.0
+/zapas/2893345,0.0,0.0,Colorado Avalanche,Minnesota Wild,40.0,61.0,45.0,35.0,69.0,58.0
+/zapas/2893362,1.0,1.0,Colorado Avalanche,Minnesota Wild,38.0,63.0,49.0,35.0,69.0,58.0
+/zapas/2893451,0.0,0.0,Colorado Avalanche,Vegas Golden Knights,39.0,63.0,49.0,43.0,65.0,48.0
+/zapas/2893467,1.0,0.0,Colorado Avalanche,Vegas Golden Knights,36.0,60.0,48.0,44.0,60.0,43.0
+/zapas/2893489,1.0,1.0,Colorado Avalanche,Vegas Golden Knights,36.0,60.0,48.0,41.0,59.0,46.0
+/zapas/2893504,0.0,1.0,Colorado Avalanche,Vegas Golden Knights,36.0,60.0,48.0,38.0,57.0,47.0
+/zapas/2893374,0.0,1.0,Colorado Avalanche,Minnesota Wild,33.0,58.0,50.0,32.0,61.0,56.0
+/zapas/2893521,1.0,0.0,Colorado Avalanche,Arizona Coyotes,32.0,57.0,52.0,28.0,54.0,59.0
+/zapas/2893540,1.0,0.0,Colorado Avalanche,Arizona Coyotes,35.0,57.0,48.0,28.0,54.0,58.0
+/zapas/2893561,0.0,0.0,Colorado Avalanche,San Jose Sharks,35.0,59.0,47.0,19.0,58.0,81.0
+/zapas/2893571,1.0,0.0,Colorado Avalanche,San Jose Sharks,35.0,60.0,50.0,22.0,61.0,79.0
+/zapas/2893582,1.0,1.0,Colorado Avalanche,Anaheim Ducks,36.0,61.0,48.0,18.0,44.0,62.0
+/zapas/2893592,0.0,1.0,Colorado Avalanche,Anaheim Ducks,38.0,63.0,46.0,19.0,44.0,62.0
+/zapas/2893606,0.0,1.0,Colorado Avalanche,Arizona Coyotes,36.0,59.0,51.0,30.0,53.0,57.0
+/zapas/2893620,1.0,1.0,Colorado Avalanche,Arizona Coyotes,33.0,58.0,52.0,30.0,51.0,57.0
+/zapas/2893636,1.0,1.0,Colorado Avalanche,Los Angeles Kings,35.0,58.0,49.0,32.0,64.0,55.0
+/zapas/2893653,1.0,1.0,Colorado Avalanche,Los Angeles Kings,36.0,57.0,47.0,29.0,58.0,54.0
+/zapas/2893775,1.0,1.0,Colorado Avalanche,Anaheim Ducks,39.0,60.0,45.0,16.0,48.0,72.0
+/zapas/2893677,1.0,1.0,Colorado Avalanche,Minnesota Wild,39.0,61.0,46.0,41.0,67.0,47.0
+/zapas/2893692,1.0,1.0,Colorado Avalanche,Minnesota Wild,39.0,63.0,47.0,38.0,63.0,49.0
+/zapas/2893710,1.0,0.0,Colorado Avalanche,Arizona Coyotes,39.0,64.0,46.0,26.0,47.0,62.0
+/zapas/2893716,0.0,0.0,Colorado Avalanche,Arizona Coyotes,41.0,66.0,43.0,24.0,44.0,64.0
+/zapas/2893726,1.0,1.0,Colorado Avalanche,Vegas Golden Knights,39.0,68.0,47.0,38.0,63.0,41.0
+/zapas/2893741,0.0,1.0,Colorado Avalanche,Vegas Golden Knights,42.0,73.0,47.0,38.0,64.0,45.0
+/zapas/2893758,1.0,1.0,Colorado Avalanche,Anaheim Ducks,40.0,72.0,48.0,14.0,49.0,76.0
+/zapas/2893413,1.0,1.0,Colorado Avalanche,Arizona Coyotes,40.0,74.0,48.0,28.0,52.0,61.0
+/zapas/2893925,1.0,1.0,Colorado Avalanche,St. Louis Blues,43.0,83.0,48.0,22.0,48.0,65.0
+/zapas/2893795,1.0,1.0,Colorado Avalanche,St. Louis Blues,46.0,84.0,44.0,22.0,50.0,67.0
+/zapas/2893814,1.0,0.0,Colorado Avalanche,Minnesota Wild,46.0,83.0,43.0,39.0,54.0,49.0
+/zapas/2893829,0.0,0.0,Colorado Avalanche,Minnesota Wild,46.0,82.0,45.0,36.0,55.0,53.0
+/zapas/2893848,1.0,0.0,Colorado Avalanche,Anaheim Ducks,46.0,83.0,47.0,17.0,52.0,73.0
+/zapas/2893864,1.0,0.0,Colorado Avalanche,Anaheim Ducks,46.0,81.0,47.0,16.0,50.0,72.0
+/zapas/2893427,1.0,1.0,Colorado Avalanche,Arizona Coyotes,47.0,82.0,46.0,27.0,55.0,64.0
+/zapas/2893387,1.0,0.0,Colorado Avalanche,St. Louis Blues,49.0,82.0,43.0,25.0,52.0,61.0
+/zapas/2893937,1.0,0.0,Colorado Avalanche,St. Louis Blues,52.0,84.0,43.0,19.0,49.0,62.0
+/zapas/2893952,0.0,0.0,Colorado Avalanche,St. Louis Blues,53.0,86.0,44.0,17.0,48.0,64.0
+/zapas/2893396,0.0,0.0,Colorado Avalanche,St. Louis Blues,50.0,87.0,49.0,19.0,50.0,63.0
+/zapas/2893987,0.0,0.0,Colorado Avalanche,Vegas Golden Knights,47.0,84.0,52.0,41.0,70.0,42.0
+/zapas/2893999,1.0,1.0,Colorado Avalanche,San Jose Sharks,44.0,78.0,53.0,27.0,52.0,66.0
+/zapas/2894008,1.0,1.0,Colorado Avalanche,San Jose Sharks,44.0,76.0,52.0,24.0,50.0,68.0
+/zapas/2894031,1.0,0.0,Colorado Avalanche,San Jose Sharks,44.0,74.0,55.0,21.0,49.0,70.0
+/zapas/2894045,0.0,0.0,Colorado Avalanche,San Jose Sharks,43.0,74.0,58.0,22.0,51.0,70.0
+/zapas/2894060,1.0,0.0,Colorado Avalanche,Los Angeles Kings,42.0,72.0,56.0,24.0,48.0,65.0
+/zapas/2894075,1.0,0.0,Colorado Avalanche,Los Angeles Kings,42.0,70.0,57.0,24.0,48.0,64.0
+/zapas/2893972,1.0,0.0,Colorado Avalanche,Vegas Golden Knights,44.0,71.0,56.0,42.0,74.0,43.0
+/zapas/2893894,1.0,1.0,Colorado Avalanche,Los Angeles Kings,44.0,68.0,55.0,22.0,46.0,63.0
+/zapas/2893909,1.0,1.0,Colorado Avalanche,Los Angeles Kings,44.0,65.0,52.0,22.0,46.0,66.0
+/zapas/2896984,1.0,1.0,Colorado Avalanche,Chicago Blackhawks,44.0,67.0,51.0,23.0,57.0,72.0
+/zapas/2897003,0.0,1.0,Colorado Avalanche,St. Louis Blues,44.0,69.0,52.0,33.0,67.0,54.0
+/zapas/2897030,0.0,0.0,Colorado Avalanche,Washington Capitals,41.0,67.0,53.0,36.0,65.0,49.0
+/zapas/2897040,0.0,0.0,Colorado Avalanche,Florida Panthers,41.0,67.0,51.0,38.0,73.0,56.0
+/zapas/2897054,1.0,0.0,Colorado Avalanche,Tampa Bay Lightning,38.0,66.0,55.0,29.0,55.0,63.0
+/zapas/2897074,0.0,1.0,Colorado Avalanche,Vegas Golden Knights,37.0,66.0,57.0,35.0,69.0,49.0
+/zapas/2897088,1.0,0.0,Colorado Avalanche,St. Louis Blues,34.0,63.0,58.0,40.0,75.0,53.0
+/zapas/2897101,1.0,1.0,Colorado Avalanche,Minnesota Wild,34.0,63.0,58.0,36.0,70.0,67.0
+/zapas/2897126,0.0,1.0,Colorado Avalanche,Columbus Blue Jackets,34.0,63.0,57.0,22.0,48.0,64.0
+/zapas/2897154,0.0,0.0,Colorado Avalanche,Columbus Blue Jackets,35.0,64.0,57.0,24.0,52.0,64.0
+/zapas/2897178,1.0,1.0,Colorado Avalanche,Vancouver Canucks,35.0,65.0,57.0,25.0,54.0,61.0
+/zapas/2897194,1.0,1.0,Colorado Avalanche,San Jose Sharks,38.0,70.0,53.0,26.0,53.0,65.0
+/zapas/2897225,1.0,0.0,Colorado Avalanche,Vancouver Canucks,38.0,73.0,55.0,22.0,56.0,70.0
+/zapas/2897263,1.0,1.0,Colorado Avalanche,Ottawa Senators,39.0,75.0,53.0,24.0,52.0,65.0
+/zapas/2897274,1.0,1.0,Colorado Avalanche,Anaheim Ducks,42.0,80.0,55.0,31.0,66.0,55.0
+/zapas/2897289,0.0,0.0,Colorado Avalanche,Dallas Stars,42.0,82.0,55.0,27.0,59.0,62.0
+/zapas/2897300,1.0,1.0,Colorado Avalanche,Nashville Predators,39.0,80.0,56.0,31.0,56.0,57.0
+/zapas/2897329,0.0,0.0,Colorado Avalanche,Toronto Maple Leafs,39.0,84.0,57.0,40.0,59.0,44.0
+/zapas/2897337,1.0,0.0,Colorado Avalanche,Montreal Canadiens,36.0,81.0,65.0,20.0,52.0,70.0
+/zapas/2897352,0.0,0.0,Colorado Avalanche,Ottawa Senators,36.0,80.0,65.0,13.0,48.0,79.0
+/zapas/2897367,1.0,0.0,Colorado Avalanche,Philadelphia Flyers,34.0,81.0,69.0,23.0,41.0,66.0
+/zapas/2897382,1.0,0.0,Colorado Avalanche,New York Rangers,37.0,85.0,69.0,46.0,66.0,49.0
+/zapas/2897395,1.0,1.0,Colorado Avalanche,Detroit Red Wings,40.0,89.0,66.0,24.0,52.0,66.0
+/zapas/2897414,1.0,1.0,Colorado Avalanche,Florida Panthers,43.0,95.0,65.0,36.0,72.0,60.0
+/zapas/2897420,1.0,1.0,Colorado Avalanche,New York Rangers,44.0,94.0,64.0,43.0,64.0,50.0
+/zapas/2897438,0.0,0.0,Colorado Avalanche,Nashville Predators,47.0,97.0,63.0,37.0,58.0,53.0
+/zapas/2897557,1.0,1.0,Colorado Avalanche,Anaheim Ducks,44.0,95.0,65.0,30.0,60.0,55.0
+/zapas/2897571,1.0,0.0,Colorado Avalanche,Chicago Blackhawks,44.0,95.0,66.0,26.0,48.0,61.0
+/zapas/2897584,1.0,1.0,Colorado Avalanche,Winnipeg Jets,45.0,95.0,64.0,30.0,59.0,57.0
+/zapas/2897599,1.0,1.0,Colorado Avalanche,Toronto Maple Leafs,48.0,100.0,61.0,45.0,76.0,46.0
+/zapas/2897612,1.0,1.0,Colorado Avalanche,Seattle Kraken,47.0,98.0,64.0,21.0,56.0,78.0
+/zapas/2897622,0.0,0.0,Colorado Avalanche,Nashville Predators,47.0,96.0,65.0,41.0,68.0,53.0
+/zapas/2897642,1.0,1.0,Colorado Avalanche,Arizona Coyotes,45.0,96.0,68.0,20.0,52.0,73.0
+/zapas/2897649,1.0,0.0,Colorado Avalanche,Arizona Coyotes,44.0,93.0,68.0,21.0,54.0,73.0
+/zapas/2897666,1.0,1.0,Colorado Avalanche,Minnesota Wild,44.0,91.0,63.0,35.0,81.0,62.0
+/zapas/2897682,1.0,0.0,Colorado Avalanche,Anaheim Ducks,43.0,90.0,64.0,24.0,51.0,64.0
+/zapas/2897686,1.0,0.0,Colorado Avalanche,Los Angeles Kings,46.0,91.0,61.0,34.0,62.0,55.0
+/zapas/2897703,1.0,1.0,Colorado Avalanche,Montreal Canadiens,46.0,89.0,60.0,15.0,48.0,76.0
+/zapas/2897718,1.0,1.0,Colorado Avalanche,Chicago Blackhawks,48.0,89.0,54.0,25.0,54.0,68.0
+/zapas/2897733,1.0,1.0,Colorado Avalanche,Boston Bruins,48.0,87.0,53.0,39.0,65.0,54.0
+/zapas/2897749,1.0,0.0,Colorado Avalanche,Chicago Blackhawks,49.0,86.0,50.0,26.0,56.0,69.0
+/zapas/2897764,1.0,1.0,Colorado Avalanche,Buffalo Sabres,49.0,85.0,49.0,21.0,46.0,64.0
+/zapas/2897777,0.0,1.0,Colorado Avalanche,Arizona Coyotes,49.0,82.0,47.0,16.0,52.0,81.0
+/zapas/2897454,1.0,1.0,Colorado Avalanche,Tampa Bay Lightning,47.0,77.0,47.0,38.0,68.0,60.0
+/zapas/2897542,1.0,0.0,Colorado Avalanche,Dallas Stars,47.0,77.0,47.0,32.0,68.0,67.0
+/zapas/2897524,0.0,1.0,Colorado Avalanche,Dallas Stars,47.0,77.0,45.0,32.0,67.0,67.0
+/zapas/2897505,1.0,0.0,Colorado Avalanche,Vegas Golden Knights,47.0,76.0,44.0,32.0,63.0,57.0
+/zapas/2897487,1.0,0.0,Colorado Avalanche,Buffalo Sabres,47.0,74.0,42.0,22.0,52.0,69.0
+/zapas/2897496,0.0,0.0,Colorado Avalanche,Boston Bruins,48.0,75.0,42.0,33.0,55.0,62.0
+/zapas/2897473,1.0,0.0,Colorado Avalanche,Detroit Red Wings,45.0,69.0,46.0,23.0,59.0,72.0
+/zapas/2897805,1.0,1.0,Colorado Avalanche,Winnipeg Jets,46.0,69.0,44.0,25.0,52.0,62.0
+/zapas/2897810,1.0,0.0,Colorado Avalanche,Vegas Golden Knights,46.0,71.0,44.0,29.0,56.0,55.0
+/zapas/2897834,1.0,1.0,Colorado Avalanche,New York Islanders,48.0,70.0,41.0,28.0,58.0,55.0
+/zapas/2897847,0.0,0.0,Colorado Avalanche,Arizona Coyotes,49.0,71.0,41.0,21.0,50.0,67.0
+/zapas/2897862,0.0,1.0,Colorado Avalanche,Calgary Flames,46.0,67.0,43.0,45.0,82.0,47.0
+/zapas/2897881,1.0,0.0,Colorado Avalanche,New York Islanders,45.0,66.0,44.0,26.0,58.0,59.0
+/zapas/2897891,0.0,0.0,Colorado Avalanche,New Jersey Devils,45.0,69.0,48.0,17.0,66.0,76.0
+/zapas/2897908,0.0,0.0,Colorado Avalanche,Carolina Hurricanes,42.0,68.0,52.0,38.0,65.0,53.0
+/zapas/2897925,1.0,1.0,Colorado Avalanche,Calgary Flames,40.0,65.0,52.0,47.0,78.0,46.0
+/zapas/2897935,1.0,0.0,Colorado Avalanche,Los Angeles Kings,40.0,66.0,52.0,38.0,62.0,60.0
+/zapas/2897959,1.0,0.0,Colorado Avalanche,San Jose Sharks,41.0,65.0,49.0,19.0,44.0,67.0
+/zapas/2897982,1.0,1.0,Colorado Avalanche,Edmonton Oilers,41.0,64.0,48.0,36.0,70.0,58.0
+/zapas/2897997,0.0,1.0,Colorado Avalanche,Vancouver Canucks,40.0,63.0,49.0,34.0,73.0,65.0
+/zapas/2898010,1.0,1.0,Colorado Avalanche,Philadelphia Flyers,39.0,62.0,49.0,24.0,54.0,71.0
+/zapas/2898028,0.0,0.0,Colorado Avalanche,Minnesota Wild,39.0,65.0,50.0,28.0,70.0,76.0
+/zapas/2898041,1.0,0.0,Colorado Avalanche,Calgary Flames,37.0,63.0,53.0,43.0,79.0,52.0
+/zapas/2898056,1.0,1.0,Colorado Avalanche,San Jose Sharks,40.0,64.0,50.0,23.0,49.0,67.0
+/zapas/2898072,1.0,1.0,Colorado Avalanche,Pittsburgh Penguins,40.0,66.0,52.0,32.0,67.0,57.0
+/zapas/2898103,1.0,0.0,Colorado Avalanche,Pittsburgh Penguins,40.0,64.0,51.0,30.0,64.0,56.0
+/zapas/2898119,1.0,0.0,Colorado Avalanche,Winnipeg Jets,43.0,69.0,50.0,30.0,71.0,69.0
+/zapas/2898126,1.0,0.0,Colorado Avalanche,Edmonton Oilers,42.0,69.0,52.0,37.0,79.0,59.0
+/zapas/2898158,1.0,1.0,Colorado Avalanche,Los Angeles Kings,41.0,65.0,50.0,29.0,55.0,59.0
+/zapas/2898163,1.0,1.0,Colorado Avalanche,New Jersey Devils,41.0,71.0,51.0,19.0,63.0,78.0
+/zapas/2898179,1.0,1.0,Colorado Avalanche,Carolina Hurricanes,41.0,69.0,49.0,33.0,59.0,48.0
+/zapas/2898200,0.0,1.0,Colorado Avalanche,Washington Capitals,44.0,75.0,51.0,39.0,84.0,67.0
+/zapas/2898211,0.0,0.0,Colorado Avalanche,Seattle Kraken,43.0,74.0,50.0,26.0,57.0,64.0
+/zapas/2898226,0.0,0.0,Colorado Avalanche,Edmonton Oilers,40.0,71.0,49.0,43.0,84.0,54.0
+/zapas/2898244,0.0,0.0,Colorado Avalanche,Winnipeg Jets,40.0,71.0,50.0,24.0,61.0,73.0
+/zapas/2898255,1.0,1.0,Colorado Avalanche,St. Louis Blues,40.0,72.0,52.0,44.0,91.0,62.0
+/zapas/2898271,0.0,1.0,Colorado Avalanche,Nashville Predators,40.0,74.0,55.0,28.0,63.0,76.0
+/zapas/2898284,0.0,0.0,Colorado Avalanche,Minnesota Wild,38.0,75.0,60.0,41.0,78.0,56.0

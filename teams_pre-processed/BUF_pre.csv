@@ -1,0 +1,372 @@
+game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
+/zapas/2526060,Buffalo Sabres,Montreal Canadiens,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Montreal Canadiens,Buffalo Sabres,2017
+/zapas/2526071,New York Islanders,Buffalo Sabres,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,New York Islanders,Buffalo Sabres,2017
+/zapas/2526088,Buffalo Sabres,New Jersey Devils,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,New Jersey Devils,Buffalo Sabres,2017
+/zapas/2526111,San Jose Sharks,Buffalo Sabres,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,San Jose Sharks,Buffalo Sabres,2017
+/zapas/2526130,Los Angeles Kings,Buffalo Sabres,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Buffalo Sabres,2017
+/zapas/2526132,Anaheim Ducks,Buffalo Sabres,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Anaheim Ducks,Buffalo Sabres,2017
+/zapas/2526144,Vegas Golden Knights,Buffalo Sabres,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Vegas Golden Knights,Buffalo Sabres,2017
+/zapas/2526158,Buffalo Sabres,Vancouver Canucks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Buffalo Sabres,2017
+/zapas/2526167,Boston Bruins,Buffalo Sabres,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Boston Bruins,Buffalo Sabres,2017
+/zapas/2526180,Buffalo Sabres,Detroit Red Wings,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Detroit Red Wings,Buffalo Sabres,2017
+/zapas/2526191,Columbus Blue Jackets,Buffalo Sabres,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Columbus Blue Jackets,Buffalo Sabres,2017
+/zapas/2526209,Buffalo Sabres,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Buffalo Sabres,2017
+/zapas/2526250,Arizona Coyotes,Buffalo Sabres,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Arizona Coyotes,Buffalo Sabres,2017
+/zapas/2526261,Dallas Stars,Buffalo Sabres,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Dallas Stars,Buffalo Sabres,2017
+/zapas/2526277,Buffalo Sabres,Washington Capitals,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Washington Capitals,Buffalo Sabres,2017
+/zapas/2526296,Buffalo Sabres,Florida Panthers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Florida Panthers,Buffalo Sabres,2017
+/zapas/2526305,Montreal Canadiens,Buffalo Sabres,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Montreal Canadiens,Buffalo Sabres,2017
+/zapas/2526321,Pittsburgh Penguins,Buffalo Sabres,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2017
+/zapas/2526345,Detroit Red Wings,Buffalo Sabres,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Detroit Red Wings,Buffalo Sabres,2017
+/zapas/2526351,Buffalo Sabres,Carolina Hurricanes,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Buffalo Sabres,2017
+/zapas/2526364,Buffalo Sabres,Columbus Blue Jackets,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Columbus Blue Jackets,Buffalo Sabres,2017
+/zapas/2526373,Buffalo Sabres,Minnesota Wild,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Minnesota Wild,Buffalo Sabres,2017
+/zapas/2526393,Buffalo Sabres,Edmonton Oilers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Edmonton Oilers,Buffalo Sabres,2017
+/zapas/2526403,Montreal Canadiens,Buffalo Sabres,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Montreal Canadiens,Buffalo Sabres,2017
+/zapas/2526421,Buffalo Sabres,Tampa Bay Lightning,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2017
+/zapas/2526442,Buffalo Sabres,Pittsburgh Penguins,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2017
+/zapas/2526455,Pittsburgh Penguins,Buffalo Sabres,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2017
+/zapas/2526476,Colorado Avalanche,Buffalo Sabres,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Colorado Avalanche,Buffalo Sabres,2017
+/zapas/2526496,Chicago Blackhawks,Buffalo Sabres,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Chicago Blackhawks,Buffalo Sabres,2017
+/zapas/2526511,St. Louis Blues,Buffalo Sabres,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,St. Louis Blues,Buffalo Sabres,2017
+/zapas/2526520,Buffalo Sabres,Ottawa Senators,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Ottawa Senators,Buffalo Sabres,2017
+/zapas/2526534,Philadelphia Flyers,Buffalo Sabres,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Philadelphia Flyers,Buffalo Sabres,2017
+/zapas/2526545,Buffalo Sabres,Carolina Hurricanes,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Carolina Hurricanes,Buffalo Sabres,2017
+/zapas/2526571,Buffalo Sabres,Boston Bruins,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Boston Bruins,Buffalo Sabres,2017
+/zapas/2526593,Buffalo Sabres,Philadelphia Flyers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Philadelphia Flyers,Buffalo Sabres,2017
+/zapas/2526605,Carolina Hurricanes,Buffalo Sabres,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Carolina Hurricanes,Buffalo Sabres,2017
+/zapas/2526614,New York Islanders,Buffalo Sabres,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Islanders,Buffalo Sabres,2017
+/zapas/2526630,New Jersey Devils,Buffalo Sabres,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New Jersey Devils,Buffalo Sabres,2017
+/zapas/2526655,Buffalo Sabres,New York Rangers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New York Rangers,Buffalo Sabres,2017
+/zapas/2526675,Minnesota Wild,Buffalo Sabres,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Minnesota Wild,Buffalo Sabres,2017
+/zapas/2526685,Winnipeg Jets,Buffalo Sabres,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Buffalo Sabres,2017
+/zapas/2526697,Philadelphia Flyers,Buffalo Sabres,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Philadelphia Flyers,Buffalo Sabres,2017
+/zapas/2526708,Buffalo Sabres,Winnipeg Jets,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Winnipeg Jets,Buffalo Sabres,2017
+/zapas/2526717,Buffalo Sabres,Columbus Blue Jackets,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Columbus Blue Jackets,Buffalo Sabres,2017
+/zapas/2526750,New York Rangers,Buffalo Sabres,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,New York Rangers,Buffalo Sabres,2017
+/zapas/2526763,Buffalo Sabres,Dallas Stars,1,7,0,0.0,3.0,1.0,0.0,1.0,7.0,0.0,Dallas Stars,Buffalo Sabres,2017
+/zapas/2526785,Calgary Flames,Buffalo Sabres,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Calgary Flames,Buffalo Sabres,2017
+/zapas/2526793,Edmonton Oilers,Buffalo Sabres,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Edmonton Oilers,Buffalo Sabres,2017
+/zapas/2526812,Vancouver Canucks,Buffalo Sabres,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Vancouver Canucks,Buffalo Sabres,2017
+/zapas/2526815,Buffalo Sabres,New Jersey Devils,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New Jersey Devils,Buffalo Sabres,2017
+/zapas/2526831,Buffalo Sabres,Florida Panthers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Florida Panthers,Buffalo Sabres,2017
+/zapas/2526850,Buffalo Sabres,St. Louis Blues,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,St. Louis Blues,Buffalo Sabres,2017
+/zapas/2526866,Buffalo Sabres,Anaheim Ducks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Anaheim Ducks,Buffalo Sabres,2017
+/zapas/2526880,Buffalo Sabres,New York Islanders,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,New York Islanders,Buffalo Sabres,2017
+/zapas/2526897,Boston Bruins,Buffalo Sabres,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Boston Bruins,Buffalo Sabres,2017
+/zapas/2526910,Buffalo Sabres,Colorado Avalanche,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Colorado Avalanche,Buffalo Sabres,2017
+/zapas/2526919,Buffalo Sabres,Tampa Bay Lightning,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Tampa Bay Lightning,Buffalo Sabres,2017
+/zapas/2526936,Ottawa Senators,Buffalo Sabres,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Ottawa Senators,Buffalo Sabres,2017
+/zapas/2526948,Buffalo Sabres,Los Angeles Kings,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Buffalo Sabres,2017
+/zapas/2526967,Buffalo Sabres,Washington Capitals,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Washington Capitals,Buffalo Sabres,2017
+/zapas/2526989,Detroit Red Wings,Buffalo Sabres,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Detroit Red Wings,Buffalo Sabres,2017
+/zapas/2527008,Washington Capitals,Buffalo Sabres,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Washington Capitals,Buffalo Sabres,2017
+/zapas/2527012,Buffalo Sabres,Boston Bruins,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Boston Bruins,Buffalo Sabres,2017
+/zapas/2527033,Tampa Bay Lightning,Buffalo Sabres,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Tampa Bay Lightning,Buffalo Sabres,2017
+/zapas/2527046,Florida Panthers,Buffalo Sabres,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Florida Panthers,Buffalo Sabres,2017
+/zapas/2527069,Buffalo Sabres,Toronto Maple Leafs,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Toronto Maple Leafs,Buffalo Sabres,2017
+/zapas/2527083,Buffalo Sabres,Calgary Flames,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Calgary Flames,Buffalo Sabres,2017
+/zapas/2527089,Ottawa Senators,Buffalo Sabres,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Ottawa Senators,Buffalo Sabres,2017
+/zapas/2527103,Buffalo Sabres,Vegas Golden Knights,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Vegas Golden Knights,Buffalo Sabres,2017
+/zapas/2527137,Buffalo Sabres,Toronto Maple Leafs,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Toronto Maple Leafs,Buffalo Sabres,2017
+/zapas/2527152,Buffalo Sabres,Chicago Blackhawks,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Chicago Blackhawks,Buffalo Sabres,2017
+/zapas/2527171,Buffalo Sabres,Nashville Predators,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Nashville Predators,Buffalo Sabres,2017
+/zapas/2527186,Buffalo Sabres,Arizona Coyotes,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Arizona Coyotes,Buffalo Sabres,2017
+/zapas/2527200,Buffalo Sabres,Montreal Canadiens,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Montreal Canadiens,Buffalo Sabres,2017
+/zapas/2527213,New York Rangers,Buffalo Sabres,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,New York Rangers,Buffalo Sabres,2017
+/zapas/2527222,Toronto Maple Leafs,Buffalo Sabres,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Toronto Maple Leafs,Buffalo Sabres,2017
+/zapas/2527245,Buffalo Sabres,Detroit Red Wings,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Detroit Red Wings,Buffalo Sabres,2017
+/zapas/2527267,Nashville Predators,Buffalo Sabres,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Nashville Predators,Buffalo Sabres,2017
+/zapas/2527277,Toronto Maple Leafs,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Toronto Maple Leafs,Buffalo Sabres,2017
+/zapas/2527292,Buffalo Sabres,Ottawa Senators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Ottawa Senators,Buffalo Sabres,2017
+/zapas/2527308,Tampa Bay Lightning,Buffalo Sabres,7,5,0,3.0,0.0,0.0,0.0,5.0,7.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2017
+/zapas/2527316,Florida Panthers,Buffalo Sabres,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Florida Panthers,Buffalo Sabres,2017
+/zapas/2647203,Buffalo Sabres,Boston Bruins,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Boston Bruins,Buffalo Sabres,2018
+/zapas/2647217,Buffalo Sabres,New York Rangers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New York Rangers,Buffalo Sabres,2018
+/zapas/2647232,Buffalo Sabres,Vegas Golden Knights,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Buffalo Sabres,2018
+/zapas/2647244,Buffalo Sabres,Colorado Avalanche,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Colorado Avalanche,Buffalo Sabres,2018
+/zapas/2647267,Arizona Coyotes,Buffalo Sabres,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Arizona Coyotes,Buffalo Sabres,2018
+/zapas/2647283,Vegas Golden Knights,Buffalo Sabres,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Buffalo Sabres,2018
+/zapas/2647296,San Jose Sharks,Buffalo Sabres,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,San Jose Sharks,Buffalo Sabres,2018
+/zapas/2647303,Los Angeles Kings,Buffalo Sabres,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Los Angeles Kings,Buffalo Sabres,2018
+/zapas/2647315,Anaheim Ducks,Buffalo Sabres,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Anaheim Ducks,Buffalo Sabres,2018
+/zapas/2647333,Buffalo Sabres,Montreal Canadiens,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Montreal Canadiens,Buffalo Sabres,2018
+/zapas/2647352,Columbus Blue Jackets,Buffalo Sabres,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Columbus Blue Jackets,Buffalo Sabres,2018
+/zapas/2647365,Buffalo Sabres,Calgary Flames,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Calgary Flames,Buffalo Sabres,2018
+/zapas/2647381,Ottawa Senators,Buffalo Sabres,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Ottawa Senators,Buffalo Sabres,2018
+/zapas/2647393,Buffalo Sabres,Ottawa Senators,9,2,0,3.0,0.0,1.0,3.0,9.0,2.0,1.0,Ottawa Senators,Buffalo Sabres,2018
+/zapas/2647406,New York Rangers,Buffalo Sabres,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New York Rangers,Buffalo Sabres,2018
+/zapas/2647428,Montreal Canadiens,Buffalo Sabres,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Montreal Canadiens,Buffalo Sabres,2018
+/zapas/2647440,Buffalo Sabres,Vancouver Canucks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Vancouver Canucks,Buffalo Sabres,2018
+/zapas/2647462,Buffalo Sabres,Tampa Bay Lightning,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Tampa Bay Lightning,Buffalo Sabres,2018
+/zapas/2647485,Winnipeg Jets,Buffalo Sabres,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Winnipeg Jets,Buffalo Sabres,2018
+/zapas/2647492,Minnesota Wild,Buffalo Sabres,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Minnesota Wild,Buffalo Sabres,2018
+/zapas/2647508,Pittsburgh Penguins,Buffalo Sabres,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Pittsburgh Penguins,Buffalo Sabres,2018
+/zapas/2647516,Buffalo Sabres,Philadelphia Flyers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Philadelphia Flyers,Buffalo Sabres,2018
+/zapas/2647533,Buffalo Sabres,Montreal Canadiens,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Buffalo Sabres,2018
+/zapas/2647549,Detroit Red Wings,Buffalo Sabres,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Detroit Red Wings,Buffalo Sabres,2018
+/zapas/2647565,Buffalo Sabres,San Jose Sharks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,San Jose Sharks,Buffalo Sabres,2018
+/zapas/2647583,Tampa Bay Lightning,Buffalo Sabres,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2018
+/zapas/2647588,Florida Panthers,Buffalo Sabres,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Florida Panthers,Buffalo Sabres,2018
+/zapas/2647612,Nashville Predators,Buffalo Sabres,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Nashville Predators,Buffalo Sabres,2018
+/zapas/2647614,Buffalo Sabres,Toronto Maple Leafs,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Toronto Maple Leafs,Buffalo Sabres,2018
+/zapas/2647642,Buffalo Sabres,Philadelphia Flyers,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Philadelphia Flyers,Buffalo Sabres,2018
+/zapas/2647664,Buffalo Sabres,Los Angeles Kings,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Buffalo Sabres,2018
+/zapas/2647677,Buffalo Sabres,Arizona Coyotes,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Buffalo Sabres,2018
+/zapas/2647698,Washington Capitals,Buffalo Sabres,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Washington Capitals,Buffalo Sabres,2018
+/zapas/2647706,Boston Bruins,Buffalo Sabres,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Boston Bruins,Buffalo Sabres,2018
+/zapas/2647715,Buffalo Sabres,Florida Panthers,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Florida Panthers,Buffalo Sabres,2018
+/zapas/2647741,Washington Capitals,Buffalo Sabres,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Washington Capitals,Buffalo Sabres,2018
+/zapas/2647750,Buffalo Sabres,Anaheim Ducks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Anaheim Ducks,Buffalo Sabres,2018
+/zapas/2647770,St. Louis Blues,Buffalo Sabres,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,St. Louis Blues,Buffalo Sabres,2018
+/zapas/2647785,Buffalo Sabres,Boston Bruins,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Boston Bruins,Buffalo Sabres,2018
+/zapas/2647800,Buffalo Sabres,New York Islanders,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Islanders,Buffalo Sabres,2018
+/zapas/2647821,Buffalo Sabres,Florida Panthers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Florida Panthers,Buffalo Sabres,2018
+/zapas/2647836,Boston Bruins,Buffalo Sabres,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Boston Bruins,Buffalo Sabres,2018
+/zapas/2647856,Buffalo Sabres,New Jersey Devils,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,New Jersey Devils,Buffalo Sabres,2018
+/zapas/2647881,Carolina Hurricanes,Buffalo Sabres,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Carolina Hurricanes,Buffalo Sabres,2018
+/zapas/2647887,Buffalo Sabres,Tampa Bay Lightning,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2018
+/zapas/2647908,Edmonton Oilers,Buffalo Sabres,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,Edmonton Oilers,Buffalo Sabres,2018
+/zapas/2647921,Calgary Flames,Buffalo Sabres,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Calgary Flames,Buffalo Sabres,2018
+/zapas/2647937,Vancouver Canucks,Buffalo Sabres,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Vancouver Canucks,Buffalo Sabres,2018
+/zapas/2647973,Columbus Blue Jackets,Buffalo Sabres,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Columbus Blue Jackets,Buffalo Sabres,2018
+/zapas/2647975,Dallas Stars,Buffalo Sabres,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Dallas Stars,Buffalo Sabres,2018
+/zapas/2647979,Buffalo Sabres,Chicago Blackhawks,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Chicago Blackhawks,Buffalo Sabres,2018
+/zapas/2648008,Buffalo Sabres,Minnesota Wild,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Minnesota Wild,Buffalo Sabres,2018
+/zapas/2648021,Buffalo Sabres,Carolina Hurricanes,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Carolina Hurricanes,Buffalo Sabres,2018
+/zapas/2648037,Buffalo Sabres,Detroit Red Wings,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Detroit Red Wings,Buffalo Sabres,2018
+/zapas/2648053,Buffalo Sabres,Winnipeg Jets,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Winnipeg Jets,Buffalo Sabres,2018
+/zapas/2648062,Buffalo Sabres,New York Islanders,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New York Islanders,Buffalo Sabres,2018
+/zapas/2648086,Buffalo Sabres,New York Rangers,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,New York Rangers,Buffalo Sabres,2018
+/zapas/2648104,New Jersey Devils,Buffalo Sabres,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New Jersey Devils,Buffalo Sabres,2018
+/zapas/2648114,Florida Panthers,Buffalo Sabres,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Florida Panthers,Buffalo Sabres,2018
+/zapas/2648133,Tampa Bay Lightning,Buffalo Sabres,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2018
+/zapas/2648143,Buffalo Sabres,Washington Capitals,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Washington Capitals,Buffalo Sabres,2018
+/zapas/2648160,Toronto Maple Leafs,Buffalo Sabres,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Toronto Maple Leafs,Buffalo Sabres,2018
+/zapas/2648168,Philadelphia Flyers,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Philadelphia Flyers,Buffalo Sabres,2018
+/zapas/2648189,Buffalo Sabres,Pittsburgh Penguins,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Pittsburgh Penguins,Buffalo Sabres,2018
+/zapas/2648200,Toronto Maple Leafs,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Toronto Maple Leafs,Buffalo Sabres,2018
+/zapas/2648215,Buffalo Sabres,Edmonton Oilers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Edmonton Oilers,Buffalo Sabres,2018
+/zapas/2648236,Chicago Blackhawks,Buffalo Sabres,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Chicago Blackhawks,Buffalo Sabres,2018
+/zapas/2648246,Colorado Avalanche,Buffalo Sabres,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Colorado Avalanche,Buffalo Sabres,2018
+/zapas/2648270,Buffalo Sabres,Dallas Stars,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Dallas Stars,Buffalo Sabres,2018
+/zapas/2648281,Buffalo Sabres,Pittsburgh Penguins,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2018
+/zapas/2648305,Carolina Hurricanes,Buffalo Sabres,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Carolina Hurricanes,Buffalo Sabres,2018
+/zapas/2648310,Buffalo Sabres,St. Louis Blues,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,St. Louis Blues,Buffalo Sabres,2018
+/zapas/2648330,Buffalo Sabres,Toronto Maple Leafs,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Toronto Maple Leafs,Buffalo Sabres,2018
+/zapas/2648354,Montreal Canadiens,Buffalo Sabres,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Montreal Canadiens,Buffalo Sabres,2018
+/zapas/2648368,New Jersey Devils,Buffalo Sabres,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New Jersey Devils,Buffalo Sabres,2018
+/zapas/2648379,Ottawa Senators,Buffalo Sabres,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Ottawa Senators,Buffalo Sabres,2018
+/zapas/2648387,Buffalo Sabres,Detroit Red Wings,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Detroit Red Wings,Buffalo Sabres,2018
+/zapas/2648407,New York Islanders,Buffalo Sabres,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,New York Islanders,Buffalo Sabres,2018
+/zapas/2648416,Buffalo Sabres,Columbus Blue Jackets,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Columbus Blue Jackets,Buffalo Sabres,2018
+/zapas/2648427,Buffalo Sabres,Nashville Predators,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Nashville Predators,Buffalo Sabres,2018
+/zapas/2648440,Buffalo Sabres,Ottawa Senators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Ottawa Senators,Buffalo Sabres,2018
+/zapas/2648459,Detroit Red Wings,Buffalo Sabres,1,7,0,0.0,3.0,0.0,3.0,7.0,1.0,1.0,Detroit Red Wings,Buffalo Sabres,2018
+/zapas/2806383,Pittsburgh Penguins,Buffalo Sabres,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Pittsburgh Penguins,Buffalo Sabres,2019
+/zapas/2806394,Buffalo Sabres,New Jersey Devils,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,New Jersey Devils,Buffalo Sabres,2019
+/zapas/2806411,Columbus Blue Jackets,Buffalo Sabres,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Columbus Blue Jackets,Buffalo Sabres,2019
+/zapas/2806420,Buffalo Sabres,Montreal Canadiens,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Montreal Canadiens,Buffalo Sabres,2019
+/zapas/2806434,Buffalo Sabres,Florida Panthers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Florida Panthers,Buffalo Sabres,2019
+/zapas/2806458,Buffalo Sabres,Dallas Stars,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Dallas Stars,Buffalo Sabres,2019
+/zapas/2806472,Anaheim Ducks,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Anaheim Ducks,Buffalo Sabres,2019
+/zapas/2806482,Los Angeles Kings,Buffalo Sabres,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Los Angeles Kings,Buffalo Sabres,2019
+/zapas/2806499,San Jose Sharks,Buffalo Sabres,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,San Jose Sharks,Buffalo Sabres,2019
+/zapas/2806510,Buffalo Sabres,San Jose Sharks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,San Jose Sharks,Buffalo Sabres,2019
+/zapas/2806523,New York Rangers,Buffalo Sabres,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,New York Rangers,Buffalo Sabres,2019
+/zapas/2806535,Detroit Red Wings,Buffalo Sabres,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Detroit Red Wings,Buffalo Sabres,2019
+/zapas/2806553,Buffalo Sabres,Arizona Coyotes,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Arizona Coyotes,Buffalo Sabres,2019
+/zapas/2806574,Washington Capitals,Buffalo Sabres,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Washington Capitals,Buffalo Sabres,2019
+/zapas/2806584,Buffalo Sabres,New York Islanders,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,New York Islanders,Buffalo Sabres,2019
+/zapas/2806624,Buffalo Sabres,Tampa Bay Lightning,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2019
+/zapas/2806629,Tampa Bay Lightning,Buffalo Sabres,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2019
+/zapas/2806662,Buffalo Sabres,Carolina Hurricanes,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Carolina Hurricanes,Buffalo Sabres,2019
+/zapas/2806680,Buffalo Sabres,Ottawa Senators,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Ottawa Senators,Buffalo Sabres,2019
+/zapas/2806690,Chicago Blackhawks,Buffalo Sabres,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Chicago Blackhawks,Buffalo Sabres,2019
+/zapas/2806694,Buffalo Sabres,Minnesota Wild,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Minnesota Wild,Buffalo Sabres,2019
+/zapas/2806709,Boston Bruins,Buffalo Sabres,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Boston Bruins,Buffalo Sabres,2019
+/zapas/2806738,Florida Panthers,Buffalo Sabres,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Florida Panthers,Buffalo Sabres,2019
+/zapas/2806741,Tampa Bay Lightning,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2019
+/zapas/2806753,Buffalo Sabres,Calgary Flames,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Calgary Flames,Buffalo Sabres,2019
+/zapas/2806772,Buffalo Sabres,Toronto Maple Leafs,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Toronto Maple Leafs,Buffalo Sabres,2019
+/zapas/2806782,Toronto Maple Leafs,Buffalo Sabres,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Toronto Maple Leafs,Buffalo Sabres,2019
+/zapas/2806795,Buffalo Sabres,New Jersey Devils,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,New Jersey Devils,Buffalo Sabres,2019
+/zapas/2806822,Calgary Flames,Buffalo Sabres,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Calgary Flames,Buffalo Sabres,2019
+/zapas/2806829,Vancouver Canucks,Buffalo Sabres,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Vancouver Canucks,Buffalo Sabres,2019
+/zapas/2806843,Edmonton Oilers,Buffalo Sabres,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Edmonton Oilers,Buffalo Sabres,2019
+/zapas/2806848,Buffalo Sabres,St. Louis Blues,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,St. Louis Blues,Buffalo Sabres,2019
+/zapas/2806863,Buffalo Sabres,Nashville Predators,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Nashville Predators,Buffalo Sabres,2019
+/zapas/2806878,New York Islanders,Buffalo Sabres,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Islanders,Buffalo Sabres,2019
+/zapas/2806901,Toronto Maple Leafs,Buffalo Sabres,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Toronto Maple Leafs,Buffalo Sabres,2019
+/zapas/2806916,Philadelphia Flyers,Buffalo Sabres,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Philadelphia Flyers,Buffalo Sabres,2019
+/zapas/2806928,Buffalo Sabres,Los Angeles Kings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Buffalo Sabres,2019
+/zapas/2806951,Ottawa Senators,Buffalo Sabres,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Ottawa Senators,Buffalo Sabres,2019
+/zapas/2806958,Buffalo Sabres,Boston Bruins,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Boston Bruins,Buffalo Sabres,2019
+/zapas/2806982,Boston Bruins,Buffalo Sabres,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Boston Bruins,Buffalo Sabres,2019
+/zapas/2806993,Buffalo Sabres,Tampa Bay Lightning,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2019
+/zapas/2807004,Buffalo Sabres,Edmonton Oilers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Edmonton Oilers,Buffalo Sabres,2019
+/zapas/2807021,Buffalo Sabres,Florida Panthers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Florida Panthers,Buffalo Sabres,2019
+/zapas/2807059,St. Louis Blues,Buffalo Sabres,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,St. Louis Blues,Buffalo Sabres,2019
+/zapas/2807068,Buffalo Sabres,Vancouver Canucks,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Vancouver Canucks,Buffalo Sabres,2019
+/zapas/2807081,Detroit Red Wings,Buffalo Sabres,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Detroit Red Wings,Buffalo Sabres,2019
+/zapas/2807090,Buffalo Sabres,Vegas Golden Knights,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Buffalo Sabres,2019
+/zapas/2807113,Dallas Stars,Buffalo Sabres,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Dallas Stars,Buffalo Sabres,2019
+/zapas/2807128,Nashville Predators,Buffalo Sabres,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Nashville Predators,Buffalo Sabres,2019
+/zapas/2807150,Buffalo Sabres,Ottawa Senators,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Ottawa Senators,Buffalo Sabres,2019
+/zapas/2807158,Buffalo Sabres,Montreal Canadiens,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Montreal Canadiens,Buffalo Sabres,2019
+/zapas/2807168,Buffalo Sabres,Columbus Blue Jackets,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Columbus Blue Jackets,Buffalo Sabres,2019
+/zapas/2807189,Buffalo Sabres,Colorado Avalanche,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Colorado Avalanche,Buffalo Sabres,2019
+/zapas/2807203,Buffalo Sabres,Detroit Red Wings,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Detroit Red Wings,Buffalo Sabres,2019
+/zapas/2807216,New York Rangers,Buffalo Sabres,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Rangers,Buffalo Sabres,2019
+/zapas/2807232,Buffalo Sabres,Anaheim Ducks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Anaheim Ducks,Buffalo Sabres,2019
+/zapas/2807242,Buffalo Sabres,Detroit Red Wings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Detroit Red Wings,Buffalo Sabres,2019
+/zapas/2807256,Buffalo Sabres,Columbus Blue Jackets,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Columbus Blue Jackets,Buffalo Sabres,2019
+/zapas/2807289,Buffalo Sabres,Toronto Maple Leafs,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Toronto Maple Leafs,Buffalo Sabres,2019
+/zapas/2807298,Ottawa Senators,Buffalo Sabres,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Ottawa Senators,Buffalo Sabres,2019
+/zapas/2807326,Pittsburgh Penguins,Buffalo Sabres,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Pittsburgh Penguins,Buffalo Sabres,2019
+/zapas/2807337,Buffalo Sabres,Winnipeg Jets,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Winnipeg Jets,Buffalo Sabres,2019
+/zapas/2807357,Colorado Avalanche,Buffalo Sabres,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Buffalo Sabres,2019
+/zapas/2807373,Vegas Golden Knights,Buffalo Sabres,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Buffalo Sabres,2019
+/zapas/2807382,Arizona Coyotes,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Buffalo Sabres,2019
+/zapas/2807400,Winnipeg Jets,Buffalo Sabres,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Winnipeg Jets,Buffalo Sabres,2019
+/zapas/2807409,Buffalo Sabres,Pittsburgh Penguins,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2019
+/zapas/2807433,Philadelphia Flyers,Buffalo Sabres,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Philadelphia Flyers,Buffalo Sabres,2019
+/zapas/2807442,Buffalo Sabres,Washington Capitals,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Washington Capitals,Buffalo Sabres,2019
+/zapas/2893218,Buffalo Sabres,Washington Capitals,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Washington Capitals,Buffalo Sabres,2020
+/zapas/2893226,Buffalo Sabres,Washington Capitals,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Washington Capitals,Buffalo Sabres,2020
+/zapas/2893249,Philadelphia Flyers,Buffalo Sabres,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,2020
+/zapas/2893256,Philadelphia Flyers,Buffalo Sabres,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Philadelphia Flyers,Buffalo Sabres,2020
+/zapas/2893279,Washington Capitals,Buffalo Sabres,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Washington Capitals,Buffalo Sabres,2020
+/zapas/2893297,Washington Capitals,Buffalo Sabres,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Washington Capitals,Buffalo Sabres,2020
+/zapas/2893309,Buffalo Sabres,New York Rangers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,New York Rangers,Buffalo Sabres,2020
+/zapas/2893323,Buffalo Sabres,New York Rangers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New York Rangers,Buffalo Sabres,2020
+/zapas/2893335,Buffalo Sabres,New Jersey Devils,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New Jersey Devils,Buffalo Sabres,2020
+/zapas/2893347,Buffalo Sabres,New Jersey Devils,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,New Jersey Devils,Buffalo Sabres,2020
+/zapas/2893456,Buffalo Sabres,New York Islanders,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Islanders,Buffalo Sabres,2020
+/zapas/2893462,Buffalo Sabres,New York Islanders,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,New York Islanders,Buffalo Sabres,2020
+/zapas/2893876,Washington Capitals,Buffalo Sabres,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Washington Capitals,Buffalo Sabres,2020
+/zapas/2893491,New Jersey Devils,Buffalo Sabres,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New Jersey Devils,Buffalo Sabres,2020
+/zapas/2893363,New York Islanders,Buffalo Sabres,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,New York Islanders,Buffalo Sabres,2020
+/zapas/2893506,New Jersey Devils,Buffalo Sabres,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New Jersey Devils,Buffalo Sabres,2020
+/zapas/2893844,Buffalo Sabres,New Jersey Devils,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,New Jersey Devils,Buffalo Sabres,2020
+/zapas/2893531,Buffalo Sabres,Philadelphia Flyers,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Philadelphia Flyers,Buffalo Sabres,2020
+/zapas/2893551,Buffalo Sabres,Philadelphia Flyers,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Philadelphia Flyers,Buffalo Sabres,2020
+/zapas/2893563,New York Rangers,Buffalo Sabres,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,New York Rangers,Buffalo Sabres,2020
+/zapas/2893375,New York Islanders,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Islanders,Buffalo Sabres,2020
+/zapas/2893586,New York Islanders,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Islanders,Buffalo Sabres,2020
+/zapas/2893601,New York Islanders,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Islanders,Buffalo Sabres,2020
+/zapas/2893611,Philadelphia Flyers,Buffalo Sabres,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Philadelphia Flyers,Buffalo Sabres,2020
+/zapas/2893626,Buffalo Sabres,Pittsburgh Penguins,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2020
+/zapas/2893641,Buffalo Sabres,Pittsburgh Penguins,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2020
+/zapas/2893428,Buffalo Sabres,Washington Capitals,0,6,0,0.0,3.0,1.0,0.0,0.0,6.0,0.0,Washington Capitals,Buffalo Sabres,2020
+/zapas/2893665,New Jersey Devils,Buffalo Sabres,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,New Jersey Devils,Buffalo Sabres,2020
+/zapas/2893678,Buffalo Sabres,Boston Bruins,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Boston Bruins,Buffalo Sabres,2020
+/zapas/2893705,New York Rangers,Buffalo Sabres,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Rangers,Buffalo Sabres,2020
+/zapas/2893718,Pittsburgh Penguins,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2020
+/zapas/2893745,Pittsburgh Penguins,Buffalo Sabres,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2020
+/zapas/2893390,Boston Bruins,Buffalo Sabres,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Boston Bruins,Buffalo Sabres,2020
+/zapas/2893759,Buffalo Sabres,Philadelphia Flyers,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Philadelphia Flyers,Buffalo Sabres,2020
+/zapas/2893767,Buffalo Sabres,Philadelphia Flyers,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,2020
+/zapas/2893782,Buffalo Sabres,New York Rangers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New York Rangers,Buffalo Sabres,2020
+/zapas/2893797,Buffalo Sabres,New York Rangers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Rangers,Buffalo Sabres,2020
+/zapas/2893821,New Jersey Devils,Buffalo Sabres,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New Jersey Devils,Buffalo Sabres,2020
+/zapas/2893835,Buffalo Sabres,New Jersey Devils,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,New Jersey Devils,Buffalo Sabres,2020
+/zapas/2893442,Buffalo Sabres,Washington Capitals,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Washington Capitals,Buffalo Sabres,2020
+/zapas/2893861,Philadelphia Flyers,Buffalo Sabres,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Philadelphia Flyers,Buffalo Sabres,2020
+/zapas/2893404,Boston Bruins,Buffalo Sabres,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Boston Bruins,Buffalo Sabres,2020
+/zapas/2893886,Washington Capitals,Buffalo Sabres,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Washington Capitals,Buffalo Sabres,2020
+/zapas/2893901,Buffalo Sabres,Pittsburgh Penguins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2020
+/zapas/2893927,Buffalo Sabres,Pittsburgh Penguins,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Pittsburgh Penguins,Buffalo Sabres,2020
+/zapas/2893693,Buffalo Sabres,Boston Bruins,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Boston Bruins,Buffalo Sabres,2020
+/zapas/2893939,Buffalo Sabres,Boston Bruins,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Boston Bruins,Buffalo Sabres,2020
+/zapas/2893948,Buffalo Sabres,Boston Bruins,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Boston Bruins,Buffalo Sabres,2020
+/zapas/2893962,New York Rangers,Buffalo Sabres,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,New York Rangers,Buffalo Sabres,2020
+/zapas/2893979,New York Rangers,Buffalo Sabres,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New York Rangers,Buffalo Sabres,2020
+/zapas/2893993,Boston Bruins,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Boston Bruins,Buffalo Sabres,2020
+/zapas/2894009,Boston Bruins,Buffalo Sabres,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Boston Bruins,Buffalo Sabres,2020
+/zapas/2894022,Buffalo Sabres,New York Islanders,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New York Islanders,Buffalo Sabres,2020
+/zapas/2894032,Buffalo Sabres,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Buffalo Sabres,2020
+/zapas/2894050,Pittsburgh Penguins,Buffalo Sabres,8,4,0,3.0,0.0,0.0,0.0,4.0,8.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2020
+/zapas/2894070,Pittsburgh Penguins,Buffalo Sabres,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2020
+/zapas/2896991,Buffalo Sabres,Montreal Canadiens,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Montreal Canadiens,Buffalo Sabres,2021
+/zapas/2897007,Buffalo Sabres,Arizona Coyotes,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Arizona Coyotes,Buffalo Sabres,2021
+/zapas/2897024,Buffalo Sabres,Vancouver Canucks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Buffalo Sabres,2021
+/zapas/2897045,Buffalo Sabres,Boston Bruins,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Boston Bruins,Buffalo Sabres,2021
+/zapas/2897055,New Jersey Devils,Buffalo Sabres,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,New Jersey Devils,Buffalo Sabres,2021
+/zapas/2897065,Buffalo Sabres,Tampa Bay Lightning,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Tampa Bay Lightning,Buffalo Sabres,2021
+/zapas/2897084,Anaheim Ducks,Buffalo Sabres,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Buffalo Sabres,2021
+/zapas/2897109,Los Angeles Kings,Buffalo Sabres,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Los Angeles Kings,Buffalo Sabres,2021
+/zapas/2897118,San Jose Sharks,Buffalo Sabres,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,San Jose Sharks,Buffalo Sabres,2021
+/zapas/2897130,Seattle Kraken,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Seattle Kraken,Buffalo Sabres,2021
+/zapas/2897147,Buffalo Sabres,Detroit Red Wings,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Detroit Red Wings,Buffalo Sabres,2021
+/zapas/2897162,Washington Capitals,Buffalo Sabres,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Washington Capitals,Buffalo Sabres,2021
+/zapas/2897188,Buffalo Sabres,Edmonton Oilers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Edmonton Oilers,Buffalo Sabres,2021
+/zapas/2897198,Buffalo Sabres,Toronto Maple Leafs,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Toronto Maple Leafs,Buffalo Sabres,2021
+/zapas/2897224,Pittsburgh Penguins,Buffalo Sabres,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Pittsburgh Penguins,Buffalo Sabres,2021
+/zapas/2897234,Buffalo Sabres,Calgary Flames,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Calgary Flames,Buffalo Sabres,2021
+/zapas/2897261,New York Rangers,Buffalo Sabres,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,New York Rangers,Buffalo Sabres,2021
+/zapas/2897267,Buffalo Sabres,Columbus Blue Jackets,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Columbus Blue Jackets,Buffalo Sabres,2021
+/zapas/2897277,Buffalo Sabres,Boston Bruins,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Boston Bruins,Buffalo Sabres,2021
+/zapas/2897292,Buffalo Sabres,Montreal Canadiens,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Montreal Canadiens,Buffalo Sabres,2021
+/zapas/2897304,Detroit Red Wings,Buffalo Sabres,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Detroit Red Wings,Buffalo Sabres,2021
+/zapas/2897316,Buffalo Sabres,Seattle Kraken,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Seattle Kraken,Buffalo Sabres,2021
+/zapas/2897339,Florida Panthers,Buffalo Sabres,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Florida Panthers,Buffalo Sabres,2021
+/zapas/2897357,Carolina Hurricanes,Buffalo Sabres,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Carolina Hurricanes,Buffalo Sabres,2021
+/zapas/2897374,Buffalo Sabres,Anaheim Ducks,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Anaheim Ducks,Buffalo Sabres,2021
+/zapas/2897397,Buffalo Sabres,New York Rangers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,New York Rangers,Buffalo Sabres,2021
+/zapas/2897407,Buffalo Sabres,Washington Capitals,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Washington Capitals,Buffalo Sabres,2021
+/zapas/2897425,Winnipeg Jets,Buffalo Sabres,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Buffalo Sabres,2021
+/zapas/2897439,Minnesota Wild,Buffalo Sabres,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Minnesota Wild,Buffalo Sabres,2021
+/zapas/2897451,Pittsburgh Penguins,Buffalo Sabres,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Pittsburgh Penguins,Buffalo Sabres,2021
+/zapas/2897527,Buffalo Sabres,New Jersey Devils,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,New Jersey Devils,Buffalo Sabres,2021
+/zapas/2897537,New York Islanders,Buffalo Sabres,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Islanders,Buffalo Sabres,2021
+/zapas/2897551,Boston Bruins,Buffalo Sabres,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Boston Bruins,Buffalo Sabres,2021
+/zapas/2897588,Buffalo Sabres,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Buffalo Sabres,2021
+/zapas/2897623,Buffalo Sabres,Tampa Bay Lightning,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2021
+/zapas/2897636,Nashville Predators,Buffalo Sabres,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Nashville Predators,Buffalo Sabres,2021
+/zapas/2897655,Detroit Red Wings,Buffalo Sabres,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Detroit Red Wings,Buffalo Sabres,2021
+/zapas/2897669,Buffalo Sabres,Detroit Red Wings,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Detroit Red Wings,Buffalo Sabres,2021
+/zapas/2897678,Ottawa Senators,Buffalo Sabres,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Ottawa Senators,Buffalo Sabres,2021
+/zapas/2897691,Buffalo Sabres,Dallas Stars,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Dallas Stars,Buffalo Sabres,2021
+/zapas/2897708,Buffalo Sabres,Philadelphia Flyers,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Philadelphia Flyers,Buffalo Sabres,2021
+/zapas/2897728,Ottawa Senators,Buffalo Sabres,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Ottawa Senators,Buffalo Sabres,2021
+/zapas/2897754,Arizona Coyotes,Buffalo Sabres,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Buffalo Sabres,2021
+/zapas/2897764,Colorado Avalanche,Buffalo Sabres,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Buffalo Sabres,2021
+/zapas/2897776,Vegas Golden Knights,Buffalo Sabres,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Buffalo Sabres,2021
+/zapas/2897472,Buffalo Sabres,Columbus Blue Jackets,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Columbus Blue Jackets,Buffalo Sabres,2021
+/zapas/2897605,Montreal Canadiens,Buffalo Sabres,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Montreal Canadiens,Buffalo Sabres,2021
+/zapas/2897513,Buffalo Sabres,New York Islanders,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,New York Islanders,Buffalo Sabres,2021
+/zapas/2898213,Buffalo Sabres,Ottawa Senators,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Ottawa Senators,Buffalo Sabres,2021
+/zapas/2897487,Buffalo Sabres,Colorado Avalanche,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Colorado Avalanche,Buffalo Sabres,2021
+/zapas/2897503,Columbus Blue Jackets,Buffalo Sabres,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Columbus Blue Jackets,Buffalo Sabres,2021
+/zapas/2898260,Montreal Canadiens,Buffalo Sabres,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Montreal Canadiens,Buffalo Sabres,2021
+/zapas/2897808,St. Louis Blues,Buffalo Sabres,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,St. Louis Blues,Buffalo Sabres,2021
+/zapas/2897824,Dallas Stars,Buffalo Sabres,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Dallas Stars,Buffalo Sabres,2021
+/zapas/2897843,Toronto Maple Leafs,Buffalo Sabres,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Toronto Maple Leafs,Buffalo Sabres,2021
+/zapas/2897856,Buffalo Sabres,Minnesota Wild,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Minnesota Wild,Buffalo Sabres,2021
+/zapas/2897876,Buffalo Sabres,Los Angeles Kings,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Los Angeles Kings,Buffalo Sabres,2021
+/zapas/2897880,Buffalo Sabres,Florida Panthers,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Florida Panthers,Buffalo Sabres,2021
+/zapas/2897901,Buffalo Sabres,Vegas Golden Knights,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Vegas Golden Knights,Buffalo Sabres,2021
+/zapas/2897928,Buffalo Sabres,Toronto Maple Leafs,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Toronto Maple Leafs,Buffalo Sabres,2021
+/zapas/2897952,Edmonton Oilers,Buffalo Sabres,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Edmonton Oilers,Buffalo Sabres,2021
+/zapas/2897960,Calgary Flames,Buffalo Sabres,0,1,1,1.0,2.0,0.0,2.0,1.0,0.0,1.0,Calgary Flames,Buffalo Sabres,2021
+/zapas/2897975,Vancouver Canucks,Buffalo Sabres,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Buffalo Sabres,2021
+/zapas/2897998,Buffalo Sabres,Pittsburgh Penguins,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Pittsburgh Penguins,Buffalo Sabres,2021
+/zapas/2898013,Buffalo Sabres,Washington Capitals,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Washington Capitals,Buffalo Sabres,2021
+/zapas/2898033,New York Rangers,Buffalo Sabres,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,New York Rangers,Buffalo Sabres,2021
+/zapas/2898037,Chicago Blackhawks,Buffalo Sabres,5,6,0,0.0,3.0,0.0,3.0,6.0,5.0,1.0,Chicago Blackhawks,Buffalo Sabres,2021
+/zapas/2898053,Buffalo Sabres,Winnipeg Jets,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Winnipeg Jets,Buffalo Sabres,2021
+/zapas/2898067,Buffalo Sabres,Nashville Predators,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Nashville Predators,Buffalo Sabres,2021
+/zapas/2898085,Buffalo Sabres,Florida Panthers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Florida Panthers,Buffalo Sabres,2021
+/zapas/2898097,Buffalo Sabres,Carolina Hurricanes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Carolina Hurricanes,Buffalo Sabres,2021
+/zapas/2898116,Carolina Hurricanes,Buffalo Sabres,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Carolina Hurricanes,Buffalo Sabres,2021
+/zapas/2898121,Florida Panthers,Buffalo Sabres,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Florida Panthers,Buffalo Sabres,2021
+/zapas/2898139,Tampa Bay Lightning,Buffalo Sabres,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Tampa Bay Lightning,Buffalo Sabres,2021
+/zapas/2898152,Toronto Maple Leafs,Buffalo Sabres,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Toronto Maple Leafs,Buffalo Sabres,2021
+/zapas/2898169,Buffalo Sabres,St. Louis Blues,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,St. Louis Blues,Buffalo Sabres,2021
+/zapas/2898186,Buffalo Sabres,Philadelphia Flyers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Philadelphia Flyers,Buffalo Sabres,2021
+/zapas/2898196,Philadelphia Flyers,Buffalo Sabres,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Philadelphia Flyers,Buffalo Sabres,2021
+/zapas/2898221,New Jersey Devils,Buffalo Sabres,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New Jersey Devils,Buffalo Sabres,2021
+/zapas/2898235,Buffalo Sabres,New York Islanders,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,New York Islanders,Buffalo Sabres,2021
+/zapas/2898274,Boston Bruins,Buffalo Sabres,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Boston Bruins,Buffalo Sabres,2021
+/zapas/2898286,Buffalo Sabres,Chicago Blackhawks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Buffalo Sabres,2021

@@ -1,0 +1,374 @@
+game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
+/zapas/2526069,Dallas Stars,Vegas Golden Knights,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Dallas Stars,Vegas Golden Knights,2017
+/zapas/2526080,Arizona Coyotes,Vegas Golden Knights,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,2017
+/zapas/2526099,Vegas Golden Knights,Arizona Coyotes,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Vegas Golden Knights,2017
+/zapas/2526116,Vegas Golden Knights,Detroit Red Wings,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Detroit Red Wings,Vegas Golden Knights,2017
+/zapas/2526131,Vegas Golden Knights,Boston Bruins,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Boston Bruins,Vegas Golden Knights,2017
+/zapas/2526144,Vegas Golden Knights,Buffalo Sabres,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Buffalo Sabres,Vegas Golden Knights,2017
+/zapas/2526175,Vegas Golden Knights,St. Louis Blues,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,St. Louis Blues,Vegas Golden Knights,2017
+/zapas/2526189,Vegas Golden Knights,Chicago Blackhawks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Chicago Blackhawks,Vegas Golden Knights,2017
+/zapas/2526203,Vegas Golden Knights,Colorado Avalanche,7,0,0,3.0,0.0,1.0,3.0,7.0,0.0,1.0,Colorado Avalanche,Vegas Golden Knights,2017
+/zapas/2526226,New York Islanders,Vegas Golden Knights,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,New York Islanders,Vegas Golden Knights,2017
+/zapas/2526232,New York Rangers,Vegas Golden Knights,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,New York Rangers,Vegas Golden Knights,2017
+/zapas/2526240,Boston Bruins,Vegas Golden Knights,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Boston Bruins,Vegas Golden Knights,2017
+/zapas/2526254,Ottawa Senators,Vegas Golden Knights,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Ottawa Senators,Vegas Golden Knights,2017
+/zapas/2526272,Toronto Maple Leafs,Vegas Golden Knights,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Toronto Maple Leafs,Vegas Golden Knights,2017
+/zapas/2526283,Montreal Canadiens,Vegas Golden Knights,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Montreal Canadiens,Vegas Golden Knights,2017
+/zapas/2526302,Vegas Golden Knights,Winnipeg Jets,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Winnipeg Jets,Vegas Golden Knights,2017
+/zapas/2526327,Edmonton Oilers,Vegas Golden Knights,8,2,0,3.0,0.0,0.0,0.0,2.0,8.0,0.0,Edmonton Oilers,Vegas Golden Knights,2017
+/zapas/2526341,Vancouver Canucks,Vegas Golden Knights,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Vegas Golden Knights,2017
+/zapas/2526362,Vegas Golden Knights,Los Angeles Kings,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Vegas Golden Knights,2017
+/zapas/2526386,Anaheim Ducks,Vegas Golden Knights,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Anaheim Ducks,Vegas Golden Knights,2017
+/zapas/2526401,Vegas Golden Knights,San Jose Sharks,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,San Jose Sharks,Vegas Golden Knights,2017
+/zapas/2526408,Arizona Coyotes,Vegas Golden Knights,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Vegas Golden Knights,2017
+/zapas/2526430,Vegas Golden Knights,Dallas Stars,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Dallas Stars,Vegas Golden Knights,2017
+/zapas/2526438,Minnesota Wild,Vegas Golden Knights,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Minnesota Wild,Vegas Golden Knights,2017
+/zapas/2526448,Winnipeg Jets,Vegas Golden Knights,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Winnipeg Jets,Vegas Golden Knights,2017
+/zapas/2526464,Vegas Golden Knights,Arizona Coyotes,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Vegas Golden Knights,2017
+/zapas/2526478,Vegas Golden Knights,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Vegas Golden Knights,2017
+/zapas/2526495,Nashville Predators,Vegas Golden Knights,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Nashville Predators,Vegas Golden Knights,2017
+/zapas/2526506,Dallas Stars,Vegas Golden Knights,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Dallas Stars,Vegas Golden Knights,2017
+/zapas/2526528,Vegas Golden Knights,Carolina Hurricanes,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Carolina Hurricanes,Vegas Golden Knights,2017
+/zapas/2526544,Vegas Golden Knights,Pittsburgh Penguins,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Pittsburgh Penguins,Vegas Golden Knights,2017
+/zapas/2526564,Vegas Golden Knights,Florida Panthers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Florida Panthers,Vegas Golden Knights,2017
+/zapas/2526579,Vegas Golden Knights,Tampa Bay Lightning,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Tampa Bay Lightning,Vegas Golden Knights,2017
+/zapas/2526607,Vegas Golden Knights,Washington Capitals,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Washington Capitals,Vegas Golden Knights,2017
+/zapas/2526622,Anaheim Ducks,Vegas Golden Knights,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Vegas Golden Knights,2017
+/zapas/2526628,Los Angeles Kings,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Los Angeles Kings,Vegas Golden Knights,2017
+/zapas/2526647,Vegas Golden Knights,Toronto Maple Leafs,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Toronto Maple Leafs,Vegas Golden Knights,2017
+/zapas/2526666,Vegas Golden Knights,Nashville Predators,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Nashville Predators,Vegas Golden Knights,2017
+/zapas/2526676,St. Louis Blues,Vegas Golden Knights,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,St. Louis Blues,Vegas Golden Knights,2017
+/zapas/2526686,Chicago Blackhawks,Vegas Golden Knights,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Chicago Blackhawks,Vegas Golden Knights,2017
+/zapas/2526705,Vegas Golden Knights,New York Rangers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Rangers,Vegas Golden Knights,2017
+/zapas/2526730,Vegas Golden Knights,Edmonton Oilers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Vegas Golden Knights,2017
+/zapas/2526745,Nashville Predators,Vegas Golden Knights,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Nashville Predators,Vegas Golden Knights,2017
+/zapas/2526755,Tampa Bay Lightning,Vegas Golden Knights,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Tampa Bay Lightning,Vegas Golden Knights,2017
+/zapas/2526760,Florida Panthers,Vegas Golden Knights,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Florida Panthers,Vegas Golden Knights,2017
+/zapas/2526776,Carolina Hurricanes,Vegas Golden Knights,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Carolina Hurricanes,Vegas Golden Knights,2017
+/zapas/2526796,Vegas Golden Knights,Columbus Blue Jackets,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Columbus Blue Jackets,Vegas Golden Knights,2017
+/zapas/2526811,Vegas Golden Knights,New York Islanders,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,New York Islanders,Vegas Golden Knights,2017
+/zapas/2526825,Calgary Flames,Vegas Golden Knights,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Calgary Flames,Vegas Golden Knights,2017
+/zapas/2526837,Winnipeg Jets,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Winnipeg Jets,Vegas Golden Knights,2017
+/zapas/2526845,Minnesota Wild,Vegas Golden Knights,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Minnesota Wild,Vegas Golden Knights,2017
+/zapas/2526859,Washington Capitals,Vegas Golden Knights,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Washington Capitals,Vegas Golden Knights,2017
+/zapas/2526867,Pittsburgh Penguins,Vegas Golden Knights,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Pittsburgh Penguins,Vegas Golden Knights,2017
+/zapas/2526888,San Jose Sharks,Vegas Golden Knights,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,San Jose Sharks,Vegas Golden Knights,2017
+/zapas/2526913,Vegas Golden Knights,Philadelphia Flyers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Philadelphia Flyers,Vegas Golden Knights,2017
+/zapas/2526928,Vegas Golden Knights,Chicago Blackhawks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Vegas Golden Knights,2017
+/zapas/2526942,Vegas Golden Knights,Edmonton Oilers,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Edmonton Oilers,Vegas Golden Knights,2017
+/zapas/2526952,Vegas Golden Knights,Montreal Canadiens,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Montreal Canadiens,Vegas Golden Knights,2017
+/zapas/2526971,Vegas Golden Knights,Anaheim Ducks,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Anaheim Ducks,Vegas Golden Knights,2017
+/zapas/2526983,Vegas Golden Knights,Calgary Flames,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Calgary Flames,Vegas Golden Knights,2017
+/zapas/2526999,Vegas Golden Knights,Vancouver Canucks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Vancouver Canucks,Vegas Golden Knights,2017
+/zapas/2527022,Los Angeles Kings,Vegas Golden Knights,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Los Angeles Kings,Vegas Golden Knights,2017
+/zapas/2527030,Vegas Golden Knights,Los Angeles Kings,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Vegas Golden Knights,2017
+/zapas/2527052,Vegas Golden Knights,Ottawa Senators,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Ottawa Senators,Vegas Golden Knights,2017
+/zapas/2527065,New Jersey Devils,Vegas Golden Knights,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New Jersey Devils,Vegas Golden Knights,2017
+/zapas/2527077,Columbus Blue Jackets,Vegas Golden Knights,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Columbus Blue Jackets,Vegas Golden Knights,2017
+/zapas/2527090,Detroit Red Wings,Vegas Golden Knights,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Detroit Red Wings,Vegas Golden Knights,2017
+/zapas/2527103,Buffalo Sabres,Vegas Golden Knights,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Buffalo Sabres,Vegas Golden Knights,2017
+/zapas/2527118,Philadelphia Flyers,Vegas Golden Knights,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Philadelphia Flyers,Vegas Golden Knights,2017
+/zapas/2527135,Vegas Golden Knights,New Jersey Devils,3,8,0,0.0,3.0,1.0,0.0,3.0,8.0,0.0,New Jersey Devils,Vegas Golden Knights,2017
+/zapas/2527151,Vegas Golden Knights,Minnesota Wild,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Minnesota Wild,Vegas Golden Knights,2017
+/zapas/2527163,Vegas Golden Knights,Calgary Flames,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Calgary Flames,Vegas Golden Knights,2017
+/zapas/2527184,Vegas Golden Knights,Vancouver Canucks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Vegas Golden Knights,2017
+/zapas/2527199,San Jose Sharks,Vegas Golden Knights,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,San Jose Sharks,Vegas Golden Knights,2017
+/zapas/2527205,Colorado Avalanche,Vegas Golden Knights,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Colorado Avalanche,Vegas Golden Knights,2017
+/zapas/2527229,Vegas Golden Knights,Colorado Avalanche,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Colorado Avalanche,Vegas Golden Knights,2017
+/zapas/2527242,Vegas Golden Knights,Arizona Coyotes,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Arizona Coyotes,Vegas Golden Knights,2017
+/zapas/2527259,Vegas Golden Knights,St. Louis Blues,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,St. Louis Blues,Vegas Golden Knights,2017
+/zapas/2527271,Vegas Golden Knights,San Jose Sharks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,San Jose Sharks,Vegas Golden Knights,2017
+/zapas/2527290,Vancouver Canucks,Vegas Golden Knights,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Vancouver Canucks,Vegas Golden Knights,2017
+/zapas/2527303,Edmonton Oilers,Vegas Golden Knights,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Edmonton Oilers,Vegas Golden Knights,2017
+/zapas/2527322,Calgary Flames,Vegas Golden Knights,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Calgary Flames,Vegas Golden Knights,2017
+/zapas/2647212,Vegas Golden Knights,Philadelphia Flyers,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Philadelphia Flyers,Vegas Golden Knights,2018
+/zapas/2647223,Minnesota Wild,Vegas Golden Knights,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Minnesota Wild,Vegas Golden Knights,2018
+/zapas/2647232,Buffalo Sabres,Vegas Golden Knights,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Buffalo Sabres,Vegas Golden Knights,2018
+/zapas/2647241,Washington Capitals,Vegas Golden Knights,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Washington Capitals,Vegas Golden Knights,2018
+/zapas/2647248,Pittsburgh Penguins,Vegas Golden Knights,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Pittsburgh Penguins,Vegas Golden Knights,2018
+/zapas/2647256,Philadelphia Flyers,Vegas Golden Knights,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Philadelphia Flyers,Vegas Golden Knights,2018
+/zapas/2647283,Vegas Golden Knights,Buffalo Sabres,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Buffalo Sabres,Vegas Golden Knights,2018
+/zapas/2647310,Vegas Golden Knights,Anaheim Ducks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Anaheim Ducks,Vegas Golden Knights,2018
+/zapas/2647331,Vegas Golden Knights,Vancouver Canucks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Vegas Golden Knights,2018
+/zapas/2647342,Vegas Golden Knights,Tampa Bay Lightning,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Tampa Bay Lightning,Vegas Golden Knights,2018
+/zapas/2647361,Vegas Golden Knights,Ottawa Senators,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Ottawa Senators,Vegas Golden Knights,2018
+/zapas/2647371,Nashville Predators,Vegas Golden Knights,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Nashville Predators,Vegas Golden Knights,2018
+/zapas/2647384,St. Louis Blues,Vegas Golden Knights,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,St. Louis Blues,Vegas Golden Knights,2018
+/zapas/2647401,Vegas Golden Knights,Carolina Hurricanes,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Carolina Hurricanes,Vegas Golden Knights,2018
+/zapas/2647413,Toronto Maple Leafs,Vegas Golden Knights,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Toronto Maple Leafs,Vegas Golden Knights,2018
+/zapas/2647429,Ottawa Senators,Vegas Golden Knights,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Ottawa Senators,Vegas Golden Knights,2018
+/zapas/2647444,Montreal Canadiens,Vegas Golden Knights,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Montreal Canadiens,Vegas Golden Knights,2018
+/zapas/2647455,Boston Bruins,Vegas Golden Knights,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Boston Bruins,Vegas Golden Knights,2018
+/zapas/2647474,Vegas Golden Knights,Anaheim Ducks,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Anaheim Ducks,Vegas Golden Knights,2018
+/zapas/2647488,Vegas Golden Knights,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Vegas Golden Knights,2018
+/zapas/2647505,Edmonton Oilers,Vegas Golden Knights,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Edmonton Oilers,Vegas Golden Knights,2018
+/zapas/2647513,Calgary Flames,Vegas Golden Knights,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,Calgary Flames,Vegas Golden Knights,2018
+/zapas/2647526,Arizona Coyotes,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Vegas Golden Knights,2018
+/zapas/2647536,Vegas Golden Knights,Calgary Flames,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Calgary Flames,Vegas Golden Knights,2018
+/zapas/2647554,Vegas Golden Knights,San Jose Sharks,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,San Jose Sharks,Vegas Golden Knights,2018
+/zapas/2647572,Chicago Blackhawks,Vegas Golden Knights,3,8,0,0.0,3.0,0.0,3.0,8.0,3.0,1.0,Chicago Blackhawks,Vegas Golden Knights,2018
+/zapas/2647587,Vancouver Canucks,Vegas Golden Knights,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Vancouver Canucks,Vegas Golden Knights,2018
+/zapas/2647604,Edmonton Oilers,Vegas Golden Knights,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Edmonton Oilers,Vegas Golden Knights,2018
+/zapas/2647622,Vegas Golden Knights,Washington Capitals,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Washington Capitals,Vegas Golden Knights,2018
+/zapas/2647636,Vegas Golden Knights,Chicago Blackhawks,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Chicago Blackhawks,Vegas Golden Knights,2018
+/zapas/2647643,Los Angeles Kings,Vegas Golden Knights,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Los Angeles Kings,Vegas Golden Knights,2018
+/zapas/2647657,Vegas Golden Knights,Dallas Stars,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Dallas Stars,Vegas Golden Knights,2018
+/zapas/2647673,New York Islanders,Vegas Golden Knights,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Islanders,Vegas Golden Knights,2018
+/zapas/2647685,New Jersey Devils,Vegas Golden Knights,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,New Jersey Devils,Vegas Golden Knights,2018
+/zapas/2647703,New York Rangers,Vegas Golden Knights,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Rangers,Vegas Golden Knights,2018
+/zapas/2647711,Columbus Blue Jackets,Vegas Golden Knights,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Columbus Blue Jackets,Vegas Golden Knights,2018
+/zapas/2647738,Vegas Golden Knights,New York Islanders,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New York Islanders,Vegas Golden Knights,2018
+/zapas/2647746,Vegas Golden Knights,Montreal Canadiens,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Montreal Canadiens,Vegas Golden Knights,2018
+/zapas/2647762,Vegas Golden Knights,Los Angeles Kings,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Los Angeles Kings,Vegas Golden Knights,2018
+/zapas/2647775,Vegas Golden Knights,Colorado Avalanche,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Colorado Avalanche,Vegas Golden Knights,2018
+/zapas/2647783,Los Angeles Kings,Vegas Golden Knights,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Los Angeles Kings,Vegas Golden Knights,2018
+/zapas/2647796,Arizona Coyotes,Vegas Golden Knights,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,2018
+/zapas/2647812,Vegas Golden Knights,Los Angeles Kings,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Los Angeles Kings,Vegas Golden Knights,2018
+/zapas/2647833,Anaheim Ducks,Vegas Golden Knights,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Vegas Golden Knights,2018
+/zapas/2647844,Vegas Golden Knights,New Jersey Devils,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,New Jersey Devils,Vegas Golden Knights,2018
+/zapas/2647864,Vegas Golden Knights,New York Rangers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New York Rangers,Vegas Golden Knights,2018
+/zapas/2647879,Vegas Golden Knights,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Vegas Golden Knights,2018
+/zapas/2647892,Chicago Blackhawks,Vegas Golden Knights,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Vegas Golden Knights,2018
+/zapas/2647916,Winnipeg Jets,Vegas Golden Knights,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Vegas Golden Knights,2018
+/zapas/2647947,Vegas Golden Knights,Pittsburgh Penguins,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Pittsburgh Penguins,Vegas Golden Knights,2018
+/zapas/2647956,Vegas Golden Knights,Minnesota Wild,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Minnesota Wild,Vegas Golden Knights,2018
+/zapas/2647966,Vegas Golden Knights,Nashville Predators,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Nashville Predators,Vegas Golden Knights,2018
+/zapas/2647985,Carolina Hurricanes,Vegas Golden Knights,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Carolina Hurricanes,Vegas Golden Knights,2018
+/zapas/2647992,Florida Panthers,Vegas Golden Knights,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Florida Panthers,Vegas Golden Knights,2018
+/zapas/2648014,Tampa Bay Lightning,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Tampa Bay Lightning,Vegas Golden Knights,2018
+/zapas/2648028,Detroit Red Wings,Vegas Golden Knights,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Detroit Red Wings,Vegas Golden Knights,2018
+/zapas/2648049,Vegas Golden Knights,Columbus Blue Jackets,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Columbus Blue Jackets,Vegas Golden Knights,2018
+/zapas/2648072,Vegas Golden Knights,Arizona Coyotes,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Vegas Golden Knights,2018
+/zapas/2648083,Vegas Golden Knights,Toronto Maple Leafs,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Toronto Maple Leafs,Vegas Golden Knights,2018
+/zapas/2648099,Vegas Golden Knights,Nashville Predators,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Nashville Predators,Vegas Golden Knights,2018
+/zapas/2648111,Colorado Avalanche,Vegas Golden Knights,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Colorado Avalanche,Vegas Golden Knights,2018
+/zapas/2648126,Vegas Golden Knights,Boston Bruins,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Boston Bruins,Vegas Golden Knights,2018
+/zapas/2648142,Vegas Golden Knights,Winnipeg Jets,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Winnipeg Jets,Vegas Golden Knights,2018
+/zapas/2648176,Vegas Golden Knights,Dallas Stars,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Dallas Stars,Vegas Golden Knights,2018
+/zapas/2648187,Vegas Golden Knights,Florida Panthers,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Florida Panthers,Vegas Golden Knights,2018
+/zapas/2648195,Anaheim Ducks,Vegas Golden Knights,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Anaheim Ducks,Vegas Golden Knights,2018
+/zapas/2648209,Vegas Golden Knights,Vancouver Canucks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vancouver Canucks,Vegas Golden Knights,2018
+/zapas/2648230,Vegas Golden Knights,Calgary Flames,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Calgary Flames,Vegas Golden Knights,2018
+/zapas/2648257,Vancouver Canucks,Vegas Golden Knights,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Vancouver Canucks,Vegas Golden Knights,2018
+/zapas/2648261,Calgary Flames,Vegas Golden Knights,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Calgary Flames,Vegas Golden Knights,2018
+/zapas/2648293,Dallas Stars,Vegas Golden Knights,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Dallas Stars,Vegas Golden Knights,2018
+/zapas/2648315,Vegas Golden Knights,Edmonton Oilers,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Edmonton Oilers,Vegas Golden Knights,2018
+/zapas/2648319,San Jose Sharks,Vegas Golden Knights,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,San Jose Sharks,Vegas Golden Knights,2018
+/zapas/2648344,Vegas Golden Knights,Winnipeg Jets,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Winnipeg Jets,Vegas Golden Knights,2018
+/zapas/2648360,Vegas Golden Knights,Detroit Red Wings,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Detroit Red Wings,Vegas Golden Knights,2018
+/zapas/2648371,St. Louis Blues,Vegas Golden Knights,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,St. Louis Blues,Vegas Golden Knights,2018
+/zapas/2648386,Colorado Avalanche,Vegas Golden Knights,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Colorado Avalanche,Vegas Golden Knights,2018
+/zapas/2648400,Vegas Golden Knights,Minnesota Wild,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Minnesota Wild,Vegas Golden Knights,2018
+/zapas/2648409,San Jose Sharks,Vegas Golden Knights,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,San Jose Sharks,Vegas Golden Knights,2018
+/zapas/2648425,Vegas Golden Knights,Edmonton Oilers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Edmonton Oilers,Vegas Golden Knights,2018
+/zapas/2648451,Vegas Golden Knights,Arizona Coyotes,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Arizona Coyotes,Vegas Golden Knights,2018
+/zapas/2648468,Los Angeles Kings,Vegas Golden Knights,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Los Angeles Kings,Vegas Golden Knights,2018
+/zapas/2806380,Vegas Golden Knights,San Jose Sharks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,San Jose Sharks,Vegas Golden Knights,2019
+/zapas/2806393,San Jose Sharks,Vegas Golden Knights,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,San Jose Sharks,Vegas Golden Knights,2019
+/zapas/2806419,Vegas Golden Knights,Boston Bruins,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Boston Bruins,Vegas Golden Knights,2019
+/zapas/2806433,Arizona Coyotes,Vegas Golden Knights,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Arizona Coyotes,Vegas Golden Knights,2019
+/zapas/2806450,Vegas Golden Knights,Calgary Flames,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Calgary Flames,Vegas Golden Knights,2019
+/zapas/2806452,Los Angeles Kings,Vegas Golden Knights,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Los Angeles Kings,Vegas Golden Knights,2019
+/zapas/2806466,Vegas Golden Knights,Nashville Predators,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Nashville Predators,Vegas Golden Knights,2019
+/zapas/2806481,Vegas Golden Knights,Ottawa Senators,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Ottawa Senators,Vegas Golden Knights,2019
+/zapas/2806495,Pittsburgh Penguins,Vegas Golden Knights,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Pittsburgh Penguins,Vegas Golden Knights,2019
+/zapas/2806506,Philadelphia Flyers,Vegas Golden Knights,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Philadelphia Flyers,Vegas Golden Knights,2019
+/zapas/2806517,Chicago Blackhawks,Vegas Golden Knights,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Chicago Blackhawks,Vegas Golden Knights,2019
+/zapas/2806531,Vegas Golden Knights,Colorado Avalanche,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Colorado Avalanche,Vegas Golden Knights,2019
+/zapas/2806552,Vegas Golden Knights,Anaheim Ducks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Anaheim Ducks,Vegas Golden Knights,2019
+/zapas/2806571,Vegas Golden Knights,Montreal Canadiens,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Montreal Canadiens,Vegas Golden Knights,2019
+/zapas/2806591,Vegas Golden Knights,Winnipeg Jets,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Winnipeg Jets,Vegas Golden Knights,2019
+/zapas/2806603,Columbus Blue Jackets,Vegas Golden Knights,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Columbus Blue Jackets,Vegas Golden Knights,2019
+/zapas/2806613,Toronto Maple Leafs,Vegas Golden Knights,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Toronto Maple Leafs,Vegas Golden Knights,2019
+/zapas/2806634,Washington Capitals,Vegas Golden Knights,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Washington Capitals,Vegas Golden Knights,2019
+/zapas/2806642,Detroit Red Wings,Vegas Golden Knights,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Detroit Red Wings,Vegas Golden Knights,2019
+/zapas/2806661,Vegas Golden Knights,Chicago Blackhawks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Chicago Blackhawks,Vegas Golden Knights,2019
+/zapas/2806688,Los Angeles Kings,Vegas Golden Knights,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Los Angeles Kings,Vegas Golden Knights,2019
+/zapas/2806691,Vegas Golden Knights,Calgary Flames,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,Calgary Flames,Vegas Golden Knights,2019
+/zapas/2806705,Vegas Golden Knights,Toronto Maple Leafs,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Toronto Maple Leafs,Vegas Golden Knights,2019
+/zapas/2806720,Vegas Golden Knights,San Jose Sharks,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,San Jose Sharks,Vegas Golden Knights,2019
+/zapas/2806736,Vegas Golden Knights,Edmonton Oilers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Edmonton Oilers,Vegas Golden Knights,2019
+/zapas/2806747,Dallas Stars,Vegas Golden Knights,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Dallas Stars,Vegas Golden Knights,2019
+/zapas/2806761,Nashville Predators,Vegas Golden Knights,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Nashville Predators,Vegas Golden Knights,2019
+/zapas/2806775,Vegas Golden Knights,Arizona Coyotes,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,2019
+/zapas/2806796,New York Rangers,Vegas Golden Knights,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New York Rangers,Vegas Golden Knights,2019
+/zapas/2806803,New Jersey Devils,Vegas Golden Knights,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,New Jersey Devils,Vegas Golden Knights,2019
+/zapas/2806817,New York Islanders,Vegas Golden Knights,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Islanders,Vegas Golden Knights,2019
+/zapas/2806841,Vegas Golden Knights,New York Rangers,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,New York Rangers,Vegas Golden Knights,2019
+/zapas/2806858,Vegas Golden Knights,Chicago Blackhawks,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Chicago Blackhawks,Vegas Golden Knights,2019
+/zapas/2806868,St. Louis Blues,Vegas Golden Knights,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,St. Louis Blues,Vegas Golden Knights,2019
+/zapas/2806875,Dallas Stars,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Dallas Stars,Vegas Golden Knights,2019
+/zapas/2806894,Vegas Golden Knights,Vancouver Canucks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Vancouver Canucks,Vegas Golden Knights,2019
+/zapas/2806909,Vegas Golden Knights,Minnesota Wild,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Minnesota Wild,Vegas Golden Knights,2019
+/zapas/2806923,Vancouver Canucks,Vegas Golden Knights,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Vancouver Canucks,Vegas Golden Knights,2019
+/zapas/2806944,San Jose Sharks,Vegas Golden Knights,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,San Jose Sharks,Vegas Golden Knights,2019
+/zapas/2806956,Vegas Golden Knights,Colorado Avalanche,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Colorado Avalanche,Vegas Golden Knights,2019
+/zapas/2806967,Anaheim Ducks,Vegas Golden Knights,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Anaheim Ducks,Vegas Golden Knights,2019
+/zapas/2806976,Vegas Golden Knights,Arizona Coyotes,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,2019
+/zapas/2806991,Vegas Golden Knights,Anaheim Ducks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Anaheim Ducks,Vegas Golden Knights,2019
+/zapas/2807014,Vegas Golden Knights,Philadelphia Flyers,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Philadelphia Flyers,Vegas Golden Knights,2019
+/zapas/2807020,Vegas Golden Knights,St. Louis Blues,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,St. Louis Blues,Vegas Golden Knights,2019
+/zapas/2807049,Vegas Golden Knights,Pittsburgh Penguins,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Pittsburgh Penguins,Vegas Golden Knights,2019
+/zapas/2807062,Vegas Golden Knights,Los Angeles Kings,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Los Angeles Kings,Vegas Golden Knights,2019
+/zapas/2807076,Vegas Golden Knights,Columbus Blue Jackets,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Columbus Blue Jackets,Vegas Golden Knights,2019
+/zapas/2807090,Buffalo Sabres,Vegas Golden Knights,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Buffalo Sabres,Vegas Golden Knights,2019
+/zapas/2807110,Ottawa Senators,Vegas Golden Knights,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Ottawa Senators,Vegas Golden Knights,2019
+/zapas/2807124,Montreal Canadiens,Vegas Golden Knights,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Montreal Canadiens,Vegas Golden Knights,2019
+/zapas/2807137,Boston Bruins,Vegas Golden Knights,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Boston Bruins,Vegas Golden Knights,2019
+/zapas/2807164,Carolina Hurricanes,Vegas Golden Knights,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Carolina Hurricanes,Vegas Golden Knights,2019
+/zapas/2807177,Nashville Predators,Vegas Golden Knights,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Nashville Predators,Vegas Golden Knights,2019
+/zapas/2807190,Tampa Bay Lightning,Vegas Golden Knights,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Tampa Bay Lightning,Vegas Golden Knights,2019
+/zapas/2807206,Florida Panthers,Vegas Golden Knights,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,Florida Panthers,Vegas Golden Knights,2019
+/zapas/2807230,Vegas Golden Knights,Carolina Hurricanes,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Carolina Hurricanes,Vegas Golden Knights,2019
+/zapas/2807247,Minnesota Wild,Vegas Golden Knights,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Minnesota Wild,Vegas Golden Knights,2019
+/zapas/2807265,Vegas Golden Knights,St. Louis Blues,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,St. Louis Blues,Vegas Golden Knights,2019
+/zapas/2807281,Vegas Golden Knights,New York Islanders,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,New York Islanders,Vegas Golden Knights,2019
+/zapas/2807294,Vegas Golden Knights,Washington Capitals,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Washington Capitals,Vegas Golden Knights,2019
+/zapas/2807315,Vegas Golden Knights,Tampa Bay Lightning,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Tampa Bay Lightning,Vegas Golden Knights,2019
+/zapas/2807333,Vegas Golden Knights,Florida Panthers,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Florida Panthers,Vegas Golden Knights,2019
+/zapas/2807341,Anaheim Ducks,Vegas Golden Knights,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Anaheim Ducks,Vegas Golden Knights,2019
+/zapas/2807358,Vegas Golden Knights,Edmonton Oilers,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Edmonton Oilers,Vegas Golden Knights,2019
+/zapas/2807373,Vegas Golden Knights,Buffalo Sabres,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Buffalo Sabres,Vegas Golden Knights,2019
+/zapas/2807392,Vegas Golden Knights,Los Angeles Kings,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Vegas Golden Knights,2019
+/zapas/2807403,Vegas Golden Knights,New Jersey Devils,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,New Jersey Devils,Vegas Golden Knights,2019
+/zapas/2807421,Winnipeg Jets,Vegas Golden Knights,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Winnipeg Jets,Vegas Golden Knights,2019
+/zapas/2807437,Calgary Flames,Vegas Golden Knights,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Calgary Flames,Vegas Golden Knights,2019
+/zapas/2807444,Edmonton Oilers,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Edmonton Oilers,Vegas Golden Knights,2019
+/zapas/2893223,Vegas Golden Knights,Anaheim Ducks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Anaheim Ducks,Vegas Golden Knights,2020
+/zapas/2893239,Vegas Golden Knights,Anaheim Ducks,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Anaheim Ducks,Vegas Golden Knights,2020
+/zapas/2893252,Vegas Golden Knights,Arizona Coyotes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Vegas Golden Knights,2020
+/zapas/2893266,Vegas Golden Knights,Arizona Coyotes,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Vegas Golden Knights,2020
+/zapas/2893278,Arizona Coyotes,Vegas Golden Knights,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Vegas Golden Knights,2020
+/zapas/2893295,Arizona Coyotes,Vegas Golden Knights,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Arizona Coyotes,Vegas Golden Knights,2020
+/zapas/2893314,Vegas Golden Knights,St. Louis Blues,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,St. Louis Blues,Vegas Golden Knights,2020
+/zapas/2893385,Vegas Golden Knights,Los Angeles Kings,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Los Angeles Kings,Vegas Golden Knights,2020
+/zapas/2893402,Vegas Golden Knights,Los Angeles Kings,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Los Angeles Kings,Vegas Golden Knights,2020
+/zapas/2893418,Vegas Golden Knights,Anaheim Ducks,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Anaheim Ducks,Vegas Golden Knights,2020
+/zapas/2893434,Vegas Golden Knights,Anaheim Ducks,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Anaheim Ducks,Vegas Golden Knights,2020
+/zapas/2893357,San Jose Sharks,Vegas Golden Knights,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,San Jose Sharks,Vegas Golden Knights,2020
+/zapas/2893451,Vegas Golden Knights,Colorado Avalanche,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Colorado Avalanche,Vegas Golden Knights,2020
+/zapas/2893467,Vegas Golden Knights,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Vegas Golden Knights,2020
+/zapas/2893489,Colorado Avalanche,Vegas Golden Knights,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Vegas Golden Knights,2020
+/zapas/2893504,Colorado Avalanche,Vegas Golden Knights,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Colorado Avalanche,Vegas Golden Knights,2020
+/zapas/2893546,Anaheim Ducks,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Anaheim Ducks,Vegas Golden Knights,2020
+/zapas/2893559,Vegas Golden Knights,Minnesota Wild,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Minnesota Wild,Vegas Golden Knights,2020
+/zapas/2893569,Vegas Golden Knights,Minnesota Wild,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Minnesota Wild,Vegas Golden Knights,2020
+/zapas/2893588,San Jose Sharks,Vegas Golden Knights,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,San Jose Sharks,Vegas Golden Knights,2020
+/zapas/2893597,San Jose Sharks,Vegas Golden Knights,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,San Jose Sharks,Vegas Golden Knights,2020
+/zapas/2893604,Minnesota Wild,Vegas Golden Knights,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Minnesota Wild,Vegas Golden Knights,2020
+/zapas/2893618,Minnesota Wild,Vegas Golden Knights,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Minnesota Wild,Vegas Golden Knights,2020
+/zapas/2893633,St. Louis Blues,Vegas Golden Knights,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,St. Louis Blues,Vegas Golden Knights,2020
+/zapas/2893638,St. Louis Blues,Vegas Golden Knights,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,St. Louis Blues,Vegas Golden Knights,2020
+/zapas/2893663,Vegas Golden Knights,San Jose Sharks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,San Jose Sharks,Vegas Golden Knights,2020
+/zapas/2893674,Vegas Golden Knights,San Jose Sharks,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,San Jose Sharks,Vegas Golden Knights,2020
+/zapas/2893689,Los Angeles Kings,Vegas Golden Knights,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Vegas Golden Knights,2020
+/zapas/2893703,Los Angeles Kings,Vegas Golden Knights,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Los Angeles Kings,Vegas Golden Knights,2020
+/zapas/2893330,Vegas Golden Knights,St. Louis Blues,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,St. Louis Blues,Vegas Golden Knights,2020
+/zapas/2893726,Colorado Avalanche,Vegas Golden Knights,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Vegas Golden Knights,2020
+/zapas/2893741,Colorado Avalanche,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Vegas Golden Knights,2020
+/zapas/2893762,Vegas Golden Knights,Los Angeles Kings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Los Angeles Kings,Vegas Golden Knights,2020
+/zapas/2893777,Vegas Golden Knights,Los Angeles Kings,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Vegas Golden Knights,2020
+/zapas/2893787,Vegas Golden Knights,Minnesota Wild,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Minnesota Wild,Vegas Golden Knights,2020
+/zapas/2893803,Vegas Golden Knights,Minnesota Wild,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Minnesota Wild,Vegas Golden Knights,2020
+/zapas/2893813,St. Louis Blues,Vegas Golden Knights,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,St. Louis Blues,Vegas Golden Knights,2020
+/zapas/2893828,St. Louis Blues,Vegas Golden Knights,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,St. Louis Blues,Vegas Golden Knights,2020
+/zapas/2893847,Vegas Golden Knights,Arizona Coyotes,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Arizona Coyotes,Vegas Golden Knights,2020
+/zapas/2893863,Vegas Golden Knights,Arizona Coyotes,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Arizona Coyotes,Vegas Golden Knights,2020
+/zapas/2893871,Los Angeles Kings,Vegas Golden Knights,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Vegas Golden Knights,2020
+/zapas/2893882,Los Angeles Kings,Vegas Golden Knights,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Los Angeles Kings,Vegas Golden Knights,2020
+/zapas/2893897,Anaheim Ducks,Vegas Golden Knights,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Anaheim Ducks,Vegas Golden Knights,2020
+/zapas/2893913,Anaheim Ducks,Vegas Golden Knights,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Anaheim Ducks,Vegas Golden Knights,2020
+/zapas/2893921,Vegas Golden Knights,San Jose Sharks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,San Jose Sharks,Vegas Golden Knights,2020
+/zapas/2893936,Vegas Golden Knights,San Jose Sharks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,San Jose Sharks,Vegas Golden Knights,2020
+/zapas/2893533,Anaheim Ducks,Vegas Golden Knights,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Anaheim Ducks,Vegas Golden Knights,2020
+/zapas/2893987,Vegas Golden Knights,Colorado Avalanche,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Colorado Avalanche,Vegas Golden Knights,2020
+/zapas/2894002,Arizona Coyotes,Vegas Golden Knights,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Arizona Coyotes,Vegas Golden Knights,2020
+/zapas/2894017,Arizona Coyotes,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Vegas Golden Knights,2020
+/zapas/2894021,Minnesota Wild,Vegas Golden Knights,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Minnesota Wild,Vegas Golden Knights,2020
+/zapas/2894039,Minnesota Wild,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Minnesota Wild,Vegas Golden Knights,2020
+/zapas/2894059,Vegas Golden Knights,St. Louis Blues,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,St. Louis Blues,Vegas Golden Knights,2020
+/zapas/2894074,Vegas Golden Knights,St. Louis Blues,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,St. Louis Blues,Vegas Golden Knights,2020
+/zapas/2893972,Vegas Golden Knights,Colorado Avalanche,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Colorado Avalanche,Vegas Golden Knights,2020
+/zapas/2893370,San Jose Sharks,Vegas Golden Knights,0,6,0,0.0,3.0,0.0,3.0,6.0,0.0,1.0,San Jose Sharks,Vegas Golden Knights,2020
+/zapas/2896982,Vegas Golden Knights,Seattle Kraken,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Seattle Kraken,Vegas Golden Knights,2021
+/zapas/2896989,Los Angeles Kings,Vegas Golden Knights,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Los Angeles Kings,Vegas Golden Knights,2021
+/zapas/2897031,Vegas Golden Knights,St. Louis Blues,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,St. Louis Blues,Vegas Golden Knights,2021
+/zapas/2897043,Vegas Golden Knights,Edmonton Oilers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Edmonton Oilers,Vegas Golden Knights,2021
+/zapas/2897060,Vegas Golden Knights,New York Islanders,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,New York Islanders,Vegas Golden Knights,2021
+/zapas/2897074,Colorado Avalanche,Vegas Golden Knights,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Colorado Avalanche,Vegas Golden Knights,2021
+/zapas/2897080,Dallas Stars,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Dallas Stars,Vegas Golden Knights,2021
+/zapas/2897092,Vegas Golden Knights,Anaheim Ducks,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Anaheim Ducks,Vegas Golden Knights,2021
+/zapas/2897122,Toronto Maple Leafs,Vegas Golden Knights,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Toronto Maple Leafs,Vegas Golden Knights,2021
+/zapas/2897135,Ottawa Senators,Vegas Golden Knights,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Ottawa Senators,Vegas Golden Knights,2021
+/zapas/2897149,Montreal Canadiens,Vegas Golden Knights,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Vegas Golden Knights,2021
+/zapas/2897159,Detroit Red Wings,Vegas Golden Knights,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Detroit Red Wings,Vegas Golden Knights,2021
+/zapas/2897164,Vegas Golden Knights,Seattle Kraken,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Seattle Kraken,Vegas Golden Knights,2021
+/zapas/2897176,Vegas Golden Knights,Minnesota Wild,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Minnesota Wild,Vegas Golden Knights,2021
+/zapas/2897192,Vegas Golden Knights,Vancouver Canucks,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Vancouver Canucks,Vegas Golden Knights,2021
+/zapas/2897213,Vegas Golden Knights,Carolina Hurricanes,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Carolina Hurricanes,Vegas Golden Knights,2021
+/zapas/2897228,Vegas Golden Knights,Detroit Red Wings,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Detroit Red Wings,Vegas Golden Knights,2021
+/zapas/2897242,Vegas Golden Knights,Columbus Blue Jackets,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Columbus Blue Jackets,Vegas Golden Knights,2021
+/zapas/2897264,St. Louis Blues,Vegas Golden Knights,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,St. Louis Blues,Vegas Golden Knights,2021
+/zapas/2897276,Nashville Predators,Vegas Golden Knights,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Nashville Predators,Vegas Golden Knights,2021
+/zapas/2897298,Vegas Golden Knights,Edmonton Oilers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Vegas Golden Knights,2021
+/zapas/2897327,Anaheim Ducks,Vegas Golden Knights,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Anaheim Ducks,Vegas Golden Knights,2021
+/zapas/2897345,Arizona Coyotes,Vegas Golden Knights,1,7,0,0.0,3.0,0.0,3.0,7.0,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,2021
+/zapas/2897358,Vegas Golden Knights,Calgary Flames,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Calgary Flames,Vegas Golden Knights,2021
+/zapas/2897380,Vegas Golden Knights,Dallas Stars,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Dallas Stars,Vegas Golden Knights,2021
+/zapas/2897394,Vegas Golden Knights,Philadelphia Flyers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Philadelphia Flyers,Vegas Golden Knights,2021
+/zapas/2897413,Vegas Golden Knights,Minnesota Wild,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Minnesota Wild,Vegas Golden Knights,2021
+/zapas/2897426,Boston Bruins,Vegas Golden Knights,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Boston Bruins,Vegas Golden Knights,2021
+/zapas/2897443,New Jersey Devils,Vegas Golden Knights,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New Jersey Devils,Vegas Golden Knights,2021
+/zapas/2897450,New York Rangers,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New York Rangers,Vegas Golden Knights,2021
+/zapas/2897467,New York Islanders,Vegas Golden Knights,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Islanders,Vegas Golden Knights,2021
+/zapas/2897475,Vegas Golden Knights,Tampa Bay Lightning,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Tampa Bay Lightning,Vegas Golden Knights,2021
+/zapas/2897518,Los Angeles Kings,Vegas Golden Knights,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Los Angeles Kings,Vegas Golden Knights,2021
+/zapas/2897540,Vegas Golden Knights,Anaheim Ducks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Anaheim Ducks,Vegas Golden Knights,2021
+/zapas/2897556,Vegas Golden Knights,Winnipeg Jets,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Winnipeg Jets,Vegas Golden Knights,2021
+/zapas/2897567,Vegas Golden Knights,Nashville Predators,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Nashville Predators,Vegas Golden Knights,2021
+/zapas/2897580,Vegas Golden Knights,New York Rangers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,New York Rangers,Vegas Golden Knights,2021
+/zapas/2897596,Vegas Golden Knights,Chicago Blackhawks,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Chicago Blackhawks,Vegas Golden Knights,2021
+/zapas/2897618,Vegas Golden Knights,Toronto Maple Leafs,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Toronto Maple Leafs,Vegas Golden Knights,2021
+/zapas/2897663,Vegas Golden Knights,Pittsburgh Penguins,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Pittsburgh Penguins,Vegas Golden Knights,2021
+/zapas/2897685,Vegas Golden Knights,Montreal Canadiens,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Vegas Golden Knights,2021
+/zapas/2897724,Washington Capitals,Vegas Golden Knights,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Washington Capitals,Vegas Golden Knights,2021
+/zapas/2897732,Carolina Hurricanes,Vegas Golden Knights,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Carolina Hurricanes,Vegas Golden Knights,2021
+/zapas/2897744,Florida Panthers,Vegas Golden Knights,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Florida Panthers,Vegas Golden Knights,2021
+/zapas/2897759,Tampa Bay Lightning,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Tampa Bay Lightning,Vegas Golden Knights,2021
+/zapas/2897776,Vegas Golden Knights,Buffalo Sabres,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Vegas Golden Knights,2021
+/zapas/2897643,Edmonton Oilers,Vegas Golden Knights,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Edmonton Oilers,Vegas Golden Knights,2021
+/zapas/2897648,Calgary Flames,Vegas Golden Knights,6,0,0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,Calgary Flames,Vegas Golden Knights,2021
+/zapas/2897505,Vegas Golden Knights,Colorado Avalanche,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Colorado Avalanche,Vegas Golden Knights,2021
+/zapas/2897490,Vegas Golden Knights,Los Angeles Kings,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Los Angeles Kings,Vegas Golden Knights,2021
+/zapas/2898136,San Jose Sharks,Vegas Golden Knights,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,San Jose Sharks,Vegas Golden Knights,2021
+/zapas/2897806,Arizona Coyotes,Vegas Golden Knights,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Arizona Coyotes,Vegas Golden Knights,2021
+/zapas/2897810,Vegas Golden Knights,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Vegas Golden Knights,2021
+/zapas/2897832,Vegas Golden Knights,San Jose Sharks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,San Jose Sharks,Vegas Golden Knights,2021
+/zapas/2897845,Vegas Golden Knights,Boston Bruins,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Boston Bruins,Vegas Golden Knights,2021
+/zapas/2897854,Anaheim Ducks,Vegas Golden Knights,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Anaheim Ducks,Vegas Golden Knights,2021
+/zapas/2897871,Vegas Golden Knights,Ottawa Senators,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Ottawa Senators,Vegas Golden Knights,2021
+/zapas/2897892,Philadelphia Flyers,Vegas Golden Knights,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Philadelphia Flyers,Vegas Golden Knights,2021
+/zapas/2897901,Buffalo Sabres,Vegas Golden Knights,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Buffalo Sabres,Vegas Golden Knights,2021
+/zapas/2897911,Pittsburgh Penguins,Vegas Golden Knights,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Pittsburgh Penguins,Vegas Golden Knights,2021
+/zapas/2897932,Columbus Blue Jackets,Vegas Golden Knights,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Columbus Blue Jackets,Vegas Golden Knights,2021
+/zapas/2897940,Winnipeg Jets,Vegas Golden Knights,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Winnipeg Jets,Vegas Golden Knights,2021
+/zapas/2897950,Vegas Golden Knights,Florida Panthers,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Florida Panthers,Vegas Golden Knights,2021
+/zapas/2897966,Vegas Golden Knights,Los Angeles Kings,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Los Angeles Kings,Vegas Golden Knights,2021
+/zapas/2897983,Minnesota Wild,Vegas Golden Knights,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Minnesota Wild,Vegas Golden Knights,2021
+/zapas/2897988,Winnipeg Jets,Vegas Golden Knights,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Winnipeg Jets,Vegas Golden Knights,2021
+/zapas/2898000,Vegas Golden Knights,Nashville Predators,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Nashville Predators,Vegas Golden Knights,2021
+/zapas/2898015,Vegas Golden Knights,Chicago Blackhawks,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Chicago Blackhawks,Vegas Golden Knights,2021
+/zapas/2898051,Seattle Kraken,Vegas Golden Knights,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Seattle Kraken,Vegas Golden Knights,2021
+/zapas/2898065,Seattle Kraken,Vegas Golden Knights,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Seattle Kraken,Vegas Golden Knights,2021
+/zapas/2898081,Vancouver Canucks,Vegas Golden Knights,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Vegas Golden Knights,2021
+/zapas/2898104,Vegas Golden Knights,Vancouver Canucks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Vancouver Canucks,Vegas Golden Knights,2021
+/zapas/2898124,Vegas Golden Knights,Arizona Coyotes,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,2021
+/zapas/2898145,Vancouver Canucks,Vegas Golden Knights,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Vancouver Canucks,Vegas Golden Knights,2021
+/zapas/2898164,Calgary Flames,Vegas Golden Knights,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Calgary Flames,Vegas Golden Knights,2021
+/zapas/2898174,Edmonton Oilers,Vegas Golden Knights,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Edmonton Oilers,Vegas Golden Knights,2021
+/zapas/2898199,Vegas Golden Knights,New Jersey Devils,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,New Jersey Devils,Vegas Golden Knights,2021
+/zapas/2898210,Vegas Golden Knights,Washington Capitals,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Washington Capitals,Vegas Golden Knights,2021
+/zapas/2898241,Vegas Golden Knights,San Jose Sharks,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,San Jose Sharks,Vegas Golden Knights,2021
+/zapas/2898257,Dallas Stars,Vegas Golden Knights,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Dallas Stars,Vegas Golden Knights,2021
+/zapas/2898268,Chicago Blackhawks,Vegas Golden Knights,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Chicago Blackhawks,Vegas Golden Knights,2021
+/zapas/2898282,St. Louis Blues,Vegas Golden Knights,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,St. Louis Blues,Vegas Golden Knights,2021

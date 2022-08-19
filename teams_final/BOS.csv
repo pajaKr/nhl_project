@@ -1,0 +1,353 @@
+game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2526388,1.0,1.0,Boston Bruins,Pittsburgh Penguins,30.0,54.0,59.0,28.0,52.0,65.0
+/zapas/2526415,0.0,1.0,Boston Bruins,Edmonton Oilers,30.0,54.0,59.0,20.0,53.0,69.0
+/zapas/2526431,1.0,1.0,Boston Bruins,Tampa Bay Lightning,30.0,56.0,59.0,42.0,70.0,47.0
+/zapas/2526450,1.0,0.0,Boston Bruins,Philadelphia Flyers,33.0,56.0,55.0,22.0,49.0,63.0
+/zapas/2526468,0.0,0.0,Boston Bruins,Nashville Predators,33.0,53.0,53.0,37.0,64.0,58.0
+/zapas/2526484,1.0,1.0,Boston Bruins,Arizona Coyotes,33.0,55.0,55.0,21.0,50.0,60.0
+/zapas/2526499,1.0,1.0,Boston Bruins,New York Islanders,33.0,55.0,53.0,35.0,80.0,72.0
+/zapas/2526531,1.0,0.0,Boston Bruins,Detroit Red Wings,35.0,54.0,49.0,25.0,54.0,69.0
+/zapas/2526533,0.0,1.0,Boston Bruins,Washington Capitals,34.0,55.0,50.0,40.0,64.0,52.0
+/zapas/2526551,0.0,1.0,Boston Bruins,New York Rangers,33.0,57.0,53.0,39.0,71.0,51.0
+/zapas/2526565,1.0,1.0,Boston Bruins,Columbus Blue Jackets,33.0,56.0,52.0,30.0,51.0,53.0
+/zapas/2526571,1.0,0.0,Boston Bruins,Buffalo Sabres,33.0,61.0,53.0,17.0,38.0,63.0
+/zapas/2526583,1.0,1.0,Boston Bruins,Winnipeg Jets,36.0,62.0,50.0,37.0,70.0,53.0
+/zapas/2526597,1.0,1.0,Boston Bruins,Detroit Red Wings,35.0,59.0,48.0,27.0,57.0,69.0
+/zapas/2526612,1.0,1.0,Boston Bruins,Ottawa Senators,38.0,60.0,45.0,17.0,41.0,67.0
+/zapas/2526623,0.0,0.0,Boston Bruins,Washington Capitals,40.0,63.0,43.0,36.0,61.0,55.0
+/zapas/2526641,1.0,0.0,Boston Bruins,Ottawa Senators,41.0,65.0,43.0,15.0,39.0,70.0
+/zapas/2526657,1.0,0.0,Boston Bruins,New York Islanders,44.0,68.0,39.0,24.0,65.0,77.0
+/zapas/2526690,1.0,1.0,Boston Bruins,Carolina Hurricanes,44.0,71.0,39.0,30.0,56.0,60.0
+/zapas/2526704,0.0,0.0,Boston Bruins,Pittsburgh Penguins,44.0,75.0,39.0,26.0,59.0,53.0
+/zapas/2526728,1.0,0.0,Boston Bruins,Montreal Canadiens,43.0,77.0,43.0,30.0,56.0,52.0
+/zapas/2526737,0.0,1.0,Boston Bruins,Dallas Stars,42.0,77.0,43.0,31.0,63.0,53.0
+/zapas/2526747,1.0,1.0,Boston Bruins,Montreal Canadiens,43.0,77.0,42.0,28.0,58.0,58.0
+/zapas/2526749,1.0,0.0,Boston Bruins,New York Islanders,43.0,78.0,41.0,19.0,60.0,82.0
+/zapas/2526766,1.0,0.0,Boston Bruins,Montreal Canadiens,43.0,80.0,43.0,25.0,57.0,62.0
+/zapas/2526786,1.0,1.0,Boston Bruins,New Jersey Devils,46.0,81.0,39.0,29.0,62.0,60.0
+/zapas/2526803,1.0,0.0,Boston Bruins,Ottawa Senators,46.0,78.0,40.0,20.0,48.0,74.0
+/zapas/2526818,0.0,1.0,Boston Bruins,Anaheim Ducks,46.0,78.0,41.0,36.0,61.0,52.0
+/zapas/2526830,1.0,1.0,Boston Bruins,St. Louis Blues,44.0,76.0,42.0,29.0,47.0,50.0
+/zapas/2526849,1.0,1.0,Boston Bruins,Toronto Maple Leafs,47.0,76.0,38.0,31.0,63.0,52.0
+/zapas/2526871,1.0,0.0,Boston Bruins,Detroit Red Wings,49.0,78.0,36.0,28.0,51.0,49.0
+/zapas/2526878,1.0,0.0,Boston Bruins,New York Rangers,49.0,74.0,36.0,20.0,48.0,66.0
+/zapas/2526897,0.0,1.0,Boston Bruins,Buffalo Sabres,49.0,77.0,37.0,22.0,52.0,64.0
+/zapas/2526911,1.0,0.0,Boston Bruins,New Jersey Devils,47.0,77.0,40.0,23.0,51.0,63.0
+/zapas/2526918,1.0,1.0,Boston Bruins,Calgary Flames,47.0,79.0,42.0,35.0,58.0,53.0
+/zapas/2526957,0.0,0.0,Boston Bruins,Vancouver Canucks,47.0,79.0,43.0,17.0,48.0,65.0
+/zapas/2526968,1.0,0.0,Boston Bruins,Calgary Flames,46.0,77.0,45.0,35.0,60.0,59.0
+/zapas/2526979,1.0,0.0,Boston Bruins,Edmonton Oilers,45.0,74.0,46.0,19.0,48.0,70.0
+/zapas/2527003,0.0,0.0,Boston Bruins,Toronto Maple Leafs,45.0,72.0,47.0,39.0,68.0,51.0
+/zapas/2527012,0.0,0.0,Boston Bruins,Buffalo Sabres,42.0,68.0,50.0,24.0,55.0,62.0
+/zapas/2527023,1.0,1.0,Boston Bruins,Carolina Hurricanes,41.0,64.0,48.0,26.0,45.0,58.0
+/zapas/2527037,1.0,1.0,Boston Bruins,Pittsburgh Penguins,41.0,64.0,48.0,43.0,82.0,52.0
+/zapas/2527057,1.0,1.0,Boston Bruins,Montreal Canadiens,43.0,70.0,49.0,25.0,51.0,60.0
+/zapas/2527074,1.0,1.0,Boston Bruins,Detroit Red Wings,42.0,68.0,49.0,24.0,50.0,55.0
+/zapas/2527086,1.0,1.0,Boston Bruins,Philadelphia Flyers,41.0,69.0,52.0,30.0,62.0,64.0
+/zapas/2527102,1.0,1.0,Boston Bruins,Chicago Blackhawks,41.0,68.0,53.0,20.0,51.0,64.0
+/zapas/2527113,0.0,0.0,Boston Bruins,Chicago Blackhawks,41.0,72.0,55.0,17.0,50.0,70.0
+/zapas/2527125,1.0,0.0,Boston Bruins,Carolina Hurricanes,38.0,70.0,56.0,27.0,47.0,58.0
+/zapas/2527141,0.0,0.0,Boston Bruins,Florida Panthers,41.0,75.0,57.0,44.0,73.0,54.0
+/zapas/2527156,1.0,0.0,Boston Bruins,Tampa Bay Lightning,38.0,72.0,59.0,37.0,81.0,70.0
+/zapas/2527170,0.0,1.0,Boston Bruins,Columbus Blue Jackets,38.0,71.0,58.0,36.0,63.0,52.0
+/zapas/2527188,0.0,0.0,Boston Bruins,St. Louis Blues,36.0,72.0,61.0,24.0,50.0,62.0
+/zapas/2527204,1.0,0.0,Boston Bruins,Dallas Stars,34.0,67.0,62.0,23.0,45.0,61.0
+/zapas/2527220,1.0,0.0,Boston Bruins,Minnesota Wild,37.0,68.0,60.0,40.0,69.0,55.0
+/zapas/2527236,0.0,0.0,Boston Bruins,Winnipeg Jets,36.0,65.0,58.0,39.0,72.0,48.0
+/zapas/2527244,1.0,1.0,Boston Bruins,Tampa Bay Lightning,34.0,64.0,61.0,34.0,72.0,68.0
+/zapas/2527260,1.0,1.0,Boston Bruins,Florida Panthers,37.0,67.0,57.0,39.0,65.0,46.0
+/zapas/2527272,0.0,0.0,Boston Bruins,Philadelphia Flyers,38.0,70.0,57.0,32.0,63.0,64.0
+/zapas/2527287,0.0,0.0,Boston Bruins,Tampa Bay Lightning,36.0,70.0,59.0,34.0,72.0,69.0
+/zapas/2527301,0.0,0.0,Boston Bruins,Florida Panthers,36.0,67.0,59.0,39.0,62.0,46.0
+/zapas/2527313,1.0,1.0,Boston Bruins,Ottawa Senators,36.0,68.0,58.0,19.0,53.0,70.0
+/zapas/2526672,0.0,1.0,Boston Bruins,Florida Panthers,37.0,69.0,57.0,40.0,63.0,47.0
+/zapas/2647200,0.0,0.0,Boston Bruins,Washington Capitals,34.0,63.0,57.0,40.0,65.0,55.0
+/zapas/2647203,1.0,0.0,Boston Bruins,Buffalo Sabres,32.0,61.0,63.0,20.0,52.0,75.0
+/zapas/2647230,1.0,1.0,Boston Bruins,Ottawa Senators,33.0,59.0,58.0,20.0,55.0,73.0
+/zapas/2647243,1.0,1.0,Boston Bruins,Edmonton Oilers,33.0,62.0,59.0,26.0,57.0,59.0
+/zapas/2647259,1.0,1.0,Boston Bruins,Detroit Red Wings,33.0,59.0,56.0,15.0,51.0,71.0
+/zapas/2647286,0.0,0.0,Boston Bruins,Calgary Flames,36.0,66.0,55.0,23.0,48.0,65.0
+/zapas/2647294,0.0,0.0,Boston Bruins,Edmonton Oilers,33.0,62.0,56.0,29.0,57.0,58.0
+/zapas/2647309,0.0,0.0,Boston Bruins,Vancouver Canucks,34.0,64.0,56.0,29.0,58.0,62.0
+/zapas/2647323,1.0,0.0,Boston Bruins,Ottawa Senators,32.0,62.0,58.0,19.0,56.0,76.0
+/zapas/2647332,1.0,1.0,Boston Bruins,Philadelphia Flyers,34.0,62.0,54.0,34.0,74.0,70.0
+/zapas/2647350,0.0,1.0,Boston Bruins,Montreal Canadiens,36.0,64.0,52.0,26.0,57.0,63.0
+/zapas/2647367,1.0,0.0,Boston Bruins,Carolina Hurricanes,33.0,61.0,53.0,31.0,65.0,55.0
+/zapas/2647400,0.0,0.0,Boston Bruins,Nashville Predators,34.0,62.0,54.0,43.0,70.0,49.0
+/zapas/2647408,1.0,1.0,Boston Bruins,Dallas Stars,33.0,58.0,50.0,34.0,61.0,55.0
+/zapas/2647425,0.0,1.0,Boston Bruins,Vancouver Canucks,32.0,56.0,49.0,30.0,64.0,68.0
+/zapas/2647443,1.0,1.0,Boston Bruins,Toronto Maple Leafs,29.0,56.0,56.0,37.0,68.0,50.0
+/zapas/2647455,1.0,1.0,Boston Bruins,Vegas Golden Knights,31.0,58.0,53.0,22.0,52.0,65.0
+/zapas/2647473,0.0,0.0,Boston Bruins,Colorado Avalanche,34.0,62.0,50.0,30.0,67.0,59.0
+/zapas/2647484,0.0,0.0,Boston Bruins,Dallas Stars,34.0,63.0,53.0,31.0,58.0,57.0
+/zapas/2647497,1.0,0.0,Boston Bruins,Arizona Coyotes,32.0,58.0,52.0,27.0,51.0,53.0
+/zapas/2647522,0.0,0.0,Boston Bruins,Detroit Red Wings,35.0,58.0,49.0,24.0,57.0,65.0
+/zapas/2647538,1.0,1.0,Boston Bruins,Pittsburgh Penguins,36.0,60.0,45.0,26.0,69.0,67.0
+/zapas/2647548,1.0,0.0,Boston Bruins,Montreal Canadiens,35.0,58.0,46.0,32.0,67.0,71.0
+/zapas/2647560,0.0,0.0,Boston Bruins,Toronto Maple Leafs,35.0,55.0,45.0,38.0,64.0,45.0
+/zapas/2647580,1.0,1.0,Boston Bruins,New York Islanders,32.0,53.0,48.0,30.0,63.0,63.0
+/zapas/2647596,0.0,1.0,Boston Bruins,Detroit Red Wings,31.0,47.0,47.0,28.0,61.0,60.0
+/zapas/2647615,0.0,0.0,Boston Bruins,Florida Panthers,31.0,47.0,46.0,27.0,64.0,70.0
+/zapas/2647632,0.0,0.0,Boston Bruins,Tampa Bay Lightning,30.0,45.0,48.0,38.0,82.0,65.0
+/zapas/2647644,1.0,1.0,Boston Bruins,Toronto Maple Leafs,29.0,46.0,49.0,41.0,72.0,48.0
+/zapas/2647654,1.0,0.0,Boston Bruins,Ottawa Senators,29.0,48.0,51.0,27.0,69.0,81.0
+/zapas/2647663,1.0,1.0,Boston Bruins,Arizona Coyotes,28.0,47.0,52.0,31.0,58.0,58.0
+/zapas/2647687,0.0,0.0,Boston Bruins,Pittsburgh Penguins,31.0,51.0,52.0,24.0,58.0,66.0
+/zapas/2647706,0.0,1.0,Boston Bruins,Buffalo Sabres,28.0,51.0,55.0,34.0,68.0,57.0
+/zapas/2647712,1.0,0.0,Boston Bruins,Montreal Canadiens,28.0,53.0,58.0,32.0,67.0,70.0
+/zapas/2647728,1.0,1.0,Boston Bruins,Anaheim Ducks,29.0,55.0,57.0,36.0,56.0,57.0
+/zapas/2647743,1.0,1.0,Boston Bruins,Nashville Predators,32.0,53.0,50.0,27.0,53.0,55.0
+/zapas/2647758,0.0,0.0,Boston Bruins,Carolina Hurricanes,32.0,53.0,51.0,26.0,46.0,59.0
+/zapas/2647765,0.0,1.0,Boston Bruins,New Jersey Devils,29.0,52.0,55.0,23.0,57.0,71.0
+/zapas/2647785,1.0,0.0,Boston Bruins,Buffalo Sabres,29.0,51.0,54.0,30.0,57.0,56.0
+/zapas/2647810,1.0,0.0,Boston Bruins,Chicago Blackhawks,30.0,54.0,55.0,20.0,63.0,79.0
+/zapas/2647820,1.0,1.0,Boston Bruins,Calgary Flames,30.0,56.0,56.0,41.0,77.0,52.0
+/zapas/2647836,1.0,1.0,Boston Bruins,Buffalo Sabres,32.0,60.0,57.0,27.0,54.0,58.0
+/zapas/2647855,1.0,1.0,Boston Bruins,Minnesota Wild,33.0,60.0,57.0,28.0,54.0,57.0
+/zapas/2647869,0.0,1.0,Boston Bruins,Washington Capitals,33.0,61.0,55.0,41.0,74.0,54.0
+/zapas/2647888,1.0,0.0,Boston Bruins,Toronto Maple Leafs,33.0,61.0,55.0,39.0,78.0,57.0
+/zapas/2647903,0.0,1.0,Boston Bruins,Montreal Canadiens,34.0,62.0,56.0,34.0,56.0,54.0
+/zapas/2647920,0.0,0.0,Boston Bruins,Philadelphia Flyers,35.0,62.0,55.0,20.0,51.0,72.0
+/zapas/2647924,1.0,1.0,Boston Bruins,St. Louis Blues,35.0,65.0,54.0,34.0,52.0,52.0
+/zapas/2647942,0.0,1.0,Boston Bruins,New York Rangers,38.0,68.0,53.0,25.0,59.0,78.0
+/zapas/2647971,0.0,1.0,Boston Bruins,Winnipeg Jets,35.0,64.0,53.0,35.0,67.0,57.0
+/zapas/2647976,0.0,1.0,Boston Bruins,Philadelphia Flyers,34.0,65.0,56.0,28.0,51.0,59.0
+/zapas/2648000,1.0,0.0,Boston Bruins,Washington Capitals,32.0,63.0,56.0,29.0,57.0,68.0
+/zapas/2648007,1.0,1.0,Boston Bruins,New York Islanders,35.0,61.0,51.0,45.0,62.0,34.0
+/zapas/2648020,0.0,0.0,Boston Bruins,New York Rangers,38.0,62.0,48.0,27.0,54.0,69.0
+/zapas/2648036,1.0,1.0,Boston Bruins,Los Angeles Kings,36.0,61.0,52.0,32.0,53.0,54.0
+/zapas/2648052,1.0,1.0,Boston Bruins,Colorado Avalanche,35.0,63.0,55.0,16.0,57.0,75.0
+/zapas/2648061,1.0,1.0,Boston Bruins,Chicago Blackhawks,34.0,60.0,54.0,35.0,81.0,67.0
+/zapas/2648089,1.0,0.0,Boston Bruins,Anaheim Ducks,37.0,63.0,52.0,13.0,33.0,76.0
+/zapas/2648101,1.0,0.0,Boston Bruins,Los Angeles Kings,40.0,64.0,47.0,27.0,53.0,63.0
+/zapas/2648113,1.0,0.0,Boston Bruins,San Jose Sharks,41.0,65.0,47.0,42.0,86.0,67.0
+/zapas/2648126,1.0,0.0,Boston Bruins,Vegas Golden Knights,40.0,67.0,50.0,28.0,57.0,58.0
+/zapas/2648145,0.0,0.0,Boston Bruins,St. Louis Blues,39.0,64.0,48.0,43.0,66.0,40.0
+/zapas/2648166,1.0,1.0,Boston Bruins,San Jose Sharks,37.0,63.0,49.0,40.0,78.0,62.0
+/zapas/2648182,1.0,1.0,Boston Bruins,Tampa Bay Lightning,37.0,63.0,50.0,43.0,69.0,44.0
+/zapas/2648199,1.0,1.0,Boston Bruins,New Jersey Devils,40.0,65.0,47.0,20.0,52.0,69.0
+/zapas/2648217,1.0,1.0,Boston Bruins,Carolina Hurricanes,40.0,63.0,45.0,41.0,73.0,46.0
+/zapas/2648231,1.0,1.0,Boston Bruins,Florida Panthers,41.0,65.0,45.0,30.0,67.0,61.0
+/zapas/2648249,1.0,1.0,Boston Bruins,Ottawa Senators,44.0,66.0,44.0,12.0,49.0,74.0
+/zapas/2648260,0.0,0.0,Boston Bruins,Pittsburgh Penguins,44.0,64.0,44.0,32.0,64.0,62.0
+/zapas/2648272,0.0,0.0,Boston Bruins,Columbus Blue Jackets,44.0,64.0,45.0,28.0,51.0,53.0
+/zapas/2648287,0.0,0.0,Boston Bruins,Winnipeg Jets,43.0,65.0,48.0,28.0,69.0,70.0
+/zapas/2648301,1.0,1.0,Boston Bruins,Columbus Blue Jackets,42.0,66.0,49.0,34.0,56.0,49.0
+/zapas/2648321,1.0,0.0,Boston Bruins,New York Islanders,41.0,67.0,50.0,33.0,54.0,45.0
+/zapas/2648335,1.0,0.0,Boston Bruins,New Jersey Devils,41.0,69.0,49.0,20.0,49.0,69.0
+/zapas/2648355,1.0,0.0,Boston Bruins,Florida Panthers,43.0,71.0,46.0,32.0,72.0,59.0
+/zapas/2648370,0.0,0.0,Boston Bruins,Tampa Bay Lightning,44.0,73.0,45.0,47.0,84.0,46.0
+/zapas/2648384,1.0,1.0,Boston Bruins,New York Rangers,42.0,75.0,49.0,19.0,52.0,68.0
+/zapas/2648403,0.0,1.0,Boston Bruins,Florida Panthers,42.0,75.0,49.0,27.0,73.0,71.0
+/zapas/2648417,0.0,0.0,Boston Bruins,Detroit Red Wings,39.0,73.0,53.0,21.0,53.0,72.0
+/zapas/2648428,1.0,0.0,Boston Bruins,Columbus Blue Jackets,36.0,72.0,57.0,35.0,59.0,42.0
+/zapas/2648448,1.0,0.0,Boston Bruins,Minnesota Wild,37.0,72.0,54.0,32.0,47.0,51.0
+/zapas/2648455,0.0,1.0,Boston Bruins,Tampa Bay Lightning,38.0,72.0,52.0,41.0,77.0,57.0
+/zapas/2806386,1.0,0.0,Boston Bruins,Dallas Stars,37.0,74.0,56.0,36.0,53.0,40.0
+/zapas/2806402,1.0,0.0,Boston Bruins,Arizona Coyotes,37.0,72.0,56.0,30.0,46.0,45.0
+/zapas/2806419,1.0,0.0,Boston Bruins,Vegas Golden Knights,37.0,69.0,55.0,37.0,69.0,50.0
+/zapas/2806432,0.0,0.0,Boston Bruins,Colorado Avalanche,37.0,72.0,58.0,35.0,57.0,49.0
+/zapas/2806441,1.0,1.0,Boston Bruins,New Jersey Devils,35.0,70.0,59.0,20.0,43.0,72.0
+/zapas/2806454,1.0,1.0,Boston Bruins,Anaheim Ducks,35.0,69.0,56.0,39.0,63.0,53.0
+/zapas/2806474,0.0,1.0,Boston Bruins,Tampa Bay Lightning,35.0,70.0,56.0,42.0,85.0,61.0
+/zapas/2806492,0.0,0.0,Boston Bruins,Toronto Maple Leafs,36.0,71.0,56.0,28.0,67.0,75.0
+/zapas/2806509,1.0,1.0,Boston Bruins,Toronto Maple Leafs,37.0,70.0,53.0,28.0,65.0,70.0
+/zapas/2806538,1.0,1.0,Boston Bruins,St. Louis Blues,40.0,71.0,51.0,40.0,72.0,58.0
+/zapas/2806551,1.0,0.0,Boston Bruins,New York Rangers,41.0,72.0,50.0,21.0,53.0,68.0
+/zapas/2806555,1.0,1.0,Boston Bruins,San Jose Sharks,41.0,74.0,54.0,22.0,57.0,71.0
+/zapas/2806583,1.0,1.0,Boston Bruins,Ottawa Senators,41.0,74.0,54.0,21.0,54.0,69.0
+/zapas/2806596,1.0,1.0,Boston Bruins,Pittsburgh Penguins,41.0,72.0,53.0,34.0,64.0,48.0
+/zapas/2806600,0.0,0.0,Boston Bruins,Montreal Canadiens,44.0,74.0,52.0,32.0,74.0,62.0
+/zapas/2806625,0.0,0.0,Boston Bruins,Detroit Red Wings,41.0,72.0,54.0,16.0,41.0,80.0
+/zapas/2806644,0.0,1.0,Boston Bruins,Philadelphia Flyers,41.0,73.0,54.0,26.0,61.0,70.0
+/zapas/2806648,0.0,1.0,Boston Bruins,Florida Panthers,42.0,72.0,51.0,30.0,71.0,72.0
+/zapas/2806670,1.0,0.0,Boston Bruins,Toronto Maple Leafs,40.0,70.0,54.0,28.0,68.0,67.0
+/zapas/2806679,0.0,1.0,Boston Bruins,Washington Capitals,40.0,71.0,56.0,39.0,78.0,63.0
+/zapas/2806696,1.0,0.0,Boston Bruins,New Jersey Devils,41.0,70.0,53.0,26.0,54.0,72.0
+/zapas/2806709,1.0,1.0,Boston Bruins,Buffalo Sabres,41.0,73.0,53.0,27.0,57.0,62.0
+/zapas/2806729,1.0,1.0,Boston Bruins,Minnesota Wild,41.0,75.0,55.0,29.0,56.0,63.0
+/zapas/2806750,1.0,0.0,Boston Bruins,Montreal Canadiens,40.0,76.0,56.0,31.0,68.0,61.0
+/zapas/2806754,1.0,0.0,Boston Bruins,Ottawa Senators,43.0,82.0,53.0,29.0,53.0,55.0
+/zapas/2806767,1.0,1.0,Boston Bruins,New York Rangers,43.0,81.0,54.0,30.0,66.0,71.0
+/zapas/2806793,1.0,1.0,Boston Bruins,Montreal Canadiens,42.0,80.0,54.0,29.0,66.0,69.0
+/zapas/2806800,1.0,1.0,Boston Bruins,Carolina Hurricanes,44.0,80.0,51.0,29.0,62.0,60.0
+/zapas/2806814,0.0,1.0,Boston Bruins,Chicago Blackhawks,46.0,79.0,47.0,26.0,55.0,63.0
+/zapas/2806831,0.0,1.0,Boston Bruins,Colorado Avalanche,44.0,78.0,49.0,33.0,68.0,57.0
+/zapas/2806846,0.0,0.0,Boston Bruins,Ottawa Senators,41.0,76.0,53.0,28.0,55.0,60.0
+/zapas/2806860,0.0,0.0,Boston Bruins,Washington Capitals,38.0,71.0,54.0,41.0,73.0,55.0
+/zapas/2806864,0.0,0.0,Boston Bruins,Tampa Bay Lightning,35.0,68.0,56.0,30.0,73.0,64.0
+/zapas/2806886,1.0,0.0,Boston Bruins,Florida Panthers,32.0,65.0,57.0,27.0,66.0,63.0
+/zapas/2806900,0.0,1.0,Boston Bruins,Los Angeles Kings,32.0,63.0,55.0,29.0,51.0,51.0
+/zapas/2806914,0.0,1.0,Boston Bruins,New York Islanders,33.0,62.0,54.0,36.0,56.0,51.0
+/zapas/2806932,0.0,1.0,Boston Bruins,Nashville Predators,34.0,62.0,53.0,27.0,65.0,69.0
+/zapas/2806947,1.0,1.0,Boston Bruins,Washington Capitals,34.0,63.0,54.0,41.0,65.0,51.0
+/zapas/2806958,1.0,0.0,Boston Bruins,Buffalo Sabres,36.0,66.0,52.0,27.0,61.0,66.0
+/zapas/2806982,1.0,1.0,Boston Bruins,Buffalo Sabres,36.0,65.0,50.0,24.0,57.0,67.0
+/zapas/2806989,0.0,0.0,Boston Bruins,New Jersey Devils,38.0,66.0,49.0,21.0,53.0,70.0
+/zapas/2807003,0.0,1.0,Boston Bruins,Columbus Blue Jackets,36.0,63.0,51.0,33.0,55.0,47.0
+/zapas/2807017,0.0,1.0,Boston Bruins,Edmonton Oilers,34.0,61.0,51.0,22.0,51.0,74.0
+/zapas/2807047,1.0,0.0,Boston Bruins,Nashville Predators,32.0,57.0,51.0,32.0,68.0,63.0
+/zapas/2807054,1.0,1.0,Boston Bruins,Winnipeg Jets,32.0,55.0,52.0,32.0,69.0,61.0
+/zapas/2807070,1.0,0.0,Boston Bruins,New York Islanders,32.0,58.0,55.0,30.0,52.0,54.0
+/zapas/2807087,0.0,0.0,Boston Bruins,Philadelphia Flyers,32.0,58.0,55.0,28.0,65.0,63.0
+/zapas/2807095,0.0,0.0,Boston Bruins,Columbus Blue Jackets,30.0,60.0,60.0,35.0,55.0,44.0
+/zapas/2807103,1.0,1.0,Boston Bruins,Pittsburgh Penguins,27.0,58.0,63.0,41.0,70.0,52.0
+/zapas/2807131,0.0,0.0,Boston Bruins,Pittsburgh Penguins,29.0,59.0,60.0,40.0,68.0,52.0
+/zapas/2807137,1.0,1.0,Boston Bruins,Vegas Golden Knights,29.0,61.0,60.0,30.0,66.0,68.0
+/zapas/2807165,1.0,0.0,Boston Bruins,Winnipeg Jets,32.0,62.0,57.0,19.0,60.0,77.0
+/zapas/2807178,1.0,0.0,Boston Bruins,Minnesota Wild,35.0,62.0,55.0,28.0,66.0,68.0
+/zapas/2807188,1.0,1.0,Boston Bruins,Vancouver Canucks,38.0,66.0,53.0,41.0,70.0,60.0
+/zapas/2807202,1.0,0.0,Boston Bruins,Chicago Blackhawks,38.0,66.0,51.0,37.0,71.0,59.0
+/zapas/2807220,1.0,1.0,Boston Bruins,Arizona Coyotes,39.0,65.0,48.0,24.0,58.0,67.0
+/zapas/2807231,0.0,0.0,Boston Bruins,Detroit Red Wings,41.0,67.0,47.0,11.0,36.0,71.0
+/zapas/2807253,1.0,1.0,Boston Bruins,Montreal Canadiens,40.0,65.0,46.0,23.0,54.0,54.0
+/zapas/2807271,1.0,1.0,Boston Bruins,Detroit Red Wings,40.0,62.0,44.0,14.0,35.0,65.0
+/zapas/2807283,1.0,0.0,Boston Bruins,New York Rangers,40.0,63.0,45.0,34.0,69.0,57.0
+/zapas/2807304,1.0,0.0,Boston Bruins,Edmonton Oilers,40.0,63.0,44.0,37.0,75.0,63.0
+/zapas/2807321,1.0,0.0,Boston Bruins,Calgary Flames,41.0,63.0,42.0,31.0,69.0,68.0
+/zapas/2807332,0.0,0.0,Boston Bruins,Vancouver Canucks,43.0,66.0,43.0,34.0,62.0,65.0
+/zapas/2807344,0.0,1.0,Boston Bruins,Calgary Flames,43.0,68.0,48.0,31.0,69.0,66.0
+/zapas/2807360,1.0,1.0,Boston Bruins,Dallas Stars,40.0,64.0,51.0,33.0,54.0,55.0
+/zapas/2807375,1.0,0.0,Boston Bruins,New York Islanders,40.0,63.0,50.0,27.0,59.0,60.0
+/zapas/2807395,1.0,0.0,Boston Bruins,Tampa Bay Lightning,41.0,64.0,48.0,39.0,68.0,53.0
+/zapas/2807411,1.0,0.0,Boston Bruins,Florida Panthers,43.0,61.0,43.0,26.0,54.0,69.0
+/zapas/2807430,0.0,1.0,Boston Bruins,Tampa Bay Lightning,45.0,63.0,41.0,40.0,67.0,49.0
+/zapas/2807449,1.0,0.0,Boston Bruins,Philadelphia Flyers,42.0,62.0,45.0,48.0,81.0,45.0
+/zapas/2893219,1.0,0.0,Boston Bruins,New Jersey Devils,45.0,61.0,41.0,34.0,59.0,54.0
+/zapas/2893235,0.0,0.0,Boston Bruins,New Jersey Devils,44.0,61.0,41.0,34.0,56.0,51.0
+/zapas/2893248,0.0,0.0,Boston Bruins,New York Islanders,42.0,60.0,42.0,24.0,50.0,62.0
+/zapas/2893268,1.0,1.0,Boston Bruins,Philadelphia Flyers,39.0,54.0,42.0,44.0,77.0,50.0
+/zapas/2893285,1.0,1.0,Boston Bruins,Philadelphia Flyers,38.0,55.0,46.0,45.0,81.0,50.0
+/zapas/2893308,1.0,1.0,Boston Bruins,Pittsburgh Penguins,39.0,59.0,46.0,27.0,63.0,69.0
+/zapas/2893322,1.0,1.0,Boston Bruins,Pittsburgh Penguins,38.0,58.0,46.0,25.0,61.0,71.0
+/zapas/2893338,0.0,0.0,Boston Bruins,Washington Capitals,41.0,61.0,44.0,31.0,66.0,67.0
+/zapas/2893354,1.0,0.0,Boston Bruins,Washington Capitals,39.0,60.0,47.0,33.0,69.0,67.0
+/zapas/2893367,1.0,0.0,Boston Bruins,Philadelphia Flyers,39.0,61.0,49.0,46.0,74.0,50.0
+/zapas/2893382,1.0,0.0,Boston Bruins,Philadelphia Flyers,38.0,62.0,51.0,44.0,72.0,53.0
+/zapas/2893420,1.0,0.0,Boston Bruins,New York Rangers,39.0,62.0,51.0,24.0,60.0,64.0
+/zapas/2893436,1.0,0.0,Boston Bruins,New York Rangers,38.0,61.0,50.0,23.0,58.0,64.0
+/zapas/2893443,0.0,0.0,Boston Bruins,New York Islanders,41.0,59.0,41.0,25.0,48.0,61.0
+/zapas/2893476,0.0,1.0,Boston Bruins,New Jersey Devils,41.0,59.0,40.0,36.0,55.0,51.0
+/zapas/2893498,1.0,1.0,Boston Bruins,Philadelphia Flyers,38.0,57.0,40.0,40.0,70.0,55.0
+/zapas/2893522,0.0,0.0,Boston Bruins,New York Islanders,38.0,60.0,43.0,32.0,50.0,51.0
+/zapas/2893532,0.0,0.0,Boston Bruins,New York Rangers,35.0,60.0,49.0,23.0,53.0,57.0
+/zapas/2893553,1.0,0.0,Boston Bruins,New York Rangers,33.0,60.0,54.0,26.0,55.0,53.0
+/zapas/2893568,0.0,1.0,Boston Bruins,Washington Capitals,36.0,61.0,50.0,35.0,67.0,65.0
+/zapas/2893584,1.0,1.0,Boston Bruins,Washington Capitals,34.0,60.0,52.0,34.0,67.0,65.0
+/zapas/2893455,0.0,1.0,Boston Bruins,New Jersey Devils,35.0,62.0,51.0,21.0,50.0,66.0
+/zapas/2893610,0.0,0.0,Boston Bruins,New York Islanders,34.0,61.0,50.0,40.0,64.0,48.0
+/zapas/2893625,1.0,1.0,Boston Bruins,New York Rangers,35.0,62.0,51.0,27.0,57.0,55.0
+/zapas/2893640,0.0,1.0,Boston Bruins,New York Rangers,36.0,61.0,47.0,27.0,55.0,56.0
+/zapas/2893660,0.0,0.0,Boston Bruins,Pittsburgh Penguins,33.0,55.0,50.0,35.0,66.0,53.0
+/zapas/2893667,1.0,0.0,Boston Bruins,Pittsburgh Penguins,31.0,53.0,52.0,38.0,69.0,50.0
+/zapas/2893678,1.0,0.0,Boston Bruins,Buffalo Sabres,31.0,51.0,52.0,10.0,37.0,73.0
+/zapas/2893727,0.0,1.0,Boston Bruins,New York Islanders,33.0,52.0,49.0,43.0,66.0,40.0
+/zapas/2893390,1.0,1.0,Boston Bruins,Buffalo Sabres,31.0,50.0,50.0,8.0,35.0,77.0
+/zapas/2893751,0.0,1.0,Boston Bruins,New Jersey Devils,32.0,49.0,49.0,18.0,45.0,68.0
+/zapas/2893766,1.0,1.0,Boston Bruins,New Jersey Devils,29.0,47.0,49.0,21.0,43.0,64.0
+/zapas/2893781,0.0,1.0,Boston Bruins,Pittsburgh Penguins,29.0,49.0,51.0,41.0,66.0,41.0
+/zapas/2893796,1.0,1.0,Boston Bruins,Pittsburgh Penguins,26.0,49.0,55.0,42.0,67.0,40.0
+/zapas/2893600,0.0,1.0,Boston Bruins,Philadelphia Flyers,29.0,54.0,56.0,23.0,54.0,78.0
+/zapas/2893824,1.0,0.0,Boston Bruins,Philadelphia Flyers,30.0,54.0,56.0,22.0,54.0,80.0
+/zapas/2893838,1.0,0.0,Boston Bruins,Washington Capitals,30.0,51.0,55.0,42.0,67.0,53.0
+/zapas/2893816,0.0,0.0,Boston Bruins,Philadelphia Flyers,33.0,53.0,50.0,20.0,53.0,82.0
+/zapas/2893926,0.0,1.0,Boston Bruins,Washington Capitals,33.0,53.0,47.0,39.0,65.0,56.0
+/zapas/2893404,1.0,1.0,Boston Bruins,Buffalo Sabres,30.0,50.0,54.0,14.0,50.0,79.0
+/zapas/2893874,1.0,1.0,Boston Bruins,New York Islanders,31.0,52.0,54.0,38.0,67.0,48.0
+/zapas/2893895,1.0,1.0,Boston Bruins,New York Islanders,31.0,51.0,54.0,35.0,63.0,50.0
+/zapas/2893910,1.0,1.0,Boston Bruins,Washington Capitals,34.0,54.0,53.0,41.0,76.0,55.0
+/zapas/2893693,1.0,0.0,Boston Bruins,Buffalo Sabres,36.0,59.0,54.0,20.0,53.0,69.0
+/zapas/2893939,1.0,0.0,Boston Bruins,Buffalo Sabres,36.0,57.0,54.0,20.0,53.0,68.0
+/zapas/2893948,0.0,0.0,Boston Bruins,Buffalo Sabres,39.0,62.0,51.0,20.0,54.0,67.0
+/zapas/2893965,0.0,0.0,Boston Bruins,Pittsburgh Penguins,39.0,65.0,53.0,41.0,75.0,55.0
+/zapas/2893981,1.0,0.0,Boston Bruins,Pittsburgh Penguins,36.0,63.0,53.0,44.0,75.0,53.0
+/zapas/2893993,1.0,1.0,Boston Bruins,Buffalo Sabres,36.0,62.0,53.0,23.0,58.0,68.0
+/zapas/2894009,1.0,1.0,Boston Bruins,Buffalo Sabres,38.0,64.0,51.0,23.0,58.0,68.0
+/zapas/2894023,1.0,0.0,Boston Bruins,New Jersey Devils,38.0,67.0,51.0,18.0,58.0,81.0
+/zapas/2894033,0.0,0.0,Boston Bruins,New Jersey Devils,41.0,70.0,50.0,18.0,58.0,80.0
+/zapas/2894047,1.0,1.0,Boston Bruins,New York Rangers,40.0,68.0,50.0,34.0,65.0,57.0
+/zapas/2894066,0.0,1.0,Boston Bruins,New York Rangers,43.0,71.0,46.0,31.0,60.0,59.0
+/zapas/2893742,1.0,1.0,Boston Bruins,New York Islanders,40.0,68.0,46.0,28.0,49.0,43.0
+/zapas/2893862,0.0,0.0,Boston Bruins,Washington Capitals,41.0,69.0,45.0,34.0,68.0,58.0
+/zapas/2897006,1.0,1.0,Boston Bruins,Dallas Stars,38.0,66.0,45.0,32.0,61.0,57.0
+/zapas/2897032,0.0,0.0,Boston Bruins,Philadelphia Flyers,38.0,65.0,44.0,26.0,59.0,69.0
+/zapas/2897045,1.0,0.0,Boston Bruins,Buffalo Sabres,38.0,66.0,47.0,26.0,60.0,66.0
+/zapas/2897063,1.0,1.0,Boston Bruins,San Jose Sharks,41.0,69.0,40.0,24.0,54.0,73.0
+/zapas/2897081,0.0,0.0,Boston Bruins,Florida Panthers,42.0,70.0,41.0,47.0,83.0,50.0
+/zapas/2897091,0.0,0.0,Boston Bruins,Carolina Hurricanes,39.0,67.0,44.0,45.0,68.0,42.0
+/zapas/2897105,1.0,1.0,Boston Bruins,Florida Panthers,36.0,64.0,47.0,49.0,85.0,48.0
+/zapas/2897132,1.0,1.0,Boston Bruins,Detroit Red Wings,35.0,61.0,46.0,25.0,53.0,60.0
+/zapas/2897148,0.0,0.0,Boston Bruins,Toronto Maple Leafs,35.0,64.0,47.0,37.0,59.0,49.0
+/zapas/2897168,1.0,1.0,Boston Bruins,Ottawa Senators,32.0,61.0,51.0,28.0,56.0,64.0
+/zapas/2897181,0.0,1.0,Boston Bruins,Edmonton Oilers,35.0,60.0,47.0,41.0,77.0,59.0
+/zapas/2897202,1.0,0.0,Boston Bruins,New Jersey Devils,35.0,63.0,51.0,34.0,61.0,57.0
+/zapas/2897207,1.0,1.0,Boston Bruins,Montreal Canadiens,35.0,65.0,52.0,16.0,44.0,69.0
+/zapas/2897254,1.0,0.0,Boston Bruins,Philadelphia Flyers,35.0,65.0,52.0,36.0,60.0,54.0
+/zapas/2897258,0.0,1.0,Boston Bruins,Calgary Flames,35.0,64.0,52.0,37.0,67.0,42.0
+/zapas/2897277,1.0,0.0,Boston Bruins,Buffalo Sabres,32.0,61.0,56.0,21.0,57.0,70.0
+/zapas/2897291,0.0,1.0,Boston Bruins,New York Rangers,34.0,63.0,53.0,40.0,60.0,56.0
+/zapas/2897310,1.0,1.0,Boston Bruins,Vancouver Canucks,31.0,61.0,58.0,17.0,47.0,67.0
+/zapas/2897323,0.0,1.0,Boston Bruins,Detroit Red Wings,34.0,60.0,55.0,25.0,52.0,63.0
+/zapas/2897334,1.0,0.0,Boston Bruins,Nashville Predators,32.0,58.0,55.0,34.0,59.0,56.0
+/zapas/2897351,0.0,1.0,Boston Bruins,Tampa Bay Lightning,35.0,59.0,53.0,36.0,62.0,50.0
+/zapas/2897379,0.0,0.0,Boston Bruins,Vancouver Canucks,33.0,58.0,55.0,18.0,46.0,62.0
+/zapas/2897387,1.0,0.0,Boston Bruins,Edmonton Oilers,34.0,56.0,51.0,34.0,68.0,64.0
+/zapas/2897403,1.0,0.0,Boston Bruins,Calgary Flames,34.0,55.0,52.0,33.0,60.0,43.0
+/zapas/2897426,0.0,1.0,Boston Bruins,Vegas Golden Knights,34.0,55.0,51.0,38.0,79.0,63.0
+/zapas/2897444,0.0,0.0,Boston Bruins,New York Islanders,34.0,55.0,51.0,22.0,41.0,57.0
+/zapas/2897551,1.0,1.0,Boston Bruins,Buffalo Sabres,34.0,56.0,51.0,17.0,50.0,76.0
+/zapas/2897560,1.0,0.0,Boston Bruins,Detroit Red Wings,34.0,57.0,52.0,27.0,55.0,65.0
+/zapas/2897572,1.0,1.0,Boston Bruins,New Jersey Devils,34.0,57.0,52.0,19.0,57.0,78.0
+/zapas/2897587,0.0,1.0,Boston Bruins,Minnesota Wild,37.0,60.0,50.0,33.0,79.0,62.0
+/zapas/2897606,1.0,0.0,Boston Bruins,Tampa Bay Lightning,34.0,59.0,51.0,40.0,70.0,56.0
+/zapas/2897617,1.0,0.0,Boston Bruins,Washington Capitals,37.0,61.0,48.0,35.0,66.0,58.0
+/zapas/2897984,1.0,1.0,Boston Bruins,Montreal Canadiens,37.0,63.0,49.0,14.0,45.0,75.0
+/zapas/2897637,1.0,1.0,Boston Bruins,Philadelphia Flyers,37.0,63.0,48.0,17.0,49.0,80.0
+/zapas/2897653,1.0,1.0,Boston Bruins,Nashville Predators,37.0,61.0,48.0,40.0,68.0,53.0
+/zapas/2897677,0.0,1.0,Boston Bruins,Carolina Hurricanes,39.0,65.0,47.0,37.0,68.0,52.0
+/zapas/2897690,1.0,1.0,Boston Bruins,Washington Capitals,36.0,61.0,53.0,31.0,63.0,64.0
+/zapas/2897707,1.0,1.0,Boston Bruins,Winnipeg Jets,39.0,63.0,51.0,25.0,55.0,66.0
+/zapas/2897721,0.0,1.0,Boston Bruins,Anaheim Ducks,39.0,63.0,51.0,25.0,50.0,58.0
+/zapas/2897733,0.0,0.0,Boston Bruins,Colorado Avalanche,39.0,65.0,54.0,48.0,87.0,53.0
+/zapas/2897748,1.0,0.0,Boston Bruins,Arizona Coyotes,37.0,66.0,58.0,19.0,53.0,81.0
+/zapas/2897766,0.0,0.0,Boston Bruins,Dallas Stars,39.0,66.0,56.0,27.0,60.0,68.0
+/zapas/2897780,1.0,1.0,Boston Bruins,Seattle Kraken,38.0,66.0,60.0,15.0,44.0,72.0
+/zapas/2897512,0.0,1.0,Boston Bruins,Pittsburgh Penguins,38.0,66.0,60.0,42.0,75.0,54.0
+/zapas/2897481,0.0,1.0,Boston Bruins,Carolina Hurricanes,35.0,64.0,62.0,41.0,74.0,52.0
+/zapas/2897529,1.0,0.0,Boston Bruins,Ottawa Senators,35.0,63.0,64.0,29.0,58.0,54.0
+/zapas/2898248,0.0,0.0,Boston Bruins,New York Rangers,38.0,64.0,61.0,35.0,66.0,54.0
+/zapas/2897991,0.0,0.0,Boston Bruins,New York Islanders,37.0,61.0,60.0,29.0,55.0,52.0
+/zapas/2897465,1.0,0.0,Boston Bruins,Ottawa Senators,34.0,57.0,63.0,29.0,51.0,54.0
+/zapas/2897496,1.0,1.0,Boston Bruins,Colorado Avalanche,33.0,55.0,62.0,48.0,75.0,42.0
+/zapas/2897798,1.0,0.0,Boston Bruins,Seattle Kraken,36.0,58.0,60.0,16.0,45.0,68.0
+/zapas/2897812,1.0,0.0,Boston Bruins,San Jose Sharks,35.0,56.0,60.0,22.0,52.0,69.0
+/zapas/2897828,1.0,0.0,Boston Bruins,Los Angeles Kings,35.0,52.0,58.0,40.0,68.0,57.0
+/zapas/2897833,0.0,0.0,Boston Bruins,Anaheim Ducks,35.0,54.0,57.0,24.0,54.0,71.0
+/zapas/2897845,1.0,0.0,Boston Bruins,Vegas Golden Knights,32.0,54.0,59.0,26.0,52.0,55.0
+/zapas/2897870,1.0,0.0,Boston Bruins,Columbus Blue Jackets,33.0,55.0,58.0,32.0,68.0,78.0
+/zapas/2897879,0.0,1.0,Boston Bruins,Los Angeles Kings,35.0,59.0,55.0,36.0,63.0,64.0
+/zapas/2897900,1.0,1.0,Boston Bruins,Chicago Blackhawks,33.0,57.0,55.0,20.0,59.0,78.0
+/zapas/2897918,1.0,1.0,Boston Bruins,Arizona Coyotes,33.0,58.0,56.0,25.0,64.0,67.0
+/zapas/2897938,1.0,0.0,Boston Bruins,Chicago Blackhawks,36.0,58.0,53.0,22.0,65.0,77.0
+/zapas/2897947,0.0,0.0,Boston Bruins,Minnesota Wild,37.0,57.0,50.0,27.0,69.0,78.0
+/zapas/2897961,1.0,0.0,Boston Bruins,Winnipeg Jets,34.0,57.0,53.0,32.0,70.0,65.0
+/zapas/2897630,1.0,0.0,Boston Bruins,Montreal Canadiens,37.0,60.0,49.0,25.0,64.0,76.0
+/zapas/2898005,1.0,1.0,Boston Bruins,Tampa Bay Lightning,36.0,60.0,49.0,36.0,65.0,55.0
+/zapas/2898022,1.0,1.0,Boston Bruins,New York Islanders,39.0,61.0,47.0,36.0,68.0,52.0
+/zapas/2898044,0.0,1.0,Boston Bruins,Toronto Maple Leafs,42.0,67.0,44.0,35.0,78.0,74.0
+/zapas/2898059,1.0,1.0,Boston Bruins,New Jersey Devils,39.0,69.0,50.0,24.0,76.0,72.0
+/zapas/2898076,1.0,1.0,Boston Bruins,Columbus Blue Jackets,41.0,76.0,49.0,26.0,65.0,78.0
+/zapas/2898093,1.0,0.0,Boston Bruins,Columbus Blue Jackets,44.0,80.0,47.0,23.0,60.0,80.0
+/zapas/2898099,0.0,0.0,Boston Bruins,Detroit Red Wings,44.0,80.0,47.0,13.0,57.0,101.0
+/zapas/2898120,1.0,0.0,Boston Bruins,Tampa Bay Lightning,41.0,78.0,51.0,29.0,59.0,60.0
+/zapas/2898141,0.0,0.0,Boston Bruins,Washington Capitals,41.0,77.0,50.0,33.0,70.0,66.0
+/zapas/2898151,0.0,1.0,Boston Bruins,St. Louis Blues,38.0,76.0,53.0,33.0,76.0,66.0
+/zapas/2898168,0.0,1.0,Boston Bruins,Ottawa Senators,35.0,71.0,57.0,24.0,60.0,68.0
+/zapas/2898185,1.0,1.0,Boston Bruins,Pittsburgh Penguins,35.0,70.0,56.0,27.0,70.0,64.0
+/zapas/2898203,1.0,0.0,Boston Bruins,St. Louis Blues,35.0,67.0,55.0,43.0,93.0,64.0
+/zapas/2898223,0.0,0.0,Boston Bruins,Pittsburgh Penguins,35.0,65.0,53.0,26.0,69.0,63.0
+/zapas/2898234,1.0,1.0,Boston Bruins,New York Rangers,34.0,63.0,54.0,43.0,71.0,44.0
+/zapas/2897458,1.0,0.0,Boston Bruins,Montreal Canadiens,34.0,62.0,52.0,14.0,57.0,85.0
+/zapas/2898259,1.0,1.0,Boston Bruins,Florida Panthers,34.0,64.0,53.0,44.0,87.0,59.0
+/zapas/2898274,1.0,1.0,Boston Bruins,Buffalo Sabres,35.0,66.0,54.0,33.0,67.0,71.0
+/zapas/2898287,0.0,0.0,Boston Bruins,Toronto Maple Leafs,38.0,69.0,50.0,41.0,84.0,68.0

@@ -1,0 +1,374 @@
+game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
+/zapas/2526063,Detroit Red Wings,Minnesota Wild,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Minnesota Wild,Detroit Red Wings,2017
+/zapas/2526074,Ottawa Senators,Detroit Red Wings,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Ottawa Senators,Detroit Red Wings,2017
+/zapas/2526097,Dallas Stars,Detroit Red Wings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Dallas Stars,Detroit Red Wings,2017
+/zapas/2526110,Arizona Coyotes,Detroit Red Wings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Detroit Red Wings,2017
+/zapas/2526116,Vegas Golden Knights,Detroit Red Wings,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Vegas Golden Knights,Detroit Red Wings,2017
+/zapas/2526134,Detroit Red Wings,Tampa Bay Lightning,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2017
+/zapas/2526146,Toronto Maple Leafs,Detroit Red Wings,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2017
+/zapas/2526161,Detroit Red Wings,Washington Capitals,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Washington Capitals,Detroit Red Wings,2017
+/zapas/2526176,Detroit Red Wings,Vancouver Canucks,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Vancouver Canucks,Detroit Red Wings,2017
+/zapas/2526180,Buffalo Sabres,Detroit Red Wings,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Buffalo Sabres,Detroit Red Wings,2017
+/zapas/2526197,Tampa Bay Lightning,Detroit Red Wings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2017
+/zapas/2526212,Florida Panthers,Detroit Red Wings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Florida Panthers,Detroit Red Wings,2017
+/zapas/2526233,Detroit Red Wings,Arizona Coyotes,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Arizona Coyotes,Detroit Red Wings,2017
+/zapas/2526242,Ottawa Senators,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Ottawa Senators,Detroit Red Wings,2017
+/zapas/2526267,Edmonton Oilers,Detroit Red Wings,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Edmonton Oilers,Detroit Red Wings,2017
+/zapas/2526276,Vancouver Canucks,Detroit Red Wings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vancouver Canucks,Detroit Red Wings,2017
+/zapas/2526293,Calgary Flames,Detroit Red Wings,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Calgary Flames,Detroit Red Wings,2017
+/zapas/2526307,Detroit Red Wings,Columbus Blue Jackets,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2017
+/zapas/2526329,Detroit Red Wings,Calgary Flames,8,2,0,3.0,0.0,1.0,3.0,8.0,2.0,1.0,Calgary Flames,Detroit Red Wings,2017
+/zapas/2526345,Detroit Red Wings,Buffalo Sabres,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Buffalo Sabres,Detroit Red Wings,2017
+/zapas/2526360,Detroit Red Wings,Colorado Avalanche,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Colorado Avalanche,Detroit Red Wings,2017
+/zapas/2526374,Detroit Red Wings,Edmonton Oilers,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Edmonton Oilers,Detroit Red Wings,2017
+/zapas/2526395,New York Rangers,Detroit Red Wings,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,New York Rangers,Detroit Red Wings,2017
+/zapas/2526405,Detroit Red Wings,New Jersey Devils,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,New Jersey Devils,Detroit Red Wings,2017
+/zapas/2526426,Detroit Red Wings,Los Angeles Kings,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Detroit Red Wings,2017
+/zapas/2526436,Detroit Red Wings,Montreal Canadiens,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Montreal Canadiens,Detroit Red Wings,2017
+/zapas/2526453,Montreal Canadiens,Detroit Red Wings,10,1,0,3.0,0.0,0.0,0.0,1.0,10.0,0.0,Montreal Canadiens,Detroit Red Wings,2017
+/zapas/2526473,Detroit Red Wings,Winnipeg Jets,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Winnipeg Jets,Detroit Red Wings,2017
+/zapas/2526498,Detroit Red Wings,St. Louis Blues,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,St. Louis Blues,Detroit Red Wings,2017
+/zapas/2526517,Detroit Red Wings,Florida Panthers,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Florida Panthers,Detroit Red Wings,2017
+/zapas/2526531,Detroit Red Wings,Boston Bruins,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Boston Bruins,Detroit Red Wings,2017
+/zapas/2526548,Detroit Red Wings,Toronto Maple Leafs,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Toronto Maple Leafs,Detroit Red Wings,2017
+/zapas/2526572,New York Islanders,Detroit Red Wings,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,New York Islanders,Detroit Red Wings,2017
+/zapas/2526581,Philadelphia Flyers,Detroit Red Wings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Philadelphia Flyers,Detroit Red Wings,2017
+/zapas/2526597,Boston Bruins,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Boston Bruins,Detroit Red Wings,2017
+/zapas/2526613,New Jersey Devils,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New Jersey Devils,Detroit Red Wings,2017
+/zapas/2526632,Detroit Red Wings,New York Rangers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Rangers,Detroit Red Wings,2017
+/zapas/2526651,Detroit Red Wings,Pittsburgh Penguins,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Pittsburgh Penguins,Detroit Red Wings,2017
+/zapas/2526668,Detroit Red Wings,Ottawa Senators,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Ottawa Senators,Detroit Red Wings,2017
+/zapas/2526683,Detroit Red Wings,Florida Panthers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Florida Panthers,Detroit Red Wings,2017
+/zapas/2526702,Detroit Red Wings,Tampa Bay Lightning,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2017
+/zapas/2526725,Pittsburgh Penguins,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Pittsburgh Penguins,Detroit Red Wings,2017
+/zapas/2526735,Chicago Blackhawks,Detroit Red Wings,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Chicago Blackhawks,Detroit Red Wings,2017
+/zapas/2526744,Detroit Red Wings,Dallas Stars,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Dallas Stars,Detroit Red Wings,2017
+/zapas/2526768,Detroit Red Wings,Carolina Hurricanes,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Detroit Red Wings,2017
+/zapas/2526780,New Jersey Devils,Detroit Red Wings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,New Jersey Devils,Detroit Red Wings,2017
+/zapas/2526788,Detroit Red Wings,Philadelphia Flyers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Philadelphia Flyers,Detroit Red Wings,2017
+/zapas/2526806,Detroit Red Wings,Chicago Blackhawks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Chicago Blackhawks,Detroit Red Wings,2017
+/zapas/2526829,Detroit Red Wings,San Jose Sharks,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,San Jose Sharks,Detroit Red Wings,2017
+/zapas/2526843,Carolina Hurricanes,Detroit Red Wings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Carolina Hurricanes,Detroit Red Wings,2017
+/zapas/2526851,Florida Panthers,Detroit Red Wings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Florida Panthers,Detroit Red Wings,2017
+/zapas/2526871,Detroit Red Wings,Boston Bruins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Boston Bruins,Detroit Red Wings,2017
+/zapas/2526889,New York Islanders,Detroit Red Wings,7,6,1,2.0,1.0,0.0,1.0,6.0,7.0,0.0,New York Islanders,Detroit Red Wings,2017
+/zapas/2526908,Washington Capitals,Detroit Red Wings,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Washington Capitals,Detroit Red Wings,2017
+/zapas/2526924,Detroit Red Wings,Anaheim Ducks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Detroit Red Wings,2017
+/zapas/2526937,Tampa Bay Lightning,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2017
+/zapas/2526955,Nashville Predators,Detroit Red Wings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Nashville Predators,Detroit Red Wings,2017
+/zapas/2526963,Detroit Red Wings,Toronto Maple Leafs,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2017
+/zapas/2526976,Detroit Red Wings,Nashville Predators,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Nashville Predators,Detroit Red Wings,2017
+/zapas/2526989,Detroit Red Wings,Buffalo Sabres,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Buffalo Sabres,Detroit Red Wings,2017
+/zapas/2527005,Detroit Red Wings,Carolina Hurricanes,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Carolina Hurricanes,Detroit Red Wings,2017
+/zapas/2527014,New York Rangers,Detroit Red Wings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New York Rangers,Detroit Red Wings,2017
+/zapas/2527034,St. Louis Blues,Detroit Red Wings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,St. Louis Blues,Detroit Red Wings,2017
+/zapas/2527048,Winnipeg Jets,Detroit Red Wings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Detroit Red Wings,2017
+/zapas/2527067,Minnesota Wild,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Minnesota Wild,Detroit Red Wings,2017
+/zapas/2527074,Boston Bruins,Detroit Red Wings,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Boston Bruins,Detroit Red Wings,2017
+/zapas/2527090,Detroit Red Wings,Vegas Golden Knights,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Vegas Golden Knights,Detroit Red Wings,2017
+/zapas/2527098,Columbus Blue Jackets,Detroit Red Wings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2017
+/zapas/2527124,San Jose Sharks,Detroit Red Wings,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,San Jose Sharks,Detroit Red Wings,2017
+/zapas/2527145,Los Angeles Kings,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Detroit Red Wings,2017
+/zapas/2527150,Anaheim Ducks,Detroit Red Wings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Anaheim Ducks,Detroit Red Wings,2017
+/zapas/2527162,Colorado Avalanche,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Detroit Red Wings,2017
+/zapas/2527180,Detroit Red Wings,Philadelphia Flyers,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Philadelphia Flyers,Detroit Red Wings,2017
+/zapas/2527195,Detroit Red Wings,Washington Capitals,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Washington Capitals,Detroit Red Wings,2017
+/zapas/2527207,Toronto Maple Leafs,Detroit Red Wings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2017
+/zapas/2527226,Montreal Canadiens,Detroit Red Wings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Montreal Canadiens,Detroit Red Wings,2017
+/zapas/2527233,Detroit Red Wings,Pittsburgh Penguins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Pittsburgh Penguins,Detroit Red Wings,2017
+/zapas/2527245,Buffalo Sabres,Detroit Red Wings,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Buffalo Sabres,Detroit Red Wings,2017
+/zapas/2527261,Detroit Red Wings,Ottawa Senators,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Ottawa Senators,Detroit Red Wings,2017
+/zapas/2527285,Columbus Blue Jackets,Detroit Red Wings,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2017
+/zapas/2527300,Detroit Red Wings,Montreal Canadiens,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Montreal Canadiens,Detroit Red Wings,2017
+/zapas/2527315,Detroit Red Wings,New York Islanders,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,New York Islanders,Detroit Red Wings,2017
+/zapas/2647208,Detroit Red Wings,Columbus Blue Jackets,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2018
+/zapas/2647229,Los Angeles Kings,Detroit Red Wings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Detroit Red Wings,2018
+/zapas/2647233,Anaheim Ducks,Detroit Red Wings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Anaheim Ducks,Detroit Red Wings,2018
+/zapas/2647250,Detroit Red Wings,Toronto Maple Leafs,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2018
+/zapas/2647259,Boston Bruins,Detroit Red Wings,8,2,0,3.0,0.0,0.0,0.0,2.0,8.0,0.0,Boston Bruins,Detroit Red Wings,2018
+/zapas/2647273,Montreal Canadiens,Detroit Red Wings,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Montreal Canadiens,Detroit Red Wings,2018
+/zapas/2647291,Tampa Bay Lightning,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2018
+/zapas/2647306,Florida Panthers,Detroit Red Wings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Florida Panthers,Detroit Red Wings,2018
+/zapas/2647317,Detroit Red Wings,Carolina Hurricanes,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Detroit Red Wings,2018
+/zapas/2647343,Detroit Red Wings,Winnipeg Jets,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Winnipeg Jets,Detroit Red Wings,2018
+/zapas/2647358,Detroit Red Wings,Dallas Stars,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Dallas Stars,Detroit Red Wings,2018
+/zapas/2647368,Columbus Blue Jackets,Detroit Red Wings,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Columbus Blue Jackets,Detroit Red Wings,2018
+/zapas/2647382,Detroit Red Wings,New Jersey Devils,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,New Jersey Devils,Detroit Red Wings,2018
+/zapas/2647395,Detroit Red Wings,Edmonton Oilers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Edmonton Oilers,Detroit Red Wings,2018
+/zapas/2647417,Detroit Red Wings,Vancouver Canucks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Detroit Red Wings,2018
+/zapas/2647436,Detroit Red Wings,New York Rangers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Rangers,Detroit Red Wings,2018
+/zapas/2647448,Carolina Hurricanes,Detroit Red Wings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Carolina Hurricanes,Detroit Red Wings,2018
+/zapas/2647466,Detroit Red Wings,Arizona Coyotes,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Arizona Coyotes,Detroit Red Wings,2018
+/zapas/2647479,Ottawa Senators,Detroit Red Wings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Ottawa Senators,Detroit Red Wings,2018
+/zapas/2647490,New Jersey Devils,Detroit Red Wings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New Jersey Devils,Detroit Red Wings,2018
+/zapas/2647522,Detroit Red Wings,Boston Bruins,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Boston Bruins,Detroit Red Wings,2018
+/zapas/2647535,Washington Capitals,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Washington Capitals,Detroit Red Wings,2018
+/zapas/2647549,Detroit Red Wings,Buffalo Sabres,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Buffalo Sabres,Detroit Red Wings,2018
+/zapas/2647564,Detroit Red Wings,Columbus Blue Jackets,5,7,0,0.0,3.0,1.0,0.0,5.0,7.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2018
+/zapas/2647575,Detroit Red Wings,St. Louis Blues,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,St. Louis Blues,Detroit Red Wings,2018
+/zapas/2647596,Boston Bruins,Detroit Red Wings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Boston Bruins,Detroit Red Wings,2018
+/zapas/2647609,Detroit Red Wings,Colorado Avalanche,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Colorado Avalanche,Detroit Red Wings,2018
+/zapas/2647620,Detroit Red Wings,Tampa Bay Lightning,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2018
+/zapas/2647627,Toronto Maple Leafs,Detroit Red Wings,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Toronto Maple Leafs,Detroit Red Wings,2018
+/zapas/2647646,Detroit Red Wings,New York Islanders,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,New York Islanders,Detroit Red Wings,2018
+/zapas/2647660,Detroit Red Wings,Los Angeles Kings,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Los Angeles Kings,Detroit Red Wings,2018
+/zapas/2647665,Washington Capitals,Detroit Red Wings,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Washington Capitals,Detroit Red Wings,2018
+/zapas/2647688,Detroit Red Wings,Ottawa Senators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Ottawa Senators,Detroit Red Wings,2018
+/zapas/2647696,New York Islanders,Detroit Red Wings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Islanders,Detroit Red Wings,2018
+/zapas/2647718,Philadelphia Flyers,Detroit Red Wings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Philadelphia Flyers,Detroit Red Wings,2018
+/zapas/2647732,Carolina Hurricanes,Detroit Red Wings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Carolina Hurricanes,Detroit Red Wings,2018
+/zapas/2647745,Detroit Red Wings,Florida Panthers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Florida Panthers,Detroit Red Wings,2018
+/zapas/2647761,Toronto Maple Leafs,Detroit Red Wings,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2018
+/zapas/2647767,Pittsburgh Penguins,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Pittsburgh Penguins,Detroit Red Wings,2018
+/zapas/2647792,Dallas Stars,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Dallas Stars,Detroit Red Wings,2018
+/zapas/2647804,Detroit Red Wings,Florida Panthers,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Florida Panthers,Detroit Red Wings,2018
+/zapas/2647814,Detroit Red Wings,Calgary Flames,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Calgary Flames,Detroit Red Wings,2018
+/zapas/2647828,Detroit Red Wings,Nashville Predators,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Nashville Predators,Detroit Red Wings,2018
+/zapas/2647847,Detroit Red Wings,Washington Capitals,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Washington Capitals,Detroit Red Wings,2018
+/zapas/2647860,Detroit Red Wings,Montreal Canadiens,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Montreal Canadiens,Detroit Red Wings,2018
+/zapas/2647882,Winnipeg Jets,Detroit Red Wings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Winnipeg Jets,Detroit Red Wings,2018
+/zapas/2647891,Minnesota Wild,Detroit Red Wings,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Minnesota Wild,Detroit Red Wings,2018
+/zapas/2647913,Detroit Red Wings,Anaheim Ducks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Anaheim Ducks,Detroit Red Wings,2018
+/zapas/2647935,Calgary Flames,Detroit Red Wings,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Calgary Flames,Detroit Red Wings,2018
+/zapas/2647951,Vancouver Canucks,Detroit Red Wings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vancouver Canucks,Detroit Red Wings,2018
+/zapas/2647962,Edmonton Oilers,Detroit Red Wings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Edmonton Oilers,Detroit Red Wings,2018
+/zapas/2647984,Detroit Red Wings,Toronto Maple Leafs,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Toronto Maple Leafs,Detroit Red Wings,2018
+/zapas/2647991,Ottawa Senators,Detroit Red Wings,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Ottawa Senators,Detroit Red Wings,2018
+/zapas/2648028,Detroit Red Wings,Vegas Golden Knights,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Vegas Golden Knights,Detroit Red Wings,2018
+/zapas/2648037,Buffalo Sabres,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Buffalo Sabres,Detroit Red Wings,2018
+/zapas/2648051,Chicago Blackhawks,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Chicago Blackhawks,Detroit Red Wings,2018
+/zapas/2648068,Nashville Predators,Detroit Red Wings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Nashville Predators,Detroit Red Wings,2018
+/zapas/2648077,Detroit Red Wings,Ottawa Senators,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Ottawa Senators,Detroit Red Wings,2018
+/zapas/2648090,Philadelphia Flyers,Detroit Red Wings,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Philadelphia Flyers,Detroit Red Wings,2018
+/zapas/2648105,Detroit Red Wings,Philadelphia Flyers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Philadelphia Flyers,Detroit Red Wings,2018
+/zapas/2648123,Detroit Red Wings,Chicago Blackhawks,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Chicago Blackhawks,Detroit Red Wings,2018
+/zapas/2648140,Detroit Red Wings,Minnesota Wild,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Minnesota Wild,Detroit Red Wings,2018
+/zapas/2648156,Detroit Red Wings,San Jose Sharks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,San Jose Sharks,Detroit Red Wings,2018
+/zapas/2648172,Detroit Red Wings,Montreal Canadiens,1,8,0,0.0,3.0,1.0,0.0,1.0,8.0,0.0,Montreal Canadiens,Detroit Red Wings,2018
+/zapas/2648204,Arizona Coyotes,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Arizona Coyotes,Detroit Red Wings,2018
+/zapas/2648224,Colorado Avalanche,Detroit Red Wings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Colorado Avalanche,Detroit Red Wings,2018
+/zapas/2648234,Detroit Red Wings,New York Rangers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Rangers,Detroit Red Wings,2018
+/zapas/2648250,Tampa Bay Lightning,Detroit Red Wings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2018
+/zapas/2648258,Florida Panthers,Detroit Red Wings,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Florida Panthers,Detroit Red Wings,2018
+/zapas/2648273,Montreal Canadiens,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Montreal Canadiens,Detroit Red Wings,2018
+/zapas/2648285,Detroit Red Wings,Tampa Bay Lightning,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2018
+/zapas/2648298,Detroit Red Wings,New York Islanders,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Islanders,Detroit Red Wings,2018
+/zapas/2648322,New York Rangers,Detroit Red Wings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Rangers,Detroit Red Wings,2018
+/zapas/2648338,St. Louis Blues,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,St. Louis Blues,Detroit Red Wings,2018
+/zapas/2648360,Vegas Golden Knights,Detroit Red Wings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vegas Golden Knights,Detroit Red Wings,2018
+/zapas/2648375,San Jose Sharks,Detroit Red Wings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,San Jose Sharks,Detroit Red Wings,2018
+/zapas/2648387,Buffalo Sabres,Detroit Red Wings,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Buffalo Sabres,Detroit Red Wings,2018
+/zapas/2648397,Detroit Red Wings,New Jersey Devils,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,New Jersey Devils,Detroit Red Wings,2018
+/zapas/2648417,Detroit Red Wings,Boston Bruins,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Boston Bruins,Detroit Red Wings,2018
+/zapas/2648431,Detroit Red Wings,Pittsburgh Penguins,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Pittsburgh Penguins,Detroit Red Wings,2018
+/zapas/2648443,Pittsburgh Penguins,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Pittsburgh Penguins,Detroit Red Wings,2018
+/zapas/2648459,Detroit Red Wings,Buffalo Sabres,1,7,0,0.0,3.0,1.0,0.0,1.0,7.0,0.0,Buffalo Sabres,Detroit Red Wings,2018
+/zapas/2806401,Nashville Predators,Detroit Red Wings,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Nashville Predators,Detroit Red Wings,2019
+/zapas/2806408,Detroit Red Wings,Dallas Stars,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Dallas Stars,Detroit Red Wings,2019
+/zapas/2806416,Detroit Red Wings,Anaheim Ducks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Detroit Red Wings,2019
+/zapas/2806424,Montreal Canadiens,Detroit Red Wings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Montreal Canadiens,Detroit Red Wings,2019
+/zapas/2806443,Detroit Red Wings,Toronto Maple Leafs,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2019
+/zapas/2806465,Vancouver Canucks,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Vancouver Canucks,Detroit Red Wings,2019
+/zapas/2806479,Calgary Flames,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Calgary Flames,Detroit Red Wings,2019
+/zapas/2806487,Edmonton Oilers,Detroit Red Wings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Edmonton Oilers,Detroit Red Wings,2019
+/zapas/2806513,Detroit Red Wings,Vancouver Canucks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Detroit Red Wings,2019
+/zapas/2806519,Ottawa Senators,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Ottawa Senators,Detroit Red Wings,2019
+/zapas/2806535,Detroit Red Wings,Buffalo Sabres,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Buffalo Sabres,Detroit Red Wings,2019
+/zapas/2806547,Detroit Red Wings,St. Louis Blues,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,St. Louis Blues,Detroit Red Wings,2019
+/zapas/2806560,Detroit Red Wings,Edmonton Oilers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Edmonton Oilers,Detroit Red Wings,2019
+/zapas/2806575,Carolina Hurricanes,Detroit Red Wings,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Carolina Hurricanes,Detroit Red Wings,2019
+/zapas/2806585,Florida Panthers,Detroit Red Wings,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Florida Panthers,Detroit Red Wings,2019
+/zapas/2806598,Detroit Red Wings,Nashville Predators,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Nashville Predators,Detroit Red Wings,2019
+/zapas/2806611,New York Rangers,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,New York Rangers,Detroit Red Wings,2019
+/zapas/2806625,Detroit Red Wings,Boston Bruins,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Boston Bruins,Detroit Red Wings,2019
+/zapas/2806642,Detroit Red Wings,Vegas Golden Knights,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Vegas Golden Knights,Detroit Red Wings,2019
+/zapas/2806654,Anaheim Ducks,Detroit Red Wings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Detroit Red Wings,2019
+/zapas/2806669,Los Angeles Kings,Detroit Red Wings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Los Angeles Kings,Detroit Red Wings,2019
+/zapas/2806689,San Jose Sharks,Detroit Red Wings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,San Jose Sharks,Detroit Red Wings,2019
+/zapas/2806699,Detroit Red Wings,Ottawa Senators,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Ottawa Senators,Detroit Red Wings,2019
+/zapas/2806713,Columbus Blue Jackets,Detroit Red Wings,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2019
+/zapas/2806732,New Jersey Devils,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,New Jersey Devils,Detroit Red Wings,2019
+/zapas/2806739,Detroit Red Wings,Carolina Hurricanes,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Carolina Hurricanes,Detroit Red Wings,2019
+/zapas/2806755,Detroit Red Wings,Toronto Maple Leafs,0,6,0,0.0,3.0,1.0,0.0,0.0,6.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2019
+/zapas/2806773,Philadelphia Flyers,Detroit Red Wings,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Philadelphia Flyers,Detroit Red Wings,2019
+/zapas/2806783,Detroit Red Wings,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Detroit Red Wings,2019
+/zapas/2806797,Detroit Red Wings,New York Islanders,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,New York Islanders,Detroit Red Wings,2019
+/zapas/2806832,Detroit Red Wings,Pittsburgh Penguins,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Pittsburgh Penguins,Detroit Red Wings,2019
+/zapas/2806853,Winnipeg Jets,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Winnipeg Jets,Detroit Red Wings,2019
+/zapas/2806867,Detroit Red Wings,Winnipeg Jets,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Winnipeg Jets,Detroit Red Wings,2019
+/zapas/2806884,Montreal Canadiens,Detroit Red Wings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Montreal Canadiens,Detroit Red Wings,2019
+/zapas/2806893,Detroit Red Wings,Los Angeles Kings,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Detroit Red Wings,2019
+/zapas/2806905,Detroit Red Wings,Columbus Blue Jackets,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2019
+/zapas/2806933,Toronto Maple Leafs,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2019
+/zapas/2806943,Detroit Red Wings,Arizona Coyotes,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Detroit Red Wings,2019
+/zapas/2806972,Florida Panthers,Detroit Red Wings,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Florida Panthers,Detroit Red Wings,2019
+/zapas/2806983,Tampa Bay Lightning,Detroit Red Wings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2019
+/zapas/2806996,Detroit Red Wings,San Jose Sharks,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,San Jose Sharks,Detroit Red Wings,2019
+/zapas/2807016,Dallas Stars,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Dallas Stars,Detroit Red Wings,2019
+/zapas/2807033,Chicago Blackhawks,Detroit Red Wings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Chicago Blackhawks,Detroit Red Wings,2019
+/zapas/2807045,Detroit Red Wings,Montreal Canadiens,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Montreal Canadiens,Detroit Red Wings,2019
+/zapas/2807065,Detroit Red Wings,Ottawa Senators,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Ottawa Senators,Detroit Red Wings,2019
+/zapas/2807081,Detroit Red Wings,Buffalo Sabres,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Buffalo Sabres,Detroit Red Wings,2019
+/zapas/2807093,New York Islanders,Detroit Red Wings,8,2,0,3.0,0.0,0.0,0.0,2.0,8.0,0.0,New York Islanders,Detroit Red Wings,2019
+/zapas/2807116,Detroit Red Wings,Pittsburgh Penguins,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Pittsburgh Penguins,Detroit Red Wings,2019
+/zapas/2807125,Detroit Red Wings,Florida Panthers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Florida Panthers,Detroit Red Wings,2019
+/zapas/2807135,Colorado Avalanche,Detroit Red Wings,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Colorado Avalanche,Detroit Red Wings,2019
+/zapas/2807143,Minnesota Wild,Detroit Red Wings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Minnesota Wild,Detroit Red Wings,2019
+/zapas/2807161,New York Rangers,Detroit Red Wings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,New York Rangers,Detroit Red Wings,2019
+/zapas/2807173,Detroit Red Wings,New York Rangers,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,New York Rangers,Detroit Red Wings,2019
+/zapas/2807187,Detroit Red Wings,Philadelphia Flyers,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Philadelphia Flyers,Detroit Red Wings,2019
+/zapas/2807203,Buffalo Sabres,Detroit Red Wings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Buffalo Sabres,Detroit Red Wings,2019
+/zapas/2807217,Columbus Blue Jackets,Detroit Red Wings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2019
+/zapas/2807231,Detroit Red Wings,Boston Bruins,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Boston Bruins,Detroit Red Wings,2019
+/zapas/2807242,Buffalo Sabres,Detroit Red Wings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Buffalo Sabres,Detroit Red Wings,2019
+/zapas/2807260,New Jersey Devils,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New Jersey Devils,Detroit Red Wings,2019
+/zapas/2807271,Boston Bruins,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Boston Bruins,Detroit Red Wings,2019
+/zapas/2807282,Pittsburgh Penguins,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Pittsburgh Penguins,Detroit Red Wings,2019
+/zapas/2807299,Detroit Red Wings,Montreal Canadiens,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Montreal Canadiens,Detroit Red Wings,2019
+/zapas/2807317,New York Islanders,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Islanders,Detroit Red Wings,2019
+/zapas/2807339,Detroit Red Wings,Calgary Flames,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Calgary Flames,Detroit Red Wings,2019
+/zapas/2807351,Detroit Red Wings,New Jersey Devils,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,New Jersey Devils,Detroit Red Wings,2019
+/zapas/2807365,Detroit Red Wings,Minnesota Wild,1,7,0,0.0,3.0,1.0,0.0,1.0,7.0,0.0,Minnesota Wild,Detroit Red Wings,2019
+/zapas/2807381,Ottawa Senators,Detroit Red Wings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Ottawa Senators,Detroit Red Wings,2019
+/zapas/2807393,Detroit Red Wings,Colorado Avalanche,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Colorado Avalanche,Detroit Red Wings,2019
+/zapas/2807420,Detroit Red Wings,Chicago Blackhawks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Chicago Blackhawks,Detroit Red Wings,2019
+/zapas/2807436,Detroit Red Wings,Tampa Bay Lightning,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Tampa Bay Lightning,Detroit Red Wings,2019
+/zapas/2807450,Detroit Red Wings,Carolina Hurricanes,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Carolina Hurricanes,Detroit Red Wings,2019
+/zapas/2893222,Detroit Red Wings,Carolina Hurricanes,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Carolina Hurricanes,Detroit Red Wings,2020
+/zapas/2893237,Detroit Red Wings,Carolina Hurricanes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Carolina Hurricanes,Detroit Red Wings,2020
+/zapas/2893250,Detroit Red Wings,Columbus Blue Jackets,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2020
+/zapas/2893260,Detroit Red Wings,Columbus Blue Jackets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Columbus Blue Jackets,Detroit Red Wings,2020
+/zapas/2893275,Chicago Blackhawks,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Chicago Blackhawks,Detroit Red Wings,2020
+/zapas/2893289,Chicago Blackhawks,Detroit Red Wings,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Chicago Blackhawks,Detroit Red Wings,2020
+/zapas/2893304,Dallas Stars,Detroit Red Wings,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Dallas Stars,Detroit Red Wings,2020
+/zapas/2893318,Dallas Stars,Detroit Red Wings,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Dallas Stars,Detroit Red Wings,2020
+/zapas/2893341,Detroit Red Wings,Florida Panthers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Florida Panthers,Detroit Red Wings,2020
+/zapas/2893350,Detroit Red Wings,Florida Panthers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Florida Panthers,Detroit Red Wings,2020
+/zapas/2893368,Tampa Bay Lightning,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2020
+/zapas/2893383,Tampa Bay Lightning,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2020
+/zapas/2893400,Florida Panthers,Detroit Red Wings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Florida Panthers,Detroit Red Wings,2020
+/zapas/2893416,Florida Panthers,Detroit Red Wings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Florida Panthers,Detroit Red Wings,2020
+/zapas/2893423,Nashville Predators,Detroit Red Wings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Nashville Predators,Detroit Red Wings,2020
+/zapas/2893438,Nashville Predators,Detroit Red Wings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Nashville Predators,Detroit Red Wings,2020
+/zapas/2893457,Detroit Red Wings,Chicago Blackhawks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Chicago Blackhawks,Detroit Red Wings,2020
+/zapas/2893471,Detroit Red Wings,Chicago Blackhawks,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Chicago Blackhawks,Detroit Red Wings,2020
+/zapas/2893484,Detroit Red Wings,Florida Panthers,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,Florida Panthers,Detroit Red Wings,2020
+/zapas/2893500,Detroit Red Wings,Florida Panthers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Florida Panthers,Detroit Red Wings,2020
+/zapas/2893513,Detroit Red Wings,Nashville Predators,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Nashville Predators,Detroit Red Wings,2020
+/zapas/2893527,Detroit Red Wings,Nashville Predators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Nashville Predators,Detroit Red Wings,2020
+/zapas/2893535,Chicago Blackhawks,Detroit Red Wings,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Chicago Blackhawks,Detroit Red Wings,2020
+/zapas/2893548,Chicago Blackhawks,Detroit Red Wings,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,Chicago Blackhawks,Detroit Red Wings,2020
+/zapas/2893565,Columbus Blue Jackets,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2020
+/zapas/2893577,Carolina Hurricanes,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Carolina Hurricanes,Detroit Red Wings,2020
+/zapas/2893616,Detroit Red Wings,Tampa Bay Lightning,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2020
+/zapas/2893631,Detroit Red Wings,Tampa Bay Lightning,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Tampa Bay Lightning,Detroit Red Wings,2020
+/zapas/2893651,Detroit Red Wings,Carolina Hurricanes,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Carolina Hurricanes,Detroit Red Wings,2020
+/zapas/2893668,Detroit Red Wings,Carolina Hurricanes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Carolina Hurricanes,Detroit Red Wings,2020
+/zapas/2893683,Detroit Red Wings,Dallas Stars,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Dallas Stars,Detroit Red Wings,2020
+/zapas/2893698,Detroit Red Wings,Dallas Stars,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Dallas Stars,Detroit Red Wings,2020
+/zapas/2893713,Nashville Predators,Detroit Red Wings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Nashville Predators,Detroit Red Wings,2020
+/zapas/2893724,Nashville Predators,Detroit Red Wings,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Nashville Predators,Detroit Red Wings,2020
+/zapas/2893746,Detroit Red Wings,Columbus Blue Jackets,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,2020
+/zapas/2893754,Detroit Red Wings,Columbus Blue Jackets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,2020
+/zapas/2893770,Florida Panthers,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Florida Panthers,Detroit Red Wings,2020
+/zapas/2893785,Florida Panthers,Detroit Red Wings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Florida Panthers,Detroit Red Wings,2020
+/zapas/2893800,Tampa Bay Lightning,Detroit Red Wings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2020
+/zapas/2893809,Tampa Bay Lightning,Detroit Red Wings,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Tampa Bay Lightning,Detroit Red Wings,2020
+/zapas/2893827,Detroit Red Wings,Nashville Predators,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Nashville Predators,Detroit Red Wings,2020
+/zapas/2893841,Detroit Red Wings,Nashville Predators,1,7,0,0.0,3.0,1.0,0.0,1.0,7.0,0.0,Nashville Predators,Detroit Red Wings,2020
+/zapas/2893853,Carolina Hurricanes,Detroit Red Wings,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Carolina Hurricanes,Detroit Red Wings,2020
+/zapas/2893867,Carolina Hurricanes,Detroit Red Wings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Carolina Hurricanes,Detroit Red Wings,2020
+/zapas/2893890,Detroit Red Wings,Chicago Blackhawks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Chicago Blackhawks,Detroit Red Wings,2020
+/zapas/2893906,Detroit Red Wings,Chicago Blackhawks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Chicago Blackhawks,Detroit Red Wings,2020
+/zapas/2893914,Dallas Stars,Detroit Red Wings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Dallas Stars,Detroit Red Wings,2020
+/zapas/2893922,Dallas Stars,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Dallas Stars,Detroit Red Wings,2020
+/zapas/2893944,Detroit Red Wings,Dallas Stars,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Dallas Stars,Detroit Red Wings,2020
+/zapas/2893958,Detroit Red Wings,Dallas Stars,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Dallas Stars,Detroit Red Wings,2020
+/zapas/2893982,Columbus Blue Jackets,Detroit Red Wings,1,0,1,2.0,1.0,0.0,1.0,0.0,1.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2020
+/zapas/2893997,Carolina Hurricanes,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Detroit Red Wings,2020
+/zapas/2894014,Detroit Red Wings,Tampa Bay Lightning,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,Tampa Bay Lightning,Detroit Red Wings,2020
+/zapas/2894019,Detroit Red Wings,Tampa Bay Lightning,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2020
+/zapas/2894057,Columbus Blue Jackets,Detroit Red Wings,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Columbus Blue Jackets,Detroit Red Wings,2020
+/zapas/2894071,Columbus Blue Jackets,Detroit Red Wings,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2020
+/zapas/2896993,Detroit Red Wings,Tampa Bay Lightning,6,7,1,1.0,2.0,1.0,1.0,6.0,7.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2021
+/zapas/2897010,Detroit Red Wings,Vancouver Canucks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Vancouver Canucks,Detroit Red Wings,2021
+/zapas/2897026,Detroit Red Wings,Columbus Blue Jackets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Detroit Red Wings,2021
+/zapas/2897039,Detroit Red Wings,Calgary Flames,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Calgary Flames,Detroit Red Wings,2021
+/zapas/2897052,Montreal Canadiens,Detroit Red Wings,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Montreal Canadiens,Detroit Red Wings,2021
+/zapas/2897061,Chicago Blackhawks,Detroit Red Wings,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Chicago Blackhawks,Detroit Red Wings,2021
+/zapas/2897082,Washington Capitals,Detroit Red Wings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Washington Capitals,Detroit Red Wings,2021
+/zapas/2897094,Detroit Red Wings,Florida Panthers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Florida Panthers,Detroit Red Wings,2021
+/zapas/2897106,Toronto Maple Leafs,Detroit Red Wings,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2021
+/zapas/2897123,Montreal Canadiens,Detroit Red Wings,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Montreal Canadiens,Detroit Red Wings,2021
+/zapas/2897132,Boston Bruins,Detroit Red Wings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Boston Bruins,Detroit Red Wings,2021
+/zapas/2897147,Buffalo Sabres,Detroit Red Wings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Buffalo Sabres,Detroit Red Wings,2021
+/zapas/2897159,Detroit Red Wings,Vegas Golden Knights,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Detroit Red Wings,2021
+/zapas/2897170,Detroit Red Wings,Edmonton Oilers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Detroit Red Wings,2021
+/zapas/2897184,Detroit Red Wings,Washington Capitals,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Washington Capitals,Detroit Red Wings,2021
+/zapas/2897200,Detroit Red Wings,Montreal Canadiens,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Detroit Red Wings,2021
+/zapas/2897212,Columbus Blue Jackets,Detroit Red Wings,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2021
+/zapas/2897216,Dallas Stars,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Dallas Stars,Detroit Red Wings,2021
+/zapas/2897228,Vegas Golden Knights,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Detroit Red Wings,2021
+/zapas/2897246,Arizona Coyotes,Detroit Red Wings,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Arizona Coyotes,Detroit Red Wings,2021
+/zapas/2897278,Detroit Red Wings,St. Louis Blues,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,St. Louis Blues,Detroit Red Wings,2021
+/zapas/2897304,Detroit Red Wings,Buffalo Sabres,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Buffalo Sabres,Detroit Red Wings,2021
+/zapas/2897323,Boston Bruins,Detroit Red Wings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Boston Bruins,Detroit Red Wings,2021
+/zapas/2897331,Detroit Red Wings,Seattle Kraken,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Seattle Kraken,Detroit Red Wings,2021
+/zapas/2897353,Detroit Red Wings,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Detroit Red Wings,2021
+/zapas/2897378,Detroit Red Wings,Nashville Predators,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Nashville Predators,Detroit Red Wings,2021
+/zapas/2897388,St. Louis Blues,Detroit Red Wings,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,St. Louis Blues,Detroit Red Wings,2021
+/zapas/2897395,Colorado Avalanche,Detroit Red Wings,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Colorado Avalanche,Detroit Red Wings,2021
+/zapas/2897427,Detroit Red Wings,New York Islanders,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Islanders,Detroit Red Wings,2021
+/zapas/2897445,Carolina Hurricanes,Detroit Red Wings,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Carolina Hurricanes,Detroit Red Wings,2021
+/zapas/2897459,Detroit Red Wings,New Jersey Devils,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New Jersey Devils,Detroit Red Wings,2021
+/zapas/2897544,Detroit Red Wings,Washington Capitals,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Washington Capitals,Detroit Red Wings,2021
+/zapas/2897560,Detroit Red Wings,Boston Bruins,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Boston Bruins,Detroit Red Wings,2021
+/zapas/2897574,Detroit Red Wings,San Jose Sharks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,San Jose Sharks,Detroit Red Wings,2021
+/zapas/2897598,Los Angeles Kings,Detroit Red Wings,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Los Angeles Kings,Detroit Red Wings,2021
+/zapas/2897581,Anaheim Ducks,Detroit Red Wings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Anaheim Ducks,Detroit Red Wings,2021
+/zapas/2897620,San Jose Sharks,Detroit Red Wings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,San Jose Sharks,Detroit Red Wings,2021
+/zapas/2897638,Detroit Red Wings,Winnipeg Jets,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Winnipeg Jets,Detroit Red Wings,2021
+/zapas/2897655,Detroit Red Wings,Buffalo Sabres,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Buffalo Sabres,Detroit Red Wings,2021
+/zapas/2897669,Buffalo Sabres,Detroit Red Wings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Buffalo Sabres,Detroit Red Wings,2021
+/zapas/2897698,Detroit Red Wings,Dallas Stars,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Dallas Stars,Detroit Red Wings,2021
+/zapas/2897705,Nashville Predators,Detroit Red Wings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Nashville Predators,Detroit Red Wings,2021
+/zapas/2897735,Detroit Red Wings,Chicago Blackhawks,5,8,0,0.0,3.0,1.0,0.0,5.0,8.0,0.0,Chicago Blackhawks,Detroit Red Wings,2021
+/zapas/2897752,Pittsburgh Penguins,Detroit Red Wings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Pittsburgh Penguins,Detroit Red Wings,2021
+/zapas/2897758,Detroit Red Wings,Toronto Maple Leafs,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2021
+/zapas/2897774,Detroit Red Wings,Anaheim Ducks,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Anaheim Ducks,Detroit Red Wings,2021
+/zapas/2897790,Detroit Red Wings,Los Angeles Kings,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Los Angeles Kings,Detroit Red Wings,2021
+/zapas/2897680,Philadelphia Flyers,Detroit Red Wings,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Philadelphia Flyers,Detroit Red Wings,2021
+/zapas/2897794,Detroit Red Wings,Philadelphia Flyers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Philadelphia Flyers,Detroit Red Wings,2021
+/zapas/2897495,Minnesota Wild,Detroit Red Wings,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Minnesota Wild,Detroit Red Wings,2021
+/zapas/2897514,New York Rangers,Detroit Red Wings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New York Rangers,Detroit Red Wings,2021
+/zapas/2897473,Detroit Red Wings,Colorado Avalanche,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Colorado Avalanche,Detroit Red Wings,2021
+/zapas/2898262,Detroit Red Wings,Toronto Maple Leafs,7,10,0,0.0,3.0,1.0,0.0,7.0,10.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2021
+/zapas/2897837,Detroit Red Wings,Carolina Hurricanes,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Carolina Hurricanes,Detroit Red Wings,2021
+/zapas/2897857,Tampa Bay Lightning,Detroit Red Wings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2021
+/zapas/2897866,Florida Panthers,Detroit Red Wings,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Florida Panthers,Detroit Red Wings,2021
+/zapas/2897890,Detroit Red Wings,Arizona Coyotes,2,9,0,0.0,3.0,1.0,0.0,2.0,9.0,0.0,Arizona Coyotes,Detroit Red Wings,2021
+/zapas/2897904,Detroit Red Wings,Minnesota Wild,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Minnesota Wild,Detroit Red Wings,2021
+/zapas/2897914,Calgary Flames,Detroit Red Wings,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Calgary Flames,Detroit Red Wings,2021
+/zapas/2897937,Edmonton Oilers,Detroit Red Wings,7,5,0,3.0,0.0,0.0,0.0,5.0,7.0,0.0,Edmonton Oilers,Detroit Red Wings,2021
+/zapas/2897949,Vancouver Canucks,Detroit Red Wings,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Vancouver Canucks,Detroit Red Wings,2021
+/zapas/2897967,Seattle Kraken,Detroit Red Wings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Seattle Kraken,Detroit Red Wings,2021
+/zapas/2897989,Detroit Red Wings,Philadelphia Flyers,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Philadelphia Flyers,Detroit Red Wings,2021
+/zapas/2897531,New York Islanders,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Islanders,Detroit Red Wings,2021
+/zapas/2898025,Detroit Red Wings,Tampa Bay Lightning,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Tampa Bay Lightning,Detroit Red Wings,2021
+/zapas/2898034,Pittsburgh Penguins,Detroit Red Wings,11,2,0,3.0,0.0,0.0,0.0,2.0,11.0,0.0,Pittsburgh Penguins,Detroit Red Wings,2021
+/zapas/2898054,Detroit Red Wings,New York Rangers,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,New York Rangers,Detroit Red Wings,2021
+/zapas/2898068,Detroit Red Wings,Ottawa Senators,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Ottawa Senators,Detroit Red Wings,2021
+/zapas/2898086,Ottawa Senators,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Ottawa Senators,Detroit Red Wings,2021
+/zapas/2898099,Detroit Red Wings,Boston Bruins,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Boston Bruins,Detroit Red Wings,2021
+/zapas/2898107,Winnipeg Jets,Detroit Red Wings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Detroit Red Wings,2021
+/zapas/2898132,Detroit Red Wings,Columbus Blue Jackets,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Columbus Blue Jackets,Detroit Red Wings,2021
+/zapas/2898153,Detroit Red Wings,Ottawa Senators,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Ottawa Senators,Detroit Red Wings,2021
+/zapas/2898173,Carolina Hurricanes,Detroit Red Wings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Carolina Hurricanes,Detroit Red Wings,2021
+/zapas/2898190,New York Rangers,Detroit Red Wings,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,New York Rangers,Detroit Red Wings,2021
+/zapas/2898194,Detroit Red Wings,Florida Panthers,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Florida Panthers,Detroit Red Wings,2021
+/zapas/2898206,Tampa Bay Lightning,Detroit Red Wings,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Tampa Bay Lightning,Detroit Red Wings,2021
+/zapas/2898220,Florida Panthers,Detroit Red Wings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Florida Panthers,Detroit Red Wings,2021
+/zapas/2898237,Detroit Red Wings,Pittsburgh Penguins,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,Pittsburgh Penguins,Detroit Red Wings,2021
+/zapas/2898246,New Jersey Devils,Detroit Red Wings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,New Jersey Devils,Detroit Red Wings,2021
+/zapas/2897815,Toronto Maple Leafs,Detroit Red Wings,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Toronto Maple Leafs,Detroit Red Wings,2021
+/zapas/2898289,New Jersey Devils,Detroit Red Wings,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New Jersey Devils,Detroit Red Wings,2021
