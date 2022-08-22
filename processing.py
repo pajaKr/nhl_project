@@ -2,36 +2,23 @@
 The .csv files that are saved are then used for further processing and interpretation
  in the data interpreter file."""
 
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 
 
-def getSoup(link):
-    r = requests.get(link)
-    return BeautifulSoup(r.text, 'lxml')
-
-
 season_codes = {'2017': '6049', '2018': '6270', '2019': '6494', '2020': '6673', '2021': '6733'}
 seasons_used = ['2017', '2018', '2019', '2020', '2021']
-codes = getSoup('https://nhl.cz/sezona/tymy')
-team_info_list = codes.findAll('a', {'class': 'box-team__head'})
-code_list = [x["href"] for x in team_info_list]
-team_list = [h2.text for h2 in codes.findAll('h2')]
-dict_team_codes = {team_list[i]: code_list[i] for i in range(len(code_list))}
+
+
+teams_info = pd.read_csv('teams_info/teams_info.csv')
+
+# we have to store teams and their codes, since there is also no system for that
+# the dictionary contains code used in links of all the teams
+dict_team_codes = pd.Series(teams_info.code.values, index=teams_info.team).to_dict()
 distinct_teams = list(dict_team_codes.keys())
-team_of_interest = "Boston Bruins"
-code_of_interest = dict_team_codes[team_of_interest]
-season_of_interest = '2021'
-code_of_season = season_codes[season_of_interest]
-soup = getSoup(
-    f'https://nhl.cz{code_of_interest}/zapasy?matchList-filter-season={season_of_interest}&matchList-filter-competition={code_of_season}')
-teams_long = [span.text for span in soup.findAll('span', {'class': 'preview__name--long'})]
-teams_short = [span.text for span in soup.findAll('span', {'class': 'preview__name--short'})]
-teams_dict = {}
-for i in range(len(teams_long)):
-    teams_dict[teams_long[i]] = teams_short[i]
+
+# we also need to store the short version of team names as we use them for file naming
+teams_dict = pd.Series(teams_info.team_short.values,index=teams_info.team).to_dict()
 
 
 def create_final_df(df):
