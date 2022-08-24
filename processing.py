@@ -5,10 +5,8 @@ The .csv files that are saved are then used for further processing and interpret
 import pandas as pd
 import numpy as np
 
-
 season_codes = {'2017': '6049', '2018': '6270', '2019': '6494', '2020': '6673', '2021': '6733'}
 seasons_used = ['2017', '2018', '2019', '2020', '2021']
-
 
 teams_info = pd.read_csv('teams_info/teams_info.csv')
 
@@ -18,11 +16,11 @@ dict_team_codes = pd.Series(teams_info.code.values, index=teams_info.team).to_di
 distinct_teams = list(dict_team_codes.keys())
 
 # we also need to store the short version of team names as we use them for file naming
-teams_dict = pd.Series(teams_info.team_short.values,index=teams_info.team).to_dict()
+teams_dict = pd.Series(teams_info.team_short.values, index=teams_info.team).to_dict()
 
 
 def create_final_df(df):
-    """this function calculates the data for last 20 games for each team which we then use for modelling"""
+    """this function calculates the data (goals, points) for last 20 games for each team which we then use for modelling"""
     TOI_points_tot = [None] * 20
     TOI_goals_scored_tot = [None] * 20
     TOI_goals_rec_tot = [None] * 20
@@ -38,7 +36,7 @@ def create_final_df(df):
                'TOI_goals_scored_tot', 'TOI_goals_rec_tot']][20:]
 
 
-final_dfs = []
+final_dfs = []  # list to store all the df together
 for team in distinct_teams:
     short_name = teams_dict[team]
     df = pd.read_csv(f'teams_pre-processed/{short_name}_pre.csv')
@@ -47,6 +45,8 @@ for team in distinct_teams:
 
 
 def other_team_info(df):
+    """For each game searches (based on game ID) the data (points, goals) about the other team and adds them to the
+    dataframe."""
     other_team_points_tot = []
     other_team_goals_scored_tot = []
     other_team_goals_rec_tot = []
@@ -69,10 +69,11 @@ def other_team_info(df):
     df['other_team_goals_rec_tot'] = other_team_goals_rec_tot
     df = df.dropna()
     # dropping unnecessary columns
-    df = df.reset_index(drop = True)
+    df = df.reset_index(drop=True)
     return df
 
 
+# We store all the dataframes individually, so we can later load them based on what teams we are analyzing.
 for team in final_dfs:
     model_df = other_team_info(team)
     short_name = teams_dict[model_df.loc[1, "TOI"]]

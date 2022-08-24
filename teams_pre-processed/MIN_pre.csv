@@ -1,372 +1,105 @@
 game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
-/zapas/2526063,Detroit Red Wings,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Detroit Red Wings,Minnesota Wild,2017
-/zapas/2526077,Carolina Hurricanes,Minnesota Wild,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Carolina Hurricanes,Minnesota Wild,2017
-/zapas/2526108,Chicago Blackhawks,Minnesota Wild,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Minnesota Wild,2017
-/zapas/2526124,Minnesota Wild,Columbus Blue Jackets,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Columbus Blue Jackets,Minnesota Wild,2017
-/zapas/2526162,Winnipeg Jets,Minnesota Wild,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Minnesota Wild,2017
-/zapas/2526174,Calgary Flames,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Calgary Flames,Minnesota Wild,2017
-/zapas/2526187,Minnesota Wild,Vancouver Canucks,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Vancouver Canucks,Minnesota Wild,2017
-/zapas/2526200,Minnesota Wild,New York Islanders,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,New York Islanders,Minnesota Wild,2017
-/zapas/2526217,Minnesota Wild,Pittsburgh Penguins,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Pittsburgh Penguins,Minnesota Wild,2017
-/zapas/2526234,Minnesota Wild,Winnipeg Jets,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Winnipeg Jets,Minnesota Wild,2017
-/zapas/2526246,Minnesota Wild,Montreal Canadiens,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Montreal Canadiens,Minnesota Wild,2017
-/zapas/2526262,Minnesota Wild,Chicago Blackhawks,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Chicago Blackhawks,Minnesota Wild,2017
-/zapas/2526271,Boston Bruins,Minnesota Wild,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Boston Bruins,Minnesota Wild,2017
-/zapas/2526286,Toronto Maple Leafs,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Toronto Maple Leafs,Minnesota Wild,2017
-/zapas/2526291,Montreal Canadiens,Minnesota Wild,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Montreal Canadiens,Minnesota Wild,2017
-/zapas/2526309,Philadelphia Flyers,Minnesota Wild,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Philadelphia Flyers,Minnesota Wild,2017
-/zapas/2526325,Minnesota Wild,Philadelphia Flyers,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Philadelphia Flyers,Minnesota Wild,2017
-/zapas/2526337,Minnesota Wild,Nashville Predators,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Nashville Predators,Minnesota Wild,2017
-/zapas/2526355,Washington Capitals,Minnesota Wild,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Washington Capitals,Minnesota Wild,2017
-/zapas/2526368,Minnesota Wild,New Jersey Devils,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,New Jersey Devils,Minnesota Wild,2017
-/zapas/2526373,Buffalo Sabres,Minnesota Wild,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Buffalo Sabres,Minnesota Wild,2017
-/zapas/2526390,Minnesota Wild,Colorado Avalanche,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Minnesota Wild,2017
-/zapas/2526409,St. Louis Blues,Minnesota Wild,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,St. Louis Blues,Minnesota Wild,2017
-/zapas/2526419,Winnipeg Jets,Minnesota Wild,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,Winnipeg Jets,Minnesota Wild,2017
-/zapas/2526438,Minnesota Wild,Vegas Golden Knights,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Minnesota Wild,2017
-/zapas/2526451,Minnesota Wild,St. Louis Blues,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,St. Louis Blues,Minnesota Wild,2017
-/zapas/2526479,Los Angeles Kings,Minnesota Wild,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Los Angeles Kings,Minnesota Wild,2017
-/zapas/2526497,Anaheim Ducks,Minnesota Wild,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Anaheim Ducks,Minnesota Wild,2017
-/zapas/2526513,San Jose Sharks,Minnesota Wild,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,San Jose Sharks,Minnesota Wild,2017
-/zapas/2526526,Minnesota Wild,Calgary Flames,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Calgary Flames,Minnesota Wild,2017
-/zapas/2526538,Minnesota Wild,Toronto Maple Leafs,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Toronto Maple Leafs,Minnesota Wild,2017
-/zapas/2526550,Minnesota Wild,Edmonton Oilers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Minnesota Wild,2017
-/zapas/2526562,Chicago Blackhawks,Minnesota Wild,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Chicago Blackhawks,Minnesota Wild,2017
-/zapas/2526574,Ottawa Senators,Minnesota Wild,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Ottawa Senators,Minnesota Wild,2017
-/zapas/2526594,Florida Panthers,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Florida Panthers,Minnesota Wild,2017
-/zapas/2526600,Tampa Bay Lightning,Minnesota Wild,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Tampa Bay Lightning,Minnesota Wild,2017
-/zapas/2526619,Minnesota Wild,Dallas Stars,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Dallas Stars,Minnesota Wild,2017
-/zapas/2526635,Minnesota Wild,Nashville Predators,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Nashville Predators,Minnesota Wild,2017
-/zapas/2526645,Nashville Predators,Minnesota Wild,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Nashville Predators,Minnesota Wild,2017
-/zapas/2526662,Minnesota Wild,Florida Panthers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Florida Panthers,Minnesota Wild,2017
-/zapas/2526675,Minnesota Wild,Buffalo Sabres,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Buffalo Sabres,Minnesota Wild,2017
-/zapas/2526688,Colorado Avalanche,Minnesota Wild,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,Colorado Avalanche,Minnesota Wild,2017
-/zapas/2526712,Minnesota Wild,Calgary Flames,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Calgary Flames,Minnesota Wild,2017
-/zapas/2526715,Chicago Blackhawks,Minnesota Wild,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Chicago Blackhawks,Minnesota Wild,2017
-/zapas/2526726,Minnesota Wild,Winnipeg Jets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Minnesota Wild,2017
-/zapas/2526736,Minnesota Wild,Vancouver Canucks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Minnesota Wild,2017
-/zapas/2526773,Minnesota Wild,Tampa Bay Lightning,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Tampa Bay Lightning,Minnesota Wild,2017
-/zapas/2526782,Minnesota Wild,Ottawa Senators,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Ottawa Senators,Minnesota Wild,2017
-/zapas/2526802,Pittsburgh Penguins,Minnesota Wild,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Pittsburgh Penguins,Minnesota Wild,2017
-/zapas/2526820,Columbus Blue Jackets,Minnesota Wild,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Columbus Blue Jackets,Minnesota Wild,2017
-/zapas/2526845,Minnesota Wild,Vegas Golden Knights,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Minnesota Wild,2017
-/zapas/2526855,Dallas Stars,Minnesota Wild,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Dallas Stars,Minnesota Wild,2017
-/zapas/2526873,St. Louis Blues,Minnesota Wild,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,St. Louis Blues,Minnesota Wild,2017
-/zapas/2526886,Minnesota Wild,Arizona Coyotes,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Arizona Coyotes,Minnesota Wild,2017
-/zapas/2526904,Minnesota Wild,Chicago Blackhawks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Chicago Blackhawks,Minnesota Wild,2017
-/zapas/2526926,Minnesota Wild,New York Rangers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,New York Rangers,Minnesota Wild,2017
-/zapas/2526939,Minnesota Wild,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Minnesota Wild,2017
-/zapas/2526949,Minnesota Wild,Anaheim Ducks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Anaheim Ducks,Minnesota Wild,2017
-/zapas/2526966,New York Islanders,Minnesota Wild,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New York Islanders,Minnesota Wild,2017
-/zapas/2526985,New Jersey Devils,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,New Jersey Devils,Minnesota Wild,2017
-/zapas/2526995,New York Rangers,Minnesota Wild,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New York Rangers,Minnesota Wild,2017
-/zapas/2527016,Minnesota Wild,San Jose Sharks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,San Jose Sharks,Minnesota Wild,2017
-/zapas/2527027,Minnesota Wild,St. Louis Blues,8,3,0,3.0,0.0,1.0,3.0,8.0,3.0,1.0,St. Louis Blues,Minnesota Wild,2017
-/zapas/2527042,Arizona Coyotes,Minnesota Wild,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Arizona Coyotes,Minnesota Wild,2017
-/zapas/2527049,Colorado Avalanche,Minnesota Wild,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Colorado Avalanche,Minnesota Wild,2017
-/zapas/2527067,Minnesota Wild,Detroit Red Wings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Detroit Red Wings,Minnesota Wild,2017
-/zapas/2527080,Minnesota Wild,Carolina Hurricanes,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Carolina Hurricanes,Minnesota Wild,2017
-/zapas/2527101,Vancouver Canucks,Minnesota Wild,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Minnesota Wild,2017
-/zapas/2527112,Edmonton Oilers,Minnesota Wild,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Edmonton Oilers,Minnesota Wild,2017
-/zapas/2527129,Minnesota Wild,Colorado Avalanche,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Minnesota Wild,2017
-/zapas/2527151,Vegas Golden Knights,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Minnesota Wild,2017
-/zapas/2527160,Arizona Coyotes,Minnesota Wild,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Minnesota Wild,2017
-/zapas/2527173,Minnesota Wild,Los Angeles Kings,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Los Angeles Kings,Minnesota Wild,2017
-/zapas/2527215,Minnesota Wild,Nashville Predators,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Nashville Predators,Minnesota Wild,2017
-/zapas/2527220,Minnesota Wild,Boston Bruins,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Boston Bruins,Minnesota Wild,2017
-/zapas/2527235,Nashville Predators,Minnesota Wild,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Nashville Predators,Minnesota Wild,2017
-/zapas/2527249,Minnesota Wild,Dallas Stars,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Dallas Stars,Minnesota Wild,2017
-/zapas/2527268,Dallas Stars,Minnesota Wild,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Dallas Stars,Minnesota Wild,2017
-/zapas/2527281,Minnesota Wild,Edmonton Oilers,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Edmonton Oilers,Minnesota Wild,2017
-/zapas/2527294,Anaheim Ducks,Minnesota Wild,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Minnesota Wild,2017
-/zapas/2527305,Los Angeles Kings,Minnesota Wild,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Los Angeles Kings,Minnesota Wild,2017
-/zapas/2527325,San Jose Sharks,Minnesota Wild,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,San Jose Sharks,Minnesota Wild,2017
-/zapas/2647211,Colorado Avalanche,Minnesota Wild,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Minnesota Wild,2018
-/zapas/2647223,Minnesota Wild,Vegas Golden Knights,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Vegas Golden Knights,Minnesota Wild,2018
-/zapas/2647254,Minnesota Wild,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Minnesota Wild,2018
-/zapas/2647258,Minnesota Wild,Carolina Hurricanes,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Carolina Hurricanes,Minnesota Wild,2018
-/zapas/2647275,Nashville Predators,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Nashville Predators,Minnesota Wild,2018
-/zapas/2647281,Minnesota Wild,Arizona Coyotes,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Arizona Coyotes,Minnesota Wild,2018
-/zapas/2647298,Dallas Stars,Minnesota Wild,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Dallas Stars,Minnesota Wild,2018
-/zapas/2647308,Minnesota Wild,Tampa Bay Lightning,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Tampa Bay Lightning,Minnesota Wild,2018
-/zapas/2647336,Minnesota Wild,Los Angeles Kings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Los Angeles Kings,Minnesota Wild,2018
-/zapas/2647354,Minnesota Wild,Colorado Avalanche,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Colorado Avalanche,Minnesota Wild,2018
-/zapas/2647364,Vancouver Canucks,Minnesota Wild,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Minnesota Wild,2018
-/zapas/2647372,Edmonton Oilers,Minnesota Wild,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Minnesota Wild,2018
-/zapas/2647399,St. Louis Blues,Minnesota Wild,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,St. Louis Blues,Minnesota Wild,2018
-/zapas/2647421,San Jose Sharks,Minnesota Wild,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,San Jose Sharks,Minnesota Wild,2018
-/zapas/2647433,Los Angeles Kings,Minnesota Wild,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Los Angeles Kings,Minnesota Wild,2018
-/zapas/2647439,Anaheim Ducks,Minnesota Wild,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Anaheim Ducks,Minnesota Wild,2018
-/zapas/2647451,St. Louis Blues,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,St. Louis Blues,Minnesota Wild,2018
-/zapas/2647467,Minnesota Wild,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Minnesota Wild,2018
-/zapas/2647480,Minnesota Wild,Vancouver Canucks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Vancouver Canucks,Minnesota Wild,2018
-/zapas/2647492,Minnesota Wild,Buffalo Sabres,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Buffalo Sabres,Minnesota Wild,2018
-/zapas/2647503,Chicago Blackhawks,Minnesota Wild,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Chicago Blackhawks,Minnesota Wild,2018
-/zapas/2647525,Minnesota Wild,Ottawa Senators,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Ottawa Senators,Minnesota Wild,2018
-/zapas/2647532,Minnesota Wild,Winnipeg Jets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Minnesota Wild,2018
-/zapas/2647570,Minnesota Wild,Arizona Coyotes,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Arizona Coyotes,Minnesota Wild,2018
-/zapas/2647581,Columbus Blue Jackets,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Minnesota Wild,2018
-/zapas/2647595,Minnesota Wild,Toronto Maple Leafs,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Toronto Maple Leafs,Minnesota Wild,2018
-/zapas/2647621,Vancouver Canucks,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vancouver Canucks,Minnesota Wild,2018
-/zapas/2647633,Calgary Flames,Minnesota Wild,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Calgary Flames,Minnesota Wild,2018
-/zapas/2647640,Edmonton Oilers,Minnesota Wild,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,Edmonton Oilers,Minnesota Wild,2018
-/zapas/2647670,Minnesota Wild,Montreal Canadiens,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Montreal Canadiens,Minnesota Wild,2018
-/zapas/2647682,Minnesota Wild,Florida Panthers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Florida Panthers,Minnesota Wild,2018
-/zapas/2647693,Minnesota Wild,Calgary Flames,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Calgary Flames,Minnesota Wild,2018
-/zapas/2647719,Minnesota Wild,San Jose Sharks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,San Jose Sharks,Minnesota Wild,2018
-/zapas/2647731,Pittsburgh Penguins,Minnesota Wild,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Pittsburgh Penguins,Minnesota Wild,2018
-/zapas/2647754,Minnesota Wild,Dallas Stars,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Dallas Stars,Minnesota Wild,2018
-/zapas/2647773,Chicago Blackhawks,Minnesota Wild,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Chicago Blackhawks,Minnesota Wild,2018
-/zapas/2647782,Winnipeg Jets,Minnesota Wild,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Minnesota Wild,2018
-/zapas/2647799,Minnesota Wild,Pittsburgh Penguins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Pittsburgh Penguins,Minnesota Wild,2018
-/zapas/2647819,Toronto Maple Leafs,Minnesota Wild,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Toronto Maple Leafs,Minnesota Wild,2018
-/zapas/2647835,Ottawa Senators,Minnesota Wild,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Ottawa Senators,Minnesota Wild,2018
-/zapas/2647852,Montreal Canadiens,Minnesota Wild,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Montreal Canadiens,Minnesota Wild,2018
-/zapas/2647855,Boston Bruins,Minnesota Wild,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Boston Bruins,Minnesota Wild,2018
-/zapas/2647876,Minnesota Wild,Winnipeg Jets,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Minnesota Wild,2018
-/zapas/2647891,Minnesota Wild,Detroit Red Wings,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Detroit Red Wings,Minnesota Wild,2018
-/zapas/2647906,Philadelphia Flyers,Minnesota Wild,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Philadelphia Flyers,Minnesota Wild,2018
-/zapas/2647915,Minnesota Wild,Los Angeles Kings,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Los Angeles Kings,Minnesota Wild,2018
-/zapas/2647929,Minnesota Wild,Anaheim Ducks,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Anaheim Ducks,Minnesota Wild,2018
-/zapas/2647946,Minnesota Wild,Columbus Blue Jackets,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Columbus Blue Jackets,Minnesota Wild,2018
-/zapas/2647956,Vegas Golden Knights,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Minnesota Wild,2018
-/zapas/2647965,Colorado Avalanche,Minnesota Wild,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Colorado Avalanche,Minnesota Wild,2018
-/zapas/2647986,Dallas Stars,Minnesota Wild,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Dallas Stars,Minnesota Wild,2018
-/zapas/2647997,Minnesota Wild,Chicago Blackhawks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Chicago Blackhawks,Minnesota Wild,2018
-/zapas/2648008,Buffalo Sabres,Minnesota Wild,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Buffalo Sabres,Minnesota Wild,2018
-/zapas/2648031,Minnesota Wild,Edmonton Oilers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Edmonton Oilers,Minnesota Wild,2018
-/zapas/2648038,New Jersey Devils,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,New Jersey Devils,Minnesota Wild,2018
-/zapas/2648055,New York Islanders,Minnesota Wild,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,New York Islanders,Minnesota Wild,2018
-/zapas/2648069,Minnesota Wild,Philadelphia Flyers,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Philadelphia Flyers,Minnesota Wild,2018
-/zapas/2648088,Minnesota Wild,New Jersey Devils,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,New Jersey Devils,Minnesota Wild,2018
-/zapas/2648103,Minnesota Wild,St. Louis Blues,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,St. Louis Blues,Minnesota Wild,2018
-/zapas/2648120,Minnesota Wild,Anaheim Ducks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Anaheim Ducks,Minnesota Wild,2018
-/zapas/2648130,New York Rangers,Minnesota Wild,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New York Rangers,Minnesota Wild,2018
-/zapas/2648140,Detroit Red Wings,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Detroit Red Wings,Minnesota Wild,2018
-/zapas/2648157,Minnesota Wild,St. Louis Blues,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,St. Louis Blues,Minnesota Wild,2018
-/zapas/2648174,Winnipeg Jets,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Minnesota Wild,2018
-/zapas/2648206,Calgary Flames,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Calgary Flames,Minnesota Wild,2018
-/zapas/2648213,Minnesota Wild,Nashville Predators,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Nashville Predators,Minnesota Wild,2018
-/zapas/2648222,Nashville Predators,Minnesota Wild,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Nashville Predators,Minnesota Wild,2018
-/zapas/2648235,Tampa Bay Lightning,Minnesota Wild,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Tampa Bay Lightning,Minnesota Wild,2018
-/zapas/2648242,Florida Panthers,Minnesota Wild,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Florida Panthers,Minnesota Wild,2018
-/zapas/2648266,Minnesota Wild,San Jose Sharks,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,San Jose Sharks,Minnesota Wild,2018
-/zapas/2648286,Minnesota Wild,Dallas Stars,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Dallas Stars,Minnesota Wild,2018
-/zapas/2648306,Minnesota Wild,New York Rangers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New York Rangers,Minnesota Wild,2018
-/zapas/2648311,Minnesota Wild,New York Islanders,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New York Islanders,Minnesota Wild,2018
-/zapas/2648327,Minnesota Wild,Colorado Avalanche,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Colorado Avalanche,Minnesota Wild,2018
-/zapas/2648346,Washington Capitals,Minnesota Wild,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Washington Capitals,Minnesota Wild,2018
-/zapas/2648356,Carolina Hurricanes,Minnesota Wild,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Carolina Hurricanes,Minnesota Wild,2018
-/zapas/2648372,Minnesota Wild,Nashville Predators,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Nashville Predators,Minnesota Wild,2018
-/zapas/2648400,Vegas Golden Knights,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vegas Golden Knights,Minnesota Wild,2018
-/zapas/2648414,Arizona Coyotes,Minnesota Wild,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Arizona Coyotes,Minnesota Wild,2018
-/zapas/2648432,Minnesota Wild,Winnipeg Jets,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Winnipeg Jets,Minnesota Wild,2018
-/zapas/2648448,Minnesota Wild,Boston Bruins,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Boston Bruins,Minnesota Wild,2018
-/zapas/2648465,Dallas Stars,Minnesota Wild,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Dallas Stars,Minnesota Wild,2018
-/zapas/2806385,Nashville Predators,Minnesota Wild,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Nashville Predators,Minnesota Wild,2019
-/zapas/2806403,Colorado Avalanche,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Colorado Avalanche,Minnesota Wild,2019
-/zapas/2806429,Winnipeg Jets,Minnesota Wild,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Winnipeg Jets,Minnesota Wild,2019
-/zapas/2806447,Minnesota Wild,Pittsburgh Penguins,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Pittsburgh Penguins,Minnesota Wild,2019
-/zapas/2806455,Ottawa Senators,Minnesota Wild,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Ottawa Senators,Minnesota Wild,2019
-/zapas/2806461,Toronto Maple Leafs,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Toronto Maple Leafs,Minnesota Wild,2019
-/zapas/2806475,Montreal Canadiens,Minnesota Wild,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Montreal Canadiens,Minnesota Wild,2019
-/zapas/2806501,Minnesota Wild,Montreal Canadiens,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Montreal Canadiens,Minnesota Wild,2019
-/zapas/2806515,Minnesota Wild,Edmonton Oilers,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Edmonton Oilers,Minnesota Wild,2019
-/zapas/2806526,Nashville Predators,Minnesota Wild,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Nashville Predators,Minnesota Wild,2019
-/zapas/2806543,Minnesota Wild,Los Angeles Kings,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Los Angeles Kings,Minnesota Wild,2019
-/zapas/2806562,Dallas Stars,Minnesota Wild,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Dallas Stars,Minnesota Wild,2019
-/zapas/2806566,St. Louis Blues,Minnesota Wild,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,St. Louis Blues,Minnesota Wild,2019
-/zapas/2806589,Minnesota Wild,St. Louis Blues,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,St. Louis Blues,Minnesota Wild,2019
-/zapas/2806609,Anaheim Ducks,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Anaheim Ducks,Minnesota Wild,2019
-/zapas/2806623,San Jose Sharks,Minnesota Wild,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,San Jose Sharks,Minnesota Wild,2019
-/zapas/2806635,Arizona Coyotes,Minnesota Wild,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Arizona Coyotes,Minnesota Wild,2019
-/zapas/2806655,Los Angeles Kings,Minnesota Wild,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Los Angeles Kings,Minnesota Wild,2019
-/zapas/2806665,Minnesota Wild,Arizona Coyotes,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Arizona Coyotes,Minnesota Wild,2019
-/zapas/2806675,Minnesota Wild,Carolina Hurricanes,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Carolina Hurricanes,Minnesota Wild,2019
-/zapas/2806694,Buffalo Sabres,Minnesota Wild,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Buffalo Sabres,Minnesota Wild,2019
-/zapas/2806716,Minnesota Wild,Colorado Avalanche,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Colorado Avalanche,Minnesota Wild,2019
-/zapas/2806729,Boston Bruins,Minnesota Wild,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Boston Bruins,Minnesota Wild,2019
-/zapas/2806742,New York Rangers,Minnesota Wild,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Rangers,Minnesota Wild,2019
-/zapas/2806751,New Jersey Devils,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New Jersey Devils,Minnesota Wild,2019
-/zapas/2806771,Minnesota Wild,Ottawa Senators,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Ottawa Senators,Minnesota Wild,2019
-/zapas/2806792,Minnesota Wild,Dallas Stars,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Dallas Stars,Minnesota Wild,2019
-/zapas/2806802,Florida Panthers,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Florida Panthers,Minnesota Wild,2019
-/zapas/2806816,Tampa Bay Lightning,Minnesota Wild,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Tampa Bay Lightning,Minnesota Wild,2019
-/zapas/2806835,Carolina Hurricanes,Minnesota Wild,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Carolina Hurricanes,Minnesota Wild,2019
-/zapas/2806852,Minnesota Wild,Anaheim Ducks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Anaheim Ducks,Minnesota Wild,2019
-/zapas/2806869,Minnesota Wild,Edmonton Oilers,6,5,0,3.0,0.0,1.0,3.0,6.0,5.0,1.0,Edmonton Oilers,Minnesota Wild,2019
-/zapas/2806883,Minnesota Wild,Philadelphia Flyers,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Philadelphia Flyers,Minnesota Wild,2019
-/zapas/2806892,Chicago Blackhawks,Minnesota Wild,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Chicago Blackhawks,Minnesota Wild,2019
-/zapas/2806909,Vegas Golden Knights,Minnesota Wild,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vegas Golden Knights,Minnesota Wild,2019
-/zapas/2806922,Arizona Coyotes,Minnesota Wild,5,8,0,0.0,3.0,0.0,3.0,8.0,5.0,1.0,Arizona Coyotes,Minnesota Wild,2019
-/zapas/2806930,Minnesota Wild,Winnipeg Jets,0,6,0,0.0,3.0,1.0,0.0,0.0,6.0,0.0,Winnipeg Jets,Minnesota Wild,2019
-/zapas/2806946,Minnesota Wild,Calgary Flames,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Calgary Flames,Minnesota Wild,2019
-/zapas/2806962,Colorado Avalanche,Minnesota Wild,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Colorado Avalanche,Minnesota Wild,2019
-/zapas/2806981,Minnesota Wild,New York Islanders,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Islanders,Minnesota Wild,2019
-/zapas/2806992,Minnesota Wild,Toronto Maple Leafs,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Minnesota Wild,2019
-/zapas/2807019,Minnesota Wild,Winnipeg Jets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Winnipeg Jets,Minnesota Wild,2019
-/zapas/2807032,Minnesota Wild,Calgary Flames,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Calgary Flames,Minnesota Wild,2019
-/zapas/2807061,Calgary Flames,Minnesota Wild,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Calgary Flames,Minnesota Wild,2019
-/zapas/2807080,Minnesota Wild,Vancouver Canucks,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Vancouver Canucks,Minnesota Wild,2019
-/zapas/2807094,Pittsburgh Penguins,Minnesota Wild,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Pittsburgh Penguins,Minnesota Wild,2019
-/zapas/2807112,Minnesota Wild,Tampa Bay Lightning,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Tampa Bay Lightning,Minnesota Wild,2019
-/zapas/2807129,Minnesota Wild,Dallas Stars,7,0,0,3.0,0.0,1.0,3.0,7.0,0.0,1.0,Dallas Stars,Minnesota Wild,2019
-/zapas/2807136,Minnesota Wild,Florida Panthers,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Florida Panthers,Minnesota Wild,2019
-/zapas/2807143,Minnesota Wild,Detroit Red Wings,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Detroit Red Wings,Minnesota Wild,2019
-/zapas/2807178,Minnesota Wild,Boston Bruins,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Boston Bruins,Minnesota Wild,2019
-/zapas/2807197,Minnesota Wild,Chicago Blackhawks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Minnesota Wild,2019
-/zapas/2807211,Minnesota Wild,Vancouver Canucks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Vancouver Canucks,Minnesota Wild,2019
-/zapas/2807218,Dallas Stars,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Dallas Stars,Minnesota Wild,2019
-/zapas/2807235,Minnesota Wild,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Minnesota Wild,2019
-/zapas/2807247,Minnesota Wild,Vegas Golden Knights,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Vegas Golden Knights,Minnesota Wild,2019
-/zapas/2807263,Minnesota Wild,New York Rangers,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,New York Rangers,Minnesota Wild,2019
-/zapas/2807275,Minnesota Wild,San Jose Sharks,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,San Jose Sharks,Minnesota Wild,2019
-/zapas/2807308,Vancouver Canucks,Minnesota Wild,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vancouver Canucks,Minnesota Wild,2019
-/zapas/2807322,Edmonton Oilers,Minnesota Wild,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Edmonton Oilers,Minnesota Wild,2019
-/zapas/2807340,Minnesota Wild,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Minnesota Wild,2019
-/zapas/2807354,Minnesota Wild,Columbus Blue Jackets,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Columbus Blue Jackets,Minnesota Wild,2019
-/zapas/2807365,Detroit Red Wings,Minnesota Wild,1,7,0,0.0,3.0,0.0,3.0,7.0,1.0,1.0,Detroit Red Wings,Minnesota Wild,2019
-/zapas/2807371,Columbus Blue Jackets,Minnesota Wild,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Columbus Blue Jackets,Minnesota Wild,2019
-/zapas/2807390,Minnesota Wild,Washington Capitals,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Washington Capitals,Minnesota Wild,2019
-/zapas/2807399,Minnesota Wild,Nashville Predators,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Nashville Predators,Minnesota Wild,2019
-/zapas/2807418,San Jose Sharks,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,San Jose Sharks,Minnesota Wild,2019
-/zapas/2807428,Los Angeles Kings,Minnesota Wild,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Los Angeles Kings,Minnesota Wild,2019
-/zapas/2807439,Anaheim Ducks,Minnesota Wild,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Anaheim Ducks,Minnesota Wild,2019
-/zapas/2893224,Los Angeles Kings,Minnesota Wild,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Minnesota Wild,2020
-/zapas/2893240,Los Angeles Kings,Minnesota Wild,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Minnesota Wild,2020
-/zapas/2893253,Anaheim Ducks,Minnesota Wild,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Anaheim Ducks,Minnesota Wild,2020
-/zapas/2893267,Anaheim Ducks,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Minnesota Wild,2020
-/zapas/2893276,Minnesota Wild,San Jose Sharks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,San Jose Sharks,Minnesota Wild,2020
-/zapas/2893292,Minnesota Wild,San Jose Sharks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,San Jose Sharks,Minnesota Wild,2020
-/zapas/2893303,Minnesota Wild,Los Angeles Kings,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Los Angeles Kings,Minnesota Wild,2020
-/zapas/2893317,Minnesota Wild,Los Angeles Kings,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Los Angeles Kings,Minnesota Wild,2020
-/zapas/2893333,Minnesota Wild,Colorado Avalanche,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Minnesota Wild,2020
-/zapas/2893345,Minnesota Wild,Colorado Avalanche,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Colorado Avalanche,Minnesota Wild,2020
-/zapas/2893362,Colorado Avalanche,Minnesota Wild,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Colorado Avalanche,Minnesota Wild,2020
-/zapas/2893468,Los Angeles Kings,Minnesota Wild,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Los Angeles Kings,Minnesota Wild,2020
-/zapas/2893481,Anaheim Ducks,Minnesota Wild,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Anaheim Ducks,Minnesota Wild,2020
-/zapas/2893497,Anaheim Ducks,Minnesota Wild,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Anaheim Ducks,Minnesota Wild,2020
-/zapas/2893951,San Jose Sharks,Minnesota Wild,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,San Jose Sharks,Minnesota Wild,2020
-/zapas/2893374,Colorado Avalanche,Minnesota Wild,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Colorado Avalanche,Minnesota Wild,2020
-/zapas/2893530,Minnesota Wild,Los Angeles Kings,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Los Angeles Kings,Minnesota Wild,2020
-/zapas/2893538,Minnesota Wild,Los Angeles Kings,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Minnesota Wild,2020
-/zapas/2893559,Vegas Golden Knights,Minnesota Wild,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Vegas Golden Knights,Minnesota Wild,2020
-/zapas/2893569,Vegas Golden Knights,Minnesota Wild,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Vegas Golden Knights,Minnesota Wild,2020
-/zapas/2893583,Arizona Coyotes,Minnesota Wild,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Arizona Coyotes,Minnesota Wild,2020
-/zapas/2893593,Arizona Coyotes,Minnesota Wild,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Minnesota Wild,2020
-/zapas/2893604,Minnesota Wild,Vegas Golden Knights,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Vegas Golden Knights,Minnesota Wild,2020
-/zapas/2893618,Minnesota Wild,Vegas Golden Knights,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Vegas Golden Knights,Minnesota Wild,2020
-/zapas/2893634,Minnesota Wild,Arizona Coyotes,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Arizona Coyotes,Minnesota Wild,2020
-/zapas/2893650,Minnesota Wild,Arizona Coyotes,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Arizona Coyotes,Minnesota Wild,2020
-/zapas/2893388,Minnesota Wild,Arizona Coyotes,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Arizona Coyotes,Minnesota Wild,2020
-/zapas/2893677,Colorado Avalanche,Minnesota Wild,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Minnesota Wild,2020
-/zapas/2893692,Colorado Avalanche,Minnesota Wild,6,0,0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,Colorado Avalanche,Minnesota Wild,2020
-/zapas/2893704,Minnesota Wild,Anaheim Ducks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Minnesota Wild,2020
-/zapas/2893717,Minnesota Wild,Anaheim Ducks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Minnesota Wild,2020
-/zapas/2893425,Minnesota Wild,St. Louis Blues,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,St. Louis Blues,Minnesota Wild,2020
-/zapas/2893763,San Jose Sharks,Minnesota Wild,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,San Jose Sharks,Minnesota Wild,2020
-/zapas/2893778,San Jose Sharks,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,San Jose Sharks,Minnesota Wild,2020
-/zapas/2893787,Vegas Golden Knights,Minnesota Wild,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vegas Golden Knights,Minnesota Wild,2020
-/zapas/2893803,Vegas Golden Knights,Minnesota Wild,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Vegas Golden Knights,Minnesota Wild,2020
-/zapas/2893814,Minnesota Wild,Colorado Avalanche,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Colorado Avalanche,Minnesota Wild,2020
-/zapas/2893829,Minnesota Wild,Colorado Avalanche,8,3,0,3.0,0.0,1.0,3.0,8.0,3.0,1.0,Colorado Avalanche,Minnesota Wild,2020
-/zapas/2893843,St. Louis Blues,Minnesota Wild,9,1,0,3.0,0.0,0.0,0.0,1.0,9.0,0.0,St. Louis Blues,Minnesota Wild,2020
-/zapas/2893858,St. Louis Blues,Minnesota Wild,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,St. Louis Blues,Minnesota Wild,2020
-/zapas/2893397,Minnesota Wild,Arizona Coyotes,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Minnesota Wild,2020
-/zapas/2893893,Minnesota Wild,San Jose Sharks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,San Jose Sharks,Minnesota Wild,2020
-/zapas/2893899,Minnesota Wild,San Jose Sharks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,San Jose Sharks,Minnesota Wild,2020
-/zapas/2893920,Arizona Coyotes,Minnesota Wild,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Minnesota Wild,2020
-/zapas/2893935,Arizona Coyotes,Minnesota Wild,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Arizona Coyotes,Minnesota Wild,2020
-/zapas/2893448,Los Angeles Kings,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Minnesota Wild,2020
-/zapas/2893961,San Jose Sharks,Minnesota Wild,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,San Jose Sharks,Minnesota Wild,2020
-/zapas/2893984,Minnesota Wild,St. Louis Blues,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,St. Louis Blues,Minnesota Wild,2020
-/zapas/2893968,Minnesota Wild,St. Louis Blues,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,St. Louis Blues,Minnesota Wild,2020
-/zapas/2893410,Minnesota Wild,St. Louis Blues,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,St. Louis Blues,Minnesota Wild,2020
-/zapas/2894021,Minnesota Wild,Vegas Golden Knights,6,5,0,3.0,0.0,1.0,3.0,6.0,5.0,1.0,Vegas Golden Knights,Minnesota Wild,2020
-/zapas/2894039,Minnesota Wild,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Minnesota Wild,2020
-/zapas/2894054,Minnesota Wild,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Minnesota Wild,2020
-/zapas/2894065,Minnesota Wild,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Minnesota Wild,2020
-/zapas/2893998,St. Louis Blues,Minnesota Wild,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,St. Louis Blues,Minnesota Wild,2020
-/zapas/2894005,St. Louis Blues,Minnesota Wild,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,St. Louis Blues,Minnesota Wild,2020
-/zapas/2896998,Anaheim Ducks,Minnesota Wild,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Minnesota Wild,2021
-/zapas/2897001,Los Angeles Kings,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Minnesota Wild,2021
-/zapas/2897023,Minnesota Wild,Winnipeg Jets,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Winnipeg Jets,Minnesota Wild,2021
-/zapas/2897050,Minnesota Wild,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Minnesota Wild,2021
-/zapas/2897062,Minnesota Wild,Nashville Predators,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Nashville Predators,Minnesota Wild,2021
-/zapas/2897071,Vancouver Canucks,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vancouver Canucks,Minnesota Wild,2021
-/zapas/2897087,Seattle Kraken,Minnesota Wild,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Seattle Kraken,Minnesota Wild,2021
-/zapas/2897101,Colorado Avalanche,Minnesota Wild,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Minnesota Wild,2021
-/zapas/2897120,Minnesota Wild,Ottawa Senators,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Ottawa Senators,Minnesota Wild,2021
-/zapas/2897152,Pittsburgh Penguins,Minnesota Wild,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Pittsburgh Penguins,Minnesota Wild,2021
-/zapas/2897158,Minnesota Wild,New York Islanders,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New York Islanders,Minnesota Wild,2021
-/zapas/2897173,Arizona Coyotes,Minnesota Wild,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Minnesota Wild,2021
-/zapas/2897176,Vegas Golden Knights,Minnesota Wild,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vegas Golden Knights,Minnesota Wild,2021
-/zapas/2897193,Seattle Kraken,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Seattle Kraken,Minnesota Wild,2021
-/zapas/2897217,Minnesota Wild,San Jose Sharks,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,San Jose Sharks,Minnesota Wild,2021
-/zapas/2897233,Minnesota Wild,Dallas Stars,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Dallas Stars,Minnesota Wild,2021
-/zapas/2897252,Florida Panthers,Minnesota Wild,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Florida Panthers,Minnesota Wild,2021
-/zapas/2897259,Tampa Bay Lightning,Minnesota Wild,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Tampa Bay Lightning,Minnesota Wild,2021
-/zapas/2897280,New Jersey Devils,Minnesota Wild,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New Jersey Devils,Minnesota Wild,2021
-/zapas/2897290,Minnesota Wild,Winnipeg Jets,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Winnipeg Jets,Minnesota Wild,2021
-/zapas/2897309,Minnesota Wild,Tampa Bay Lightning,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Tampa Bay Lightning,Minnesota Wild,2021
-/zapas/2897322,Minnesota Wild,Arizona Coyotes,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Minnesota Wild,2021
-/zapas/2897336,Minnesota Wild,New Jersey Devils,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New Jersey Devils,Minnesota Wild,2021
-/zapas/2897350,Minnesota Wild,Toronto Maple Leafs,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Toronto Maple Leafs,Minnesota Wild,2021
-/zapas/2897370,Edmonton Oilers,Minnesota Wild,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Edmonton Oilers,Minnesota Wild,2021
-/zapas/2897384,San Jose Sharks,Minnesota Wild,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,San Jose Sharks,Minnesota Wild,2021
-/zapas/2897400,Los Angeles Kings,Minnesota Wild,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Los Angeles Kings,Minnesota Wild,2021
-/zapas/2897413,Vegas Golden Knights,Minnesota Wild,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Vegas Golden Knights,Minnesota Wild,2021
-/zapas/2897439,Minnesota Wild,Buffalo Sabres,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Buffalo Sabres,Minnesota Wild,2021
-/zapas/2897471,Dallas Stars,Minnesota Wild,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Dallas Stars,Minnesota Wild,2021
-/zapas/2897550,Minnesota Wild,St. Louis Blues,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,St. Louis Blues,Minnesota Wild,2021
-/zapas/2897587,Boston Bruins,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Boston Bruins,Minnesota Wild,2021
-/zapas/2897603,Minnesota Wild,Washington Capitals,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Washington Capitals,Minnesota Wild,2021
-/zapas/2897644,Minnesota Wild,Anaheim Ducks,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Anaheim Ducks,Minnesota Wild,2021
-/zapas/2897666,Colorado Avalanche,Minnesota Wild,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Colorado Avalanche,Minnesota Wild,2021
-/zapas/2897697,Chicago Blackhawks,Minnesota Wild,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Chicago Blackhawks,Minnesota Wild,2021
-/zapas/2897706,Minnesota Wild,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Minnesota Wild,2021
-/zapas/2897720,Minnesota Wild,Montreal Canadiens,8,2,0,3.0,0.0,1.0,3.0,8.0,2.0,1.0,Montreal Canadiens,Minnesota Wild,2021
-/zapas/2897751,New York Rangers,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Rangers,Minnesota Wild,2021
-/zapas/2897768,New York Islanders,Minnesota Wild,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,New York Islanders,Minnesota Wild,2021
-/zapas/2897789,Chicago Blackhawks,Minnesota Wild,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Chicago Blackhawks,Minnesota Wild,2021
-/zapas/2897511,Winnipeg Jets,Minnesota Wild,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Winnipeg Jets,Minnesota Wild,2021
-/zapas/2897424,Minnesota Wild,Carolina Hurricanes,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Carolina Hurricanes,Minnesota Wild,2021
-/zapas/2897495,Minnesota Wild,Detroit Red Wings,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Detroit Red Wings,Minnesota Wild,2021
-/zapas/2897614,Winnipeg Jets,Minnesota Wild,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Winnipeg Jets,Minnesota Wild,2021
-/zapas/2897457,Minnesota Wild,Florida Panthers,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Florida Panthers,Minnesota Wild,2021
-/zapas/2897627,Edmonton Oilers,Minnesota Wild,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Edmonton Oilers,Minnesota Wild,2021
-/zapas/2897565,Ottawa Senators,Minnesota Wild,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Ottawa Senators,Minnesota Wild,2021
-/zapas/2897800,Toronto Maple Leafs,Minnesota Wild,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Toronto Maple Leafs,Minnesota Wild,2021
-/zapas/2897813,Calgary Flames,Minnesota Wild,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Calgary Flames,Minnesota Wild,2021
-/zapas/2897835,Minnesota Wild,Calgary Flames,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Calgary Flames,Minnesota Wild,2021
-/zapas/2897852,Philadelphia Flyers,Minnesota Wild,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Philadelphia Flyers,Minnesota Wild,2021
-/zapas/2897856,Buffalo Sabres,Minnesota Wild,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Buffalo Sabres,Minnesota Wild,2021
-/zapas/2897874,Minnesota Wild,Dallas Stars,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Dallas Stars,Minnesota Wild,2021
-/zapas/2897887,Minnesota Wild,New York Rangers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New York Rangers,Minnesota Wild,2021
-/zapas/2897904,Detroit Red Wings,Minnesota Wild,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Detroit Red Wings,Minnesota Wild,2021
-/zapas/2897912,Columbus Blue Jackets,Minnesota Wild,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Columbus Blue Jackets,Minnesota Wild,2021
-/zapas/2897927,Minnesota Wild,Nashville Predators,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Nashville Predators,Minnesota Wild,2021
-/zapas/2897947,Minnesota Wild,Boston Bruins,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Boston Bruins,Minnesota Wild,2021
-/zapas/2897970,Minnesota Wild,Chicago Blackhawks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Chicago Blackhawks,Minnesota Wild,2021
-/zapas/2897983,Minnesota Wild,Vegas Golden Knights,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vegas Golden Knights,Minnesota Wild,2021
-/zapas/2898004,Minnesota Wild,Vancouver Canucks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Minnesota Wild,2021
-/zapas/2898021,Minnesota Wild,Columbus Blue Jackets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Columbus Blue Jackets,Minnesota Wild,2021
-/zapas/2898028,Minnesota Wild,Colorado Avalanche,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Minnesota Wild,2021
-/zapas/2898043,Minnesota Wild,Philadelphia Flyers,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Philadelphia Flyers,Minnesota Wild,2021
-/zapas/2898058,Minnesota Wild,Pittsburgh Penguins,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Pittsburgh Penguins,Minnesota Wild,2021
-/zapas/2898080,Carolina Hurricanes,Minnesota Wild,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Carolina Hurricanes,Minnesota Wild,2021
-/zapas/2898089,Washington Capitals,Minnesota Wild,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Washington Capitals,Minnesota Wild,2021
-/zapas/2898095,Nashville Predators,Minnesota Wild,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Nashville Predators,Minnesota Wild,2021
-/zapas/2898118,St. Louis Blues,Minnesota Wild,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,St. Louis Blues,Minnesota Wild,2021
-/zapas/2898130,Minnesota Wild,Los Angeles Kings,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Los Angeles Kings,Minnesota Wild,2021
-/zapas/2898143,Minnesota Wild,Edmonton Oilers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Edmonton Oilers,Minnesota Wild,2021
-/zapas/2898167,Dallas Stars,Minnesota Wild,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Dallas Stars,Minnesota Wild,2021
-/zapas/2898182,St. Louis Blues,Minnesota Wild,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,St. Louis Blues,Minnesota Wild,2021
-/zapas/2898193,Minnesota Wild,San Jose Sharks,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,San Jose Sharks,Minnesota Wild,2021
-/zapas/2898205,Montreal Canadiens,Minnesota Wild,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Montreal Canadiens,Minnesota Wild,2021
-/zapas/2898217,Minnesota Wild,Vancouver Canucks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Vancouver Canucks,Minnesota Wild,2021
-/zapas/2898227,Minnesota Wild,Seattle Kraken,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Seattle Kraken,Minnesota Wild,2021
-/zapas/2898243,Nashville Predators,Minnesota Wild,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Nashville Predators,Minnesota Wild,2021
-/zapas/2898258,Minnesota Wild,Arizona Coyotes,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Arizona Coyotes,Minnesota Wild,2021
-/zapas/2898273,Minnesota Wild,Calgary Flames,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Calgary Flames,Minnesota Wild,2021
-/zapas/2898284,Minnesota Wild,Colorado Avalanche,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Colorado Avalanche,Minnesota Wild,2021
+/zapas/2553175,Winnipeg Jets,Minnesota Wild,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2553176,Winnipeg Jets,Minnesota Wild,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2553177,Minnesota Wild,Winnipeg Jets,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2553178,Minnesota Wild,Winnipeg Jets,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2553179,Winnipeg Jets,Minnesota Wild,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2647211,Colorado Avalanche,Minnesota Wild,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Minnesota Wild,2021
+/zapas/2647223,Minnesota Wild,Vegas Golden Knights,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2647254,Minnesota Wild,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Minnesota Wild,2021
+/zapas/2647258,Minnesota Wild,Carolina Hurricanes,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Carolina Hurricanes,Minnesota Wild,2021
+/zapas/2647275,Nashville Predators,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Nashville Predators,Minnesota Wild,2021
+/zapas/2647281,Minnesota Wild,Arizona Coyotes,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Arizona Coyotes,Minnesota Wild,2021
+/zapas/2647298,Dallas Stars,Minnesota Wild,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Dallas Stars,Minnesota Wild,2021
+/zapas/2647308,Minnesota Wild,Tampa Bay Lightning,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Tampa Bay Lightning,Minnesota Wild,2021
+/zapas/2647336,Minnesota Wild,Los Angeles Kings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Los Angeles Kings,Minnesota Wild,2021
+/zapas/2647354,Minnesota Wild,Colorado Avalanche,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Colorado Avalanche,Minnesota Wild,2021
+/zapas/2647364,Vancouver Canucks,Minnesota Wild,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Minnesota Wild,2021
+/zapas/2647372,Edmonton Oilers,Minnesota Wild,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Minnesota Wild,2021
+/zapas/2647399,St. Louis Blues,Minnesota Wild,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,St. Louis Blues,Minnesota Wild,2021
+/zapas/2647421,San Jose Sharks,Minnesota Wild,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,San Jose Sharks,Minnesota Wild,2021
+/zapas/2647433,Los Angeles Kings,Minnesota Wild,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Los Angeles Kings,Minnesota Wild,2021
+/zapas/2647439,Anaheim Ducks,Minnesota Wild,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Anaheim Ducks,Minnesota Wild,2021
+/zapas/2647451,St. Louis Blues,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,St. Louis Blues,Minnesota Wild,2021
+/zapas/2647467,Minnesota Wild,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Minnesota Wild,2021
+/zapas/2647480,Minnesota Wild,Vancouver Canucks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Vancouver Canucks,Minnesota Wild,2021
+/zapas/2647492,Minnesota Wild,Buffalo Sabres,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Buffalo Sabres,Minnesota Wild,2021
+/zapas/2647503,Chicago Blackhawks,Minnesota Wild,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Chicago Blackhawks,Minnesota Wild,2021
+/zapas/2647525,Minnesota Wild,Ottawa Senators,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Ottawa Senators,Minnesota Wild,2021
+/zapas/2647532,Minnesota Wild,Winnipeg Jets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2647570,Minnesota Wild,Arizona Coyotes,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Arizona Coyotes,Minnesota Wild,2021
+/zapas/2647581,Columbus Blue Jackets,Minnesota Wild,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Minnesota Wild,2021
+/zapas/2647595,Minnesota Wild,Toronto Maple Leafs,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Toronto Maple Leafs,Minnesota Wild,2021
+/zapas/2647621,Vancouver Canucks,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vancouver Canucks,Minnesota Wild,2021
+/zapas/2647633,Calgary Flames,Minnesota Wild,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Calgary Flames,Minnesota Wild,2021
+/zapas/2647640,Edmonton Oilers,Minnesota Wild,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,Edmonton Oilers,Minnesota Wild,2021
+/zapas/2647670,Minnesota Wild,Montreal Canadiens,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Montreal Canadiens,Minnesota Wild,2021
+/zapas/2647682,Minnesota Wild,Florida Panthers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Florida Panthers,Minnesota Wild,2021
+/zapas/2647693,Minnesota Wild,Calgary Flames,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Calgary Flames,Minnesota Wild,2021
+/zapas/2647719,Minnesota Wild,San Jose Sharks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,San Jose Sharks,Minnesota Wild,2021
+/zapas/2647731,Pittsburgh Penguins,Minnesota Wild,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Pittsburgh Penguins,Minnesota Wild,2021
+/zapas/2647754,Minnesota Wild,Dallas Stars,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Dallas Stars,Minnesota Wild,2021
+/zapas/2647773,Chicago Blackhawks,Minnesota Wild,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Chicago Blackhawks,Minnesota Wild,2021
+/zapas/2647782,Winnipeg Jets,Minnesota Wild,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2647799,Minnesota Wild,Pittsburgh Penguins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Pittsburgh Penguins,Minnesota Wild,2021
+/zapas/2647819,Toronto Maple Leafs,Minnesota Wild,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Toronto Maple Leafs,Minnesota Wild,2021
+/zapas/2647835,Ottawa Senators,Minnesota Wild,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Ottawa Senators,Minnesota Wild,2021
+/zapas/2647852,Montreal Canadiens,Minnesota Wild,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Montreal Canadiens,Minnesota Wild,2021
+/zapas/2647855,Boston Bruins,Minnesota Wild,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Boston Bruins,Minnesota Wild,2021
+/zapas/2647876,Minnesota Wild,Winnipeg Jets,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2647891,Minnesota Wild,Detroit Red Wings,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Detroit Red Wings,Minnesota Wild,2021
+/zapas/2647906,Philadelphia Flyers,Minnesota Wild,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Philadelphia Flyers,Minnesota Wild,2021
+/zapas/2647915,Minnesota Wild,Los Angeles Kings,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Los Angeles Kings,Minnesota Wild,2021
+/zapas/2647929,Minnesota Wild,Anaheim Ducks,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Anaheim Ducks,Minnesota Wild,2021
+/zapas/2647946,Minnesota Wild,Columbus Blue Jackets,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Columbus Blue Jackets,Minnesota Wild,2021
+/zapas/2647956,Vegas Golden Knights,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2647965,Colorado Avalanche,Minnesota Wild,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Colorado Avalanche,Minnesota Wild,2021
+/zapas/2647986,Dallas Stars,Minnesota Wild,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Dallas Stars,Minnesota Wild,2021
+/zapas/2647997,Minnesota Wild,Chicago Blackhawks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Chicago Blackhawks,Minnesota Wild,2021
+/zapas/2648008,Buffalo Sabres,Minnesota Wild,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Buffalo Sabres,Minnesota Wild,2021
+/zapas/2648031,Minnesota Wild,Edmonton Oilers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Edmonton Oilers,Minnesota Wild,2021
+/zapas/2648038,New Jersey Devils,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,New Jersey Devils,Minnesota Wild,2021
+/zapas/2648055,New York Islanders,Minnesota Wild,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,New York Islanders,Minnesota Wild,2021
+/zapas/2648069,Minnesota Wild,Philadelphia Flyers,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Philadelphia Flyers,Minnesota Wild,2021
+/zapas/2648088,Minnesota Wild,New Jersey Devils,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,New Jersey Devils,Minnesota Wild,2021
+/zapas/2648103,Minnesota Wild,St. Louis Blues,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,St. Louis Blues,Minnesota Wild,2021
+/zapas/2648120,Minnesota Wild,Anaheim Ducks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Anaheim Ducks,Minnesota Wild,2021
+/zapas/2648130,New York Rangers,Minnesota Wild,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New York Rangers,Minnesota Wild,2021
+/zapas/2648140,Detroit Red Wings,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Detroit Red Wings,Minnesota Wild,2021
+/zapas/2648157,Minnesota Wild,St. Louis Blues,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,St. Louis Blues,Minnesota Wild,2021
+/zapas/2648174,Winnipeg Jets,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2648206,Calgary Flames,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Calgary Flames,Minnesota Wild,2021
+/zapas/2648213,Minnesota Wild,Nashville Predators,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Nashville Predators,Minnesota Wild,2021
+/zapas/2648222,Nashville Predators,Minnesota Wild,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Nashville Predators,Minnesota Wild,2021
+/zapas/2648235,Tampa Bay Lightning,Minnesota Wild,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Tampa Bay Lightning,Minnesota Wild,2021
+/zapas/2648242,Florida Panthers,Minnesota Wild,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Florida Panthers,Minnesota Wild,2021
+/zapas/2648266,Minnesota Wild,San Jose Sharks,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,San Jose Sharks,Minnesota Wild,2021
+/zapas/2648286,Minnesota Wild,Dallas Stars,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Dallas Stars,Minnesota Wild,2021
+/zapas/2648306,Minnesota Wild,New York Rangers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New York Rangers,Minnesota Wild,2021
+/zapas/2648311,Minnesota Wild,New York Islanders,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New York Islanders,Minnesota Wild,2021
+/zapas/2648327,Minnesota Wild,Colorado Avalanche,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Colorado Avalanche,Minnesota Wild,2021
+/zapas/2648346,Washington Capitals,Minnesota Wild,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Washington Capitals,Minnesota Wild,2021
+/zapas/2648356,Carolina Hurricanes,Minnesota Wild,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Carolina Hurricanes,Minnesota Wild,2021
+/zapas/2648372,Minnesota Wild,Nashville Predators,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Nashville Predators,Minnesota Wild,2021
+/zapas/2648400,Vegas Golden Knights,Minnesota Wild,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2648414,Arizona Coyotes,Minnesota Wild,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Arizona Coyotes,Minnesota Wild,2021
+/zapas/2648432,Minnesota Wild,Winnipeg Jets,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Winnipeg Jets,Minnesota Wild,2021
+/zapas/2648448,Minnesota Wild,Boston Bruins,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Boston Bruins,Minnesota Wild,2021
+/zapas/2648465,Dallas Stars,Minnesota Wild,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Dallas Stars,Minnesota Wild,2021
+/zapas/2891024,Vancouver Canucks,Minnesota Wild,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Vancouver Canucks,Minnesota Wild,2021
+/zapas/2891025,Vancouver Canucks,Minnesota Wild,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Vancouver Canucks,Minnesota Wild,2021
+/zapas/2891026,Minnesota Wild,Vancouver Canucks,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Vancouver Canucks,Minnesota Wild,2021
+/zapas/2891027,Minnesota Wild,Vancouver Canucks,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Vancouver Canucks,Minnesota Wild,2021
+/zapas/2894385,Vegas Golden Knights,Minnesota Wild,0,1,1,1.0,2.0,0.0,2.0,1.0,0.0,1.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2894386,Vegas Golden Knights,Minnesota Wild,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2894387,Minnesota Wild,Vegas Golden Knights,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2894388,Minnesota Wild,Vegas Golden Knights,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2894389,Vegas Golden Knights,Minnesota Wild,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2894390,Minnesota Wild,Vegas Golden Knights,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2894391,Vegas Golden Knights,Minnesota Wild,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Vegas Golden Knights,Minnesota Wild,2021
+/zapas/2900296,Minnesota Wild,St. Louis Blues,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,St. Louis Blues,Minnesota Wild,2021
+/zapas/2900297,Minnesota Wild,St. Louis Blues,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,St. Louis Blues,Minnesota Wild,2021
+/zapas/2900298,St. Louis Blues,Minnesota Wild,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,St. Louis Blues,Minnesota Wild,2021
+/zapas/2900299,St. Louis Blues,Minnesota Wild,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,St. Louis Blues,Minnesota Wild,2021
+/zapas/2900300,Minnesota Wild,St. Louis Blues,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,St. Louis Blues,Minnesota Wild,2021
+/zapas/2900301,St. Louis Blues,Minnesota Wild,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,St. Louis Blues,Minnesota Wild,2021

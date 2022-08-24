@@ -1,295 +1,39 @@
 game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
-/zapas/2526055,Winnipeg Jets,Toronto Maple Leafs,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2017
-/zapas/2526083,Calgary Flames,Winnipeg Jets,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Calgary Flames,Winnipeg Jets,2017
-/zapas/2526091,Edmonton Oilers,Winnipeg Jets,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Edmonton Oilers,Winnipeg Jets,2017
-/zapas/2526109,Vancouver Canucks,Winnipeg Jets,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vancouver Canucks,Winnipeg Jets,2017
-/zapas/2526117,Winnipeg Jets,Carolina Hurricanes,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Carolina Hurricanes,Winnipeg Jets,2017
-/zapas/2526141,Winnipeg Jets,Columbus Blue Jackets,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Columbus Blue Jackets,Winnipeg Jets,2017
-/zapas/2526162,Winnipeg Jets,Minnesota Wild,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Minnesota Wild,Winnipeg Jets,2017
-/zapas/2526194,Pittsburgh Penguins,Winnipeg Jets,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Pittsburgh Penguins,Winnipeg Jets,2017
-/zapas/2526205,Columbus Blue Jackets,Winnipeg Jets,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Columbus Blue Jackets,Winnipeg Jets,2017
-/zapas/2526222,Winnipeg Jets,Pittsburgh Penguins,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Pittsburgh Penguins,Winnipeg Jets,2017
-/zapas/2526234,Minnesota Wild,Winnipeg Jets,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Minnesota Wild,Winnipeg Jets,2017
-/zapas/2526247,Winnipeg Jets,Dallas Stars,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Dallas Stars,Winnipeg Jets,2017
-/zapas/2526256,Winnipeg Jets,Montreal Canadiens,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Montreal Canadiens,Winnipeg Jets,2017
-/zapas/2526275,Dallas Stars,Winnipeg Jets,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Dallas Stars,Winnipeg Jets,2017
-/zapas/2526302,Vegas Golden Knights,Winnipeg Jets,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Winnipeg Jets,2017
-/zapas/2526314,Arizona Coyotes,Winnipeg Jets,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Arizona Coyotes,Winnipeg Jets,2017
-/zapas/2526326,Winnipeg Jets,Arizona Coyotes,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Arizona Coyotes,Winnipeg Jets,2017
-/zapas/2526338,Winnipeg Jets,Philadelphia Flyers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Philadelphia Flyers,Winnipeg Jets,2017
-/zapas/2526349,Winnipeg Jets,New Jersey Devils,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New Jersey Devils,Winnipeg Jets,2017
-/zapas/2526367,Nashville Predators,Winnipeg Jets,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Nashville Predators,Winnipeg Jets,2017
-/zapas/2526387,Los Angeles Kings,Winnipeg Jets,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Los Angeles Kings,Winnipeg Jets,2017
-/zapas/2526389,Anaheim Ducks,Winnipeg Jets,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Winnipeg Jets,2017
-/zapas/2526410,San Jose Sharks,Winnipeg Jets,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,San Jose Sharks,Winnipeg Jets,2017
-/zapas/2526419,Winnipeg Jets,Minnesota Wild,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Minnesota Wild,Winnipeg Jets,2017
-/zapas/2526434,Colorado Avalanche,Winnipeg Jets,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Winnipeg Jets,2017
-/zapas/2526448,Winnipeg Jets,Vegas Golden Knights,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Vegas Golden Knights,Winnipeg Jets,2017
-/zapas/2526463,Winnipeg Jets,Ottawa Senators,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Ottawa Senators,Winnipeg Jets,2017
-/zapas/2526473,Detroit Red Wings,Winnipeg Jets,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Detroit Red Wings,Winnipeg Jets,2017
-/zapas/2526488,Florida Panthers,Winnipeg Jets,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Florida Panthers,Winnipeg Jets,2017
-/zapas/2526501,Tampa Bay Lightning,Winnipeg Jets,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Tampa Bay Lightning,Winnipeg Jets,2017
-/zapas/2526518,Winnipeg Jets,Vancouver Canucks,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Vancouver Canucks,Winnipeg Jets,2017
-/zapas/2526539,Winnipeg Jets,Chicago Blackhawks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Chicago Blackhawks,Winnipeg Jets,2017
-/zapas/2526552,St. Louis Blues,Winnipeg Jets,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,St. Louis Blues,Winnipeg Jets,2017
-/zapas/2526561,Winnipeg Jets,St. Louis Blues,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,St. Louis Blues,Winnipeg Jets,2017
-/zapas/2526575,Nashville Predators,Winnipeg Jets,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Nashville Predators,Winnipeg Jets,2017
-/zapas/2526583,Boston Bruins,Winnipeg Jets,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Boston Bruins,Winnipeg Jets,2017
-/zapas/2526598,New York Islanders,Winnipeg Jets,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Islanders,Winnipeg Jets,2017
-/zapas/2526620,Winnipeg Jets,Edmonton Oilers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Winnipeg Jets,2017
-/zapas/2526636,Winnipeg Jets,New York Islanders,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New York Islanders,Winnipeg Jets,2017
-/zapas/2526650,Edmonton Oilers,Winnipeg Jets,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Edmonton Oilers,Winnipeg Jets,2017
-/zapas/2526665,Colorado Avalanche,Winnipeg Jets,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Winnipeg Jets,2017
-/zapas/2526685,Winnipeg Jets,Buffalo Sabres,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Buffalo Sabres,Winnipeg Jets,2017
-/zapas/2526699,Winnipeg Jets,San Jose Sharks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,San Jose Sharks,Winnipeg Jets,2017
-/zapas/2526708,Buffalo Sabres,Winnipeg Jets,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Buffalo Sabres,Winnipeg Jets,2017
-/zapas/2526722,Chicago Blackhawks,Winnipeg Jets,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Chicago Blackhawks,Winnipeg Jets,2017
-/zapas/2526726,Minnesota Wild,Winnipeg Jets,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Minnesota Wild,Winnipeg Jets,2017
-/zapas/2526765,Calgary Flames,Winnipeg Jets,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Calgary Flames,Winnipeg Jets,2017
-/zapas/2526777,Winnipeg Jets,Vancouver Canucks,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Vancouver Canucks,Winnipeg Jets,2017
-/zapas/2526797,San Jose Sharks,Winnipeg Jets,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,San Jose Sharks,Winnipeg Jets,2017
-/zapas/2526813,Anaheim Ducks,Winnipeg Jets,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Anaheim Ducks,Winnipeg Jets,2017
-/zapas/2526822,Winnipeg Jets,Tampa Bay Lightning,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Tampa Bay Lightning,Winnipeg Jets,2017
-/zapas/2526837,Winnipeg Jets,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Winnipeg Jets,2017
-/zapas/2526848,Winnipeg Jets,Colorado Avalanche,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Colorado Avalanche,Winnipeg Jets,2017
-/zapas/2526874,Winnipeg Jets,Arizona Coyotes,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Arizona Coyotes,Winnipeg Jets,2017
-/zapas/2526894,Winnipeg Jets,St. Louis Blues,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,St. Louis Blues,Winnipeg Jets,2017
-/zapas/2526907,Winnipeg Jets,New York Rangers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Rangers,Winnipeg Jets,2017
-/zapas/2526927,Winnipeg Jets,Washington Capitals,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Washington Capitals,Winnipeg Jets,2017
-/zapas/2526946,Winnipeg Jets,Colorado Avalanche,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Colorado Avalanche,Winnipeg Jets,2017
-/zapas/2526965,Winnipeg Jets,Florida Panthers,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Florida Panthers,Winnipeg Jets,2017
-/zapas/2526978,Winnipeg Jets,Los Angeles Kings,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Los Angeles Kings,Winnipeg Jets,2017
-/zapas/2526997,St. Louis Blues,Winnipeg Jets,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,St. Louis Blues,Winnipeg Jets,2017
-/zapas/2527002,Dallas Stars,Winnipeg Jets,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Dallas Stars,Winnipeg Jets,2017
-/zapas/2527028,Winnipeg Jets,Nashville Predators,5,6,0,0.0,3.0,1.0,0.0,5.0,6.0,0.0,Nashville Predators,Winnipeg Jets,2017
-/zapas/2527048,Winnipeg Jets,Detroit Red Wings,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Detroit Red Wings,Winnipeg Jets,2017
-/zapas/2527066,Carolina Hurricanes,Winnipeg Jets,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Carolina Hurricanes,Winnipeg Jets,2017
-/zapas/2527076,New York Rangers,Winnipeg Jets,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,New York Rangers,Winnipeg Jets,2017
-/zapas/2527087,New Jersey Devils,Winnipeg Jets,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New Jersey Devils,Winnipeg Jets,2017
-/zapas/2527105,Philadelphia Flyers,Winnipeg Jets,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Philadelphia Flyers,Winnipeg Jets,2017
-/zapas/2527119,Washington Capitals,Winnipeg Jets,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Washington Capitals,Winnipeg Jets,2017
-/zapas/2527128,Nashville Predators,Winnipeg Jets,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Nashville Predators,Winnipeg Jets,2017
-/zapas/2527143,Winnipeg Jets,Chicago Blackhawks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Chicago Blackhawks,Winnipeg Jets,2017
-/zapas/2527168,Winnipeg Jets,Dallas Stars,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Dallas Stars,Winnipeg Jets,2017
-/zapas/2527182,Winnipeg Jets,Los Angeles Kings,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Los Angeles Kings,Winnipeg Jets,2017
-/zapas/2527203,Winnipeg Jets,Anaheim Ducks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Anaheim Ducks,Winnipeg Jets,2017
-/zapas/2527219,Winnipeg Jets,Nashville Predators,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Nashville Predators,Winnipeg Jets,2017
-/zapas/2527236,Winnipeg Jets,Boston Bruins,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Boston Bruins,Winnipeg Jets,2017
-/zapas/2527250,Chicago Blackhawks,Winnipeg Jets,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Chicago Blackhawks,Winnipeg Jets,2017
-/zapas/2527263,Toronto Maple Leafs,Winnipeg Jets,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Toronto Maple Leafs,Winnipeg Jets,2017
-/zapas/2527278,Ottawa Senators,Winnipeg Jets,5,6,0,0.0,3.0,0.0,3.0,6.0,5.0,1.0,Ottawa Senators,Winnipeg Jets,2017
-/zapas/2527286,Montreal Canadiens,Winnipeg Jets,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Montreal Canadiens,Winnipeg Jets,2017
-/zapas/2527302,Winnipeg Jets,Calgary Flames,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Calgary Flames,Winnipeg Jets,2017
-/zapas/2527312,Winnipeg Jets,Chicago Blackhawks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Chicago Blackhawks,Winnipeg Jets,2017
-/zapas/2647209,St. Louis Blues,Winnipeg Jets,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,St. Louis Blues,Winnipeg Jets,2018
-/zapas/2647216,Dallas Stars,Winnipeg Jets,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Dallas Stars,Winnipeg Jets,2018
-/zapas/2647238,Winnipeg Jets,Los Angeles Kings,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Los Angeles Kings,Winnipeg Jets,2018
-/zapas/2647253,Nashville Predators,Winnipeg Jets,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Nashville Predators,Winnipeg Jets,2018
-/zapas/2647271,Winnipeg Jets,Carolina Hurricanes,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Carolina Hurricanes,Winnipeg Jets,2018
-/zapas/2647282,Winnipeg Jets,Edmonton Oilers,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Edmonton Oilers,Winnipeg Jets,2018
-/zapas/2647292,Winnipeg Jets,Vancouver Canucks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Winnipeg Jets,2018
-/zapas/2647302,Winnipeg Jets,Arizona Coyotes,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Arizona Coyotes,Winnipeg Jets,2018
-/zapas/2647318,Winnipeg Jets,St. Louis Blues,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,St. Louis Blues,Winnipeg Jets,2018
-/zapas/2647328,Winnipeg Jets,Toronto Maple Leafs,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2018
-/zapas/2647343,Detroit Red Wings,Winnipeg Jets,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Detroit Red Wings,Winnipeg Jets,2018
-/zapas/2647351,Toronto Maple Leafs,Winnipeg Jets,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2018
-/zapas/2647377,Florida Panthers,Winnipeg Jets,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Florida Panthers,Winnipeg Jets,2018
-/zapas/2647390,Winnipeg Jets,Florida Panthers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Florida Panthers,Winnipeg Jets,2018
-/zapas/2647438,Winnipeg Jets,Colorado Avalanche,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Colorado Avalanche,Winnipeg Jets,2018
-/zapas/2647454,Winnipeg Jets,New Jersey Devils,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New Jersey Devils,Winnipeg Jets,2018
-/zapas/2647472,Winnipeg Jets,Washington Capitals,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Washington Capitals,Winnipeg Jets,2018
-/zapas/2647485,Winnipeg Jets,Buffalo Sabres,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Buffalo Sabres,Winnipeg Jets,2018
-/zapas/2647514,Vancouver Canucks,Winnipeg Jets,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Vancouver Canucks,Winnipeg Jets,2018
-/zapas/2647528,Calgary Flames,Winnipeg Jets,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Calgary Flames,Winnipeg Jets,2018
-/zapas/2647532,Minnesota Wild,Winnipeg Jets,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Minnesota Wild,Winnipeg Jets,2018
-/zapas/2647546,St. Louis Blues,Winnipeg Jets,4,8,0,0.0,3.0,0.0,3.0,8.0,4.0,1.0,St. Louis Blues,Winnipeg Jets,2018
-/zapas/2647571,Winnipeg Jets,Pittsburgh Penguins,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Pittsburgh Penguins,Winnipeg Jets,2018
-/zapas/2647585,Winnipeg Jets,Chicago Blackhawks,6,5,0,3.0,0.0,1.0,3.0,6.0,5.0,1.0,Chicago Blackhawks,Winnipeg Jets,2018
-/zapas/2647599,New Jersey Devils,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New Jersey Devils,Winnipeg Jets,2018
-/zapas/2647606,New York Rangers,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Rangers,Winnipeg Jets,2018
-/zapas/2647616,New York Islanders,Winnipeg Jets,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,New York Islanders,Winnipeg Jets,2018
-/zapas/2647639,Winnipeg Jets,St. Louis Blues,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,St. Louis Blues,Winnipeg Jets,2018
-/zapas/2647653,Winnipeg Jets,Philadelphia Flyers,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Philadelphia Flyers,Winnipeg Jets,2018
-/zapas/2647671,Winnipeg Jets,Chicago Blackhawks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Chicago Blackhawks,Winnipeg Jets,2018
-/zapas/2647683,Winnipeg Jets,Edmonton Oilers,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Edmonton Oilers,Winnipeg Jets,2018
-/zapas/2647691,Chicago Blackhawks,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Winnipeg Jets,2018
-/zapas/2647708,Winnipeg Jets,Tampa Bay Lightning,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Tampa Bay Lightning,Winnipeg Jets,2018
-/zapas/2647725,Los Angeles Kings,Winnipeg Jets,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Winnipeg Jets,2018
-/zapas/2647739,San Jose Sharks,Winnipeg Jets,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,San Jose Sharks,Winnipeg Jets,2018
-/zapas/2647755,Vancouver Canucks,Winnipeg Jets,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Vancouver Canucks,Winnipeg Jets,2018
-/zapas/2647772,Winnipeg Jets,Calgary Flames,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Calgary Flames,Winnipeg Jets,2018
-/zapas/2647782,Winnipeg Jets,Minnesota Wild,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Minnesota Wild,Winnipeg Jets,2018
-/zapas/2647808,Edmonton Oilers,Winnipeg Jets,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Winnipeg Jets,2018
-/zapas/2647827,Pittsburgh Penguins,Winnipeg Jets,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Pittsburgh Penguins,Winnipeg Jets,2018
-/zapas/2647846,Winnipeg Jets,Dallas Stars,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Dallas Stars,Winnipeg Jets,2018
-/zapas/2647863,Winnipeg Jets,Colorado Avalanche,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Colorado Avalanche,Winnipeg Jets,2018
-/zapas/2647876,Minnesota Wild,Winnipeg Jets,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Minnesota Wild,Winnipeg Jets,2018
-/zapas/2647882,Winnipeg Jets,Detroit Red Wings,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Detroit Red Wings,Winnipeg Jets,2018
-/zapas/2647898,Winnipeg Jets,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Winnipeg Jets,2018
-/zapas/2647916,Winnipeg Jets,Vegas Golden Knights,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vegas Golden Knights,Winnipeg Jets,2018
-/zapas/2647928,Nashville Predators,Winnipeg Jets,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Nashville Predators,Winnipeg Jets,2018
-/zapas/2647941,Dallas Stars,Winnipeg Jets,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Dallas Stars,Winnipeg Jets,2018
-/zapas/2647969,Philadelphia Flyers,Winnipeg Jets,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Philadelphia Flyers,Winnipeg Jets,2018
-/zapas/2647971,Boston Bruins,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Boston Bruins,Winnipeg Jets,2018
-/zapas/2647978,Winnipeg Jets,Columbus Blue Jackets,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Columbus Blue Jackets,Winnipeg Jets,2018
-/zapas/2647989,Winnipeg Jets,Anaheim Ducks,9,3,0,3.0,0.0,1.0,3.0,9.0,3.0,1.0,Anaheim Ducks,Winnipeg Jets,2018
-/zapas/2648016,Winnipeg Jets,San Jose Sharks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,San Jose Sharks,Winnipeg Jets,2018
-/zapas/2648026,Montreal Canadiens,Winnipeg Jets,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Montreal Canadiens,Winnipeg Jets,2018
-/zapas/2648042,Ottawa Senators,Winnipeg Jets,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Ottawa Senators,Winnipeg Jets,2018
-/zapas/2648053,Buffalo Sabres,Winnipeg Jets,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Buffalo Sabres,Winnipeg Jets,2018
-/zapas/2648070,Winnipeg Jets,New York Rangers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,New York Rangers,Winnipeg Jets,2018
-/zapas/2648080,Winnipeg Jets,Colorado Avalanche,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Winnipeg Jets,2018
-/zapas/2648094,Winnipeg Jets,Ottawa Senators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Ottawa Senators,Winnipeg Jets,2018
-/zapas/2648124,Colorado Avalanche,Winnipeg Jets,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Colorado Avalanche,Winnipeg Jets,2018
-/zapas/2648142,Vegas Golden Knights,Winnipeg Jets,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Vegas Golden Knights,Winnipeg Jets,2018
-/zapas/2648159,Arizona Coyotes,Winnipeg Jets,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Arizona Coyotes,Winnipeg Jets,2018
-/zapas/2648174,Winnipeg Jets,Minnesota Wild,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Minnesota Wild,Winnipeg Jets,2018
-/zapas/2648194,Winnipeg Jets,Nashville Predators,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Nashville Predators,Winnipeg Jets,2018
-/zapas/2648212,Columbus Blue Jackets,Winnipeg Jets,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Columbus Blue Jackets,Winnipeg Jets,2018
-/zapas/2648221,Tampa Bay Lightning,Winnipeg Jets,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Winnipeg Jets,2018
-/zapas/2648244,Carolina Hurricanes,Winnipeg Jets,1,8,0,0.0,3.0,0.0,3.0,8.0,1.0,1.0,Carolina Hurricanes,Winnipeg Jets,2018
-/zapas/2648259,Washington Capitals,Winnipeg Jets,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Washington Capitals,Winnipeg Jets,2018
-/zapas/2648275,Winnipeg Jets,San Jose Sharks,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,San Jose Sharks,Winnipeg Jets,2018
-/zapas/2648287,Winnipeg Jets,Boston Bruins,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Boston Bruins,Winnipeg Jets,2018
-/zapas/2648300,Winnipeg Jets,Calgary Flames,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Calgary Flames,Winnipeg Jets,2018
-/zapas/2648318,Los Angeles Kings,Winnipeg Jets,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Winnipeg Jets,2018
-/zapas/2648333,Anaheim Ducks,Winnipeg Jets,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Anaheim Ducks,Winnipeg Jets,2018
-/zapas/2648344,Vegas Golden Knights,Winnipeg Jets,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Vegas Golden Knights,Winnipeg Jets,2018
-/zapas/2648352,Winnipeg Jets,Nashville Predators,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Nashville Predators,Winnipeg Jets,2018
-/zapas/2648373,Winnipeg Jets,Dallas Stars,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Dallas Stars,Winnipeg Jets,2018
-/zapas/2648391,Winnipeg Jets,New York Islanders,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,New York Islanders,Winnipeg Jets,2018
-/zapas/2648402,Winnipeg Jets,Montreal Canadiens,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Montreal Canadiens,Winnipeg Jets,2018
-/zapas/2648424,Chicago Blackhawks,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Winnipeg Jets,2018
-/zapas/2648432,Minnesota Wild,Winnipeg Jets,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Minnesota Wild,Winnipeg Jets,2018
-/zapas/2648449,Colorado Avalanche,Winnipeg Jets,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Winnipeg Jets,2018
-/zapas/2648466,Arizona Coyotes,Winnipeg Jets,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Winnipeg Jets,2018
-/zapas/2806382,New York Rangers,Winnipeg Jets,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,New York Rangers,Winnipeg Jets,2019
-/zapas/2806389,New Jersey Devils,Winnipeg Jets,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,New Jersey Devils,Winnipeg Jets,2019
-/zapas/2806409,New York Islanders,Winnipeg Jets,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Islanders,Winnipeg Jets,2019
-/zapas/2806414,Pittsburgh Penguins,Winnipeg Jets,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Pittsburgh Penguins,Winnipeg Jets,2019
-/zapas/2806429,Winnipeg Jets,Minnesota Wild,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Minnesota Wild,Winnipeg Jets,2019
-/zapas/2806440,Chicago Blackhawks,Winnipeg Jets,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Winnipeg Jets,2019
-/zapas/2806451,Winnipeg Jets,Pittsburgh Penguins,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,Pittsburgh Penguins,Winnipeg Jets,2019
-/zapas/2806463,Winnipeg Jets,Arizona Coyotes,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Arizona Coyotes,Winnipeg Jets,2019
-/zapas/2806478,Winnipeg Jets,New York Islanders,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Islanders,Winnipeg Jets,2019
-/zapas/2806503,Winnipeg Jets,Edmonton Oilers,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,Edmonton Oilers,Winnipeg Jets,2019
-/zapas/2806516,Winnipeg Jets,Los Angeles Kings,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Los Angeles Kings,Winnipeg Jets,2019
-/zapas/2806545,Winnipeg Jets,Calgary Flames,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Calgary Flames,Winnipeg Jets,2019
-/zapas/2806563,Anaheim Ducks,Winnipeg Jets,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Anaheim Ducks,Winnipeg Jets,2019
-/zapas/2806579,San Jose Sharks,Winnipeg Jets,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,San Jose Sharks,Winnipeg Jets,2019
-/zapas/2806591,Vegas Golden Knights,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vegas Golden Knights,Winnipeg Jets,2019
-/zapas/2806605,Winnipeg Jets,New Jersey Devils,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,New Jersey Devils,Winnipeg Jets,2019
-/zapas/2806626,Winnipeg Jets,Vancouver Canucks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Winnipeg Jets,2019
-/zapas/2806640,Winnipeg Jets,Dallas Stars,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Dallas Stars,Winnipeg Jets,2019
-/zapas/2806652,Winnipeg Jets,Colorado Avalanche,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Colorado Avalanche,Winnipeg Jets,2019
-/zapas/2806664,Florida Panthers,Winnipeg Jets,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Florida Panthers,Winnipeg Jets,2019
-/zapas/2806678,Tampa Bay Lightning,Winnipeg Jets,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Tampa Bay Lightning,Winnipeg Jets,2019
-/zapas/2806701,Nashville Predators,Winnipeg Jets,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Nashville Predators,Winnipeg Jets,2019
-/zapas/2806718,Dallas Stars,Winnipeg Jets,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Dallas Stars,Winnipeg Jets,2019
-/zapas/2806728,Winnipeg Jets,Columbus Blue Jackets,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Columbus Blue Jackets,Winnipeg Jets,2019
-/zapas/2806765,San Jose Sharks,Winnipeg Jets,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,San Jose Sharks,Winnipeg Jets,2019
-/zapas/2806768,Anaheim Ducks,Winnipeg Jets,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Anaheim Ducks,Winnipeg Jets,2019
-/zapas/2806790,Los Angeles Kings,Winnipeg Jets,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Los Angeles Kings,Winnipeg Jets,2019
-/zapas/2806807,Winnipeg Jets,Dallas Stars,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Dallas Stars,Winnipeg Jets,2019
-/zapas/2806821,Dallas Stars,Winnipeg Jets,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Dallas Stars,Winnipeg Jets,2019
-/zapas/2806839,Winnipeg Jets,Anaheim Ducks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Winnipeg Jets,2019
-/zapas/2806853,Winnipeg Jets,Detroit Red Wings,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Detroit Red Wings,Winnipeg Jets,2019
-/zapas/2806867,Detroit Red Wings,Winnipeg Jets,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Detroit Red Wings,Winnipeg Jets,2019
-/zapas/2806891,Winnipeg Jets,Philadelphia Flyers,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Philadelphia Flyers,Winnipeg Jets,2019
-/zapas/2806906,Winnipeg Jets,Carolina Hurricanes,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Carolina Hurricanes,Winnipeg Jets,2019
-/zapas/2806919,Winnipeg Jets,Chicago Blackhawks,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Chicago Blackhawks,Winnipeg Jets,2019
-/zapas/2806930,Minnesota Wild,Winnipeg Jets,0,6,0,0.0,3.0,0.0,3.0,6.0,0.0,1.0,Minnesota Wild,Winnipeg Jets,2019
-/zapas/2806953,Winnipeg Jets,Montreal Canadiens,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Montreal Canadiens,Winnipeg Jets,2019
-/zapas/2806964,Winnipeg Jets,St. Louis Blues,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,St. Louis Blues,Winnipeg Jets,2019
-/zapas/2806978,St. Louis Blues,Winnipeg Jets,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,St. Louis Blues,Winnipeg Jets,2019
-/zapas/2806997,Colorado Avalanche,Winnipeg Jets,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Colorado Avalanche,Winnipeg Jets,2019
-/zapas/2807009,Winnipeg Jets,Toronto Maple Leafs,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2019
-/zapas/2807019,Minnesota Wild,Winnipeg Jets,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Minnesota Wild,Winnipeg Jets,2019
-/zapas/2807036,Montreal Canadiens,Winnipeg Jets,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Montreal Canadiens,Winnipeg Jets,2019
-/zapas/2807051,Toronto Maple Leafs,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Toronto Maple Leafs,Winnipeg Jets,2019
-/zapas/2807054,Boston Bruins,Winnipeg Jets,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Boston Bruins,Winnipeg Jets,2019
-/zapas/2807079,Winnipeg Jets,Nashville Predators,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Nashville Predators,Winnipeg Jets,2019
-/zapas/2807097,Winnipeg Jets,Vancouver Canucks,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Vancouver Canucks,Winnipeg Jets,2019
-/zapas/2807118,Winnipeg Jets,Tampa Bay Lightning,1,7,0,0.0,3.0,1.0,0.0,1.0,7.0,0.0,Tampa Bay Lightning,Winnipeg Jets,2019
-/zapas/2807133,Chicago Blackhawks,Winnipeg Jets,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Chicago Blackhawks,Winnipeg Jets,2019
-/zapas/2807140,Carolina Hurricanes,Winnipeg Jets,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Carolina Hurricanes,Winnipeg Jets,2019
-/zapas/2807142,Columbus Blue Jackets,Winnipeg Jets,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Columbus Blue Jackets,Winnipeg Jets,2019
-/zapas/2807165,Winnipeg Jets,Boston Bruins,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Boston Bruins,Winnipeg Jets,2019
-/zapas/2807171,Winnipeg Jets,St. Louis Blues,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,St. Louis Blues,Winnipeg Jets,2019
-/zapas/2807198,Winnipeg Jets,Nashville Predators,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Nashville Predators,Winnipeg Jets,2019
-/zapas/2807210,St. Louis Blues,Winnipeg Jets,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,St. Louis Blues,Winnipeg Jets,2019
-/zapas/2807219,Winnipeg Jets,Ottawa Senators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Ottawa Senators,Winnipeg Jets,2019
-/zapas/2807234,Winnipeg Jets,Chicago Blackhawks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Winnipeg Jets,2019
-/zapas/2807248,Winnipeg Jets,New York Rangers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,New York Rangers,Winnipeg Jets,2019
-/zapas/2807267,Winnipeg Jets,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Winnipeg Jets,2019
-/zapas/2807290,Winnipeg Jets,Chicago Blackhawks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Chicago Blackhawks,Winnipeg Jets,2019
-/zapas/2807302,Winnipeg Jets,Los Angeles Kings,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Los Angeles Kings,Winnipeg Jets,2019
-/zapas/2807313,Ottawa Senators,Winnipeg Jets,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Ottawa Senators,Winnipeg Jets,2019
-/zapas/2807325,Philadelphia Flyers,Winnipeg Jets,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Philadelphia Flyers,Winnipeg Jets,2019
-/zapas/2807337,Buffalo Sabres,Winnipeg Jets,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Buffalo Sabres,Winnipeg Jets,2019
-/zapas/2807349,Washington Capitals,Winnipeg Jets,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Washington Capitals,Winnipeg Jets,2019
-/zapas/2807368,Winnipeg Jets,Washington Capitals,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Washington Capitals,Winnipeg Jets,2019
-/zapas/2807385,Edmonton Oilers,Winnipeg Jets,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Winnipeg Jets,2019
-/zapas/2807400,Winnipeg Jets,Buffalo Sabres,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Buffalo Sabres,Winnipeg Jets,2019
-/zapas/2807421,Winnipeg Jets,Vegas Golden Knights,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Vegas Golden Knights,Winnipeg Jets,2019
-/zapas/2807443,Winnipeg Jets,Arizona Coyotes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Winnipeg Jets,2019
-/zapas/2807456,Edmonton Oilers,Winnipeg Jets,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Winnipeg Jets,2019
-/zapas/2893215,Winnipeg Jets,Calgary Flames,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Calgary Flames,Winnipeg Jets,2020
-/zapas/2893251,Toronto Maple Leafs,Winnipeg Jets,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2020
-/zapas/2893261,Ottawa Senators,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2893272,Ottawa Senators,Winnipeg Jets,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2893284,Winnipeg Jets,Ottawa Senators,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2893291,Winnipeg Jets,Edmonton Oilers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Edmonton Oilers,Winnipeg Jets,2020
-/zapas/2893302,Winnipeg Jets,Edmonton Oilers,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Edmonton Oilers,Winnipeg Jets,2020
-/zapas/2893332,Winnipeg Jets,Vancouver Canucks,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Vancouver Canucks,Winnipeg Jets,2020
-/zapas/2893352,Winnipeg Jets,Calgary Flames,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Calgary Flames,Winnipeg Jets,2020
-/zapas/2893360,Winnipeg Jets,Calgary Flames,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Calgary Flames,Winnipeg Jets,2020
-/zapas/2893373,Winnipeg Jets,Calgary Flames,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Calgary Flames,Winnipeg Jets,2020
-/zapas/2893412,Calgary Flames,Winnipeg Jets,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Calgary Flames,Winnipeg Jets,2020
-/zapas/2893424,Winnipeg Jets,Ottawa Senators,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2893439,Winnipeg Jets,Ottawa Senators,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2893453,Edmonton Oilers,Winnipeg Jets,5,6,0,0.0,3.0,0.0,3.0,6.0,5.0,1.0,Edmonton Oilers,Winnipeg Jets,2020
-/zapas/2893470,Edmonton Oilers,Winnipeg Jets,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Winnipeg Jets,2020
-/zapas/2893485,Vancouver Canucks,Winnipeg Jets,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Vancouver Canucks,Winnipeg Jets,2020
-/zapas/2893502,Vancouver Canucks,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vancouver Canucks,Winnipeg Jets,2020
-/zapas/2893520,Winnipeg Jets,Montreal Canadiens,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Montreal Canadiens,Winnipeg Jets,2020
-/zapas/2893537,Winnipeg Jets,Montreal Canadiens,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Montreal Canadiens,Winnipeg Jets,2020
-/zapas/2893550,Winnipeg Jets,Vancouver Canucks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Vancouver Canucks,Winnipeg Jets,2020
-/zapas/2893562,Winnipeg Jets,Vancouver Canucks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Winnipeg Jets,2020
-/zapas/2893579,Montreal Canadiens,Winnipeg Jets,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Winnipeg Jets,2020
-/zapas/2893594,Montreal Canadiens,Winnipeg Jets,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Montreal Canadiens,Winnipeg Jets,2020
-/zapas/2893617,Toronto Maple Leafs,Winnipeg Jets,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Toronto Maple Leafs,Winnipeg Jets,2020
-/zapas/2893632,Toronto Maple Leafs,Winnipeg Jets,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2020
-/zapas/2893647,Toronto Maple Leafs,Winnipeg Jets,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Toronto Maple Leafs,Winnipeg Jets,2020
-/zapas/2893654,Winnipeg Jets,Montreal Canadiens,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Montreal Canadiens,Winnipeg Jets,2020
-/zapas/2893670,Winnipeg Jets,Montreal Canadiens,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Winnipeg Jets,2020
-/zapas/2893676,Edmonton Oilers,Winnipeg Jets,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Edmonton Oilers,Winnipeg Jets,2020
-/zapas/2893691,Edmonton Oilers,Winnipeg Jets,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Edmonton Oilers,Winnipeg Jets,2020
-/zapas/2893709,Vancouver Canucks,Winnipeg Jets,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Vancouver Canucks,Winnipeg Jets,2020
-/zapas/2893721,Vancouver Canucks,Winnipeg Jets,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Vancouver Canucks,Winnipeg Jets,2020
-/zapas/2893733,Calgary Flames,Winnipeg Jets,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Calgary Flames,Winnipeg Jets,2020
-/zapas/2893740,Calgary Flames,Winnipeg Jets,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Calgary Flames,Winnipeg Jets,2020
-/zapas/2893757,Calgary Flames,Winnipeg Jets,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Calgary Flames,Winnipeg Jets,2020
-/zapas/2893774,Winnipeg Jets,Toronto Maple Leafs,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2020
-/zapas/2893788,Winnipeg Jets,Toronto Maple Leafs,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2020
-/zapas/2894053,Winnipeg Jets,Ottawa Senators,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2893842,Montreal Canadiens,Winnipeg Jets,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Montreal Canadiens,Winnipeg Jets,2020
-/zapas/2893855,Montreal Canadiens,Winnipeg Jets,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Montreal Canadiens,Winnipeg Jets,2020
-/zapas/2893870,Ottawa Senators,Winnipeg Jets,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2893881,Ottawa Senators,Winnipeg Jets,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2893891,Toronto Maple Leafs,Winnipeg Jets,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Toronto Maple Leafs,Winnipeg Jets,2020
-/zapas/2893898,Winnipeg Jets,Edmonton Oilers,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Edmonton Oilers,Winnipeg Jets,2020
-/zapas/2893934,Winnipeg Jets,Toronto Maple Leafs,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2020
-/zapas/2893953,Winnipeg Jets,Toronto Maple Leafs,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Winnipeg Jets,2020
-/zapas/2893967,Winnipeg Jets,Edmonton Oilers,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Edmonton Oilers,Winnipeg Jets,2020
-/zapas/2893983,Winnipeg Jets,Edmonton Oilers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Edmonton Oilers,Winnipeg Jets,2020
-/zapas/2894000,Montreal Canadiens,Winnipeg Jets,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Montreal Canadiens,Winnipeg Jets,2020
-/zapas/2894029,Ottawa Senators,Winnipeg Jets,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2894040,Calgary Flames,Winnipeg Jets,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Calgary Flames,Winnipeg Jets,2020
-/zapas/2894064,Winnipeg Jets,Ottawa Senators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Ottawa Senators,Winnipeg Jets,2020
-/zapas/2893806,Winnipeg Jets,Vancouver Canucks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Vancouver Canucks,Winnipeg Jets,2020
-/zapas/2893820,Winnipeg Jets,Vancouver Canucks,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Vancouver Canucks,Winnipeg Jets,2020
-/zapas/2893947,Winnipeg Jets,Toronto Maple Leafs,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Toronto Maple Leafs,Winnipeg Jets,2020
+/zapas/2553175,Winnipeg Jets,Minnesota Wild,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Minnesota Wild,Winnipeg Jets,2021
+/zapas/2553176,Winnipeg Jets,Minnesota Wild,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Minnesota Wild,Winnipeg Jets,2021
+/zapas/2553177,Minnesota Wild,Winnipeg Jets,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Minnesota Wild,Winnipeg Jets,2021
+/zapas/2553178,Minnesota Wild,Winnipeg Jets,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Minnesota Wild,Winnipeg Jets,2021
+/zapas/2553179,Winnipeg Jets,Minnesota Wild,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Minnesota Wild,Winnipeg Jets,2021
+/zapas/2574548,Nashville Predators,Winnipeg Jets,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Nashville Predators,Winnipeg Jets,2021
+/zapas/2574549,Nashville Predators,Winnipeg Jets,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Nashville Predators,Winnipeg Jets,2021
+/zapas/2574550,Winnipeg Jets,Nashville Predators,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Nashville Predators,Winnipeg Jets,2021
+/zapas/2574551,Winnipeg Jets,Nashville Predators,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Nashville Predators,Winnipeg Jets,2021
+/zapas/2574552,Nashville Predators,Winnipeg Jets,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Nashville Predators,Winnipeg Jets,2021
+/zapas/2574553,Winnipeg Jets,Nashville Predators,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Nashville Predators,Winnipeg Jets,2021
+/zapas/2574554,Nashville Predators,Winnipeg Jets,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Nashville Predators,Winnipeg Jets,2021
+/zapas/2593133,Winnipeg Jets,Vegas Golden Knights,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Winnipeg Jets,2021
+/zapas/2593134,Winnipeg Jets,Vegas Golden Knights,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Vegas Golden Knights,Winnipeg Jets,2021
+/zapas/2593135,Vegas Golden Knights,Winnipeg Jets,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Winnipeg Jets,2021
+/zapas/2593136,Vegas Golden Knights,Winnipeg Jets,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vegas Golden Knights,Winnipeg Jets,2021
+/zapas/2593150,Winnipeg Jets,Vegas Golden Knights,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Vegas Golden Knights,Winnipeg Jets,2021
+/zapas/2732175,Winnipeg Jets,St. Louis Blues,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,St. Louis Blues,Winnipeg Jets,2021
+/zapas/2732176,Winnipeg Jets,St. Louis Blues,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,St. Louis Blues,Winnipeg Jets,2021
+/zapas/2732177,St. Louis Blues,Winnipeg Jets,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,St. Louis Blues,Winnipeg Jets,2021
+/zapas/2732178,St. Louis Blues,Winnipeg Jets,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,St. Louis Blues,Winnipeg Jets,2021
+/zapas/2732179,Winnipeg Jets,St. Louis Blues,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,St. Louis Blues,Winnipeg Jets,2021
+/zapas/2732190,St. Louis Blues,Winnipeg Jets,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,St. Louis Blues,Winnipeg Jets,2021
+/zapas/2891014,Calgary Flames,Winnipeg Jets,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Calgary Flames,Winnipeg Jets,2021
+/zapas/2891015,Calgary Flames,Winnipeg Jets,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Calgary Flames,Winnipeg Jets,2021
+/zapas/2891016,Winnipeg Jets,Calgary Flames,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Calgary Flames,Winnipeg Jets,2021
+/zapas/2891017,Winnipeg Jets,Calgary Flames,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Calgary Flames,Winnipeg Jets,2021
+/zapas/2894371,Edmonton Oilers,Winnipeg Jets,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Edmonton Oilers,Winnipeg Jets,2021
+/zapas/2894372,Edmonton Oilers,Winnipeg Jets,0,1,1,1.0,2.0,0.0,2.0,1.0,0.0,1.0,Edmonton Oilers,Winnipeg Jets,2021
+/zapas/2894373,Winnipeg Jets,Edmonton Oilers,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Edmonton Oilers,Winnipeg Jets,2021
+/zapas/2894374,Winnipeg Jets,Edmonton Oilers,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Edmonton Oilers,Winnipeg Jets,2021
+/zapas/2894915,Winnipeg Jets,Montreal Canadiens,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Montreal Canadiens,Winnipeg Jets,2021
+/zapas/2894916,Winnipeg Jets,Montreal Canadiens,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Montreal Canadiens,Winnipeg Jets,2021
+/zapas/2894917,Montreal Canadiens,Winnipeg Jets,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Montreal Canadiens,Winnipeg Jets,2021
+/zapas/2894918,Montreal Canadiens,Winnipeg Jets,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Montreal Canadiens,Winnipeg Jets,2021
 /zapas/2896988,Anaheim Ducks,Winnipeg Jets,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Anaheim Ducks,Winnipeg Jets,2021
 /zapas/2897002,San Jose Sharks,Winnipeg Jets,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,San Jose Sharks,Winnipeg Jets,2021
 /zapas/2897023,Minnesota Wild,Winnipeg Jets,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Minnesota Wild,Winnipeg Jets,2021

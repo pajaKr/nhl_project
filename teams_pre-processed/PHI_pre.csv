@@ -1,293 +1,161 @@
 game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
-/zapas/2526058,San Jose Sharks,Philadelphia Flyers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,San Jose Sharks,Philadelphia Flyers,2017
-/zapas/2526066,Los Angeles Kings,Philadelphia Flyers,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Los Angeles Kings,Philadelphia Flyers,2017
-/zapas/2526081,Anaheim Ducks,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Anaheim Ducks,Philadelphia Flyers,2017
-/zapas/2526096,Nashville Predators,Philadelphia Flyers,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Nashville Predators,Philadelphia Flyers,2017
-/zapas/2526121,Philadelphia Flyers,Washington Capitals,8,2,0,3.0,0.0,1.0,3.0,8.0,2.0,1.0,Washington Capitals,Philadelphia Flyers,2017
-/zapas/2526137,Philadelphia Flyers,Florida Panthers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Florida Panthers,Philadelphia Flyers,2017
-/zapas/2526151,Philadelphia Flyers,Nashville Predators,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Nashville Predators,Philadelphia Flyers,2017
-/zapas/2526165,Philadelphia Flyers,Edmonton Oilers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Edmonton Oilers,Philadelphia Flyers,2017
-/zapas/2526182,Philadelphia Flyers,Anaheim Ducks,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Anaheim Ducks,Philadelphia Flyers,2017
-/zapas/2526196,Ottawa Senators,Philadelphia Flyers,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Ottawa Senators,Philadelphia Flyers,2017
-/zapas/2526211,Toronto Maple Leafs,Philadelphia Flyers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Toronto Maple Leafs,Philadelphia Flyers,2017
-/zapas/2526225,Philadelphia Flyers,Arizona Coyotes,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Arizona Coyotes,Philadelphia Flyers,2017
-/zapas/2526235,Chicago Blackhawks,Philadelphia Flyers,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Chicago Blackhawks,Philadelphia Flyers,2017
-/zapas/2526245,St. Louis Blues,Philadelphia Flyers,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,St. Louis Blues,Philadelphia Flyers,2017
-/zapas/2526260,Philadelphia Flyers,Colorado Avalanche,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Colorado Avalanche,Philadelphia Flyers,2017
-/zapas/2526290,Philadelphia Flyers,Chicago Blackhawks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Chicago Blackhawks,Philadelphia Flyers,2017
-/zapas/2526309,Philadelphia Flyers,Minnesota Wild,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Minnesota Wild,Philadelphia Flyers,2017
-/zapas/2526325,Minnesota Wild,Philadelphia Flyers,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Minnesota Wild,Philadelphia Flyers,2017
-/zapas/2526338,Winnipeg Jets,Philadelphia Flyers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Winnipeg Jets,Philadelphia Flyers,2017
-/zapas/2526346,Philadelphia Flyers,Calgary Flames,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Calgary Flames,Philadelphia Flyers,2017
-/zapas/2526370,Philadelphia Flyers,Vancouver Canucks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Philadelphia Flyers,2017
-/zapas/2526377,New York Islanders,Philadelphia Flyers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Islanders,Philadelphia Flyers,2017
-/zapas/2526391,Philadelphia Flyers,New York Islanders,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,New York Islanders,Philadelphia Flyers,2017
-/zapas/2526417,Pittsburgh Penguins,Philadelphia Flyers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2017
-/zapas/2526424,Philadelphia Flyers,San Jose Sharks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,San Jose Sharks,Philadelphia Flyers,2017
-/zapas/2526450,Philadelphia Flyers,Boston Bruins,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Boston Bruins,Philadelphia Flyers,2017
-/zapas/2526469,Calgary Flames,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Calgary Flames,Philadelphia Flyers,2017
-/zapas/2526482,Edmonton Oilers,Philadelphia Flyers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Philadelphia Flyers,2017
-/zapas/2526490,Vancouver Canucks,Philadelphia Flyers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Philadelphia Flyers,2017
-/zapas/2526522,Philadelphia Flyers,Toronto Maple Leafs,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Toronto Maple Leafs,Philadelphia Flyers,2017
-/zapas/2526534,Philadelphia Flyers,Buffalo Sabres,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Buffalo Sabres,Philadelphia Flyers,2017
-/zapas/2526555,Philadelphia Flyers,Dallas Stars,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Dallas Stars,Philadelphia Flyers,2017
-/zapas/2526567,Philadelphia Flyers,Los Angeles Kings,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Philadelphia Flyers,2017
-/zapas/2526581,Philadelphia Flyers,Detroit Red Wings,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Detroit Red Wings,Philadelphia Flyers,2017
-/zapas/2526593,Buffalo Sabres,Philadelphia Flyers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Buffalo Sabres,Philadelphia Flyers,2017
-/zapas/2526606,Columbus Blue Jackets,Philadelphia Flyers,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2017
-/zapas/2526625,Florida Panthers,Philadelphia Flyers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Florida Panthers,Philadelphia Flyers,2017
-/zapas/2526633,Tampa Bay Lightning,Philadelphia Flyers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Tampa Bay Lightning,Philadelphia Flyers,2017
-/zapas/2526656,Philadelphia Flyers,Pittsburgh Penguins,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2017
-/zapas/2526670,Philadelphia Flyers,New York Islanders,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,New York Islanders,Philadelphia Flyers,2017
-/zapas/2526687,Philadelphia Flyers,St. Louis Blues,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,St. Louis Blues,Philadelphia Flyers,2017
-/zapas/2526697,Philadelphia Flyers,Buffalo Sabres,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Buffalo Sabres,Philadelphia Flyers,2017
-/zapas/2526727,New Jersey Devils,Philadelphia Flyers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New Jersey Devils,Philadelphia Flyers,2017
-/zapas/2526742,New York Rangers,Philadelphia Flyers,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,New York Rangers,Philadelphia Flyers,2017
-/zapas/2526751,Philadelphia Flyers,Toronto Maple Leafs,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Toronto Maple Leafs,Philadelphia Flyers,2017
-/zapas/2526762,Philadelphia Flyers,New Jersey Devils,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New Jersey Devils,Philadelphia Flyers,2017
-/zapas/2526775,Washington Capitals,Philadelphia Flyers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Washington Capitals,Philadelphia Flyers,2017
-/zapas/2526788,Detroit Red Wings,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Detroit Red Wings,Philadelphia Flyers,2017
-/zapas/2526800,Philadelphia Flyers,Tampa Bay Lightning,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2017
-/zapas/2526828,Washington Capitals,Philadelphia Flyers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2017
-/zapas/2526832,New Jersey Devils,Philadelphia Flyers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,New Jersey Devils,Philadelphia Flyers,2017
-/zapas/2526847,Philadelphia Flyers,Ottawa Senators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Ottawa Senators,Philadelphia Flyers,2017
-/zapas/2526868,Carolina Hurricanes,Philadelphia Flyers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Carolina Hurricanes,Philadelphia Flyers,2017
-/zapas/2526882,Philadelphia Flyers,Montreal Canadiens,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Montreal Canadiens,Philadelphia Flyers,2017
-/zapas/2526903,Arizona Coyotes,Philadelphia Flyers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Arizona Coyotes,Philadelphia Flyers,2017
-/zapas/2526913,Vegas Golden Knights,Philadelphia Flyers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Vegas Golden Knights,Philadelphia Flyers,2017
-/zapas/2526921,Philadelphia Flyers,New Jersey Devils,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,New Jersey Devils,Philadelphia Flyers,2017
-/zapas/2526944,Columbus Blue Jackets,Philadelphia Flyers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,2017
-/zapas/2526959,New York Rangers,Philadelphia Flyers,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,New York Rangers,Philadelphia Flyers,2017
-/zapas/2526974,Philadelphia Flyers,Montreal Canadiens,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Philadelphia Flyers,2017
-/zapas/2526986,Philadelphia Flyers,Columbus Blue Jackets,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,2017
-/zapas/2527000,Ottawa Senators,Philadelphia Flyers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Ottawa Senators,Philadelphia Flyers,2017
-/zapas/2527019,Montreal Canadiens,Philadelphia Flyers,0,1,1,1.0,2.0,0.0,2.0,1.0,0.0,1.0,Montreal Canadiens,Philadelphia Flyers,2017
-/zapas/2527038,Philadelphia Flyers,Carolina Hurricanes,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2017
-/zapas/2527054,Tampa Bay Lightning,Philadelphia Flyers,7,6,1,2.0,1.0,0.0,1.0,6.0,7.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2017
-/zapas/2527063,Florida Panthers,Philadelphia Flyers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Florida Panthers,Philadelphia Flyers,2017
-/zapas/2527084,Philadelphia Flyers,Pittsburgh Penguins,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2017
-/zapas/2527086,Boston Bruins,Philadelphia Flyers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Boston Bruins,Philadelphia Flyers,2017
-/zapas/2527105,Philadelphia Flyers,Winnipeg Jets,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Winnipeg Jets,Philadelphia Flyers,2017
-/zapas/2527118,Philadelphia Flyers,Vegas Golden Knights,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Vegas Golden Knights,Philadelphia Flyers,2017
-/zapas/2527139,Philadelphia Flyers,Columbus Blue Jackets,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2017
-/zapas/2527157,Carolina Hurricanes,Philadelphia Flyers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Carolina Hurricanes,Philadelphia Flyers,2017
-/zapas/2527166,Philadelphia Flyers,Washington Capitals,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Washington Capitals,Philadelphia Flyers,2017
-/zapas/2527180,Detroit Red Wings,Philadelphia Flyers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Detroit Red Wings,Philadelphia Flyers,2017
-/zapas/2527191,Philadelphia Flyers,New York Rangers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,New York Rangers,Philadelphia Flyers,2017
-/zapas/2527217,Pittsburgh Penguins,Philadelphia Flyers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2017
-/zapas/2527237,Dallas Stars,Philadelphia Flyers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Dallas Stars,Philadelphia Flyers,2017
-/zapas/2527243,Colorado Avalanche,Philadelphia Flyers,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Colorado Avalanche,Philadelphia Flyers,2017
-/zapas/2527272,Philadelphia Flyers,Boston Bruins,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Boston Bruins,Philadelphia Flyers,2017
-/zapas/2527284,New York Islanders,Philadelphia Flyers,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,New York Islanders,Philadelphia Flyers,2017
-/zapas/2527297,Philadelphia Flyers,Carolina Hurricanes,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Carolina Hurricanes,Philadelphia Flyers,2017
-/zapas/2527311,Philadelphia Flyers,New York Rangers,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,New York Rangers,Philadelphia Flyers,2017
-/zapas/2647212,Vegas Golden Knights,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Philadelphia Flyers,2018
-/zapas/2647225,Colorado Avalanche,Philadelphia Flyers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Colorado Avalanche,Philadelphia Flyers,2018
-/zapas/2647234,Philadelphia Flyers,San Jose Sharks,2,8,0,0.0,3.0,1.0,0.0,2.0,8.0,0.0,San Jose Sharks,Philadelphia Flyers,2018
-/zapas/2647240,Ottawa Senators,Philadelphia Flyers,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Ottawa Senators,Philadelphia Flyers,2018
-/zapas/2647256,Philadelphia Flyers,Vegas Golden Knights,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Vegas Golden Knights,Philadelphia Flyers,2018
-/zapas/2647278,Philadelphia Flyers,Florida Panthers,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Florida Panthers,Philadelphia Flyers,2018
-/zapas/2647290,Columbus Blue Jackets,Philadelphia Flyers,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2018
-/zapas/2647300,Philadelphia Flyers,New Jersey Devils,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New Jersey Devils,Philadelphia Flyers,2018
-/zapas/2647316,Philadelphia Flyers,Colorado Avalanche,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Philadelphia Flyers,2018
-/zapas/2647332,Boston Bruins,Philadelphia Flyers,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Boston Bruins,Philadelphia Flyers,2018
-/zapas/2647347,Philadelphia Flyers,New York Islanders,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,New York Islanders,Philadelphia Flyers,2018
-/zapas/2647374,Anaheim Ducks,Philadelphia Flyers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Philadelphia Flyers,2018
-/zapas/2647388,Los Angeles Kings,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Los Angeles Kings,Philadelphia Flyers,2018
-/zapas/2647404,San Jose Sharks,Philadelphia Flyers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,San Jose Sharks,Philadelphia Flyers,2018
-/zapas/2647412,Arizona Coyotes,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Philadelphia Flyers,2018
-/zapas/2647427,Philadelphia Flyers,Arizona Coyotes,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Arizona Coyotes,Philadelphia Flyers,2018
-/zapas/2647441,Philadelphia Flyers,Chicago Blackhawks,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Chicago Blackhawks,Philadelphia Flyers,2018
-/zapas/2647465,Philadelphia Flyers,Florida Panthers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Florida Panthers,Philadelphia Flyers,2018
-/zapas/2647476,Philadelphia Flyers,New Jersey Devils,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,New Jersey Devils,Philadelphia Flyers,2018
-/zapas/2647491,Philadelphia Flyers,Tampa Bay Lightning,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2018
-/zapas/2647516,Buffalo Sabres,Philadelphia Flyers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Buffalo Sabres,Philadelphia Flyers,2018
-/zapas/2647530,Philadelphia Flyers,New York Rangers,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,New York Rangers,Philadelphia Flyers,2018
-/zapas/2647547,Toronto Maple Leafs,Philadelphia Flyers,6,0,0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,Toronto Maple Leafs,Philadelphia Flyers,2018
-/zapas/2647566,Philadelphia Flyers,Ottawa Senators,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Ottawa Senators,Philadelphia Flyers,2018
-/zapas/2647601,Pittsburgh Penguins,Philadelphia Flyers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2018
-/zapas/2647629,Philadelphia Flyers,Columbus Blue Jackets,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2018
-/zapas/2647642,Buffalo Sabres,Philadelphia Flyers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Buffalo Sabres,Philadelphia Flyers,2018
-/zapas/2647653,Winnipeg Jets,Philadelphia Flyers,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Winnipeg Jets,Philadelphia Flyers,2018
-/zapas/2647675,Calgary Flames,Philadelphia Flyers,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Calgary Flames,Philadelphia Flyers,2018
-/zapas/2647692,Edmonton Oilers,Philadelphia Flyers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Edmonton Oilers,Philadelphia Flyers,2018
-/zapas/2647702,Vancouver Canucks,Philadelphia Flyers,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Vancouver Canucks,Philadelphia Flyers,2018
-/zapas/2647718,Philadelphia Flyers,Detroit Red Wings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Detroit Red Wings,Philadelphia Flyers,2018
-/zapas/2647730,Philadelphia Flyers,Nashville Predators,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Nashville Predators,Philadelphia Flyers,2018
-/zapas/2647744,Philadelphia Flyers,Columbus Blue Jackets,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2018
-/zapas/2647760,New York Rangers,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New York Rangers,Philadelphia Flyers,2018
-/zapas/2647769,Tampa Bay Lightning,Philadelphia Flyers,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2018
-/zapas/2647789,Florida Panthers,Philadelphia Flyers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Florida Panthers,Philadelphia Flyers,2018
-/zapas/2647801,Carolina Hurricanes,Philadelphia Flyers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2018
-/zapas/2647811,Nashville Predators,Philadelphia Flyers,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Nashville Predators,Philadelphia Flyers,2018
-/zapas/2647823,Philadelphia Flyers,Carolina Hurricanes,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2018
-/zapas/2647834,Philadelphia Flyers,Calgary Flames,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Calgary Flames,Philadelphia Flyers,2018
-/zapas/2647851,Philadelphia Flyers,St. Louis Blues,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,St. Louis Blues,Philadelphia Flyers,2018
-/zapas/2647859,Washington Capitals,Philadelphia Flyers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2018
-/zapas/2647872,Philadelphia Flyers,Dallas Stars,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Dallas Stars,Philadelphia Flyers,2018
-/zapas/2647885,New Jersey Devils,Philadelphia Flyers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,New Jersey Devils,Philadelphia Flyers,2018
-/zapas/2647906,Philadelphia Flyers,Minnesota Wild,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Minnesota Wild,Philadelphia Flyers,2018
-/zapas/2647920,Philadelphia Flyers,Boston Bruins,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Boston Bruins,Philadelphia Flyers,2018
-/zapas/2647943,Montreal Canadiens,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Philadelphia Flyers,2018
-/zapas/2647969,Philadelphia Flyers,Winnipeg Jets,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Philadelphia Flyers,2018
-/zapas/2647972,New York Rangers,Philadelphia Flyers,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,New York Rangers,Philadelphia Flyers,2018
-/zapas/2647976,Boston Bruins,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Boston Bruins,Philadelphia Flyers,2018
-/zapas/2647987,Philadelphia Flyers,Edmonton Oilers,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Edmonton Oilers,Philadelphia Flyers,2018
-/zapas/2648005,Philadelphia Flyers,Vancouver Canucks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Vancouver Canucks,Philadelphia Flyers,2018
-/zapas/2648024,Philadelphia Flyers,Los Angeles Kings,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Los Angeles Kings,Philadelphia Flyers,2018
-/zapas/2648040,Philadelphia Flyers,Anaheim Ducks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Anaheim Ducks,Philadelphia Flyers,2018
-/zapas/2648058,Philadelphia Flyers,Pittsburgh Penguins,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2018
-/zapas/2648069,Minnesota Wild,Philadelphia Flyers,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Minnesota Wild,Philadelphia Flyers,2018
-/zapas/2648090,Philadelphia Flyers,Detroit Red Wings,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Detroit Red Wings,Philadelphia Flyers,2018
-/zapas/2648105,Detroit Red Wings,Philadelphia Flyers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Detroit Red Wings,Philadelphia Flyers,2018
-/zapas/2648116,Philadelphia Flyers,Tampa Bay Lightning,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2018
-/zapas/2648132,Montreal Canadiens,Philadelphia Flyers,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Montreal Canadiens,Philadelphia Flyers,2018
-/zapas/2648151,Philadelphia Flyers,Pittsburgh Penguins,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2018
-/zapas/2648168,Philadelphia Flyers,Buffalo Sabres,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Philadelphia Flyers,2018
-/zapas/2648184,Columbus Blue Jackets,Philadelphia Flyers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2018
-/zapas/2648190,New Jersey Devils,Philadelphia Flyers,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,New Jersey Devils,Philadelphia Flyers,2018
-/zapas/2648208,New York Islanders,Philadelphia Flyers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New York Islanders,Philadelphia Flyers,2018
-/zapas/2648227,Philadelphia Flyers,Washington Capitals,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2018
-/zapas/2648251,New York Islanders,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New York Islanders,Philadelphia Flyers,2018
-/zapas/2648265,Philadelphia Flyers,Ottawa Senators,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Ottawa Senators,Philadelphia Flyers,2018
-/zapas/2648283,Philadelphia Flyers,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2018
-/zapas/2648291,Toronto Maple Leafs,Philadelphia Flyers,7,6,0,3.0,0.0,0.0,0.0,6.0,7.0,0.0,Toronto Maple Leafs,Philadelphia Flyers,2018
-/zapas/2648313,Pittsburgh Penguins,Philadelphia Flyers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2018
-/zapas/2648323,Philadelphia Flyers,Montreal Canadiens,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Montreal Canadiens,Philadelphia Flyers,2018
-/zapas/2648340,Chicago Blackhawks,Philadelphia Flyers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Chicago Blackhawks,Philadelphia Flyers,2018
-/zapas/2648349,Philadelphia Flyers,New York Islanders,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,New York Islanders,Philadelphia Flyers,2018
-/zapas/2648362,Washington Capitals,Philadelphia Flyers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Washington Capitals,Philadelphia Flyers,2018
-/zapas/2648383,Philadelphia Flyers,Toronto Maple Leafs,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Toronto Maple Leafs,Philadelphia Flyers,2018
-/zapas/2648401,Carolina Hurricanes,Philadelphia Flyers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2018
-/zapas/2648413,Philadelphia Flyers,New York Rangers,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,New York Rangers,Philadelphia Flyers,2018
-/zapas/2648433,Dallas Stars,Philadelphia Flyers,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Dallas Stars,Philadelphia Flyers,2018
-/zapas/2648446,St. Louis Blues,Philadelphia Flyers,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,St. Louis Blues,Philadelphia Flyers,2018
-/zapas/2648461,Philadelphia Flyers,Carolina Hurricanes,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2018
-/zapas/2806392,Philadelphia Flyers,Chicago Blackhawks,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Chicago Blackhawks,Philadelphia Flyers,2019
-/zapas/2806421,Philadelphia Flyers,New Jersey Devils,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,New Jersey Devils,Philadelphia Flyers,2019
-/zapas/2806449,Vancouver Canucks,Philadelphia Flyers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Philadelphia Flyers,2019
-/zapas/2806464,Calgary Flames,Philadelphia Flyers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Calgary Flames,Philadelphia Flyers,2019
-/zapas/2806471,Edmonton Oilers,Philadelphia Flyers,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Edmonton Oilers,Philadelphia Flyers,2019
-/zapas/2806494,Philadelphia Flyers,Dallas Stars,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Dallas Stars,Philadelphia Flyers,2019
-/zapas/2806506,Philadelphia Flyers,Vegas Golden Knights,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Vegas Golden Knights,Philadelphia Flyers,2019
-/zapas/2806527,Chicago Blackhawks,Philadelphia Flyers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Chicago Blackhawks,Philadelphia Flyers,2019
-/zapas/2806541,Philadelphia Flyers,Columbus Blue Jackets,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,2019
-/zapas/2806550,New York Islanders,Philadelphia Flyers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Islanders,Philadelphia Flyers,2019
-/zapas/2806558,Pittsburgh Penguins,Philadelphia Flyers,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2019
-/zapas/2806572,New Jersey Devils,Philadelphia Flyers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New Jersey Devils,Philadelphia Flyers,2019
-/zapas/2806586,Philadelphia Flyers,Toronto Maple Leafs,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Toronto Maple Leafs,Philadelphia Flyers,2019
-/zapas/2806602,Philadelphia Flyers,Carolina Hurricanes,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Carolina Hurricanes,Philadelphia Flyers,2019
-/zapas/2806616,Philadelphia Flyers,Montreal Canadiens,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Philadelphia Flyers,2019
-/zapas/2806630,Toronto Maple Leafs,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Toronto Maple Leafs,Philadelphia Flyers,2019
-/zapas/2806644,Boston Bruins,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Boston Bruins,Philadelphia Flyers,2019
-/zapas/2806659,Philadelphia Flyers,Washington Capitals,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Washington Capitals,Philadelphia Flyers,2019
-/zapas/2806674,Ottawa Senators,Philadelphia Flyers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Ottawa Senators,Philadelphia Flyers,2019
-/zapas/2806683,Philadelphia Flyers,New York Islanders,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,New York Islanders,Philadelphia Flyers,2019
-/zapas/2806695,Florida Panthers,Philadelphia Flyers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Florida Panthers,Philadelphia Flyers,2019
-/zapas/2806712,Carolina Hurricanes,Philadelphia Flyers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Carolina Hurricanes,Philadelphia Flyers,2019
-/zapas/2806725,Philadelphia Flyers,Calgary Flames,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Calgary Flames,Philadelphia Flyers,2019
-/zapas/2806743,Philadelphia Flyers,Vancouver Canucks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Vancouver Canucks,Philadelphia Flyers,2019
-/zapas/2806760,Columbus Blue Jackets,Philadelphia Flyers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,2019
-/zapas/2806773,Philadelphia Flyers,Detroit Red Wings,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Detroit Red Wings,Philadelphia Flyers,2019
-/zapas/2806780,Montreal Canadiens,Philadelphia Flyers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Philadelphia Flyers,2019
-/zapas/2806804,Philadelphia Flyers,Toronto Maple Leafs,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Toronto Maple Leafs,Philadelphia Flyers,2019
-/zapas/2806818,Philadelphia Flyers,Arizona Coyotes,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Arizona Coyotes,Philadelphia Flyers,2019
-/zapas/2806828,Philadelphia Flyers,Ottawa Senators,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Ottawa Senators,Philadelphia Flyers,2019
-/zapas/2806862,Colorado Avalanche,Philadelphia Flyers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Colorado Avalanche,Philadelphia Flyers,2019
-/zapas/2806883,Minnesota Wild,Philadelphia Flyers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Minnesota Wild,Philadelphia Flyers,2019
-/zapas/2806891,Winnipeg Jets,Philadelphia Flyers,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Winnipeg Jets,Philadelphia Flyers,2019
-/zapas/2806904,Philadelphia Flyers,Anaheim Ducks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Philadelphia Flyers,2019
-/zapas/2806916,Philadelphia Flyers,Buffalo Sabres,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Buffalo Sabres,Philadelphia Flyers,2019
-/zapas/2806934,Ottawa Senators,Philadelphia Flyers,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Ottawa Senators,Philadelphia Flyers,2019
-/zapas/2806950,Philadelphia Flyers,New York Rangers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,New York Rangers,Philadelphia Flyers,2019
-/zapas/2806977,San Jose Sharks,Philadelphia Flyers,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,San Jose Sharks,Philadelphia Flyers,2019
-/zapas/2806986,Anaheim Ducks,Philadelphia Flyers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Anaheim Ducks,Philadelphia Flyers,2019
-/zapas/2806998,Los Angeles Kings,Philadelphia Flyers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Los Angeles Kings,Philadelphia Flyers,2019
-/zapas/2807014,Vegas Golden Knights,Philadelphia Flyers,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Vegas Golden Knights,Philadelphia Flyers,2019
-/zapas/2807026,Arizona Coyotes,Philadelphia Flyers,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Arizona Coyotes,Philadelphia Flyers,2019
-/zapas/2807044,Carolina Hurricanes,Philadelphia Flyers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2019
-/zapas/2807052,Philadelphia Flyers,Washington Capitals,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Washington Capitals,Philadelphia Flyers,2019
-/zapas/2807071,Philadelphia Flyers,Tampa Bay Lightning,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2019
-/zapas/2807087,Philadelphia Flyers,Boston Bruins,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Boston Bruins,Philadelphia Flyers,2019
-/zapas/2807102,St. Louis Blues,Philadelphia Flyers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,St. Louis Blues,Philadelphia Flyers,2019
-/zapas/2807107,Philadelphia Flyers,Montreal Canadiens,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Montreal Canadiens,Philadelphia Flyers,2019
-/zapas/2807126,Philadelphia Flyers,Los Angeles Kings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Los Angeles Kings,Philadelphia Flyers,2019
-/zapas/2807139,Philadelphia Flyers,Pittsburgh Penguins,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2019
-/zapas/2807162,Pittsburgh Penguins,Philadelphia Flyers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2019
-/zapas/2807175,Philadelphia Flyers,Colorado Avalanche,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Colorado Avalanche,Philadelphia Flyers,2019
-/zapas/2807187,Detroit Red Wings,Philadelphia Flyers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Detroit Red Wings,Philadelphia Flyers,2019
-/zapas/2807208,Philadelphia Flyers,New Jersey Devils,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,New Jersey Devils,Philadelphia Flyers,2019
-/zapas/2807226,Washington Capitals,Philadelphia Flyers,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,Washington Capitals,Philadelphia Flyers,2019
-/zapas/2807237,Philadelphia Flyers,Florida Panthers,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Florida Panthers,Philadelphia Flyers,2019
-/zapas/2807245,New York Islanders,Philadelphia Flyers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Islanders,Philadelphia Flyers,2019
-/zapas/2807259,Florida Panthers,Philadelphia Flyers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Florida Panthers,Philadelphia Flyers,2019
-/zapas/2807273,Tampa Bay Lightning,Philadelphia Flyers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2019
-/zapas/2807296,Philadelphia Flyers,Columbus Blue Jackets,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,2019
-/zapas/2807312,Columbus Blue Jackets,Philadelphia Flyers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Columbus Blue Jackets,Philadelphia Flyers,2019
-/zapas/2807325,Philadelphia Flyers,Winnipeg Jets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Philadelphia Flyers,2019
-/zapas/2807348,Philadelphia Flyers,San Jose Sharks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,San Jose Sharks,Philadelphia Flyers,2019
-/zapas/2807370,Philadelphia Flyers,New York Rangers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New York Rangers,Philadelphia Flyers,2019
-/zapas/2807387,New York Rangers,Philadelphia Flyers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New York Rangers,Philadelphia Flyers,2019
-/zapas/2807405,Washington Capitals,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Washington Capitals,Philadelphia Flyers,2019
-/zapas/2807413,Philadelphia Flyers,Carolina Hurricanes,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Carolina Hurricanes,Philadelphia Flyers,2019
-/zapas/2807433,Philadelphia Flyers,Buffalo Sabres,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Buffalo Sabres,Philadelphia Flyers,2019
-/zapas/2807449,Philadelphia Flyers,Boston Bruins,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Boston Bruins,Philadelphia Flyers,2019
-/zapas/2893211,Philadelphia Flyers,Pittsburgh Penguins,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2020
-/zapas/2893227,Philadelphia Flyers,Pittsburgh Penguins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2020
-/zapas/2893249,Philadelphia Flyers,Buffalo Sabres,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Buffalo Sabres,Philadelphia Flyers,2020
-/zapas/2893256,Philadelphia Flyers,Buffalo Sabres,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Buffalo Sabres,Philadelphia Flyers,2020
-/zapas/2893268,Boston Bruins,Philadelphia Flyers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Boston Bruins,Philadelphia Flyers,2020
-/zapas/2893285,Boston Bruins,Philadelphia Flyers,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Boston Bruins,Philadelphia Flyers,2020
-/zapas/2893310,New Jersey Devils,Philadelphia Flyers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New Jersey Devils,Philadelphia Flyers,2020
-/zapas/2893324,New Jersey Devils,Philadelphia Flyers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,New Jersey Devils,Philadelphia Flyers,2020
-/zapas/2893337,Philadelphia Flyers,New York Islanders,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Islanders,Philadelphia Flyers,2020
-/zapas/2893348,Philadelphia Flyers,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Philadelphia Flyers,2020
-/zapas/2893367,Philadelphia Flyers,Boston Bruins,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Boston Bruins,Philadelphia Flyers,2020
-/zapas/2893382,Philadelphia Flyers,Boston Bruins,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Boston Bruins,Philadelphia Flyers,2020
-/zapas/2893399,Washington Capitals,Philadelphia Flyers,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Washington Capitals,Philadelphia Flyers,2020
-/zapas/2893477,Philadelphia Flyers,New York Rangers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New York Rangers,Philadelphia Flyers,2020
-/zapas/2893498,Boston Bruins,Philadelphia Flyers,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Boston Bruins,Philadelphia Flyers,2020
-/zapas/2893518,Philadelphia Flyers,New York Rangers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,New York Rangers,Philadelphia Flyers,2020
-/zapas/2893531,Buffalo Sabres,Philadelphia Flyers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Buffalo Sabres,Philadelphia Flyers,2020
-/zapas/2893551,Buffalo Sabres,Philadelphia Flyers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Buffalo Sabres,Philadelphia Flyers,2020
-/zapas/2893564,Pittsburgh Penguins,Philadelphia Flyers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2020
-/zapas/2893578,Pittsburgh Penguins,Philadelphia Flyers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2020
-/zapas/2893877,Pittsburgh Penguins,Philadelphia Flyers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2020
-/zapas/2893980,Philadelphia Flyers,Washington Capitals,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Washington Capitals,Philadelphia Flyers,2020
-/zapas/2893611,Philadelphia Flyers,Buffalo Sabres,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Buffalo Sabres,Philadelphia Flyers,2020
-/zapas/2893628,Philadelphia Flyers,Washington Capitals,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2020
-/zapas/2893643,Philadelphia Flyers,Washington Capitals,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2020
-/zapas/2893656,New York Rangers,Philadelphia Flyers,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,New York Rangers,Philadelphia Flyers,2020
-/zapas/2893672,New York Rangers,Philadelphia Flyers,9,0,0,3.0,0.0,0.0,0.0,0.0,9.0,0.0,New York Rangers,Philadelphia Flyers,2020
-/zapas/2893679,New York Islanders,Philadelphia Flyers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,New York Islanders,Philadelphia Flyers,2020
-/zapas/2893694,New York Islanders,Philadelphia Flyers,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,New York Islanders,Philadelphia Flyers,2020
-/zapas/2893963,Philadelphia Flyers,New York Islanders,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,New York Islanders,Philadelphia Flyers,2020
-/zapas/2893715,Philadelphia Flyers,New Jersey Devils,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,New Jersey Devils,Philadelphia Flyers,2020
-/zapas/2893728,Philadelphia Flyers,New York Rangers,3,8,0,0.0,3.0,1.0,0.0,3.0,8.0,0.0,New York Rangers,Philadelphia Flyers,2020
-/zapas/2893743,Philadelphia Flyers,New York Rangers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Rangers,Philadelphia Flyers,2020
-/zapas/2893759,Buffalo Sabres,Philadelphia Flyers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Buffalo Sabres,Philadelphia Flyers,2020
-/zapas/2893767,Buffalo Sabres,Philadelphia Flyers,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Buffalo Sabres,Philadelphia Flyers,2020
-/zapas/2893798,New York Islanders,Philadelphia Flyers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Islanders,Philadelphia Flyers,2020
-/zapas/2893600,Boston Bruins,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Boston Bruins,Philadelphia Flyers,2020
-/zapas/2893824,Philadelphia Flyers,Boston Bruins,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Boston Bruins,Philadelphia Flyers,2020
-/zapas/2893836,New York Islanders,Philadelphia Flyers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Islanders,Philadelphia Flyers,2020
-/zapas/2893816,Philadelphia Flyers,Boston Bruins,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Boston Bruins,Philadelphia Flyers,2020
-/zapas/2893861,Philadelphia Flyers,Buffalo Sabres,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Buffalo Sabres,Philadelphia Flyers,2020
-/zapas/2893415,Washington Capitals,Philadelphia Flyers,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Washington Capitals,Philadelphia Flyers,2020
-/zapas/2893889,Pittsburgh Penguins,Philadelphia Flyers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2020
-/zapas/2893903,Philadelphia Flyers,Washington Capitals,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Washington Capitals,Philadelphia Flyers,2020
-/zapas/2893912,Philadelphia Flyers,New York Islanders,0,1,1,1.0,2.0,1.0,1.0,0.0,1.0,0.0,New York Islanders,Philadelphia Flyers,2020
-/zapas/2893463,New York Rangers,Philadelphia Flyers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Rangers,Philadelphia Flyers,2020
-/zapas/2893949,New York Rangers,Philadelphia Flyers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Rangers,Philadelphia Flyers,2020
-/zapas/2893430,Philadelphia Flyers,New Jersey Devils,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New Jersey Devils,Philadelphia Flyers,2020
-/zapas/2893928,New Jersey Devils,Philadelphia Flyers,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,New Jersey Devils,Philadelphia Flyers,2020
-/zapas/2893994,New Jersey Devils,Philadelphia Flyers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New Jersey Devils,Philadelphia Flyers,2020
-/zapas/2894011,Philadelphia Flyers,New Jersey Devils,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,New Jersey Devils,Philadelphia Flyers,2020
-/zapas/2894025,Philadelphia Flyers,Pittsburgh Penguins,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2020
-/zapas/2894034,Philadelphia Flyers,Pittsburgh Penguins,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2020
-/zapas/2894056,Washington Capitals,Philadelphia Flyers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Washington Capitals,Philadelphia Flyers,2020
-/zapas/2894068,Washington Capitals,Philadelphia Flyers,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Washington Capitals,Philadelphia Flyers,2020
-/zapas/2893444,Philadelphia Flyers,New Jersey Devils,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New Jersey Devils,Philadelphia Flyers,2020
+/zapas/2553148,Pittsburgh Penguins,Philadelphia Flyers,7,0,0,3.0,0.0,0.0,0.0,0.0,7.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2553149,Pittsburgh Penguins,Philadelphia Flyers,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2553150,Philadelphia Flyers,Pittsburgh Penguins,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2553151,Philadelphia Flyers,Pittsburgh Penguins,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2553152,Pittsburgh Penguins,Philadelphia Flyers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2553153,Philadelphia Flyers,Pittsburgh Penguins,5,8,0,0.0,3.0,1.0,0.0,5.0,8.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2647212,Vegas Golden Knights,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Philadelphia Flyers,2021
+/zapas/2647225,Colorado Avalanche,Philadelphia Flyers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Colorado Avalanche,Philadelphia Flyers,2021
+/zapas/2647234,Philadelphia Flyers,San Jose Sharks,2,8,0,0.0,3.0,1.0,0.0,2.0,8.0,0.0,San Jose Sharks,Philadelphia Flyers,2021
+/zapas/2647240,Ottawa Senators,Philadelphia Flyers,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Ottawa Senators,Philadelphia Flyers,2021
+/zapas/2647256,Philadelphia Flyers,Vegas Golden Knights,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Vegas Golden Knights,Philadelphia Flyers,2021
+/zapas/2647278,Philadelphia Flyers,Florida Panthers,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Florida Panthers,Philadelphia Flyers,2021
+/zapas/2647290,Columbus Blue Jackets,Philadelphia Flyers,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2021
+/zapas/2647300,Philadelphia Flyers,New Jersey Devils,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2647316,Philadelphia Flyers,Colorado Avalanche,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Philadelphia Flyers,2021
+/zapas/2647332,Boston Bruins,Philadelphia Flyers,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2647347,Philadelphia Flyers,New York Islanders,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2647374,Anaheim Ducks,Philadelphia Flyers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Philadelphia Flyers,2021
+/zapas/2647388,Los Angeles Kings,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Los Angeles Kings,Philadelphia Flyers,2021
+/zapas/2647404,San Jose Sharks,Philadelphia Flyers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,San Jose Sharks,Philadelphia Flyers,2021
+/zapas/2647412,Arizona Coyotes,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Philadelphia Flyers,2021
+/zapas/2647427,Philadelphia Flyers,Arizona Coyotes,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Arizona Coyotes,Philadelphia Flyers,2021
+/zapas/2647441,Philadelphia Flyers,Chicago Blackhawks,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Chicago Blackhawks,Philadelphia Flyers,2021
+/zapas/2647465,Philadelphia Flyers,Florida Panthers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Florida Panthers,Philadelphia Flyers,2021
+/zapas/2647476,Philadelphia Flyers,New Jersey Devils,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2647491,Philadelphia Flyers,Tampa Bay Lightning,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2021
+/zapas/2647516,Buffalo Sabres,Philadelphia Flyers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2647530,Philadelphia Flyers,New York Rangers,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2647547,Toronto Maple Leafs,Philadelphia Flyers,6,0,0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,Toronto Maple Leafs,Philadelphia Flyers,2021
+/zapas/2647566,Philadelphia Flyers,Ottawa Senators,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Ottawa Senators,Philadelphia Flyers,2021
+/zapas/2647601,Pittsburgh Penguins,Philadelphia Flyers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2647629,Philadelphia Flyers,Columbus Blue Jackets,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2021
+/zapas/2647642,Buffalo Sabres,Philadelphia Flyers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2647653,Winnipeg Jets,Philadelphia Flyers,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Winnipeg Jets,Philadelphia Flyers,2021
+/zapas/2647675,Calgary Flames,Philadelphia Flyers,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Calgary Flames,Philadelphia Flyers,2021
+/zapas/2647692,Edmonton Oilers,Philadelphia Flyers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Edmonton Oilers,Philadelphia Flyers,2021
+/zapas/2647702,Vancouver Canucks,Philadelphia Flyers,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Vancouver Canucks,Philadelphia Flyers,2021
+/zapas/2647718,Philadelphia Flyers,Detroit Red Wings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Detroit Red Wings,Philadelphia Flyers,2021
+/zapas/2647730,Philadelphia Flyers,Nashville Predators,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Nashville Predators,Philadelphia Flyers,2021
+/zapas/2647744,Philadelphia Flyers,Columbus Blue Jackets,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2021
+/zapas/2647760,New York Rangers,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2647769,Tampa Bay Lightning,Philadelphia Flyers,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2021
+/zapas/2647789,Florida Panthers,Philadelphia Flyers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Florida Panthers,Philadelphia Flyers,2021
+/zapas/2647801,Carolina Hurricanes,Philadelphia Flyers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2021
+/zapas/2647811,Nashville Predators,Philadelphia Flyers,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Nashville Predators,Philadelphia Flyers,2021
+/zapas/2647823,Philadelphia Flyers,Carolina Hurricanes,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2021
+/zapas/2647834,Philadelphia Flyers,Calgary Flames,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Calgary Flames,Philadelphia Flyers,2021
+/zapas/2647851,Philadelphia Flyers,St. Louis Blues,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,St. Louis Blues,Philadelphia Flyers,2021
+/zapas/2647859,Washington Capitals,Philadelphia Flyers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2647872,Philadelphia Flyers,Dallas Stars,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Dallas Stars,Philadelphia Flyers,2021
+/zapas/2647885,New Jersey Devils,Philadelphia Flyers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2647906,Philadelphia Flyers,Minnesota Wild,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Minnesota Wild,Philadelphia Flyers,2021
+/zapas/2647920,Philadelphia Flyers,Boston Bruins,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2647943,Montreal Canadiens,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Philadelphia Flyers,2021
+/zapas/2647969,Philadelphia Flyers,Winnipeg Jets,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Philadelphia Flyers,2021
+/zapas/2647972,New York Rangers,Philadelphia Flyers,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2647976,Boston Bruins,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2647987,Philadelphia Flyers,Edmonton Oilers,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Edmonton Oilers,Philadelphia Flyers,2021
+/zapas/2648005,Philadelphia Flyers,Vancouver Canucks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Vancouver Canucks,Philadelphia Flyers,2021
+/zapas/2648024,Philadelphia Flyers,Los Angeles Kings,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Los Angeles Kings,Philadelphia Flyers,2021
+/zapas/2648040,Philadelphia Flyers,Anaheim Ducks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Anaheim Ducks,Philadelphia Flyers,2021
+/zapas/2648058,Philadelphia Flyers,Pittsburgh Penguins,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2648069,Minnesota Wild,Philadelphia Flyers,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Minnesota Wild,Philadelphia Flyers,2021
+/zapas/2648090,Philadelphia Flyers,Detroit Red Wings,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Detroit Red Wings,Philadelphia Flyers,2021
+/zapas/2648105,Detroit Red Wings,Philadelphia Flyers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Detroit Red Wings,Philadelphia Flyers,2021
+/zapas/2648116,Philadelphia Flyers,Tampa Bay Lightning,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,2021
+/zapas/2648132,Montreal Canadiens,Philadelphia Flyers,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Montreal Canadiens,Philadelphia Flyers,2021
+/zapas/2648151,Philadelphia Flyers,Pittsburgh Penguins,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2648168,Philadelphia Flyers,Buffalo Sabres,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2648184,Columbus Blue Jackets,Philadelphia Flyers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Columbus Blue Jackets,Philadelphia Flyers,2021
+/zapas/2648190,New Jersey Devils,Philadelphia Flyers,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2648208,New York Islanders,Philadelphia Flyers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2648227,Philadelphia Flyers,Washington Capitals,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2648251,New York Islanders,Philadelphia Flyers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2648265,Philadelphia Flyers,Ottawa Senators,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Ottawa Senators,Philadelphia Flyers,2021
+/zapas/2648283,Philadelphia Flyers,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2648291,Toronto Maple Leafs,Philadelphia Flyers,7,6,0,3.0,0.0,0.0,0.0,6.0,7.0,0.0,Toronto Maple Leafs,Philadelphia Flyers,2021
+/zapas/2648313,Pittsburgh Penguins,Philadelphia Flyers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2648323,Philadelphia Flyers,Montreal Canadiens,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Montreal Canadiens,Philadelphia Flyers,2021
+/zapas/2648340,Chicago Blackhawks,Philadelphia Flyers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Chicago Blackhawks,Philadelphia Flyers,2021
+/zapas/2648349,Philadelphia Flyers,New York Islanders,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2648362,Washington Capitals,Philadelphia Flyers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2648383,Philadelphia Flyers,Toronto Maple Leafs,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Toronto Maple Leafs,Philadelphia Flyers,2021
+/zapas/2648401,Carolina Hurricanes,Philadelphia Flyers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2021
+/zapas/2648413,Philadelphia Flyers,New York Rangers,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2648433,Dallas Stars,Philadelphia Flyers,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Dallas Stars,Philadelphia Flyers,2021
+/zapas/2648446,St. Louis Blues,Philadelphia Flyers,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,St. Louis Blues,Philadelphia Flyers,2021
+/zapas/2648461,Philadelphia Flyers,Carolina Hurricanes,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Carolina Hurricanes,Philadelphia Flyers,2021
+/zapas/2891089,Philadelphia Flyers,Montreal Canadiens,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Montreal Canadiens,Philadelphia Flyers,2021
+/zapas/2891090,Philadelphia Flyers,Montreal Canadiens,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Montreal Canadiens,Philadelphia Flyers,2021
+/zapas/2891091,Montreal Canadiens,Philadelphia Flyers,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Montreal Canadiens,Philadelphia Flyers,2021
+/zapas/2891092,Montreal Canadiens,Philadelphia Flyers,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Montreal Canadiens,Philadelphia Flyers,2021
+/zapas/2891093,Philadelphia Flyers,Montreal Canadiens,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Montreal Canadiens,Philadelphia Flyers,2021
+/zapas/2891094,Montreal Canadiens,Philadelphia Flyers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Montreal Canadiens,Philadelphia Flyers,2021
+/zapas/2891139,Philadelphia Flyers,New York Islanders,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2891140,Philadelphia Flyers,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2891141,New York Islanders,Philadelphia Flyers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2891142,New York Islanders,Philadelphia Flyers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2891143,Philadelphia Flyers,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2891144,New York Islanders,Philadelphia Flyers,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2891145,Philadelphia Flyers,New York Islanders,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2893211,Philadelphia Flyers,Pittsburgh Penguins,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2893227,Philadelphia Flyers,Pittsburgh Penguins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2893249,Philadelphia Flyers,Buffalo Sabres,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2893256,Philadelphia Flyers,Buffalo Sabres,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2893268,Boston Bruins,Philadelphia Flyers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2893285,Boston Bruins,Philadelphia Flyers,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2893310,New Jersey Devils,Philadelphia Flyers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2893324,New Jersey Devils,Philadelphia Flyers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2893337,Philadelphia Flyers,New York Islanders,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2893348,Philadelphia Flyers,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2893367,Philadelphia Flyers,Boston Bruins,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2893382,Philadelphia Flyers,Boston Bruins,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2893399,Washington Capitals,Philadelphia Flyers,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2893477,Philadelphia Flyers,New York Rangers,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2893498,Boston Bruins,Philadelphia Flyers,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2893518,Philadelphia Flyers,New York Rangers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2893531,Buffalo Sabres,Philadelphia Flyers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2893551,Buffalo Sabres,Philadelphia Flyers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2893564,Pittsburgh Penguins,Philadelphia Flyers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2893578,Pittsburgh Penguins,Philadelphia Flyers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2893877,Pittsburgh Penguins,Philadelphia Flyers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2893980,Philadelphia Flyers,Washington Capitals,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2893611,Philadelphia Flyers,Buffalo Sabres,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2893628,Philadelphia Flyers,Washington Capitals,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2893643,Philadelphia Flyers,Washington Capitals,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2893656,New York Rangers,Philadelphia Flyers,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2893672,New York Rangers,Philadelphia Flyers,9,0,0,3.0,0.0,0.0,0.0,0.0,9.0,0.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2893679,New York Islanders,Philadelphia Flyers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2893694,New York Islanders,Philadelphia Flyers,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2893963,Philadelphia Flyers,New York Islanders,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2893715,Philadelphia Flyers,New Jersey Devils,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2893728,Philadelphia Flyers,New York Rangers,3,8,0,0.0,3.0,1.0,0.0,3.0,8.0,0.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2893743,Philadelphia Flyers,New York Rangers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2893759,Buffalo Sabres,Philadelphia Flyers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2893767,Buffalo Sabres,Philadelphia Flyers,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2893798,New York Islanders,Philadelphia Flyers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2893600,Boston Bruins,Philadelphia Flyers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2893824,Philadelphia Flyers,Boston Bruins,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2893836,New York Islanders,Philadelphia Flyers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2893816,Philadelphia Flyers,Boston Bruins,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Boston Bruins,Philadelphia Flyers,2021
+/zapas/2893861,Philadelphia Flyers,Buffalo Sabres,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Buffalo Sabres,Philadelphia Flyers,2021
+/zapas/2893415,Washington Capitals,Philadelphia Flyers,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2893889,Pittsburgh Penguins,Philadelphia Flyers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2893903,Philadelphia Flyers,Washington Capitals,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2893912,Philadelphia Flyers,New York Islanders,0,1,1,1.0,2.0,1.0,1.0,0.0,1.0,0.0,New York Islanders,Philadelphia Flyers,2021
+/zapas/2893463,New York Rangers,Philadelphia Flyers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2893949,New York Rangers,Philadelphia Flyers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Rangers,Philadelphia Flyers,2021
+/zapas/2893430,Philadelphia Flyers,New Jersey Devils,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2893928,New Jersey Devils,Philadelphia Flyers,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2893994,New Jersey Devils,Philadelphia Flyers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2894011,Philadelphia Flyers,New Jersey Devils,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,New Jersey Devils,Philadelphia Flyers,2021
+/zapas/2894025,Philadelphia Flyers,Pittsburgh Penguins,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2894034,Philadelphia Flyers,Pittsburgh Penguins,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,2021
+/zapas/2894056,Washington Capitals,Philadelphia Flyers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2894068,Washington Capitals,Philadelphia Flyers,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Washington Capitals,Philadelphia Flyers,2021
+/zapas/2893444,Philadelphia Flyers,New Jersey Devils,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New Jersey Devils,Philadelphia Flyers,2021
 /zapas/2897000,Philadelphia Flyers,Vancouver Canucks,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Vancouver Canucks,Philadelphia Flyers,2021
 /zapas/2897019,Philadelphia Flyers,Seattle Kraken,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Seattle Kraken,Philadelphia Flyers,2021
 /zapas/2897032,Philadelphia Flyers,Boston Bruins,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Boston Bruins,Philadelphia Flyers,2021

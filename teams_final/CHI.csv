@@ -1,351 +1,132 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
-/zapas/2526382,0.0,0.0,Chicago Blackhawks,Tampa Bay Lightning,30.0,61.0,53.0,45.0,80.0,52.0
 /zapas/2526406,1.0,0.0,Chicago Blackhawks,Florida Panthers,28.0,53.0,55.0,24.0,60.0,68.0
-/zapas/2526420,1.0,1.0,Chicago Blackhawks,Anaheim Ducks,28.0,52.0,55.0,28.0,55.0,57.0
-/zapas/2526427,0.0,0.0,Chicago Blackhawks,Nashville Predators,30.0,56.0,54.0,39.0,64.0,53.0
 /zapas/2526439,0.0,1.0,Chicago Blackhawks,Dallas Stars,27.0,55.0,56.0,36.0,62.0,57.0
 /zapas/2526460,0.0,0.0,Chicago Blackhawks,Dallas Stars,28.0,56.0,55.0,35.0,63.0,59.0
-/zapas/2526462,0.0,1.0,Chicago Blackhawks,Los Angeles Kings,27.0,56.0,57.0,28.0,55.0,46.0
-/zapas/2526481,0.0,0.0,Chicago Blackhawks,Washington Capitals,27.0,55.0,55.0,34.0,57.0,57.0
 /zapas/2526496,1.0,1.0,Chicago Blackhawks,Buffalo Sabres,26.0,56.0,59.0,19.0,40.0,64.0
 /zapas/2526510,1.0,1.0,Chicago Blackhawks,Arizona Coyotes,25.0,55.0,59.0,19.0,44.0,60.0
 /zapas/2526527,1.0,1.0,Chicago Blackhawks,Florida Panthers,28.0,56.0,56.0,24.0,55.0,69.0
-/zapas/2526539,1.0,0.0,Chicago Blackhawks,Winnipeg Jets,30.0,58.0,56.0,38.0,74.0,55.0
-/zapas/2526562,1.0,1.0,Chicago Blackhawks,Minnesota Wild,33.0,60.0,51.0,32.0,56.0,56.0
 /zapas/2526589,0.0,0.0,Chicago Blackhawks,Dallas Stars,33.0,61.0,52.0,30.0,60.0,60.0
-/zapas/2526602,0.0,0.0,Chicago Blackhawks,New Jersey Devils,30.0,59.0,56.0,34.0,59.0,57.0
 /zapas/2526627,0.0,0.0,Chicago Blackhawks,Vancouver Canucks,30.0,60.0,58.0,23.0,55.0,75.0
 /zapas/2526639,1.0,0.0,Chicago Blackhawks,Edmonton Oilers,30.0,61.0,60.0,32.0,73.0,65.0
 /zapas/2526654,0.0,0.0,Chicago Blackhawks,Calgary Flames,30.0,61.0,60.0,26.0,51.0,53.0
 /zapas/2526669,1.0,0.0,Chicago Blackhawks,New York Rangers,31.0,59.0,57.0,34.0,60.0,44.0
-/zapas/2526686,0.0,1.0,Chicago Blackhawks,Vegas Golden Knights,31.0,58.0,56.0,41.0,68.0,50.0
 /zapas/2526698,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,28.0,60.0,60.0,29.0,58.0,63.0
 /zapas/2526710,1.0,0.0,Chicago Blackhawks,Ottawa Senators,30.0,62.0,58.0,20.0,47.0,71.0
-/zapas/2526715,0.0,1.0,Chicago Blackhawks,Minnesota Wild,30.0,66.0,59.0,30.0,55.0,59.0
-/zapas/2526722,1.0,1.0,Chicago Blackhawks,Winnipeg Jets,27.0,60.0,58.0,37.0,71.0,57.0
 /zapas/2526735,0.0,1.0,Chicago Blackhawks,Detroit Red Wings,30.0,60.0,56.0,23.0,48.0,67.0
 /zapas/2526772,0.0,1.0,Chicago Blackhawks,New York Islanders,29.0,57.0,56.0,19.0,60.0,81.0
-/zapas/2526783,0.0,1.0,Chicago Blackhawks,Tampa Bay Lightning,28.0,58.0,60.0,38.0,69.0,54.0
-/zapas/2526798,0.0,1.0,Chicago Blackhawks,Toronto Maple Leafs,28.0,57.0,59.0,26.0,54.0,58.0
 /zapas/2526806,1.0,0.0,Chicago Blackhawks,Detroit Red Wings,29.0,57.0,56.0,28.0,51.0,51.0
-/zapas/2526823,1.0,0.0,Chicago Blackhawks,Nashville Predators,30.0,59.0,55.0,39.0,58.0,45.0
 /zapas/2526841,0.0,0.0,Chicago Blackhawks,Vancouver Canucks,30.0,58.0,55.0,17.0,50.0,77.0
 /zapas/2526857,0.0,0.0,Chicago Blackhawks,Calgary Flames,28.0,57.0,57.0,30.0,54.0,50.0
 /zapas/2526875,0.0,1.0,Chicago Blackhawks,Calgary Flames,26.0,55.0,60.0,32.0,56.0,50.0
 /zapas/2526887,0.0,1.0,Chicago Blackhawks,Dallas Stars,23.0,53.0,62.0,39.0,68.0,41.0
-/zapas/2526904,0.0,0.0,Chicago Blackhawks,Minnesota Wild,23.0,55.0,62.0,35.0,62.0,57.0
 /zapas/2526917,0.0,0.0,Chicago Blackhawks,Arizona Coyotes,23.0,54.0,61.0,19.0,51.0,71.0
-/zapas/2526928,0.0,0.0,Chicago Blackhawks,Vegas Golden Knights,23.0,53.0,62.0,36.0,64.0,51.0
-/zapas/2526940,0.0,1.0,Chicago Blackhawks,Anaheim Ducks,21.0,51.0,64.0,34.0,59.0,54.0
-/zapas/2526956,1.0,1.0,Chicago Blackhawks,Washington Capitals,20.0,50.0,63.0,35.0,67.0,60.0
-/zapas/2526970,0.0,1.0,Chicago Blackhawks,Los Angeles Kings,20.0,52.0,62.0,26.0,56.0,57.0
 /zapas/2526981,1.0,1.0,Chicago Blackhawks,Ottawa Senators,20.0,49.0,60.0,22.0,59.0,74.0
-/zapas/2526998,1.0,1.0,Chicago Blackhawks,San Jose Sharks,19.0,48.0,61.0,33.0,63.0,59.0
-/zapas/2527009,0.0,0.0,Chicago Blackhawks,Columbus Blue Jackets,19.0,43.0,60.0,20.0,45.0,57.0
-/zapas/2527044,0.0,0.0,Chicago Blackhawks,San Jose Sharks,19.0,44.0,61.0,32.0,61.0,59.0
-/zapas/2527056,1.0,0.0,Chicago Blackhawks,Los Angeles Kings,16.0,44.0,67.0,34.0,59.0,50.0
-/zapas/2527064,0.0,0.0,Chicago Blackhawks,Anaheim Ducks,19.0,49.0,66.0,36.0,58.0,55.0
-/zapas/2527081,1.0,1.0,Chicago Blackhawks,Colorado Avalanche,19.0,49.0,65.0,28.0,55.0,63.0
 /zapas/2527094,0.0,1.0,Chicago Blackhawks,Carolina Hurricanes,21.0,51.0,64.0,27.0,48.0,58.0
-/zapas/2527102,0.0,0.0,Chicago Blackhawks,Boston Bruins,20.0,51.0,64.0,41.0,68.0,53.0
-/zapas/2527113,1.0,1.0,Chicago Blackhawks,Boston Bruins,17.0,50.0,70.0,41.0,72.0,55.0
-/zapas/2527143,0.0,0.0,Chicago Blackhawks,Winnipeg Jets,17.0,51.0,70.0,37.0,66.0,49.0
 /zapas/2527152,0.0,0.0,Chicago Blackhawks,Buffalo Sabres,17.0,51.0,72.0,24.0,52.0,63.0
 /zapas/2527167,0.0,1.0,Chicago Blackhawks,St. Louis Blues,16.0,51.0,73.0,25.0,48.0,59.0
-/zapas/2527183,0.0,1.0,Chicago Blackhawks,Colorado Avalanche,17.0,53.0,75.0,33.0,64.0,59.0
 /zapas/2527197,0.0,1.0,Chicago Blackhawks,Vancouver Canucks,17.0,52.0,76.0,14.0,49.0,69.0
 /zapas/2527212,1.0,0.0,Chicago Blackhawks,New York Islanders,17.0,54.0,78.0,18.0,60.0,73.0
-/zapas/2527228,0.0,1.0,Chicago Blackhawks,San Jose Sharks,20.0,56.0,73.0,40.0,70.0,49.0
-/zapas/2527250,1.0,1.0,Chicago Blackhawks,Winnipeg Jets,21.0,57.0,72.0,41.0,76.0,49.0
-/zapas/2527257,0.0,0.0,Chicago Blackhawks,Colorado Avalanche,24.0,61.0,71.0,32.0,64.0,55.0
 /zapas/2527293,1.0,0.0,Chicago Blackhawks,St. Louis Blues,21.0,54.0,75.0,25.0,47.0,61.0
 /zapas/2527309,0.0,1.0,Chicago Blackhawks,St. Louis Blues,24.0,57.0,75.0,25.0,49.0,63.0
-/zapas/2527312,0.0,0.0,Chicago Blackhawks,Winnipeg Jets,22.0,55.0,77.0,41.0,70.0,56.0
 /zapas/2647207,1.0,0.0,Chicago Blackhawks,Ottawa Senators,19.0,53.0,80.0,19.0,53.0,72.0
-/zapas/2647222,1.0,0.0,Chicago Blackhawks,St. Louis Blues,21.0,55.0,80.0,28.0,54.0,63.0
-/zapas/2647228,0.0,1.0,Chicago Blackhawks,Toronto Maple Leafs,23.0,58.0,77.0,33.0,70.0,61.0
-/zapas/2647254,0.0,0.0,Chicago Blackhawks,Minnesota Wild,21.0,59.0,81.0,32.0,56.0,56.0
-/zapas/2647266,1.0,1.0,Chicago Blackhawks,St. Louis Blues,22.0,59.0,79.0,29.0,58.0,62.0
 /zapas/2647293,0.0,1.0,Chicago Blackhawks,Arizona Coyotes,22.0,61.0,81.0,26.0,50.0,48.0
-/zapas/2647307,1.0,0.0,Chicago Blackhawks,Columbus Blue Jackets,22.0,60.0,82.0,41.0,79.0,61.0
-/zapas/2647313,0.0,1.0,Chicago Blackhawks,Tampa Bay Lightning,25.0,60.0,76.0,33.0,68.0,62.0
-/zapas/2647325,1.0,1.0,Chicago Blackhawks,Anaheim Ducks,22.0,60.0,81.0,40.0,61.0,45.0
 /zapas/2647337,1.0,1.0,Chicago Blackhawks,New York Rangers,25.0,61.0,76.0,16.0,50.0,71.0
-/zapas/2647353,0.0,0.0,Chicago Blackhawks,St. Louis Blues,28.0,62.0,72.0,25.0,59.0,69.0
 /zapas/2647360,0.0,1.0,Chicago Blackhawks,Edmonton Oilers,27.0,61.0,74.0,29.0,61.0,64.0
 /zapas/2647376,0.0,0.0,Chicago Blackhawks,Vancouver Canucks,28.0,61.0,71.0,33.0,61.0,60.0
 /zapas/2647386,0.0,0.0,Chicago Blackhawks,Edmonton Oilers,28.0,61.0,70.0,28.0,58.0,63.0
-/zapas/2647402,0.0,0.0,Chicago Blackhawks,Calgary Flames,25.0,58.0,73.0,29.0,60.0,64.0
-/zapas/2647431,0.0,1.0,Chicago Blackhawks,Carolina Hurricanes,24.0,58.0,74.0,23.0,53.0,57.0
-/zapas/2647441,0.0,0.0,Chicago Blackhawks,Philadelphia Flyers,21.0,55.0,76.0,31.0,70.0,71.0
-/zapas/2647459,0.0,0.0,Chicago Blackhawks,Carolina Hurricanes,21.0,55.0,75.0,24.0,55.0,61.0
-/zapas/2647471,1.0,1.0,Chicago Blackhawks,St. Louis Blues,19.0,53.0,75.0,24.0,63.0,71.0
-/zapas/2647486,0.0,1.0,Chicago Blackhawks,Los Angeles Kings,22.0,53.0,71.0,21.0,44.0,64.0
+/zapas/2647441,0.0,0.0,Chicago Blackhawks,Philadelphia Flyers,21.0,55.0,76.0,26.0,63.0,80.0
+/zapas/2647486,0.0,1.0,Chicago Blackhawks,Los Angeles Kings,22.0,53.0,71.0,17.0,37.0,61.0
 /zapas/2647503,1.0,1.0,Chicago Blackhawks,Minnesota Wild,23.0,53.0,69.0,36.0,64.0,54.0
-/zapas/2647520,0.0,0.0,Chicago Blackhawks,Washington Capitals,24.0,52.0,67.0,29.0,68.0,67.0
-/zapas/2647539,0.0,0.0,Chicago Blackhawks,Tampa Bay Lightning,22.0,49.0,67.0,41.0,80.0,59.0
 /zapas/2647550,1.0,0.0,Chicago Blackhawks,Florida Panthers,21.0,45.0,64.0,25.0,65.0,73.0
-/zapas/2647572,0.0,1.0,Chicago Blackhawks,Vegas Golden Knights,22.0,47.0,64.0,32.0,59.0,51.0
-/zapas/2647585,0.0,0.0,Chicago Blackhawks,Winnipeg Jets,20.0,46.0,69.0,34.0,69.0,59.0
-/zapas/2647603,0.0,0.0,Chicago Blackhawks,Nashville Predators,20.0,50.0,71.0,35.0,64.0,52.0
-/zapas/2647607,0.0,1.0,Chicago Blackhawks,Calgary Flames,17.0,48.0,75.0,34.0,65.0,56.0
 /zapas/2647625,0.0,0.0,Chicago Blackhawks,Anaheim Ducks,17.0,47.0,72.0,27.0,46.0,61.0
-/zapas/2647636,0.0,0.0,Chicago Blackhawks,Vegas Golden Knights,14.0,46.0,75.0,31.0,67.0,57.0
 /zapas/2647655,0.0,1.0,Chicago Blackhawks,Montreal Canadiens,11.0,45.0,78.0,29.0,63.0,67.0
-/zapas/2647671,0.0,0.0,Chicago Blackhawks,Winnipeg Jets,11.0,44.0,74.0,35.0,72.0,56.0
-/zapas/2647674,1.0,1.0,Chicago Blackhawks,Pittsburgh Penguins,10.0,46.0,78.0,24.0,58.0,66.0
-/zapas/2647691,0.0,1.0,Chicago Blackhawks,Winnipeg Jets,13.0,50.0,77.0,37.0,79.0,58.0
-/zapas/2647707,0.0,1.0,Chicago Blackhawks,San Jose Sharks,14.0,53.0,77.0,34.0,63.0,60.0
-/zapas/2647720,1.0,1.0,Chicago Blackhawks,Nashville Predators,14.0,53.0,79.0,32.0,60.0,56.0
-/zapas/2647734,1.0,0.0,Chicago Blackhawks,Dallas Stars,17.0,52.0,76.0,27.0,53.0,57.0
-/zapas/2647742,1.0,0.0,Chicago Blackhawks,Colorado Avalanche,20.0,57.0,74.0,38.0,71.0,63.0
 /zapas/2647759,0.0,1.0,Chicago Blackhawks,Florida Panthers,22.0,57.0,72.0,24.0,62.0,77.0
 /zapas/2647773,1.0,1.0,Chicago Blackhawks,Minnesota Wild,19.0,59.0,78.0,25.0,57.0,58.0
-/zapas/2647793,1.0,0.0,Chicago Blackhawks,Colorado Avalanche,21.0,63.0,78.0,32.0,65.0,64.0
-/zapas/2647810,0.0,1.0,Chicago Blackhawks,Boston Bruins,20.0,63.0,79.0,30.0,54.0,55.0
-/zapas/2647822,0.0,0.0,Chicago Blackhawks,New York Islanders,20.0,63.0,79.0,33.0,53.0,53.0
-/zapas/2647849,1.0,0.0,Chicago Blackhawks,Pittsburgh Penguins,21.0,63.0,78.0,44.0,74.0,48.0
-/zapas/2647853,0.0,1.0,Chicago Blackhawks,Calgary Flames,22.0,63.0,77.0,40.0,78.0,55.0
-/zapas/2647866,0.0,1.0,Chicago Blackhawks,Nashville Predators,22.0,63.0,73.0,27.0,54.0,51.0
-/zapas/2647892,0.0,1.0,Chicago Blackhawks,Vegas Golden Knights,23.0,61.0,71.0,41.0,61.0,48.0
 /zapas/2647905,0.0,0.0,Chicago Blackhawks,New Jersey Devils,24.0,62.0,70.0,25.0,57.0,66.0
 /zapas/2647926,0.0,0.0,Chicago Blackhawks,New York Rangers,24.0,65.0,75.0,22.0,57.0,80.0
-/zapas/2647949,1.0,1.0,Chicago Blackhawks,Washington Capitals,24.0,66.0,75.0,36.0,59.0,53.0
-/zapas/2647960,1.0,1.0,Chicago Blackhawks,New York Islanders,27.0,71.0,76.0,43.0,63.0,36.0
 /zapas/2647979,1.0,0.0,Chicago Blackhawks,Buffalo Sabres,29.0,72.0,75.0,24.0,54.0,61.0
 /zapas/2647997,1.0,0.0,Chicago Blackhawks,Minnesota Wild,32.0,76.0,72.0,27.0,43.0,56.0
 /zapas/2648018,1.0,0.0,Chicago Blackhawks,Edmonton Oilers,31.0,74.0,72.0,18.0,59.0,76.0
 /zapas/2648032,1.0,1.0,Chicago Blackhawks,Vancouver Canucks,33.0,77.0,70.0,30.0,54.0,52.0
 /zapas/2648051,1.0,1.0,Chicago Blackhawks,Detroit Red Wings,35.0,78.0,66.0,21.0,54.0,63.0
-/zapas/2648061,0.0,0.0,Chicago Blackhawks,Boston Bruins,35.0,81.0,67.0,34.0,60.0,54.0
 /zapas/2648081,1.0,1.0,Chicago Blackhawks,New Jersey Devils,32.0,79.0,71.0,23.0,55.0,67.0
-/zapas/2648098,0.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,32.0,82.0,72.0,29.0,63.0,61.0
 /zapas/2648110,1.0,1.0,Chicago Blackhawks,Ottawa Senators,32.0,81.0,71.0,20.0,58.0,61.0
 /zapas/2648123,1.0,0.0,Chicago Blackhawks,Detroit Red Wings,32.0,84.0,76.0,24.0,56.0,63.0
-/zapas/2648139,0.0,1.0,Chicago Blackhawks,Colorado Avalanche,32.0,86.0,78.0,21.0,62.0,70.0
-/zapas/2648155,0.0,1.0,Chicago Blackhawks,Dallas Stars,32.0,87.0,79.0,27.0,40.0,49.0
 /zapas/2648181,1.0,0.0,Chicago Blackhawks,Anaheim Ducks,31.0,88.0,80.0,17.0,35.0,68.0
 /zapas/2648198,0.0,0.0,Chicago Blackhawks,Los Angeles Kings,31.0,87.0,80.0,21.0,53.0,74.0
-/zapas/2648214,0.0,0.0,Chicago Blackhawks,San Jose Sharks,31.0,87.0,82.0,37.0,73.0,66.0
 /zapas/2648236,1.0,1.0,Chicago Blackhawks,Buffalo Sabres,30.0,86.0,83.0,20.0,57.0,74.0
-/zapas/2648256,1.0,0.0,Chicago Blackhawks,Dallas Stars,31.0,88.0,83.0,36.0,50.0,46.0
 /zapas/2648267,1.0,1.0,Chicago Blackhawks,Arizona Coyotes,34.0,85.0,76.0,34.0,55.0,50.0
-/zapas/2648278,1.0,0.0,Chicago Blackhawks,Toronto Maple Leafs,37.0,89.0,73.0,38.0,72.0,59.0
 /zapas/2648302,1.0,0.0,Chicago Blackhawks,Montreal Canadiens,37.0,86.0,72.0,28.0,58.0,61.0
 /zapas/2648317,0.0,1.0,Chicago Blackhawks,Vancouver Canucks,38.0,85.0,70.0,18.0,44.0,61.0
 /zapas/2648340,0.0,1.0,Chicago Blackhawks,Philadelphia Flyers,36.0,80.0,70.0,32.0,70.0,67.0
-/zapas/2648350,0.0,0.0,Chicago Blackhawks,Colorado Avalanche,34.0,77.0,70.0,33.0,56.0,44.0
-/zapas/2648365,1.0,1.0,Chicago Blackhawks,Colorado Avalanche,31.0,73.0,72.0,35.0,59.0,44.0
 /zapas/2648382,0.0,0.0,Chicago Blackhawks,Arizona Coyotes,31.0,71.0,70.0,32.0,49.0,49.0
-/zapas/2648394,1.0,0.0,Chicago Blackhawks,San Jose Sharks,28.0,66.0,69.0,31.0,65.0,65.0
 /zapas/2648412,0.0,0.0,Chicago Blackhawks,Los Angeles Kings,31.0,68.0,67.0,17.0,48.0,71.0
-/zapas/2648424,0.0,1.0,Chicago Blackhawks,Winnipeg Jets,29.0,65.0,68.0,28.0,62.0,64.0
-/zapas/2648438,1.0,1.0,Chicago Blackhawks,St. Louis Blues,30.0,66.0,67.0,33.0,57.0,50.0
-/zapas/2648453,1.0,1.0,Chicago Blackhawks,Dallas Stars,29.0,62.0,63.0,36.0,53.0,40.0
-/zapas/2648464,0.0,0.0,Chicago Blackhawks,Nashville Predators,30.0,63.0,60.0,34.0,49.0,52.0
-/zapas/2806392,0.0,0.0,Chicago Blackhawks,Philadelphia Flyers,30.0,62.0,60.0,23.0,61.0,72.0
-/zapas/2806430,0.0,1.0,Chicago Blackhawks,San Jose Sharks,30.0,62.0,60.0,20.0,56.0,72.0
-/zapas/2806440,0.0,1.0,Chicago Blackhawks,Winnipeg Jets,27.0,62.0,62.0,29.0,59.0,62.0
-/zapas/2806460,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,28.0,61.0,59.0,29.0,64.0,69.0
-/zapas/2806486,1.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,31.0,62.0,55.0,35.0,63.0,50.0
-/zapas/2806502,0.0,1.0,Chicago Blackhawks,Washington Capitals,31.0,60.0,53.0,35.0,64.0,58.0
-/zapas/2806517,0.0,1.0,Chicago Blackhawks,Vegas Golden Knights,28.0,61.0,57.0,28.0,63.0,57.0
-/zapas/2806527,0.0,1.0,Chicago Blackhawks,Philadelphia Flyers,26.0,55.0,58.0,17.0,53.0,74.0
-/zapas/2806537,0.0,0.0,Chicago Blackhawks,Carolina Hurricanes,23.0,51.0,58.0,33.0,63.0,54.0
-/zapas/2806548,1.0,1.0,Chicago Blackhawks,Los Angeles Kings,20.0,49.0,62.0,25.0,58.0,75.0
-/zapas/2806561,0.0,0.0,Chicago Blackhawks,Nashville Predators,22.0,52.0,60.0,40.0,66.0,53.0
-/zapas/2806593,0.0,0.0,Chicago Blackhawks,Los Angeles Kings,22.0,51.0,60.0,20.0,55.0,82.0
-/zapas/2806595,1.0,0.0,Chicago Blackhawks,Anaheim Ducks,23.0,52.0,60.0,38.0,60.0,50.0
-/zapas/2806610,0.0,0.0,Chicago Blackhawks,San Jose Sharks,23.0,53.0,61.0,21.0,53.0,72.0
-/zapas/2806619,1.0,1.0,Chicago Blackhawks,Vancouver Canucks,23.0,55.0,64.0,36.0,68.0,48.0
-/zapas/2806633,0.0,0.0,Chicago Blackhawks,Pittsburgh Penguins,23.0,55.0,62.0,33.0,66.0,52.0
-/zapas/2806643,1.0,1.0,Chicago Blackhawks,Toronto Maple Leafs,23.0,55.0,62.0,29.0,66.0,66.0
-/zapas/2806661,1.0,0.0,Chicago Blackhawks,Vegas Golden Knights,25.0,57.0,62.0,28.0,58.0,61.0
-/zapas/2806686,1.0,0.0,Chicago Blackhawks,Nashville Predators,26.0,58.0,62.0,35.0,76.0,63.0
-/zapas/2806690,1.0,1.0,Chicago Blackhawks,Buffalo Sabres,26.0,59.0,63.0,33.0,65.0,56.0
-/zapas/2806702,0.0,1.0,Chicago Blackhawks,Carolina Hurricanes,29.0,61.0,59.0,32.0,70.0,59.0
-/zapas/2806717,0.0,1.0,Chicago Blackhawks,Tampa Bay Lightning,29.0,60.0,59.0,33.0,74.0,66.0
-/zapas/2806735,0.0,0.0,Chicago Blackhawks,Dallas Stars,29.0,58.0,58.0,39.0,60.0,47.0
-/zapas/2806752,1.0,1.0,Chicago Blackhawks,Dallas Stars,29.0,57.0,57.0,41.0,60.0,44.0
-/zapas/2806770,0.0,1.0,Chicago Blackhawks,Colorado Avalanche,29.0,57.0,56.0,30.0,69.0,61.0
-/zapas/2806789,0.0,0.0,Chicago Blackhawks,Colorado Avalanche,27.0,56.0,59.0,30.0,68.0,60.0
-/zapas/2806798,0.0,1.0,Chicago Blackhawks,St. Louis Blues,27.0,56.0,61.0,40.0,62.0,46.0
-/zapas/2806814,1.0,0.0,Chicago Blackhawks,Boston Bruins,26.0,55.0,63.0,46.0,79.0,47.0
-/zapas/2806823,1.0,0.0,Chicago Blackhawks,New Jersey Devils,28.0,58.0,62.0,24.0,51.0,70.0
-/zapas/2806842,0.0,1.0,Chicago Blackhawks,Arizona Coyotes,30.0,60.0,59.0,29.0,51.0,48.0
-/zapas/2806858,0.0,0.0,Chicago Blackhawks,Vegas Golden Knights,28.0,58.0,62.0,27.0,56.0,59.0
-/zapas/2806871,0.0,0.0,Chicago Blackhawks,Arizona Coyotes,28.0,59.0,64.0,28.0,53.0,52.0
-/zapas/2806889,0.0,0.0,Chicago Blackhawks,St. Louis Blues,27.0,58.0,65.0,35.0,59.0,50.0
-/zapas/2806892,1.0,1.0,Chicago Blackhawks,Minnesota Wild,25.0,58.0,67.0,40.0,72.0,62.0
-/zapas/2806912,0.0,1.0,Chicago Blackhawks,Colorado Avalanche,28.0,61.0,66.0,39.0,71.0,55.0
-/zapas/2806919,1.0,0.0,Chicago Blackhawks,Winnipeg Jets,25.0,57.0,68.0,39.0,65.0,51.0
-/zapas/2806938,1.0,0.0,Chicago Blackhawks,Colorado Avalanche,27.0,59.0,66.0,42.0,75.0,52.0
-/zapas/2806954,0.0,1.0,Chicago Blackhawks,New Jersey Devils,27.0,59.0,65.0,21.0,44.0,67.0
-/zapas/2806965,1.0,1.0,Chicago Blackhawks,New York Islanders,24.0,55.0,69.0,32.0,58.0,57.0
-/zapas/2806980,1.0,0.0,Chicago Blackhawks,Columbus Blue Jackets,24.0,53.0,69.0,34.0,57.0,47.0
-/zapas/2806999,1.0,0.0,Chicago Blackhawks,Calgary Flames,23.0,52.0,70.0,29.0,51.0,61.0
-/zapas/2807013,0.0,0.0,Chicago Blackhawks,Vancouver Canucks,26.0,55.0,69.0,30.0,67.0,65.0
-/zapas/2807033,1.0,1.0,Chicago Blackhawks,Detroit Red Wings,26.0,58.0,72.0,9.0,39.0,79.0
-/zapas/2807048,0.0,1.0,Chicago Blackhawks,Calgary Flames,28.0,61.0,72.0,34.0,61.0,61.0
-/zapas/2807060,0.0,1.0,Chicago Blackhawks,Nashville Predators,25.0,59.0,74.0,29.0,66.0,67.0
-/zapas/2807075,1.0,1.0,Chicago Blackhawks,Anaheim Ducks,25.0,59.0,74.0,19.0,48.0,64.0
-/zapas/2807096,1.0,0.0,Chicago Blackhawks,Ottawa Senators,28.0,60.0,69.0,19.0,55.0,80.0
-/zapas/2807101,1.0,0.0,Chicago Blackhawks,Montreal Canadiens,30.0,63.0,67.0,25.0,56.0,52.0
-/zapas/2807123,1.0,0.0,Chicago Blackhawks,Toronto Maple Leafs,31.0,63.0,65.0,38.0,81.0,67.0
-/zapas/2807133,1.0,1.0,Chicago Blackhawks,Winnipeg Jets,32.0,67.0,66.0,26.0,64.0,70.0
-/zapas/2807141,0.0,1.0,Chicago Blackhawks,Florida Panthers,34.0,69.0,64.0,39.0,79.0,62.0
-/zapas/2807176,1.0,0.0,Chicago Blackhawks,Arizona Coyotes,34.0,71.0,63.0,26.0,59.0,65.0
-/zapas/2807197,0.0,0.0,Chicago Blackhawks,Minnesota Wild,36.0,72.0,60.0,27.0,65.0,71.0
-/zapas/2807202,0.0,1.0,Chicago Blackhawks,Boston Bruins,37.0,71.0,59.0,38.0,66.0,51.0
-/zapas/2807234,0.0,0.0,Chicago Blackhawks,Winnipeg Jets,35.0,67.0,58.0,23.0,57.0,69.0
-/zapas/2807251,0.0,0.0,Chicago Blackhawks,Edmonton Oilers,35.0,68.0,59.0,35.0,70.0,64.0
-/zapas/2807255,0.0,0.0,Chicago Blackhawks,Vancouver Canucks,32.0,67.0,63.0,39.0,67.0,62.0
-/zapas/2807279,1.0,0.0,Chicago Blackhawks,Calgary Flames,29.0,62.0,63.0,31.0,66.0,62.0
-/zapas/2807290,0.0,0.0,Chicago Blackhawks,Winnipeg Jets,32.0,69.0,60.0,25.0,58.0,63.0
-/zapas/2807303,0.0,1.0,Chicago Blackhawks,New York Rangers,29.0,66.0,61.0,32.0,65.0,56.0
-/zapas/2807319,1.0,1.0,Chicago Blackhawks,Nashville Predators,27.0,66.0,65.0,32.0,56.0,60.0
-/zapas/2807336,0.0,0.0,Chicago Blackhawks,Dallas Stars,26.0,63.0,63.0,33.0,54.0,55.0
-/zapas/2807352,0.0,0.0,Chicago Blackhawks,St. Louis Blues,26.0,59.0,58.0,32.0,65.0,55.0
-/zapas/2807362,1.0,0.0,Chicago Blackhawks,Tampa Bay Lightning,23.0,60.0,62.0,39.0,64.0,48.0
-/zapas/2807378,1.0,0.0,Chicago Blackhawks,Florida Panthers,26.0,64.0,62.0,31.0,64.0,70.0
-/zapas/2807401,1.0,1.0,Chicago Blackhawks,Anaheim Ducks,28.0,65.0,59.0,27.0,53.0,62.0
-/zapas/2807416,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,28.0,67.0,59.0,37.0,70.0,57.0
-/zapas/2807420,0.0,0.0,Chicago Blackhawks,Detroit Red Wings,29.0,68.0,60.0,9.0,33.0,72.0
-/zapas/2807438,0.0,1.0,Chicago Blackhawks,St. Louis Blues,26.0,65.0,61.0,29.0,63.0,60.0
-/zapas/2807455,1.0,1.0,Chicago Blackhawks,San Jose Sharks,23.0,59.0,61.0,24.0,51.0,57.0
-/zapas/2893212,0.0,0.0,Chicago Blackhawks,Tampa Bay Lightning,23.0,60.0,61.0,37.0,64.0,53.0
-/zapas/2893228,0.0,0.0,Chicago Blackhawks,Tampa Bay Lightning,23.0,58.0,62.0,37.0,65.0,51.0
-/zapas/2893242,0.0,0.0,Chicago Blackhawks,Florida Panthers,21.0,57.0,65.0,24.0,48.0,65.0
-/zapas/2893258,0.0,0.0,Chicago Blackhawks,Florida Panthers,20.0,57.0,67.0,27.0,53.0,63.0
-/zapas/2893275,1.0,1.0,Chicago Blackhawks,Detroit Red Wings,20.0,60.0,70.0,17.0,39.0,67.0
-/zapas/2893289,1.0,1.0,Chicago Blackhawks,Detroit Red Wings,23.0,62.0,66.0,17.0,40.0,69.0
-/zapas/2893301,0.0,0.0,Chicago Blackhawks,Nashville Predators,26.0,65.0,63.0,32.0,51.0,57.0
-/zapas/2893315,0.0,0.0,Chicago Blackhawks,Nashville Predators,27.0,67.0,63.0,34.0,52.0,53.0
-/zapas/2893331,0.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,25.0,60.0,61.0,23.0,50.0,68.0
-/zapas/2893344,1.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,25.0,59.0,60.0,26.0,51.0,66.0
-/zapas/2893358,0.0,1.0,Chicago Blackhawks,Carolina Hurricanes,28.0,59.0,55.0,34.0,66.0,55.0
-/zapas/2893371,1.0,1.0,Chicago Blackhawks,Carolina Hurricanes,27.0,60.0,58.0,34.0,64.0,53.0
-/zapas/2893398,1.0,0.0,Chicago Blackhawks,Dallas Stars,30.0,65.0,60.0,29.0,58.0,54.0
-/zapas/2893411,1.0,0.0,Chicago Blackhawks,Dallas Stars,32.0,62.0,55.0,28.0,55.0,53.0
-/zapas/2893422,0.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,31.0,59.0,54.0,27.0,53.0,66.0
-/zapas/2893437,1.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,29.0,61.0,58.0,30.0,55.0,66.0
-/zapas/2893457,1.0,0.0,Chicago Blackhawks,Detroit Red Wings,28.0,58.0,58.0,18.0,43.0,63.0
-/zapas/2893471,1.0,0.0,Chicago Blackhawks,Detroit Red Wings,27.0,57.0,57.0,19.0,44.0,64.0
-/zapas/2893483,0.0,0.0,Chicago Blackhawks,Carolina Hurricanes,30.0,58.0,55.0,36.0,73.0,57.0
-/zapas/2893512,1.0,0.0,Chicago Blackhawks,Columbus Blue Jackets,30.0,61.0,58.0,30.0,57.0,65.0
+/zapas/2891009,1.0,0.0,Chicago Blackhawks,Edmonton Oilers,30.0,62.0,60.0,27.0,59.0,69.0
+/zapas/2891010,0.0,0.0,Chicago Blackhawks,Edmonton Oilers,33.0,65.0,60.0,27.0,61.0,69.0
+/zapas/2891011,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,30.0,64.0,63.0,27.0,63.0,70.0
+/zapas/2891012,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,33.0,65.0,60.0,24.0,62.0,74.0
+/zapas/2891068,0.0,0.0,Chicago Blackhawks,Vegas Golden Knights,36.0,66.0,57.0,32.0,61.0,60.0
+/zapas/2891069,0.0,0.0,Chicago Blackhawks,Vegas Golden Knights,34.0,62.0,57.0,35.0,65.0,57.0
+/zapas/2891070,0.0,1.0,Chicago Blackhawks,Vegas Golden Knights,32.0,63.0,60.0,34.0,64.0,57.0
+/zapas/2891071,1.0,1.0,Chicago Blackhawks,Vegas Golden Knights,29.0,57.0,61.0,34.0,63.0,58.0
+/zapas/2891072,0.0,0.0,Chicago Blackhawks,Vegas Golden Knights,29.0,55.0,58.0,34.0,62.0,57.0
+/zapas/2893275,1.0,1.0,Chicago Blackhawks,Detroit Red Wings,24.0,58.0,71.0,17.0,39.0,67.0
+/zapas/2893289,1.0,1.0,Chicago Blackhawks,Detroit Red Wings,27.0,62.0,71.0,17.0,40.0,69.0
+/zapas/2893331,0.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,27.0,61.0,67.0,25.0,48.0,55.0
+/zapas/2893344,1.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,25.0,58.0,66.0,28.0,47.0,52.0
+/zapas/2893398,1.0,0.0,Chicago Blackhawks,Dallas Stars,26.0,56.0,65.0,33.0,61.0,51.0
+/zapas/2893411,1.0,0.0,Chicago Blackhawks,Dallas Stars,28.0,55.0,60.0,32.0,57.0,49.0
+/zapas/2893422,0.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,27.0,53.0,58.0,28.0,54.0,59.0
+/zapas/2893437,1.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,24.0,55.0,62.0,28.0,57.0,64.0
+/zapas/2893457,1.0,0.0,Chicago Blackhawks,Detroit Red Wings,26.0,57.0,60.0,18.0,43.0,63.0
+/zapas/2893471,1.0,0.0,Chicago Blackhawks,Detroit Red Wings,27.0,57.0,58.0,19.0,44.0,64.0
+/zapas/2893512,1.0,0.0,Chicago Blackhawks,Columbus Blue Jackets,27.0,58.0,60.0,28.0,59.0,69.0
 /zapas/2893526,1.0,0.0,Chicago Blackhawks,Columbus Blue Jackets,29.0,61.0,61.0,28.0,60.0,70.0
 /zapas/2893535,0.0,1.0,Chicago Blackhawks,Detroit Red Wings,32.0,62.0,56.0,17.0,40.0,63.0
 /zapas/2893548,1.0,1.0,Chicago Blackhawks,Detroit Red Wings,32.0,63.0,56.0,20.0,43.0,63.0
-/zapas/2893572,0.0,1.0,Chicago Blackhawks,Tampa Bay Lightning,35.0,68.0,53.0,45.0,71.0,39.0
-/zapas/2893581,1.0,1.0,Chicago Blackhawks,Tampa Bay Lightning,35.0,66.0,51.0,44.0,69.0,40.0
-/zapas/2893598,0.0,1.0,Chicago Blackhawks,Tampa Bay Lightning,34.0,66.0,53.0,42.0,67.0,42.0
 /zapas/2893609,0.0,0.0,Chicago Blackhawks,Dallas Stars,31.0,63.0,57.0,25.0,56.0,54.0
 /zapas/2893623,1.0,0.0,Chicago Blackhawks,Dallas Stars,30.0,62.0,60.0,25.0,55.0,55.0
-/zapas/2893645,0.0,0.0,Chicago Blackhawks,Florida Panthers,32.0,65.0,60.0,37.0,67.0,60.0
-/zapas/2893659,0.0,0.0,Chicago Blackhawks,Florida Panthers,32.0,66.0,62.0,39.0,66.0,56.0
-/zapas/2893681,0.0,0.0,Chicago Blackhawks,Tampa Bay Lightning,29.0,66.0,67.0,40.0,73.0,50.0
-/zapas/2893696,0.0,0.0,Chicago Blackhawks,Tampa Bay Lightning,28.0,65.0,67.0,40.0,74.0,51.0
-/zapas/2893712,1.0,1.0,Chicago Blackhawks,Florida Panthers,25.0,60.0,67.0,36.0,68.0,58.0
-/zapas/2893723,1.0,1.0,Chicago Blackhawks,Florida Panthers,26.0,61.0,68.0,36.0,69.0,55.0
-/zapas/2893737,0.0,1.0,Chicago Blackhawks,Nashville Predators,27.0,62.0,67.0,29.0,52.0,56.0
-/zapas/2893749,0.0,1.0,Chicago Blackhawks,Nashville Predators,27.0,58.0,64.0,32.0,53.0,53.0
-/zapas/2893764,1.0,1.0,Chicago Blackhawks,Carolina Hurricanes,25.0,57.0,65.0,38.0,62.0,48.0
-/zapas/2893779,0.0,1.0,Chicago Blackhawks,Carolina Hurricanes,26.0,56.0,64.0,37.0,60.0,46.0
-/zapas/2893793,0.0,0.0,Chicago Blackhawks,Nashville Predators,23.0,57.0,68.0,31.0,54.0,56.0
 /zapas/2893819,1.0,1.0,Chicago Blackhawks,Dallas Stars,23.0,54.0,66.0,26.0,52.0,50.0
 /zapas/2893833,0.0,1.0,Chicago Blackhawks,Dallas Stars,24.0,52.0,63.0,26.0,54.0,52.0
 /zapas/2893854,1.0,0.0,Chicago Blackhawks,Columbus Blue Jackets,21.0,51.0,68.0,21.0,45.0,63.0
 /zapas/2893868,1.0,0.0,Chicago Blackhawks,Columbus Blue Jackets,24.0,52.0,66.0,21.0,47.0,64.0
 /zapas/2893890,0.0,0.0,Chicago Blackhawks,Detroit Red Wings,23.0,49.0,67.0,26.0,48.0,62.0
 /zapas/2893906,1.0,0.0,Chicago Blackhawks,Detroit Red Wings,22.0,48.0,68.0,29.0,51.0,59.0
-/zapas/2893805,0.0,0.0,Chicago Blackhawks,Nashville Predators,23.0,48.0,65.0,35.0,58.0,45.0
-/zapas/2893933,1.0,1.0,Chicago Blackhawks,Nashville Predators,23.0,47.0,64.0,38.0,62.0,42.0
-/zapas/2893946,0.0,1.0,Chicago Blackhawks,Nashville Predators,25.0,51.0,62.0,39.0,63.0,41.0
-/zapas/2893975,0.0,1.0,Chicago Blackhawks,Tampa Bay Lightning,22.0,48.0,63.0,33.0,58.0,58.0
-/zapas/2893990,0.0,1.0,Chicago Blackhawks,Florida Panthers,22.0,50.0,66.0,33.0,61.0,53.0
-/zapas/2894004,0.0,1.0,Chicago Blackhawks,Florida Panthers,23.0,50.0,64.0,35.0,63.0,53.0
-/zapas/2894026,0.0,0.0,Chicago Blackhawks,Carolina Hurricanes,23.0,52.0,65.0,41.0,62.0,43.0
-/zapas/2894035,0.0,0.0,Chicago Blackhawks,Carolina Hurricanes,23.0,53.0,66.0,42.0,63.0,42.0
-/zapas/2893493,1.0,0.0,Chicago Blackhawks,Carolina Hurricanes,20.0,53.0,70.0,42.0,65.0,42.0
 /zapas/2894046,1.0,1.0,Chicago Blackhawks,Dallas Stars,19.0,52.0,71.0,31.0,56.0,54.0
 /zapas/2894062,0.0,1.0,Chicago Blackhawks,Dallas Stars,22.0,55.0,70.0,28.0,55.0,56.0
-/zapas/2896984,0.0,0.0,Chicago Blackhawks,Colorado Avalanche,23.0,57.0,72.0,44.0,67.0,51.0
 /zapas/2896999,0.0,0.0,Chicago Blackhawks,New Jersey Devils,20.0,57.0,75.0,18.0,57.0,81.0
-/zapas/2897012,0.0,0.0,Chicago Blackhawks,Pittsburgh Penguins,21.0,57.0,75.0,43.0,80.0,61.0
-/zapas/2897021,0.0,1.0,Chicago Blackhawks,New York Islanders,21.0,59.0,77.0,24.0,43.0,49.0
+/zapas/2897021,0.0,1.0,Chicago Blackhawks,New York Islanders,21.0,59.0,77.0,28.0,54.0,61.0
 /zapas/2897034,0.0,1.0,Chicago Blackhawks,Vancouver Canucks,18.0,56.0,79.0,19.0,52.0,75.0
 /zapas/2897061,0.0,1.0,Chicago Blackhawks,Detroit Red Wings,18.0,56.0,78.0,27.0,51.0,61.0
-/zapas/2897079,0.0,1.0,Chicago Blackhawks,Toronto Maple Leafs,15.0,55.0,81.0,31.0,57.0,59.0
-/zapas/2897097,0.0,0.0,Chicago Blackhawks,Carolina Hurricanes,14.0,53.0,81.0,45.0,67.0,41.0
-/zapas/2897103,0.0,0.0,Chicago Blackhawks,St. Louis Blues,14.0,55.0,83.0,40.0,75.0,53.0
 /zapas/2897114,1.0,1.0,Chicago Blackhawks,Ottawa Senators,11.0,51.0,84.0,36.0,60.0,49.0
-/zapas/2897128,0.0,1.0,Chicago Blackhawks,Carolina Hurricanes,14.0,54.0,80.0,47.0,70.0,41.0
-/zapas/2897142,0.0,0.0,Chicago Blackhawks,Winnipeg Jets,12.0,52.0,80.0,25.0,58.0,63.0
-/zapas/2897157,1.0,1.0,Chicago Blackhawks,Nashville Predators,12.0,52.0,82.0,33.0,61.0,53.0
-/zapas/2897166,1.0,1.0,Chicago Blackhawks,Pittsburgh Penguins,14.0,50.0,76.0,37.0,70.0,56.0
+/zapas/2897142,0.0,0.0,Chicago Blackhawks,Winnipeg Jets,12.0,52.0,80.0,29.0,57.0,63.0
 /zapas/2897187,1.0,1.0,Chicago Blackhawks,Arizona Coyotes,15.0,50.0,74.0,13.0,42.0,74.0
-/zapas/2897245,0.0,0.0,Chicago Blackhawks,Edmonton Oilers,21.0,50.0,67.0,40.0,76.0,61.0
 /zapas/2897255,1.0,0.0,Chicago Blackhawks,Vancouver Canucks,21.0,49.0,66.0,21.0,52.0,69.0
-/zapas/2897268,0.0,0.0,Chicago Blackhawks,Calgary Flames,22.0,48.0,65.0,40.0,69.0,38.0
-/zapas/2897287,1.0,1.0,Chicago Blackhawks,St. Louis Blues,19.0,46.0,68.0,34.0,70.0,56.0
 /zapas/2897308,0.0,1.0,Chicago Blackhawks,San Jose Sharks,20.0,45.0,65.0,29.0,53.0,58.0
-/zapas/2897341,1.0,0.0,Chicago Blackhawks,Washington Capitals,20.0,43.0,63.0,40.0,70.0,51.0
-/zapas/2897355,0.0,0.0,Chicago Blackhawks,New York Rangers,21.0,44.0,62.0,45.0,62.0,47.0
-/zapas/2897361,1.0,0.0,Chicago Blackhawks,New York Islanders,21.0,44.0,60.0,20.0,38.0,61.0
-/zapas/2897371,0.0,1.0,Chicago Blackhawks,New York Rangers,23.0,46.0,58.0,45.0,62.0,48.0
+/zapas/2897361,1.0,0.0,Chicago Blackhawks,New York Islanders,21.0,44.0,60.0,19.0,36.0,59.0
 /zapas/2897390,1.0,0.0,Chicago Blackhawks,Montreal Canadiens,23.0,47.0,60.0,18.0,50.0,71.0
-/zapas/2897408,0.0,0.0,Chicago Blackhawks,Toronto Maple Leafs,26.0,46.0,54.0,44.0,72.0,46.0
-/zapas/2897434,1.0,1.0,Chicago Blackhawks,Washington Capitals,25.0,48.0,56.0,37.0,67.0,52.0
-/zapas/2897447,0.0,1.0,Chicago Blackhawks,Nashville Predators,27.0,50.0,54.0,38.0,60.0,53.0
-/zapas/2897456,0.0,0.0,Chicago Blackhawks,Dallas Stars,28.0,52.0,56.0,30.0,57.0,60.0
-/zapas/2897549,0.0,0.0,Chicago Blackhawks,Nashville Predators,26.0,50.0,59.0,37.0,63.0,55.0
-/zapas/2897559,0.0,1.0,Chicago Blackhawks,Calgary Flames,26.0,48.0,61.0,32.0,62.0,48.0
-/zapas/2897571,0.0,1.0,Chicago Blackhawks,Colorado Avalanche,26.0,48.0,61.0,44.0,95.0,66.0
 /zapas/2897585,0.0,0.0,Chicago Blackhawks,Arizona Coyotes,25.0,49.0,64.0,17.0,50.0,75.0
 /zapas/2897596,1.0,0.0,Chicago Blackhawks,Vegas Golden Knights,23.0,50.0,68.0,38.0,80.0,59.0
 /zapas/2897626,1.0,0.0,Chicago Blackhawks,Columbus Blue Jackets,23.0,50.0,68.0,22.0,63.0,78.0
 /zapas/2897634,1.0,1.0,Chicago Blackhawks,Montreal Canadiens,23.0,50.0,68.0,11.0,42.0,78.0
 /zapas/2897650,1.0,1.0,Chicago Blackhawks,Anaheim Ducks,25.0,51.0,65.0,27.0,55.0,61.0
 /zapas/2897665,0.0,0.0,Chicago Blackhawks,Seattle Kraken,25.0,53.0,65.0,21.0,52.0,70.0
-/zapas/2897697,0.0,1.0,Chicago Blackhawks,Minnesota Wild,26.0,53.0,63.0,36.0,83.0,62.0
-/zapas/2897706,0.0,0.0,Chicago Blackhawks,Minnesota Wild,24.0,51.0,66.0,36.0,81.0,61.0
-/zapas/2897718,0.0,0.0,Chicago Blackhawks,Colorado Avalanche,25.0,54.0,68.0,48.0,89.0,54.0
 /zapas/2897735,1.0,0.0,Chicago Blackhawks,Detroit Red Wings,23.0,50.0,67.0,24.0,52.0,68.0
-/zapas/2897749,0.0,1.0,Chicago Blackhawks,Colorado Avalanche,26.0,56.0,69.0,49.0,86.0,50.0
 /zapas/2897772,0.0,1.0,Chicago Blackhawks,Vancouver Canucks,24.0,57.0,73.0,34.0,51.0,45.0
-/zapas/2897789,0.0,1.0,Chicago Blackhawks,Minnesota Wild,24.0,56.0,70.0,41.0,82.0,58.0
-/zapas/2897674,1.0,0.0,Chicago Blackhawks,Edmonton Oilers,21.0,54.0,75.0,22.0,56.0,72.0
-/zapas/2897765,0.0,0.0,Chicago Blackhawks,St. Louis Blues,24.0,54.0,71.0,40.0,73.0,55.0
 /zapas/2897526,1.0,0.0,Chicago Blackhawks,Winnipeg Jets,22.0,50.0,72.0,27.0,54.0,62.0
 /zapas/2897520,0.0,1.0,Chicago Blackhawks,Columbus Blue Jackets,24.0,51.0,70.0,25.0,60.0,83.0
-/zapas/2897494,0.0,1.0,Chicago Blackhawks,Dallas Stars,23.0,52.0,73.0,35.0,70.0,64.0
-/zapas/2897479,0.0,1.0,Chicago Blackhawks,Florida Panthers,24.0,51.0,68.0,45.0,99.0,56.0
 /zapas/2897807,1.0,1.0,Chicago Blackhawks,New Jersey Devils,24.0,52.0,68.0,19.0,66.0,75.0
-/zapas/2897823,0.0,1.0,Chicago Blackhawks,St. Louis Blues,26.0,57.0,69.0,43.0,78.0,56.0
-/zapas/2897848,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,26.0,53.0,67.0,35.0,66.0,60.0
 /zapas/2897868,0.0,0.0,Chicago Blackhawks,Philadelphia Flyers,25.0,55.0,69.0,12.0,47.0,73.0
-/zapas/2897873,0.0,1.0,Chicago Blackhawks,Tampa Bay Lightning,22.0,54.0,71.0,45.0,77.0,51.0
 /zapas/2897884,1.0,1.0,Chicago Blackhawks,Anaheim Ducks,20.0,54.0,75.0,24.0,56.0,73.0
-/zapas/2897900,0.0,0.0,Chicago Blackhawks,Boston Bruins,20.0,59.0,78.0,33.0,57.0,55.0
 /zapas/2897920,1.0,0.0,Chicago Blackhawks,Ottawa Senators,19.0,60.0,79.0,23.0,46.0,55.0
-/zapas/2897938,0.0,1.0,Chicago Blackhawks,Boston Bruins,22.0,65.0,77.0,36.0,58.0,53.0
-/zapas/2897970,0.0,0.0,Chicago Blackhawks,Minnesota Wild,22.0,63.0,75.0,27.0,70.0,78.0
 /zapas/2897977,0.0,1.0,Chicago Blackhawks,Winnipeg Jets,22.0,64.0,76.0,32.0,71.0,66.0
 /zapas/2897996,1.0,0.0,Chicago Blackhawks,Anaheim Ducks,19.0,60.0,77.0,19.0,53.0,80.0
-/zapas/2898001,1.0,0.0,Chicago Blackhawks,Los Angeles Kings,22.0,60.0,73.0,36.0,61.0,58.0
 /zapas/2898015,0.0,0.0,Chicago Blackhawks,Vegas Golden Knights,24.0,63.0,73.0,22.0,49.0,65.0
 /zapas/2898037,0.0,1.0,Chicago Blackhawks,Buffalo Sabres,25.0,67.0,73.0,26.0,58.0,71.0
-/zapas/2898061,0.0,0.0,Chicago Blackhawks,Florida Panthers,22.0,68.0,78.0,37.0,79.0,61.0
-/zapas/2898069,0.0,0.0,Chicago Blackhawks,Tampa Bay Lightning,22.0,67.0,77.0,34.0,62.0,55.0
 /zapas/2898084,0.0,1.0,Chicago Blackhawks,Arizona Coyotes,19.0,66.0,81.0,27.0,65.0,67.0
 /zapas/2898112,0.0,1.0,Chicago Blackhawks,Seattle Kraken,20.0,64.0,77.0,19.0,51.0,68.0
-/zapas/2898137,0.0,1.0,Chicago Blackhawks,Dallas Stars,19.0,64.0,78.0,33.0,61.0,64.0
-/zapas/2898165,0.0,1.0,Chicago Blackhawks,Los Angeles Kings,19.0,66.0,79.0,26.0,53.0,61.0
 /zapas/2898148,1.0,1.0,Chicago Blackhawks,San Jose Sharks,16.0,60.0,79.0,21.0,47.0,65.0
-/zapas/2898183,0.0,0.0,Chicago Blackhawks,Nashville Predators,18.0,65.0,79.0,36.0,71.0,59.0
-/zapas/2897417,0.0,1.0,Chicago Blackhawks,Calgary Flames,16.0,64.0,80.0,38.0,75.0,54.0
 /zapas/2898209,1.0,0.0,Chicago Blackhawks,Arizona Coyotes,16.0,63.0,81.0,14.0,45.0,89.0
-/zapas/2898214,0.0,0.0,Chicago Blackhawks,Los Angeles Kings,18.0,64.0,78.0,28.0,52.0,65.0
 /zapas/2898231,0.0,0.0,Chicago Blackhawks,San Jose Sharks,15.0,57.0,79.0,20.0,50.0,64.0
 /zapas/2898252,1.0,1.0,Chicago Blackhawks,Philadelphia Flyers,15.0,55.0,79.0,20.0,60.0,81.0
 /zapas/2898268,1.0,1.0,Chicago Blackhawks,Vegas Golden Knights,15.0,52.0,77.0,30.0,68.0,63.0

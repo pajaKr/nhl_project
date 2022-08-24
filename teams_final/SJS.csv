@@ -1,253 +1,37 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
-/zapas/2526401,0.0,0.0,San Jose Sharks,Vegas Golden Knights,33.0,50.0,45.0,37.0,72.0,60.0
-/zapas/2526410,1.0,1.0,San Jose Sharks,Winnipeg Jets,34.0,51.0,45.0,44.0,68.0,45.0
-/zapas/2526424,1.0,0.0,San Jose Sharks,Philadelphia Flyers,37.0,54.0,41.0,25.0,56.0,62.0
-/zapas/2526446,1.0,0.0,San Jose Sharks,Florida Panthers,37.0,54.0,40.0,24.0,56.0,68.0
-/zapas/2526454,0.0,0.0,San Jose Sharks,Tampa Bay Lightning,40.0,55.0,38.0,39.0,70.0,49.0
-/zapas/2526466,0.0,0.0,San Jose Sharks,Washington Capitals,37.0,52.0,41.0,33.0,57.0,59.0
-/zapas/2526492,1.0,1.0,San Jose Sharks,Carolina Hurricanes,34.0,50.0,45.0,26.0,55.0,64.0
-/zapas/2526507,1.0,1.0,San Jose Sharks,Ottawa Senators,36.0,52.0,44.0,21.0,53.0,75.0
-/zapas/2526513,0.0,1.0,San Jose Sharks,Minnesota Wild,36.0,53.0,43.0,31.0,55.0,57.0
-/zapas/2526541,1.0,0.0,San Jose Sharks,Calgary Flames,37.0,55.0,45.0,32.0,63.0,64.0
-/zapas/2526549,0.0,0.0,San Jose Sharks,Vancouver Canucks,37.0,55.0,45.0,26.0,52.0,68.0
-/zapas/2526569,0.0,0.0,San Jose Sharks,Edmonton Oilers,35.0,55.0,47.0,28.0,66.0,64.0
-/zapas/2526592,1.0,1.0,San Jose Sharks,Vancouver Canucks,32.0,54.0,51.0,22.0,51.0,76.0
-/zapas/2526611,1.0,1.0,San Jose Sharks,Los Angeles Kings,32.0,57.0,54.0,31.0,55.0,44.0
-/zapas/2526629,1.0,1.0,San Jose Sharks,Calgary Flames,35.0,58.0,49.0,28.0,57.0,60.0
-/zapas/2526653,0.0,0.0,San Jose Sharks,Dallas Stars,34.0,56.0,51.0,34.0,64.0,54.0
-/zapas/2526660,1.0,0.0,San Jose Sharks,Montreal Canadiens,31.0,54.0,56.0,25.0,53.0,59.0
-/zapas/2526673,0.0,0.0,San Jose Sharks,Toronto Maple Leafs,34.0,58.0,55.0,28.0,56.0,57.0
-/zapas/2526684,0.0,0.0,San Jose Sharks,Ottawa Senators,35.0,59.0,55.0,15.0,37.0,71.0
-/zapas/2526699,0.0,0.0,San Jose Sharks,Winnipeg Jets,35.0,62.0,58.0,34.0,67.0,58.0
-/zapas/2526732,1.0,1.0,San Jose Sharks,Arizona Coyotes,32.0,60.0,61.0,15.0,41.0,65.0
-/zapas/2526739,1.0,0.0,San Jose Sharks,Los Angeles Kings,33.0,62.0,61.0,34.0,61.0,48.0
-/zapas/2526746,1.0,0.0,San Jose Sharks,Arizona Coyotes,33.0,62.0,62.0,14.0,43.0,69.0
-/zapas/2526757,0.0,0.0,San Jose Sharks,Colorado Avalanche,32.0,62.0,63.0,35.0,66.0,53.0
-/zapas/2526769,1.0,1.0,San Jose Sharks,Pittsburgh Penguins,29.0,63.0,67.0,26.0,58.0,56.0
-/zapas/2526778,1.0,0.0,San Jose Sharks,Anaheim Ducks,32.0,63.0,63.0,36.0,57.0,47.0
-/zapas/2526797,0.0,1.0,San Jose Sharks,Winnipeg Jets,35.0,68.0,61.0,35.0,61.0,52.0
-/zapas/2526814,0.0,1.0,San Jose Sharks,New York Rangers,34.0,67.0,62.0,23.0,49.0,59.0
-/zapas/2526819,0.0,0.0,San Jose Sharks,Pittsburgh Penguins,31.0,67.0,68.0,30.0,58.0,51.0
-/zapas/2526829,0.0,0.0,San Jose Sharks,Detroit Red Wings,30.0,66.0,69.0,25.0,47.0,55.0
-/zapas/2526844,1.0,0.0,San Jose Sharks,Columbus Blue Jackets,28.0,64.0,69.0,23.0,47.0,67.0
-/zapas/2526861,1.0,0.0,San Jose Sharks,Carolina Hurricanes,30.0,64.0,66.0,31.0,52.0,61.0
-/zapas/2526876,0.0,0.0,San Jose Sharks,Colorado Avalanche,33.0,64.0,62.0,38.0,68.0,48.0
-/zapas/2526888,0.0,1.0,San Jose Sharks,Vegas Golden Knights,31.0,60.0,61.0,39.0,65.0,45.0
-/zapas/2526905,1.0,1.0,San Jose Sharks,Edmonton Oilers,28.0,61.0,66.0,26.0,52.0,64.0
-/zapas/2526914,1.0,0.0,San Jose Sharks,Anaheim Ducks,29.0,64.0,68.0,36.0,61.0,53.0
-/zapas/2526929,0.0,1.0,San Jose Sharks,Arizona Coyotes,31.0,67.0,64.0,22.0,55.0,69.0
-/zapas/2526943,1.0,1.0,San Jose Sharks,Vancouver Canucks,28.0,64.0,65.0,20.0,52.0,63.0
-/zapas/2526964,1.0,1.0,San Jose Sharks,Dallas Stars,30.0,66.0,63.0,41.0,65.0,42.0
-/zapas/2526977,1.0,0.0,San Jose Sharks,St. Louis Blues,32.0,66.0,59.0,33.0,55.0,53.0
-/zapas/2526991,0.0,0.0,San Jose Sharks,Nashville Predators,35.0,68.0,57.0,39.0,62.0,47.0
-/zapas/2526998,0.0,0.0,San Jose Sharks,Chicago Blackhawks,33.0,63.0,59.0,19.0,48.0,61.0
-/zapas/2527016,0.0,0.0,San Jose Sharks,Minnesota Wild,30.0,60.0,61.0,39.0,64.0,56.0
-/zapas/2527031,1.0,1.0,San Jose Sharks,Edmonton Oilers,29.0,59.0,62.0,24.0,60.0,67.0
-/zapas/2527044,1.0,1.0,San Jose Sharks,Chicago Blackhawks,32.0,61.0,59.0,19.0,44.0,61.0
-/zapas/2527068,0.0,1.0,San Jose Sharks,Columbus Blue Jackets,32.0,66.0,60.0,22.0,50.0,60.0
-/zapas/2527097,1.0,1.0,San Jose Sharks,St. Louis Blues,29.0,62.0,62.0,28.0,46.0,54.0
-/zapas/2527108,0.0,1.0,San Jose Sharks,Washington Capitals,31.0,60.0,57.0,30.0,59.0,66.0
-/zapas/2527124,1.0,1.0,San Jose Sharks,Detroit Red Wings,31.0,55.0,53.0,21.0,51.0,60.0
-/zapas/2527134,1.0,0.0,San Jose Sharks,Edmonton Oilers,34.0,58.0,51.0,21.0,58.0,65.0
-/zapas/2527149,1.0,0.0,San Jose Sharks,Calgary Flames,35.0,61.0,52.0,31.0,55.0,60.0
-/zapas/2527161,1.0,0.0,San Jose Sharks,Vancouver Canucks,35.0,65.0,55.0,14.0,48.0,67.0
-/zapas/2527185,1.0,1.0,San Jose Sharks,New Jersey Devils,35.0,67.0,57.0,27.0,60.0,59.0
-/zapas/2527199,1.0,1.0,San Jose Sharks,Vegas Golden Knights,38.0,72.0,56.0,36.0,67.0,55.0
-/zapas/2527206,1.0,1.0,San Jose Sharks,Calgary Flames,40.0,71.0,52.0,23.0,48.0,69.0
-/zapas/2527228,1.0,0.0,San Jose Sharks,Chicago Blackhawks,40.0,70.0,49.0,20.0,56.0,73.0
-/zapas/2527234,0.0,0.0,San Jose Sharks,St. Louis Blues,40.0,71.0,50.0,29.0,54.0,56.0
-/zapas/2527248,0.0,0.0,San Jose Sharks,Nashville Predators,41.0,72.0,51.0,44.0,69.0,46.0
-/zapas/2527271,0.0,0.0,San Jose Sharks,Vegas Golden Knights,38.0,71.0,55.0,31.0,58.0,53.0
-/zapas/2527291,0.0,1.0,San Jose Sharks,Dallas Stars,35.0,68.0,56.0,20.0,45.0,59.0
-/zapas/2527306,1.0,1.0,San Jose Sharks,Colorado Avalanche,32.0,67.0,58.0,33.0,64.0,51.0
-/zapas/2527325,0.0,1.0,San Jose Sharks,Minnesota Wild,35.0,70.0,53.0,33.0,62.0,57.0
-/zapas/2647202,0.0,1.0,San Jose Sharks,Anaheim Ducks,35.0,72.0,56.0,38.0,64.0,46.0
-/zapas/2647214,1.0,0.0,San Jose Sharks,Los Angeles Kings,34.0,72.0,58.0,36.0,62.0,48.0
-/zapas/2647231,0.0,0.0,San Jose Sharks,New York Islanders,33.0,70.0,58.0,22.0,61.0,73.0
-/zapas/2647234,1.0,0.0,San Jose Sharks,Philadelphia Flyers,30.0,63.0,60.0,30.0,68.0,68.0
-/zapas/2647247,0.0,0.0,San Jose Sharks,New York Rangers,33.0,69.0,58.0,17.0,53.0,75.0
-/zapas/2647269,0.0,0.0,San Jose Sharks,New Jersey Devils,31.0,69.0,61.0,38.0,69.0,53.0
-/zapas/2647296,1.0,1.0,San Jose Sharks,Buffalo Sabres,31.0,71.0,62.0,19.0,47.0,75.0
-/zapas/2647312,1.0,1.0,San Jose Sharks,New York Islanders,31.0,71.0,60.0,25.0,66.0,69.0
-/zapas/2647324,1.0,0.0,San Jose Sharks,Nashville Predators,32.0,71.0,58.0,42.0,66.0,50.0
-/zapas/2647344,0.0,0.0,San Jose Sharks,Carolina Hurricanes,32.0,69.0,58.0,32.0,67.0,60.0
-/zapas/2647362,1.0,0.0,San Jose Sharks,Anaheim Ducks,30.0,67.0,59.0,34.0,56.0,49.0
-/zapas/2647375,0.0,1.0,San Jose Sharks,New York Rangers,29.0,65.0,60.0,15.0,48.0,70.0
-/zapas/2647389,0.0,1.0,San Jose Sharks,Columbus Blue Jackets,28.0,66.0,63.0,32.0,76.0,70.0
-/zapas/2647404,1.0,1.0,San Jose Sharks,Philadelphia Flyers,25.0,62.0,66.0,30.0,65.0,70.0
-/zapas/2647421,1.0,1.0,San Jose Sharks,Minnesota Wild,25.0,62.0,66.0,35.0,61.0,55.0
-/zapas/2647432,0.0,0.0,San Jose Sharks,Dallas Stars,27.0,64.0,66.0,33.0,59.0,55.0
-/zapas/2647437,0.0,0.0,San Jose Sharks,St. Louis Blues,27.0,64.0,65.0,24.0,63.0,74.0
-/zapas/2647456,1.0,1.0,San Jose Sharks,Calgary Flames,27.0,62.0,66.0,32.0,64.0,60.0
-/zapas/2647470,1.0,1.0,San Jose Sharks,Nashville Predators,30.0,63.0,63.0,44.0,66.0,44.0
-/zapas/2647483,0.0,1.0,San Jose Sharks,Toronto Maple Leafs,30.0,64.0,65.0,37.0,68.0,51.0
-/zapas/2647500,1.0,1.0,San Jose Sharks,St. Louis Blues,30.0,64.0,64.0,27.0,65.0,63.0
-/zapas/2647515,0.0,1.0,San Jose Sharks,Edmonton Oilers,33.0,66.0,59.0,25.0,57.0,66.0
-/zapas/2647544,1.0,1.0,San Jose Sharks,Vancouver Canucks,32.0,66.0,61.0,22.0,57.0,73.0
-/zapas/2647554,0.0,0.0,San Jose Sharks,Vegas Golden Knights,35.0,70.0,57.0,29.0,55.0,55.0
-/zapas/2647565,0.0,0.0,San Jose Sharks,Buffalo Sabres,32.0,62.0,61.0,38.0,68.0,53.0
-/zapas/2647577,0.0,0.0,San Jose Sharks,Toronto Maple Leafs,32.0,62.0,61.0,38.0,63.0,44.0
-/zapas/2647593,0.0,0.0,San Jose Sharks,Ottawa Senators,32.0,63.0,63.0,25.0,68.0,85.0
-/zapas/2647608,1.0,0.0,San Jose Sharks,Montreal Canadiens,29.0,60.0,68.0,27.0,61.0,70.0
-/zapas/2647626,1.0,1.0,San Jose Sharks,Carolina Hurricanes,29.0,59.0,68.0,25.0,43.0,53.0
-/zapas/2647638,0.0,0.0,San Jose Sharks,Dallas Stars,29.0,59.0,65.0,33.0,55.0,49.0
-/zapas/2647650,1.0,0.0,San Jose Sharks,Arizona Coyotes,28.0,58.0,64.0,34.0,59.0,54.0
-/zapas/2647662,1.0,1.0,San Jose Sharks,New Jersey Devils,29.0,59.0,64.0,20.0,58.0,80.0
-/zapas/2647684,1.0,1.0,San Jose Sharks,Dallas Stars,31.0,61.0,62.0,30.0,52.0,54.0
-/zapas/2647707,1.0,0.0,San Jose Sharks,Chicago Blackhawks,34.0,63.0,60.0,14.0,53.0,77.0
-/zapas/2647719,1.0,0.0,San Jose Sharks,Minnesota Wild,35.0,66.0,60.0,30.0,66.0,56.0
-/zapas/2647739,0.0,1.0,San Jose Sharks,Winnipeg Jets,35.0,66.0,57.0,38.0,81.0,60.0
-/zapas/2647747,0.0,1.0,San Jose Sharks,Los Angeles Kings,35.0,66.0,58.0,21.0,46.0,58.0
-/zapas/2647763,0.0,1.0,San Jose Sharks,Arizona Coyotes,36.0,68.0,57.0,24.0,48.0,60.0
-/zapas/2647777,1.0,1.0,San Jose Sharks,Anaheim Ducks,34.0,68.0,60.0,33.0,53.0,56.0
-/zapas/2647784,1.0,0.0,San Jose Sharks,Edmonton Oilers,34.0,67.0,58.0,29.0,58.0,61.0
-/zapas/2647807,0.0,0.0,San Jose Sharks,Calgary Flames,37.0,71.0,57.0,41.0,75.0,48.0
-/zapas/2647817,1.0,0.0,San Jose Sharks,Colorado Avalanche,34.0,72.0,65.0,31.0,63.0,64.0
-/zapas/2647842,1.0,1.0,San Jose Sharks,Tampa Bay Lightning,36.0,74.0,65.0,50.0,98.0,58.0
-/zapas/2647854,1.0,1.0,San Jose Sharks,Los Angeles Kings,36.0,75.0,67.0,25.0,47.0,53.0
-/zapas/2647865,1.0,1.0,San Jose Sharks,Edmonton Oilers,39.0,78.0,62.0,29.0,56.0,60.0
-/zapas/2647879,1.0,0.0,San Jose Sharks,Vegas Golden Knights,41.0,83.0,61.0,44.0,63.0,48.0
-/zapas/2647894,1.0,1.0,San Jose Sharks,Ottawa Senators,44.0,83.0,58.0,20.0,53.0,67.0
-/zapas/2647918,1.0,1.0,San Jose Sharks,Pittsburgh Penguins,47.0,85.0,53.0,44.0,78.0,48.0
-/zapas/2647923,0.0,0.0,San Jose Sharks,Arizona Coyotes,47.0,87.0,54.0,21.0,50.0,64.0
-/zapas/2647944,0.0,0.0,San Jose Sharks,Tampa Bay Lightning,44.0,85.0,59.0,45.0,85.0,57.0
-/zapas/2647957,0.0,0.0,San Jose Sharks,Florida Panthers,44.0,86.0,62.0,25.0,57.0,72.0
-/zapas/2647958,1.0,0.0,San Jose Sharks,Washington Capitals,41.0,83.0,65.0,33.0,60.0,59.0
-/zapas/2647999,1.0,1.0,San Jose Sharks,Arizona Coyotes,40.0,85.0,69.0,28.0,55.0,59.0
-/zapas/2648016,1.0,0.0,San Jose Sharks,Winnipeg Jets,39.0,85.0,69.0,36.0,69.0,56.0
-/zapas/2648033,1.0,0.0,San Jose Sharks,Calgary Flames,38.0,81.0,68.0,40.0,82.0,61.0
-/zapas/2648044,1.0,0.0,San Jose Sharks,Edmonton Oilers,38.0,82.0,70.0,18.0,59.0,78.0
-/zapas/2648060,1.0,0.0,San Jose Sharks,Vancouver Canucks,41.0,84.0,67.0,27.0,52.0,56.0
-/zapas/2648085,0.0,1.0,San Jose Sharks,Washington Capitals,43.0,89.0,66.0,24.0,57.0,77.0
-/zapas/2648100,1.0,1.0,San Jose Sharks,Vancouver Canucks,42.0,87.0,67.0,26.0,51.0,60.0
-/zapas/2648113,0.0,1.0,San Jose Sharks,Boston Bruins,42.0,86.0,67.0,41.0,65.0,47.0
-/zapas/2648131,1.0,0.0,San Jose Sharks,Pittsburgh Penguins,40.0,84.0,69.0,30.0,70.0,70.0
-/zapas/2648148,0.0,0.0,San Jose Sharks,Columbus Blue Jackets,43.0,83.0,61.0,30.0,60.0,57.0
-/zapas/2648156,1.0,0.0,San Jose Sharks,Detroit Red Wings,40.0,78.0,61.0,24.0,56.0,62.0
-/zapas/2648166,0.0,0.0,San Jose Sharks,Boston Bruins,40.0,78.0,62.0,37.0,63.0,49.0
-/zapas/2648196,1.0,1.0,San Jose Sharks,Colorado Avalanche,37.0,76.0,65.0,27.0,61.0,61.0
-/zapas/2648214,1.0,1.0,San Jose Sharks,Chicago Blackhawks,37.0,73.0,66.0,31.0,87.0,82.0
-/zapas/2648241,1.0,1.0,San Jose Sharks,Montreal Canadiens,37.0,75.0,66.0,34.0,63.0,53.0
-/zapas/2648247,1.0,1.0,San Jose Sharks,St. Louis Blues,37.0,76.0,67.0,42.0,65.0,41.0
-/zapas/2648266,1.0,0.0,San Jose Sharks,Minnesota Wild,36.0,74.0,67.0,28.0,54.0,62.0
-/zapas/2648275,1.0,0.0,San Jose Sharks,Winnipeg Jets,39.0,74.0,61.0,28.0,66.0,68.0
-/zapas/2648290,0.0,1.0,San Jose Sharks,Florida Panthers,42.0,76.0,59.0,30.0,71.0,60.0
-/zapas/2648308,0.0,1.0,San Jose Sharks,Nashville Predators,42.0,76.0,57.0,27.0,54.0,58.0
-/zapas/2648319,0.0,1.0,San Jose Sharks,Vegas Golden Knights,40.0,71.0,55.0,32.0,63.0,60.0
-/zapas/2648345,0.0,0.0,San Jose Sharks,Los Angeles Kings,38.0,71.0,60.0,15.0,50.0,73.0
-/zapas/2648347,0.0,0.0,San Jose Sharks,Anaheim Ducks,36.0,70.0,62.0,27.0,48.0,54.0
-/zapas/2648375,0.0,1.0,San Jose Sharks,Detroit Red Wings,34.0,68.0,64.0,19.0,49.0,75.0
-/zapas/2648394,0.0,1.0,San Jose Sharks,Chicago Blackhawks,31.0,65.0,65.0,28.0,66.0,69.0
-/zapas/2648409,1.0,1.0,San Jose Sharks,Vegas Golden Knights,28.0,62.0,68.0,34.0,68.0,54.0
-/zapas/2648418,0.0,1.0,San Jose Sharks,Calgary Flames,30.0,65.0,66.0,39.0,63.0,42.0
-/zapas/2648435,0.0,0.0,San Jose Sharks,Vancouver Canucks,27.0,65.0,69.0,22.0,49.0,61.0
-/zapas/2648450,1.0,0.0,San Jose Sharks,Edmonton Oilers,26.0,62.0,67.0,28.0,58.0,69.0
-/zapas/2648469,1.0,1.0,San Jose Sharks,Colorado Avalanche,26.0,61.0,69.0,35.0,57.0,45.0
-/zapas/2806380,0.0,0.0,San Jose Sharks,Vegas Golden Knights,29.0,66.0,67.0,34.0,67.0,55.0
-/zapas/2806393,0.0,1.0,San Jose Sharks,Vegas Golden Knights,26.0,62.0,68.0,37.0,68.0,50.0
-/zapas/2806404,0.0,0.0,San Jose Sharks,Anaheim Ducks,26.0,62.0,69.0,36.0,62.0,57.0
-/zapas/2806417,0.0,0.0,San Jose Sharks,Nashville Predators,23.0,59.0,69.0,34.0,55.0,52.0
-/zapas/2806430,1.0,0.0,San Jose Sharks,Chicago Blackhawks,20.0,56.0,72.0,30.0,62.0,60.0
-/zapas/2806453,1.0,1.0,San Jose Sharks,Calgary Flames,20.0,56.0,74.0,33.0,68.0,50.0
-/zapas/2806473,1.0,1.0,San Jose Sharks,Carolina Hurricanes,21.0,56.0,73.0,37.0,63.0,48.0
-/zapas/2806499,0.0,1.0,San Jose Sharks,Buffalo Sabres,21.0,58.0,75.0,26.0,62.0,63.0
-/zapas/2806510,0.0,0.0,San Jose Sharks,Buffalo Sabres,18.0,56.0,75.0,29.0,64.0,62.0
-/zapas/2806521,1.0,0.0,San Jose Sharks,Montreal Canadiens,19.0,57.0,75.0,34.0,72.0,56.0
-/zapas/2806532,0.0,0.0,San Jose Sharks,Toronto Maple Leafs,22.0,59.0,73.0,28.0,67.0,71.0
-/zapas/2806549,0.0,0.0,San Jose Sharks,Ottawa Senators,22.0,57.0,70.0,18.0,53.0,74.0
-/zapas/2806555,0.0,0.0,San Jose Sharks,Boston Bruins,22.0,57.0,71.0,41.0,74.0,54.0
-/zapas/2806579,0.0,1.0,San Jose Sharks,Winnipeg Jets,21.0,55.0,72.0,20.0,54.0,70.0
-/zapas/2806592,0.0,1.0,San Jose Sharks,Vancouver Canucks,21.0,55.0,72.0,32.0,66.0,54.0
-/zapas/2806610,1.0,1.0,San Jose Sharks,Chicago Blackhawks,21.0,53.0,72.0,23.0,53.0,61.0
-/zapas/2806623,1.0,1.0,San Jose Sharks,Minnesota Wild,22.0,53.0,71.0,22.0,45.0,64.0
-/zapas/2806638,1.0,1.0,San Jose Sharks,Nashville Predators,25.0,56.0,71.0,37.0,77.0,63.0
-/zapas/2806656,1.0,1.0,San Jose Sharks,Edmonton Oilers,27.0,56.0,68.0,38.0,61.0,49.0
-/zapas/2806668,1.0,0.0,San Jose Sharks,Anaheim Ducks,27.0,59.0,69.0,31.0,55.0,55.0
+/zapas/2762313,1.0,1.0,San Jose Sharks,St. Louis Blues,29.0,57.0,65.0,30.0,51.0,59.0
+/zapas/2762314,0.0,1.0,San Jose Sharks,St. Louis Blues,32.0,63.0,61.0,28.0,51.0,63.0
+/zapas/2762315,1.0,0.0,San Jose Sharks,St. Louis Blues,30.0,61.0,62.0,30.0,52.0,61.0
+/zapas/2762316,0.0,0.0,San Jose Sharks,St. Louis Blues,31.0,63.0,62.0,31.0,56.0,60.0
+/zapas/2762317,0.0,1.0,San Jose Sharks,St. Louis Blues,28.0,60.0,64.0,34.0,56.0,57.0
+/zapas/2762328,0.0,0.0,San Jose Sharks,St. Louis Blues,28.0,57.0,64.0,37.0,58.0,53.0
+/zapas/2806404,0.0,0.0,San Jose Sharks,Anaheim Ducks,25.0,52.0,68.0,36.0,62.0,57.0
+/zapas/2806499,0.0,1.0,San Jose Sharks,Buffalo Sabres,27.0,53.0,65.0,26.0,62.0,63.0
+/zapas/2806510,0.0,0.0,San Jose Sharks,Buffalo Sabres,24.0,51.0,67.0,29.0,64.0,62.0
+/zapas/2806549,0.0,0.0,San Jose Sharks,Ottawa Senators,25.0,52.0,68.0,18.0,53.0,74.0
+/zapas/2806668,1.0,0.0,San Jose Sharks,Anaheim Ducks,24.0,55.0,72.0,31.0,55.0,55.0
 /zapas/2806689,1.0,1.0,San Jose Sharks,Detroit Red Wings,27.0,59.0,70.0,19.0,43.0,75.0
-/zapas/2806706,0.0,1.0,San Jose Sharks,Edmonton Oilers,29.0,62.0,69.0,33.0,62.0,54.0
-/zapas/2806720,1.0,0.0,San Jose Sharks,Vegas Golden Knights,29.0,63.0,69.0,28.0,60.0,61.0
-/zapas/2806737,1.0,1.0,San Jose Sharks,New York Islanders,31.0,64.0,67.0,43.0,67.0,49.0
 /zapas/2806749,1.0,0.0,San Jose Sharks,Los Angeles Kings,33.0,64.0,63.0,23.0,49.0,62.0
-/zapas/2806765,0.0,1.0,San Jose Sharks,Winnipeg Jets,32.0,63.0,62.0,32.0,54.0,58.0
 /zapas/2806769,1.0,1.0,San Jose Sharks,Los Angeles Kings,29.0,61.0,66.0,24.0,47.0,58.0
-/zapas/2806787,1.0,0.0,San Jose Sharks,Arizona Coyotes,29.0,60.0,65.0,30.0,55.0,50.0
-/zapas/2806809,0.0,1.0,San Jose Sharks,Washington Capitals,32.0,61.0,63.0,42.0,78.0,57.0
-/zapas/2806819,0.0,0.0,San Jose Sharks,Carolina Hurricanes,31.0,60.0,64.0,29.0,60.0,57.0
-/zapas/2806833,0.0,0.0,San Jose Sharks,Tampa Bay Lightning,29.0,58.0,65.0,29.0,72.0,68.0
-/zapas/2806840,0.0,0.0,San Jose Sharks,Florida Panthers,29.0,58.0,68.0,31.0,74.0,67.0
-/zapas/2806851,0.0,0.0,San Jose Sharks,Nashville Predators,29.0,57.0,68.0,29.0,63.0,61.0
-/zapas/2806874,0.0,1.0,San Jose Sharks,New York Rangers,29.0,57.0,66.0,33.0,61.0,59.0
-/zapas/2806890,1.0,1.0,San Jose Sharks,Vancouver Canucks,29.0,58.0,69.0,24.0,58.0,65.0
-/zapas/2806910,0.0,1.0,San Jose Sharks,Arizona Coyotes,32.0,60.0,66.0,28.0,53.0,50.0
-/zapas/2806940,0.0,1.0,San Jose Sharks,St. Louis Blues,29.0,58.0,67.0,38.0,60.0,49.0
-/zapas/2806944,0.0,1.0,San Jose Sharks,Vegas Golden Knights,26.0,54.0,67.0,30.0,62.0,57.0
 /zapas/2806968,0.0,1.0,San Jose Sharks,Los Angeles Kings,24.0,53.0,69.0,26.0,50.0,55.0
-/zapas/2806977,1.0,1.0,San Jose Sharks,Philadelphia Flyers,22.0,49.0,69.0,34.0,65.0,54.0
 /zapas/2806996,0.0,0.0,San Jose Sharks,Detroit Red Wings,22.0,50.0,67.0,8.0,41.0,82.0
-/zapas/2807007,1.0,0.0,San Jose Sharks,Pittsburgh Penguins,20.0,46.0,66.0,41.0,75.0,55.0
-/zapas/2807018,1.0,0.0,San Jose Sharks,Columbus Blue Jackets,22.0,47.0,63.0,32.0,52.0,44.0
-/zapas/2807029,0.0,0.0,San Jose Sharks,Washington Capitals,23.0,48.0,64.0,38.0,66.0,58.0
-/zapas/2807046,0.0,0.0,San Jose Sharks,St. Louis Blues,22.0,50.0,68.0,37.0,65.0,57.0
-/zapas/2807064,1.0,1.0,San Jose Sharks,Columbus Blue Jackets,20.0,48.0,68.0,35.0,56.0,45.0
-/zapas/2807078,1.0,1.0,San Jose Sharks,Dallas Stars,23.0,50.0,64.0,35.0,52.0,48.0
-/zapas/2807100,0.0,0.0,San Jose Sharks,Arizona Coyotes,23.0,48.0,64.0,30.0,58.0,58.0
-/zapas/2807114,0.0,0.0,San Jose Sharks,Colorado Avalanche,20.0,47.0,68.0,31.0,67.0,62.0
-/zapas/2807130,0.0,0.0,San Jose Sharks,Vancouver Canucks,20.0,45.0,67.0,36.0,66.0,64.0
 /zapas/2807149,1.0,1.0,San Jose Sharks,Anaheim Ducks,19.0,44.0,68.0,17.0,47.0,66.0
-/zapas/2807157,0.0,1.0,San Jose Sharks,Vancouver Canucks,22.0,47.0,63.0,37.0,62.0,59.0
-/zapas/2807181,0.0,1.0,San Jose Sharks,Tampa Bay Lightning,22.0,48.0,63.0,45.0,75.0,45.0
-/zapas/2807199,1.0,0.0,San Jose Sharks,Calgary Flames,22.0,47.0,63.0,29.0,55.0,65.0
-/zapas/2807213,1.0,0.0,San Jose Sharks,Edmonton Oilers,25.0,47.0,58.0,32.0,70.0,66.0
-/zapas/2807241,0.0,1.0,San Jose Sharks,Calgary Flames,25.0,49.0,59.0,29.0,59.0,63.0
-/zapas/2807267,1.0,0.0,San Jose Sharks,Winnipeg Jets,25.0,49.0,62.0,25.0,57.0,64.0
-/zapas/2807275,1.0,0.0,San Jose Sharks,Minnesota Wild,28.0,50.0,59.0,30.0,61.0,59.0
-/zapas/2807291,0.0,1.0,San Jose Sharks,Florida Panthers,31.0,51.0,56.0,31.0,63.0,68.0
 /zapas/2807310,0.0,0.0,San Jose Sharks,New Jersey Devils,30.0,52.0,58.0,26.0,60.0,69.0
-/zapas/2807329,0.0,0.0,San Jose Sharks,New York Rangers,27.0,47.0,59.0,38.0,68.0,50.0
-/zapas/2807338,0.0,0.0,San Jose Sharks,New York Islanders,27.0,49.0,60.0,28.0,57.0,58.0
-/zapas/2807348,0.0,0.0,San Jose Sharks,Philadelphia Flyers,25.0,47.0,62.0,38.0,73.0,54.0
 /zapas/2807369,1.0,1.0,San Jose Sharks,New Jersey Devils,22.0,46.0,64.0,31.0,62.0,63.0
-/zapas/2807386,1.0,1.0,San Jose Sharks,Pittsburgh Penguins,23.0,45.0,61.0,30.0,58.0,57.0
-/zapas/2807404,1.0,1.0,San Jose Sharks,Toronto Maple Leafs,26.0,48.0,58.0,32.0,67.0,65.0
-/zapas/2807418,0.0,1.0,San Jose Sharks,Minnesota Wild,26.0,50.0,59.0,38.0,71.0,50.0
 /zapas/2807429,0.0,1.0,San Jose Sharks,Ottawa Senators,23.0,50.0,61.0,23.0,55.0,71.0
-/zapas/2807441,0.0,1.0,San Jose Sharks,Colorado Avalanche,24.0,48.0,57.0,43.0,61.0,46.0
-/zapas/2807455,0.0,0.0,San Jose Sharks,Chicago Blackhawks,24.0,51.0,57.0,23.0,59.0,61.0
-/zapas/2893217,1.0,0.0,San Jose Sharks,Arizona Coyotes,24.0,52.0,59.0,24.0,52.0,56.0
-/zapas/2893234,0.0,0.0,San Jose Sharks,Arizona Coyotes,23.0,52.0,60.0,25.0,52.0,53.0
-/zapas/2893244,0.0,0.0,San Jose Sharks,St. Louis Blues,23.0,53.0,60.0,36.0,61.0,52.0
-/zapas/2893263,1.0,0.0,San Jose Sharks,St. Louis Blues,23.0,57.0,62.0,36.0,60.0,53.0
-/zapas/2893276,0.0,0.0,San Jose Sharks,Minnesota Wild,22.0,56.0,62.0,36.0,67.0,53.0
-/zapas/2893292,1.0,0.0,San Jose Sharks,Minnesota Wild,19.0,51.0,63.0,36.0,68.0,52.0
-/zapas/2893306,0.0,0.0,San Jose Sharks,Colorado Avalanche,22.0,54.0,60.0,35.0,53.0,49.0
-/zapas/2893320,0.0,0.0,San Jose Sharks,Colorado Avalanche,19.0,54.0,65.0,38.0,59.0,49.0
+/zapas/2893217,1.0,0.0,San Jose Sharks,Arizona Coyotes,24.0,52.0,59.0,23.0,42.0,59.0
+/zapas/2893234,0.0,0.0,San Jose Sharks,Arizona Coyotes,23.0,52.0,60.0,23.0,43.0,60.0
 /zapas/2893386,1.0,0.0,San Jose Sharks,Anaheim Ducks,16.0,52.0,68.0,28.0,45.0,57.0
 /zapas/2893395,0.0,0.0,San Jose Sharks,Anaheim Ducks,18.0,54.0,67.0,27.0,45.0,59.0
 /zapas/2893419,1.0,0.0,San Jose Sharks,Los Angeles Kings,19.0,54.0,67.0,31.0,56.0,53.0
 /zapas/2893435,0.0,0.0,San Jose Sharks,Los Angeles Kings,21.0,56.0,67.0,31.0,58.0,55.0
-/zapas/2893357,0.0,1.0,San Jose Sharks,Vegas Golden Knights,21.0,57.0,69.0,43.0,67.0,50.0
 /zapas/2893460,1.0,1.0,San Jose Sharks,Anaheim Ducks,21.0,56.0,68.0,29.0,47.0,54.0
-/zapas/2893473,0.0,0.0,San Jose Sharks,St. Louis Blues,22.0,56.0,68.0,33.0,61.0,57.0
-/zapas/2893486,1.0,0.0,San Jose Sharks,St. Louis Blues,20.0,53.0,71.0,35.0,62.0,55.0
-/zapas/2893951,0.0,1.0,San Jose Sharks,Minnesota Wild,20.0,53.0,73.0,32.0,60.0,54.0
-/zapas/2893547,0.0,1.0,San Jose Sharks,St. Louis Blues,20.0,53.0,76.0,29.0,60.0,61.0
-/zapas/2893561,1.0,1.0,San Jose Sharks,Colorado Avalanche,19.0,58.0,81.0,35.0,59.0,47.0
-/zapas/2893571,0.0,1.0,San Jose Sharks,Colorado Avalanche,22.0,61.0,79.0,35.0,60.0,50.0
-/zapas/2893588,0.0,1.0,San Jose Sharks,Vegas Golden Knights,22.0,59.0,77.0,42.0,64.0,43.0
-/zapas/2893597,0.0,1.0,San Jose Sharks,Vegas Golden Knights,21.0,59.0,79.0,42.0,66.0,45.0
-/zapas/2893534,1.0,1.0,San Jose Sharks,St. Louis Blues,21.0,56.0,78.0,31.0,67.0,62.0
 /zapas/2893637,1.0,0.0,San Jose Sharks,Anaheim Ducks,23.0,55.0,75.0,16.0,50.0,72.0
 /zapas/2893649,1.0,0.0,San Jose Sharks,Anaheim Ducks,24.0,59.0,74.0,16.0,48.0,75.0
-/zapas/2893663,0.0,0.0,San Jose Sharks,Vegas Golden Knights,27.0,61.0,71.0,39.0,65.0,44.0
-/zapas/2893674,0.0,0.0,San Jose Sharks,Vegas Golden Knights,24.0,57.0,70.0,39.0,66.0,45.0
-/zapas/2893690,0.0,1.0,San Jose Sharks,St. Louis Blues,24.0,58.0,68.0,25.0,57.0,67.0
-/zapas/2893701,0.0,1.0,San Jose Sharks,St. Louis Blues,25.0,59.0,67.0,24.0,55.0,65.0
 /zapas/2893711,1.0,1.0,San Jose Sharks,Los Angeles Kings,23.0,56.0,68.0,32.0,60.0,50.0
 /zapas/2893722,1.0,1.0,San Jose Sharks,Los Angeles Kings,25.0,57.0,67.0,32.0,58.0,48.0
 /zapas/2893736,0.0,0.0,San Jose Sharks,Arizona Coyotes,26.0,57.0,66.0,26.0,48.0,64.0
 /zapas/2893748,0.0,0.0,San Jose Sharks,Arizona Coyotes,26.0,57.0,65.0,28.0,49.0,61.0
-/zapas/2893763,1.0,1.0,San Jose Sharks,Minnesota Wild,26.0,56.0,66.0,45.0,64.0,44.0
-/zapas/2893778,1.0,1.0,San Jose Sharks,Minnesota Wild,25.0,57.0,67.0,43.0,64.0,47.0
 /zapas/2893792,1.0,0.0,San Jose Sharks,Los Angeles Kings,27.0,59.0,66.0,28.0,52.0,52.0
 /zapas/2893804,1.0,0.0,San Jose Sharks,Los Angeles Kings,27.0,57.0,62.0,26.0,49.0,53.0
 /zapas/2893449,0.0,1.0,San Jose Sharks,Anaheim Ducks,30.0,58.0,58.0,15.0,50.0,76.0
@@ -255,99 +39,46 @@ game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,T
 /zapas/2893857,0.0,1.0,San Jose Sharks,Los Angeles Kings,30.0,52.0,56.0,20.0,49.0,63.0
 /zapas/2893872,0.0,1.0,San Jose Sharks,Anaheim Ducks,30.0,54.0,56.0,16.0,47.0,71.0
 /zapas/2893883,0.0,1.0,San Jose Sharks,Anaheim Ducks,29.0,50.0,55.0,19.0,49.0,68.0
-/zapas/2893893,0.0,0.0,San Jose Sharks,Minnesota Wild,29.0,51.0,55.0,37.0,57.0,56.0
-/zapas/2893899,0.0,0.0,San Jose Sharks,Minnesota Wild,27.0,50.0,56.0,40.0,58.0,53.0
-/zapas/2893921,0.0,0.0,San Jose Sharks,Vegas Golden Knights,24.0,46.0,61.0,42.0,69.0,43.0
-/zapas/2893936,0.0,0.0,San Jose Sharks,Vegas Golden Knights,22.0,45.0,63.0,41.0,67.0,44.0
-/zapas/2893961,0.0,1.0,San Jose Sharks,Minnesota Wild,22.0,46.0,66.0,40.0,62.0,56.0
 /zapas/2893974,1.0,1.0,San Jose Sharks,Arizona Coyotes,22.0,45.0,67.0,26.0,58.0,65.0
 /zapas/2893989,1.0,1.0,San Jose Sharks,Arizona Coyotes,24.0,50.0,69.0,26.0,62.0,68.0
-/zapas/2893999,0.0,0.0,San Jose Sharks,Colorado Avalanche,27.0,52.0,66.0,44.0,78.0,53.0
-/zapas/2894008,0.0,0.0,San Jose Sharks,Colorado Avalanche,24.0,50.0,68.0,44.0,76.0,52.0
-/zapas/2894031,0.0,1.0,San Jose Sharks,Colorado Avalanche,21.0,49.0,70.0,44.0,74.0,55.0
-/zapas/2894045,1.0,1.0,San Jose Sharks,Colorado Avalanche,22.0,51.0,70.0,43.0,74.0,58.0
 /zapas/2894061,0.0,1.0,San Jose Sharks,Arizona Coyotes,25.0,54.0,68.0,21.0,55.0,67.0
 /zapas/2894076,0.0,1.0,San Jose Sharks,Arizona Coyotes,23.0,52.0,70.0,21.0,56.0,69.0
-/zapas/2893370,0.0,1.0,San Jose Sharks,Vegas Golden Knights,21.0,52.0,73.0,41.0,73.0,42.0
-/zapas/2897002,1.0,1.0,San Jose Sharks,Winnipeg Jets,18.0,49.0,79.0,25.0,51.0,56.0
-/zapas/2897025,1.0,0.0,San Jose Sharks,Montreal Canadiens,18.0,50.0,80.0,18.0,40.0,68.0
+/zapas/2897002,1.0,1.0,San Jose Sharks,Winnipeg Jets,18.0,49.0,79.0,18.0,44.0,60.0
+/zapas/2897025,1.0,0.0,San Jose Sharks,Montreal Canadiens,18.0,50.0,80.0,29.0,46.0,49.0
 /zapas/2897038,1.0,0.0,San Jose Sharks,Ottawa Senators,21.0,54.0,75.0,36.0,60.0,51.0
-/zapas/2897046,1.0,0.0,San Jose Sharks,Toronto Maple Leafs,21.0,51.0,74.0,35.0,62.0,55.0
-/zapas/2897063,0.0,0.0,San Jose Sharks,Boston Bruins,24.0,54.0,73.0,41.0,69.0,40.0
-/zapas/2897075,0.0,0.0,San Jose Sharks,Nashville Predators,24.0,57.0,73.0,31.0,64.0,54.0
-/zapas/2897086,0.0,1.0,San Jose Sharks,Montreal Canadiens,24.0,57.0,72.0,18.0,44.0,70.0
-/zapas/2897100,1.0,1.0,San Jose Sharks,Winnipeg Jets,24.0,55.0,73.0,25.0,58.0,63.0
+/zapas/2897086,0.0,1.0,San Jose Sharks,Montreal Canadiens,24.0,57.0,72.0,21.0,42.0,58.0
+/zapas/2897100,1.0,1.0,San Jose Sharks,Winnipeg Jets,24.0,55.0,73.0,26.0,55.0,65.0
 /zapas/2897118,1.0,1.0,San Jose Sharks,Buffalo Sabres,26.0,55.0,69.0,25.0,56.0,64.0
-/zapas/2897129,0.0,1.0,San Jose Sharks,St. Louis Blues,28.0,58.0,69.0,44.0,74.0,49.0
 /zapas/2897144,0.0,1.0,San Jose Sharks,New Jersey Devils,28.0,59.0,69.0,27.0,53.0,65.0
-/zapas/2897165,1.0,0.0,San Jose Sharks,Calgary Flames,29.0,58.0,66.0,37.0,69.0,46.0
-/zapas/2897180,0.0,0.0,San Jose Sharks,Winnipeg Jets,29.0,56.0,63.0,29.0,60.0,54.0
-/zapas/2897194,0.0,0.0,San Jose Sharks,Colorado Avalanche,26.0,53.0,65.0,38.0,70.0,53.0
-/zapas/2897217,1.0,0.0,San Jose Sharks,Minnesota Wild,26.0,55.0,68.0,34.0,67.0,68.0
-/zapas/2897232,0.0,0.0,San Jose Sharks,St. Louis Blues,29.0,56.0,65.0,34.0,68.0,54.0
-/zapas/2897244,0.0,1.0,San Jose Sharks,Washington Capitals,28.0,53.0,64.0,40.0,64.0,45.0
-/zapas/2897262,1.0,1.0,San Jose Sharks,Carolina Hurricanes,25.0,50.0,66.0,45.0,64.0,45.0
+/zapas/2897180,0.0,0.0,San Jose Sharks,Winnipeg Jets,29.0,56.0,63.0,30.0,59.0,57.0
 /zapas/2897272,1.0,1.0,San Jose Sharks,Ottawa Senators,27.0,50.0,62.0,21.0,55.0,71.0
-/zapas/2897286,0.0,1.0,San Jose Sharks,Toronto Maple Leafs,29.0,52.0,60.0,37.0,55.0,46.0
 /zapas/2897308,1.0,0.0,San Jose Sharks,Chicago Blackhawks,29.0,53.0,58.0,20.0,45.0,65.0
 /zapas/2897325,1.0,0.0,San Jose Sharks,New Jersey Devils,29.0,51.0,55.0,28.0,59.0,62.0
-/zapas/2897340,1.0,0.0,San Jose Sharks,New York Islanders,29.0,51.0,57.0,21.0,40.0,58.0
-/zapas/2897347,0.0,0.0,San Jose Sharks,New York Rangers,28.0,51.0,57.0,43.0,63.0,50.0
+/zapas/2897340,1.0,0.0,San Jose Sharks,New York Islanders,29.0,51.0,57.0,19.0,35.0,63.0
 /zapas/2897363,0.0,0.0,San Jose Sharks,Columbus Blue Jackets,25.0,46.0,55.0,26.0,60.0,68.0
-/zapas/2897369,1.0,1.0,San Jose Sharks,Calgary Flames,25.0,47.0,57.0,38.0,65.0,39.0
-/zapas/2897384,0.0,1.0,San Jose Sharks,Minnesota Wild,28.0,51.0,57.0,39.0,79.0,56.0
-/zapas/2897401,1.0,1.0,San Jose Sharks,Dallas Stars,28.0,53.0,58.0,33.0,60.0,59.0
 /zapas/2897419,0.0,1.0,San Jose Sharks,Seattle Kraken,29.0,53.0,58.0,23.0,59.0,74.0
 /zapas/2897435,0.0,1.0,San Jose Sharks,Vancouver Canucks,26.0,49.0,58.0,26.0,51.0,61.0
 /zapas/2897519,1.0,1.0,San Jose Sharks,Arizona Coyotes,26.0,48.0,58.0,16.0,43.0,70.0
 /zapas/2897534,1.0,1.0,San Jose Sharks,Philadelphia Flyers,27.0,54.0,62.0,21.0,48.0,72.0
-/zapas/2897562,0.0,0.0,San Jose Sharks,Pittsburgh Penguins,26.0,53.0,63.0,39.0,58.0,44.0
 /zapas/2897574,0.0,0.0,San Jose Sharks,Detroit Red Wings,26.0,57.0,67.0,24.0,51.0,68.0
 /zapas/2897588,1.0,0.0,San Jose Sharks,Buffalo Sabres,26.0,57.0,67.0,15.0,50.0,78.0
 /zapas/2897607,1.0,0.0,San Jose Sharks,Philadelphia Flyers,26.0,56.0,68.0,17.0,50.0,81.0
 /zapas/2897620,1.0,1.0,San Jose Sharks,Detroit Red Wings,28.0,58.0,66.0,23.0,53.0,72.0
-/zapas/2897632,0.0,1.0,San Jose Sharks,New York Rangers,30.0,61.0,64.0,39.0,61.0,47.0
-/zapas/2897646,0.0,1.0,San Jose Sharks,Pittsburgh Penguins,28.0,59.0,66.0,45.0,69.0,45.0
-/zapas/2897664,1.0,1.0,San Jose Sharks,Los Angeles Kings,26.0,54.0,65.0,37.0,62.0,51.0
 /zapas/2897687,0.0,0.0,San Jose Sharks,Seattle Kraken,29.0,59.0,63.0,20.0,50.0,70.0
-/zapas/2897702,0.0,1.0,San Jose Sharks,Tampa Bay Lightning,26.0,59.0,66.0,40.0,71.0,60.0
-/zapas/2897736,1.0,0.0,San Jose Sharks,Washington Capitals,23.0,55.0,71.0,27.0,57.0,61.0
-/zapas/2897760,0.0,0.0,San Jose Sharks,Florida Panthers,24.0,57.0,71.0,39.0,86.0,59.0
-/zapas/2897771,0.0,0.0,San Jose Sharks,Carolina Hurricanes,25.0,61.0,75.0,43.0,78.0,50.0
-/zapas/2897782,0.0,0.0,San Jose Sharks,Tampa Bay Lightning,25.0,58.0,71.0,39.0,70.0,61.0
-/zapas/2897491,0.0,1.0,San Jose Sharks,Edmonton Oilers,23.0,55.0,71.0,25.0,57.0,70.0
 /zapas/2897476,0.0,1.0,San Jose Sharks,Vancouver Canucks,23.0,53.0,69.0,33.0,54.0,50.0
 /zapas/2898136,0.0,1.0,San Jose Sharks,Vegas Golden Knights,21.0,55.0,73.0,28.0,58.0,58.0
 /zapas/2897506,0.0,0.0,San Jose Sharks,Anaheim Ducks,21.0,55.0,74.0,23.0,53.0,69.0
 /zapas/2897797,1.0,1.0,San Jose Sharks,New York Islanders,22.0,56.0,73.0,32.0,59.0,51.0
-/zapas/2897812,0.0,1.0,San Jose Sharks,Boston Bruins,22.0,52.0,69.0,35.0,56.0,60.0
 /zapas/2897821,1.0,1.0,San Jose Sharks,Seattle Kraken,20.0,50.0,70.0,17.0,44.0,67.0
 /zapas/2897832,0.0,0.0,San Jose Sharks,Vegas Golden Knights,23.0,48.0,63.0,26.0,52.0,55.0
-/zapas/2897861,0.0,1.0,San Jose Sharks,Nashville Predators,23.0,47.0,60.0,27.0,62.0,64.0
 /zapas/2897872,0.0,0.0,San Jose Sharks,Anaheim Ducks,20.0,44.0,66.0,24.0,57.0,74.0
-/zapas/2897896,1.0,0.0,San Jose Sharks,Los Angeles Kings,19.0,43.0,67.0,35.0,63.0,65.0
-/zapas/2897913,1.0,1.0,San Jose Sharks,Los Angeles Kings,19.0,44.0,68.0,36.0,64.0,63.0
-/zapas/2897936,0.0,1.0,San Jose Sharks,Florida Panthers,22.0,49.0,65.0,40.0,86.0,57.0
-/zapas/2897951,0.0,0.0,San Jose Sharks,Los Angeles Kings,22.0,50.0,66.0,35.0,59.0,61.0
-/zapas/2897959,0.0,1.0,San Jose Sharks,Colorado Avalanche,19.0,44.0,67.0,41.0,65.0,49.0
 /zapas/2897976,1.0,1.0,San Jose Sharks,Arizona Coyotes,19.0,45.0,69.0,28.0,68.0,62.0
-/zapas/2897986,1.0,0.0,San Jose Sharks,Calgary Flames,22.0,48.0,64.0,46.0,79.0,45.0
-/zapas/2898002,0.0,0.0,San Jose Sharks,Edmonton Oilers,22.0,48.0,66.0,37.0,74.0,58.0
 /zapas/2898017,1.0,1.0,San Jose Sharks,Anaheim Ducks,21.0,46.0,66.0,16.0,50.0,80.0
 /zapas/2898050,0.0,0.0,San Jose Sharks,Arizona Coyotes,24.0,49.0,65.0,27.0,68.0,66.0
-/zapas/2898056,0.0,0.0,San Jose Sharks,Colorado Avalanche,23.0,49.0,67.0,40.0,64.0,50.0
-/zapas/2898071,0.0,1.0,San Jose Sharks,Dallas Stars,23.0,51.0,68.0,34.0,58.0,55.0
-/zapas/2898094,0.0,1.0,San Jose Sharks,Edmonton Oilers,22.0,51.0,68.0,35.0,81.0,64.0
-/zapas/2898111,0.0,1.0,San Jose Sharks,Calgary Flames,23.0,51.0,66.0,38.0,75.0,54.0
 /zapas/2898123,0.0,0.0,San Jose Sharks,Vancouver Canucks,22.0,50.0,66.0,34.0,68.0,56.0
-/zapas/2898166,0.0,0.0,San Jose Sharks,Nashville Predators,20.0,48.0,67.0,34.0,75.0,62.0
 /zapas/2898148,0.0,0.0,San Jose Sharks,Chicago Blackhawks,21.0,47.0,65.0,16.0,60.0,79.0
-/zapas/2898184,0.0,0.0,San Jose Sharks,Dallas Stars,19.0,48.0,69.0,32.0,58.0,63.0
-/zapas/2898193,0.0,0.0,San Jose Sharks,Minnesota Wild,19.0,48.0,68.0,41.0,73.0,54.0
 /zapas/2898202,1.0,1.0,San Jose Sharks,Columbus Blue Jackets,20.0,52.0,65.0,22.0,59.0,77.0
-/zapas/2898215,0.0,1.0,San Jose Sharks,St. Louis Blues,22.0,53.0,64.0,41.0,89.0,65.0
 /zapas/2898231,1.0,1.0,San Jose Sharks,Chicago Blackhawks,20.0,50.0,64.0,15.0,57.0,79.0
 /zapas/2898241,1.0,0.0,San Jose Sharks,Vegas Golden Knights,20.0,49.0,65.0,28.0,65.0,63.0
 /zapas/2898254,0.0,1.0,San Jose Sharks,Anaheim Ducks,21.0,52.0,66.0,14.0,49.0,74.0
-/zapas/2898272,0.0,0.0,San Jose Sharks,Edmonton Oilers,21.0,54.0,68.0,41.0,82.0,54.0
 /zapas/2898281,0.0,0.0,San Jose Sharks,Seattle Kraken,22.0,55.0,68.0,25.0,55.0,64.0

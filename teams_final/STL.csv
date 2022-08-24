@@ -1,353 +1,71 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
 /zapas/2526371,1.0,1.0,St. Louis Blues,Edmonton Oilers,40.0,65.0,51.0,20.0,50.0,64.0
-/zapas/2526398,0.0,1.0,St. Louis Blues,Nashville Predators,40.0,69.0,52.0,38.0,65.0,58.0
-/zapas/2526409,1.0,1.0,St. Louis Blues,Minnesota Wild,38.0,66.0,52.0,34.0,61.0,52.0
-/zapas/2526433,0.0,1.0,St. Louis Blues,Anaheim Ducks,38.0,69.0,54.0,25.0,55.0,62.0
-/zapas/2526447,0.0,1.0,St. Louis Blues,Los Angeles Kings,38.0,69.0,52.0,28.0,57.0,49.0
-/zapas/2526451,0.0,0.0,St. Louis Blues,Minnesota Wild,38.0,69.0,54.0,33.0,58.0,56.0
 /zapas/2526472,1.0,0.0,St. Louis Blues,Montreal Canadiens,36.0,65.0,54.0,36.0,65.0,53.0
 /zapas/2526489,1.0,1.0,St. Louis Blues,Dallas Stars,36.0,65.0,54.0,31.0,63.0,60.0
 /zapas/2526498,1.0,0.0,St. Louis Blues,Detroit Red Wings,38.0,66.0,51.0,24.0,53.0,66.0
 /zapas/2526511,1.0,1.0,St. Louis Blues,Buffalo Sabres,38.0,67.0,50.0,18.0,37.0,63.0
-/zapas/2526525,0.0,1.0,St. Louis Blues,Tampa Bay Lightning,37.0,68.0,51.0,40.0,74.0,50.0
-/zapas/2526537,0.0,1.0,St. Louis Blues,Anaheim Ducks,34.0,64.0,53.0,26.0,48.0,58.0
-/zapas/2526552,1.0,1.0,St. Louis Blues,Winnipeg Jets,31.0,61.0,54.0,35.0,70.0,58.0
-/zapas/2526561,0.0,0.0,St. Louis Blues,Winnipeg Jets,34.0,63.0,52.0,34.0,66.0,55.0
 /zapas/2526582,0.0,0.0,St. Louis Blues,Calgary Flames,31.0,57.0,52.0,28.0,62.0,64.0
 /zapas/2526590,0.0,0.0,St. Louis Blues,Edmonton Oilers,28.0,55.0,53.0,29.0,69.0,66.0
 /zapas/2526610,1.0,0.0,St. Louis Blues,Vancouver Canucks,26.0,54.0,54.0,23.0,54.0,77.0
-/zapas/2526618,0.0,1.0,St. Louis Blues,Nashville Predators,29.0,55.0,50.0,39.0,76.0,57.0
 /zapas/2526637,0.0,0.0,St. Louis Blues,Dallas Stars,29.0,52.0,45.0,31.0,61.0,58.0
 /zapas/2526644,1.0,1.0,St. Louis Blues,Carolina Hurricanes,26.0,50.0,48.0,32.0,54.0,61.0
-/zapas/2526661,1.0,1.0,St. Louis Blues,New Jersey Devils,27.0,49.0,47.0,33.0,60.0,58.0
-/zapas/2526676,1.0,1.0,St. Louis Blues,Vegas Golden Knights,26.0,44.0,46.0,44.0,71.0,50.0
-/zapas/2526687,0.0,0.0,St. Louis Blues,Philadelphia Flyers,29.0,46.0,45.0,30.0,57.0,62.0
-/zapas/2526700,0.0,0.0,St. Louis Blues,Washington Capitals,26.0,43.0,48.0,40.0,67.0,51.0
 /zapas/2526711,0.0,1.0,St. Louis Blues,Florida Panthers,27.0,44.0,49.0,30.0,50.0,60.0
-/zapas/2526743,1.0,0.0,St. Louis Blues,Toronto Maple Leafs,27.0,47.0,52.0,29.0,58.0,54.0
 /zapas/2526754,1.0,0.0,St. Louis Blues,Ottawa Senators,28.0,48.0,51.0,23.0,50.0,75.0
 /zapas/2526771,0.0,1.0,St. Louis Blues,Arizona Coyotes,28.0,48.0,49.0,15.0,43.0,68.0
 /zapas/2526790,1.0,1.0,St. Louis Blues,Ottawa Senators,25.0,47.0,54.0,20.0,48.0,74.0
-/zapas/2526807,1.0,1.0,St. Louis Blues,Colorado Avalanche,25.0,44.0,53.0,44.0,73.0,45.0
 /zapas/2526821,1.0,1.0,St. Louis Blues,Montreal Canadiens,26.0,44.0,52.0,22.0,48.0,66.0
-/zapas/2526830,0.0,0.0,St. Louis Blues,Boston Bruins,29.0,47.0,50.0,44.0,76.0,42.0
 /zapas/2526850,1.0,0.0,St. Louis Blues,Buffalo Sabres,29.0,47.0,50.0,19.0,50.0,66.0
-/zapas/2526873,0.0,1.0,St. Louis Blues,Minnesota Wild,29.0,46.0,50.0,34.0,60.0,59.0
-/zapas/2526885,1.0,1.0,St. Louis Blues,Colorado Avalanche,29.0,48.0,52.0,41.0,66.0,43.0
-/zapas/2526894,1.0,0.0,St. Louis Blues,Winnipeg Jets,32.0,53.0,51.0,41.0,64.0,49.0
-/zapas/2526906,0.0,1.0,St. Louis Blues,Pittsburgh Penguins,35.0,56.0,50.0,35.0,68.0,56.0
-/zapas/2526925,0.0,0.0,St. Louis Blues,Nashville Predators,32.0,54.0,53.0,38.0,56.0,45.0
 /zapas/2526947,0.0,0.0,St. Louis Blues,Dallas Stars,33.0,56.0,55.0,38.0,65.0,45.0
-/zapas/2526977,0.0,1.0,St. Louis Blues,San Jose Sharks,33.0,55.0,53.0,32.0,66.0,59.0
-/zapas/2526997,0.0,1.0,St. Louis Blues,Winnipeg Jets,30.0,54.0,54.0,36.0,65.0,51.0
-/zapas/2527013,0.0,0.0,St. Louis Blues,Nashville Predators,28.0,51.0,56.0,41.0,67.0,45.0
-/zapas/2527027,0.0,0.0,St. Louis Blues,Minnesota Wild,25.0,49.0,59.0,41.0,65.0,51.0
 /zapas/2527034,1.0,1.0,St. Louis Blues,Detroit Red Wings,25.0,49.0,61.0,27.0,52.0,52.0
 /zapas/2527055,0.0,0.0,St. Louis Blues,Dallas Stars,27.0,48.0,58.0,36.0,57.0,47.0
-/zapas/2527097,0.0,0.0,St. Louis Blues,San Jose Sharks,28.0,46.0,54.0,29.0,62.0,62.0
-/zapas/2527107,1.0,0.0,St. Louis Blues,Los Angeles Kings,26.0,44.0,55.0,34.0,60.0,52.0
-/zapas/2527122,1.0,0.0,St. Louis Blues,Anaheim Ducks,26.0,47.0,56.0,33.0,56.0,51.0
-/zapas/2527142,0.0,1.0,St. Louis Blues,Colorado Avalanche,29.0,49.0,53.0,32.0,60.0,60.0
 /zapas/2527159,1.0,1.0,St. Louis Blues,New York Rangers,26.0,47.0,57.0,21.0,52.0,72.0
 /zapas/2527167,1.0,0.0,St. Louis Blues,Chicago Blackhawks,25.0,48.0,59.0,16.0,51.0,73.0
-/zapas/2527188,1.0,1.0,St. Louis Blues,Boston Bruins,24.0,50.0,62.0,36.0,72.0,61.0
 /zapas/2527202,1.0,1.0,St. Louis Blues,Vancouver Canucks,26.0,51.0,60.0,17.0,52.0,66.0
-/zapas/2527214,1.0,0.0,St. Louis Blues,Columbus Blue Jackets,26.0,54.0,61.0,41.0,67.0,51.0
-/zapas/2527234,1.0,1.0,St. Louis Blues,San Jose Sharks,29.0,54.0,56.0,40.0,71.0,50.0
-/zapas/2527259,0.0,0.0,St. Louis Blues,Vegas Golden Knights,28.0,51.0,57.0,32.0,60.0,53.0
 /zapas/2527269,0.0,0.0,St. Louis Blues,Arizona Coyotes,26.0,49.0,59.0,33.0,53.0,51.0
-/zapas/2527280,0.0,1.0,St. Louis Blues,Washington Capitals,26.0,48.0,61.0,37.0,62.0,54.0
 /zapas/2527293,0.0,1.0,St. Louis Blues,Chicago Blackhawks,25.0,47.0,61.0,21.0,54.0,75.0
 /zapas/2527309,1.0,0.0,St. Louis Blues,Chicago Blackhawks,25.0,49.0,63.0,24.0,57.0,75.0
-/zapas/2527321,0.0,0.0,St. Louis Blues,Colorado Avalanche,28.0,51.0,61.0,33.0,65.0,50.0
-/zapas/2647209,0.0,1.0,St. Louis Blues,Winnipeg Jets,28.0,53.0,62.0,41.0,69.0,54.0
-/zapas/2647222,0.0,1.0,St. Louis Blues,Chicago Blackhawks,28.0,54.0,63.0,21.0,55.0,80.0
-/zapas/2647252,1.0,1.0,St. Louis Blues,Calgary Flames,29.0,55.0,60.0,22.0,46.0,65.0
-/zapas/2647266,0.0,0.0,St. Louis Blues,Chicago Blackhawks,29.0,58.0,62.0,22.0,59.0,79.0
-/zapas/2647270,0.0,1.0,St. Louis Blues,Anaheim Ducks,29.0,59.0,63.0,37.0,59.0,45.0
-/zapas/2647284,0.0,0.0,St. Louis Blues,Montreal Canadiens,29.0,61.0,64.0,23.0,56.0,66.0
-/zapas/2647304,1.0,0.0,St. Louis Blues,Toronto Maple Leafs,26.0,56.0,65.0,40.0,76.0,56.0
-/zapas/2647318,0.0,0.0,St. Louis Blues,Winnipeg Jets,26.0,56.0,64.0,44.0,71.0,53.0
-/zapas/2647335,0.0,1.0,St. Louis Blues,Columbus Blue Jackets,27.0,59.0,65.0,35.0,73.0,65.0
-/zapas/2647353,1.0,1.0,St. Louis Blues,Chicago Blackhawks,25.0,59.0,69.0,28.0,62.0,72.0
-/zapas/2647384,1.0,1.0,St. Louis Blues,Vegas Golden Knights,26.0,61.0,68.0,25.0,50.0,60.0
-/zapas/2647399,0.0,1.0,St. Louis Blues,Minnesota Wild,27.0,64.0,70.0,33.0,57.0,56.0
-/zapas/2647419,1.0,1.0,St. Louis Blues,Carolina Hurricanes,24.0,61.0,74.0,23.0,55.0,57.0
-/zapas/2647437,1.0,1.0,St. Louis Blues,San Jose Sharks,24.0,63.0,74.0,27.0,64.0,65.0
-/zapas/2647451,0.0,1.0,St. Louis Blues,Minnesota Wild,25.0,64.0,72.0,37.0,65.0,53.0
-/zapas/2647471,0.0,0.0,St. Louis Blues,Chicago Blackhawks,24.0,63.0,71.0,19.0,53.0,75.0
-/zapas/2647488,1.0,0.0,St. Louis Blues,Vegas Golden Knights,24.0,63.0,66.0,23.0,50.0,61.0
-/zapas/2647500,0.0,0.0,St. Louis Blues,San Jose Sharks,27.0,65.0,63.0,30.0,64.0,64.0
-/zapas/2647511,0.0,1.0,St. Louis Blues,Los Angeles Kings,27.0,62.0,63.0,18.0,41.0,65.0
-/zapas/2647524,0.0,0.0,St. Louis Blues,Nashville Predators,24.0,58.0,64.0,41.0,67.0,47.0
-/zapas/2647542,1.0,1.0,St. Louis Blues,Nashville Predators,24.0,57.0,63.0,41.0,67.0,45.0
-/zapas/2647546,0.0,1.0,St. Louis Blues,Winnipeg Jets,27.0,62.0,60.0,34.0,61.0,57.0
-/zapas/2647575,0.0,0.0,St. Louis Blues,Detroit Red Wings,26.0,62.0,63.0,25.0,59.0,65.0
-/zapas/2647591,1.0,0.0,St. Louis Blues,Colorado Avalanche,23.0,60.0,64.0,38.0,76.0,58.0
-/zapas/2647602,0.0,0.0,St. Louis Blues,Arizona Coyotes,24.0,60.0,62.0,31.0,57.0,56.0
-/zapas/2647624,0.0,1.0,St. Louis Blues,Edmonton Oilers,24.0,59.0,65.0,28.0,53.0,58.0
-/zapas/2647639,1.0,0.0,St. Louis Blues,Winnipeg Jets,25.0,59.0,65.0,37.0,75.0,61.0
-/zapas/2647652,0.0,1.0,St. Louis Blues,Vancouver Canucks,25.0,56.0,64.0,20.0,58.0,73.0
-/zapas/2647668,1.0,1.0,St. Louis Blues,Florida Panthers,24.0,53.0,65.0,28.0,67.0,69.0
-/zapas/2647690,1.0,1.0,St. Louis Blues,Colorado Avalanche,27.0,53.0,61.0,32.0,73.0,70.0
-/zapas/2647705,0.0,1.0,St. Louis Blues,Calgary Flames,26.0,50.0,61.0,42.0,74.0,49.0
-/zapas/2647722,1.0,0.0,St. Louis Blues,Edmonton Oilers,23.0,47.0,65.0,29.0,56.0,60.0
-/zapas/2647737,0.0,0.0,St. Louis Blues,Vancouver Canucks,26.0,50.0,61.0,21.0,55.0,65.0
-/zapas/2647748,1.0,0.0,St. Louis Blues,Calgary Flames,23.0,47.0,65.0,40.0,72.0,47.0
-/zapas/2647770,1.0,1.0,St. Louis Blues,Buffalo Sabres,23.0,46.0,66.0,33.0,58.0,53.0
-/zapas/2647790,0.0,1.0,St. Louis Blues,Pittsburgh Penguins,26.0,48.0,64.0,37.0,68.0,57.0
-/zapas/2647802,0.0,1.0,St. Louis Blues,New York Rangers,26.0,49.0,69.0,28.0,59.0,68.0
-/zapas/2647825,1.0,1.0,St. Louis Blues,Washington Capitals,23.0,46.0,70.0,44.0,78.0,51.0
-/zapas/2647840,0.0,1.0,St. Louis Blues,New York Islanders,26.0,51.0,68.0,35.0,54.0,49.0
-/zapas/2647851,1.0,0.0,St. Louis Blues,Philadelphia Flyers,26.0,54.0,70.0,21.0,51.0,72.0
-/zapas/2647862,0.0,1.0,St. Louis Blues,Dallas Stars,29.0,56.0,66.0,29.0,50.0,53.0
-/zapas/2647875,1.0,1.0,St. Louis Blues,Montreal Canadiens,26.0,51.0,67.0,34.0,58.0,54.0
-/zapas/2647893,1.0,0.0,St. Louis Blues,Dallas Stars,29.0,51.0,60.0,31.0,52.0,52.0
-/zapas/2647907,1.0,0.0,St. Louis Blues,Washington Capitals,32.0,51.0,57.0,39.0,70.0,54.0
-/zapas/2647909,0.0,0.0,St. Louis Blues,New York Islanders,33.0,52.0,56.0,38.0,61.0,47.0
-/zapas/2647924,0.0,0.0,St. Louis Blues,Boston Bruins,34.0,52.0,52.0,35.0,65.0,54.0
-/zapas/2647940,1.0,1.0,St. Louis Blues,Ottawa Senators,33.0,52.0,54.0,20.0,52.0,67.0
-/zapas/2647955,0.0,0.0,St. Louis Blues,Los Angeles Kings,33.0,54.0,56.0,27.0,48.0,57.0
-/zapas/2647967,1.0,0.0,St. Louis Blues,Anaheim Ducks,33.0,56.0,54.0,20.0,45.0,63.0
-/zapas/2647995,1.0,0.0,St. Louis Blues,Columbus Blue Jackets,33.0,57.0,52.0,33.0,59.0,53.0
-/zapas/2648009,1.0,0.0,St. Louis Blues,Florida Panthers,34.0,57.0,51.0,30.0,59.0,65.0
-/zapas/2648029,1.0,0.0,St. Louis Blues,Tampa Bay Lightning,37.0,58.0,46.0,40.0,73.0,57.0
-/zapas/2648041,1.0,1.0,St. Louis Blues,Nashville Predators,36.0,55.0,45.0,33.0,65.0,53.0
-/zapas/2648050,1.0,0.0,St. Louis Blues,Nashville Predators,39.0,57.0,42.0,33.0,65.0,51.0
-/zapas/2648067,1.0,1.0,St. Louis Blues,New Jersey Devils,38.0,59.0,45.0,26.0,57.0,61.0
-/zapas/2648082,1.0,0.0,St. Louis Blues,Arizona Coyotes,38.0,63.0,47.0,28.0,57.0,62.0
-/zapas/2648092,1.0,0.0,St. Louis Blues,Colorado Avalanche,41.0,66.0,41.0,17.0,57.0,74.0
-/zapas/2648103,1.0,0.0,St. Louis Blues,Minnesota Wild,44.0,68.0,39.0,29.0,54.0,64.0
-/zapas/2648119,1.0,1.0,St. Louis Blues,Toronto Maple Leafs,44.0,67.0,37.0,30.0,62.0,59.0
-/zapas/2648135,0.0,0.0,St. Louis Blues,Dallas Stars,46.0,67.0,35.0,28.0,42.0,51.0
-/zapas/2648145,1.0,1.0,St. Louis Blues,Boston Bruins,43.0,66.0,40.0,39.0,64.0,48.0
-/zapas/2648157,0.0,0.0,St. Louis Blues,Minnesota Wild,45.0,67.0,38.0,26.0,52.0,65.0
-/zapas/2648173,1.0,1.0,St. Louis Blues,Nashville Predators,43.0,64.0,39.0,30.0,57.0,59.0
-/zapas/2648193,0.0,0.0,St. Louis Blues,Carolina Hurricanes,43.0,63.0,38.0,42.0,74.0,47.0
-/zapas/2648205,0.0,1.0,St. Louis Blues,Dallas Stars,40.0,61.0,42.0,27.0,43.0,52.0
-/zapas/2648229,1.0,0.0,St. Louis Blues,Anaheim Ducks,39.0,61.0,44.0,21.0,34.0,61.0
-/zapas/2648240,1.0,0.0,St. Louis Blues,Los Angeles Kings,42.0,64.0,43.0,21.0,54.0,74.0
-/zapas/2648247,0.0,0.0,St. Louis Blues,San Jose Sharks,42.0,65.0,41.0,37.0,76.0,67.0
-/zapas/2648274,0.0,1.0,St. Louis Blues,Arizona Coyotes,43.0,64.0,40.0,31.0,53.0,55.0
-/zapas/2648284,0.0,0.0,St. Louis Blues,Ottawa Senators,40.0,60.0,42.0,12.0,49.0,74.0
-/zapas/2648297,1.0,0.0,St. Louis Blues,Pittsburgh Penguins,37.0,56.0,42.0,35.0,66.0,56.0
-/zapas/2648310,0.0,0.0,St. Louis Blues,Buffalo Sabres,37.0,58.0,41.0,16.0,48.0,74.0
-/zapas/2648325,1.0,1.0,St. Louis Blues,Edmonton Oilers,36.0,60.0,45.0,26.0,53.0,65.0
-/zapas/2648338,1.0,1.0,St. Louis Blues,Detroit Red Wings,36.0,64.0,45.0,17.0,48.0,75.0
-/zapas/2648357,1.0,1.0,St. Louis Blues,Tampa Bay Lightning,37.0,64.0,43.0,50.0,86.0,44.0
-/zapas/2648371,1.0,1.0,St. Louis Blues,Vegas Golden Knights,37.0,60.0,43.0,37.0,71.0,56.0
-/zapas/2648395,0.0,0.0,St. Louis Blues,New York Rangers,37.0,59.0,44.0,19.0,52.0,70.0
-/zapas/2648406,1.0,0.0,St. Louis Blues,New Jersey Devils,34.0,58.0,48.0,20.0,42.0,61.0
-/zapas/2648423,1.0,1.0,St. Louis Blues,Colorado Avalanche,33.0,57.0,50.0,38.0,61.0,42.0
-/zapas/2648438,0.0,0.0,St. Louis Blues,Chicago Blackhawks,33.0,57.0,50.0,30.0,66.0,67.0
-/zapas/2648446,1.0,1.0,St. Louis Blues,Philadelphia Flyers,34.0,58.0,49.0,25.0,60.0,69.0
-/zapas/2648456,1.0,1.0,St. Louis Blues,Vancouver Canucks,35.0,63.0,51.0,24.0,51.0,60.0
-/zapas/2806378,0.0,1.0,St. Louis Blues,Washington Capitals,36.0,65.0,51.0,41.0,71.0,51.0
-/zapas/2806400,1.0,1.0,St. Louis Blues,Dallas Stars,34.0,65.0,54.0,36.0,53.0,38.0
-/zapas/2806410,1.0,0.0,St. Louis Blues,Toronto Maple Leafs,37.0,66.0,51.0,29.0,67.0,75.0
-/zapas/2806427,1.0,0.0,St. Louis Blues,Ottawa Senators,40.0,68.0,49.0,21.0,55.0,72.0
-/zapas/2806442,0.0,0.0,St. Louis Blues,Montreal Canadiens,40.0,69.0,49.0,31.0,63.0,61.0
-/zapas/2806457,0.0,0.0,St. Louis Blues,New York Islanders,37.0,68.0,56.0,30.0,44.0,48.0
-/zapas/2806477,0.0,1.0,St. Louis Blues,Vancouver Canucks,37.0,68.0,56.0,27.0,60.0,57.0
-/zapas/2806490,0.0,1.0,St. Louis Blues,Montreal Canadiens,38.0,70.0,57.0,34.0,68.0,53.0
-/zapas/2806507,1.0,1.0,St. Louis Blues,Colorado Avalanche,38.0,72.0,60.0,44.0,72.0,49.0
-/zapas/2806525,1.0,1.0,St. Louis Blues,Los Angeles Kings,38.0,70.0,60.0,28.0,61.0,70.0
-/zapas/2806538,0.0,0.0,St. Louis Blues,Boston Bruins,40.0,72.0,58.0,40.0,71.0,51.0
-/zapas/2806547,1.0,0.0,St. Louis Blues,Detroit Red Wings,37.0,65.0,59.0,25.0,52.0,68.0
-/zapas/2806566,1.0,1.0,St. Louis Blues,Minnesota Wild,36.0,65.0,61.0,21.0,40.0,63.0
-/zapas/2806576,1.0,1.0,St. Louis Blues,Columbus Blue Jackets,36.0,63.0,59.0,34.0,66.0,57.0
-/zapas/2806589,1.0,0.0,St. Louis Blues,Minnesota Wild,35.0,64.0,61.0,18.0,39.0,64.0
-/zapas/2806608,1.0,0.0,St. Louis Blues,Vancouver Canucks,37.0,66.0,60.0,35.0,71.0,51.0
-/zapas/2806612,1.0,0.0,St. Louis Blues,Edmonton Oilers,37.0,65.0,59.0,32.0,54.0,54.0
-/zapas/2806637,1.0,0.0,St. Louis Blues,Calgary Flames,38.0,67.0,59.0,28.0,58.0,58.0
-/zapas/2806651,0.0,1.0,St. Louis Blues,Arizona Coyotes,39.0,67.0,57.0,31.0,59.0,49.0
-/zapas/2806673,0.0,0.0,St. Louis Blues,Columbus Blue Jackets,37.0,62.0,57.0,24.0,51.0,65.0
-/zapas/2806685,0.0,1.0,St. Louis Blues,Anaheim Ducks,36.0,61.0,58.0,28.0,53.0,58.0
-/zapas/2806700,1.0,1.0,St. Louis Blues,Tampa Bay Lightning,35.0,60.0,59.0,33.0,75.0,67.0
-/zapas/2806714,1.0,1.0,St. Louis Blues,Calgary Flames,35.0,60.0,58.0,23.0,50.0,62.0
-/zapas/2806734,0.0,1.0,St. Louis Blues,Nashville Predators,35.0,62.0,56.0,26.0,69.0,72.0
-/zapas/2806746,0.0,0.0,St. Louis Blues,Nashville Predators,32.0,58.0,56.0,29.0,70.0,69.0
-/zapas/2806756,1.0,0.0,St. Louis Blues,Tampa Bay Lightning,33.0,57.0,52.0,33.0,75.0,66.0
-/zapas/2806778,1.0,0.0,St. Louis Blues,Dallas Stars,35.0,59.0,52.0,41.0,59.0,43.0
-/zapas/2806788,1.0,1.0,St. Louis Blues,Pittsburgh Penguins,37.0,59.0,49.0,30.0,66.0,57.0
-/zapas/2806798,1.0,0.0,St. Louis Blues,Chicago Blackhawks,40.0,62.0,46.0,27.0,56.0,61.0
-/zapas/2806811,0.0,0.0,St. Louis Blues,Pittsburgh Penguins,40.0,63.0,45.0,28.0,65.0,60.0
-/zapas/2806830,0.0,1.0,St. Louis Blues,Toronto Maple Leafs,37.0,58.0,46.0,23.0,57.0,66.0
-/zapas/2806848,0.0,0.0,St. Louis Blues,Buffalo Sabres,37.0,60.0,48.0,22.0,56.0,65.0
-/zapas/2806868,1.0,1.0,St. Louis Blues,Vegas Golden Knights,35.0,57.0,49.0,27.0,56.0,58.0
-/zapas/2806889,1.0,1.0,St. Louis Blues,Chicago Blackhawks,35.0,59.0,50.0,27.0,58.0,65.0
-/zapas/2806898,1.0,1.0,St. Louis Blues,Colorado Avalanche,36.0,59.0,50.0,39.0,70.0,52.0
-/zapas/2806913,1.0,1.0,St. Louis Blues,Edmonton Oilers,37.0,60.0,49.0,28.0,62.0,69.0
-/zapas/2806940,1.0,0.0,St. Louis Blues,San Jose Sharks,38.0,60.0,49.0,29.0,58.0,67.0
-/zapas/2806957,1.0,0.0,St. Louis Blues,Los Angeles Kings,38.0,60.0,49.0,28.0,52.0,53.0
-/zapas/2806964,1.0,0.0,St. Louis Blues,Winnipeg Jets,39.0,61.0,48.0,36.0,65.0,55.0
-/zapas/2806978,1.0,1.0,St. Louis Blues,Winnipeg Jets,40.0,64.0,49.0,35.0,66.0,58.0
-/zapas/2807001,0.0,0.0,St. Louis Blues,Arizona Coyotes,42.0,66.0,47.0,27.0,54.0,58.0
-/zapas/2807010,0.0,0.0,St. Louis Blues,Colorado Avalanche,42.0,66.0,46.0,35.0,71.0,60.0
-/zapas/2807020,0.0,0.0,St. Louis Blues,Vegas Golden Knights,39.0,66.0,52.0,35.0,66.0,60.0
-/zapas/2807046,1.0,1.0,St. Louis Blues,San Jose Sharks,37.0,65.0,57.0,22.0,50.0,68.0
-/zapas/2807059,1.0,1.0,St. Louis Blues,Buffalo Sabres,40.0,66.0,55.0,26.0,60.0,67.0
-/zapas/2807074,1.0,1.0,St. Louis Blues,New York Rangers,42.0,69.0,53.0,28.0,67.0,64.0
-/zapas/2807089,1.0,1.0,St. Louis Blues,Anaheim Ducks,42.0,70.0,52.0,16.0,47.0,68.0
-/zapas/2807102,0.0,1.0,St. Louis Blues,Philadelphia Flyers,42.0,71.0,52.0,27.0,65.0,67.0
-/zapas/2807120,0.0,0.0,St. Louis Blues,Colorado Avalanche,40.0,69.0,54.0,31.0,68.0,61.0
-/zapas/2807148,0.0,0.0,St. Louis Blues,Vancouver Canucks,37.0,68.0,59.0,36.0,65.0,63.0
-/zapas/2807151,1.0,0.0,St. Louis Blues,Calgary Flames,37.0,69.0,59.0,34.0,58.0,58.0
-/zapas/2807166,0.0,0.0,St. Louis Blues,Edmonton Oilers,39.0,72.0,58.0,30.0,65.0,68.0
-/zapas/2807171,0.0,0.0,St. Louis Blues,Winnipeg Jets,39.0,72.0,57.0,19.0,59.0,74.0
-/zapas/2807196,1.0,1.0,St. Louis Blues,Carolina Hurricanes,36.0,70.0,60.0,31.0,63.0,53.0
-/zapas/2807210,0.0,1.0,St. Louis Blues,Winnipeg Jets,36.0,72.0,60.0,20.0,55.0,69.0
-/zapas/2807228,0.0,1.0,St. Louis Blues,Dallas Stars,33.0,69.0,62.0,29.0,54.0,59.0
-/zapas/2807265,0.0,0.0,St. Louis Blues,Vegas Golden Knights,31.0,69.0,64.0,28.0,66.0,68.0
-/zapas/2807272,0.0,1.0,St. Louis Blues,Nashville Predators,29.0,69.0,68.0,26.0,57.0,67.0
-/zapas/2807286,0.0,0.0,St. Louis Blues,Nashville Predators,26.0,68.0,71.0,29.0,59.0,65.0
-/zapas/2807300,1.0,1.0,St. Louis Blues,New Jersey Devils,24.0,64.0,69.0,28.0,63.0,68.0
-/zapas/2807314,1.0,1.0,St. Louis Blues,Arizona Coyotes,24.0,63.0,68.0,25.0,52.0,60.0
-/zapas/2807320,1.0,0.0,St. Louis Blues,Dallas Stars,27.0,63.0,65.0,36.0,57.0,52.0
-/zapas/2807340,1.0,0.0,St. Louis Blues,Minnesota Wild,30.0,65.0,59.0,29.0,60.0,60.0
-/zapas/2807352,1.0,1.0,St. Louis Blues,Chicago Blackhawks,32.0,65.0,55.0,26.0,59.0,58.0
-/zapas/2807366,1.0,1.0,St. Louis Blues,New York Islanders,32.0,68.0,58.0,27.0,59.0,60.0
-/zapas/2807383,1.0,1.0,St. Louis Blues,Dallas Stars,31.0,66.0,59.0,30.0,54.0,59.0
-/zapas/2807397,1.0,0.0,St. Louis Blues,New York Rangers,30.0,65.0,60.0,37.0,65.0,52.0
-/zapas/2807419,0.0,0.0,St. Louis Blues,New Jersey Devils,30.0,64.0,60.0,30.0,53.0,56.0
-/zapas/2807438,1.0,0.0,St. Louis Blues,Chicago Blackhawks,29.0,63.0,60.0,26.0,65.0,61.0
-/zapas/2807451,0.0,1.0,St. Louis Blues,Florida Panthers,32.0,62.0,55.0,24.0,50.0,67.0
-/zapas/2807252,1.0,0.0,St. Louis Blues,Anaheim Ducks,32.0,62.0,54.0,28.0,57.0,66.0
-/zapas/2893210,1.0,0.0,St. Louis Blues,Colorado Avalanche,33.0,61.0,52.0,42.0,55.0,42.0
-/zapas/2893225,0.0,0.0,St. Louis Blues,Colorado Avalanche,36.0,63.0,49.0,39.0,50.0,45.0
-/zapas/2893244,1.0,1.0,St. Louis Blues,San Jose Sharks,36.0,61.0,52.0,23.0,53.0,60.0
-/zapas/2893263,0.0,1.0,St. Louis Blues,San Jose Sharks,36.0,60.0,53.0,23.0,57.0,62.0
-/zapas/2893283,1.0,1.0,St. Louis Blues,Los Angeles Kings,37.0,59.0,51.0,34.0,57.0,54.0
-/zapas/2893290,0.0,1.0,St. Louis Blues,Los Angeles Kings,39.0,61.0,50.0,34.0,56.0,53.0
-/zapas/2893314,1.0,0.0,St. Louis Blues,Vegas Golden Knights,38.0,59.0,50.0,44.0,64.0,49.0
-/zapas/2893343,1.0,0.0,St. Louis Blues,Anaheim Ducks,40.0,61.0,50.0,26.0,46.0,57.0
-/zapas/2893351,1.0,0.0,St. Louis Blues,Anaheim Ducks,43.0,66.0,49.0,26.0,46.0,59.0
-/zapas/2893359,1.0,1.0,St. Louis Blues,Arizona Coyotes,43.0,67.0,50.0,26.0,52.0,50.0
-/zapas/2893372,0.0,1.0,St. Louis Blues,Arizona Coyotes,43.0,70.0,53.0,25.0,53.0,51.0
-/zapas/2893756,0.0,1.0,St. Louis Blues,Arizona Coyotes,40.0,68.0,56.0,28.0,55.0,51.0
-/zapas/2893773,0.0,1.0,St. Louis Blues,Arizona Coyotes,37.0,65.0,58.0,28.0,55.0,51.0
-/zapas/2893892,1.0,0.0,St. Louis Blues,Arizona Coyotes,35.0,62.0,57.0,27.0,57.0,53.0
-/zapas/2893441,1.0,0.0,St. Louis Blues,Arizona Coyotes,36.0,63.0,56.0,27.0,56.0,54.0
-/zapas/2893454,0.0,0.0,St. Louis Blues,Arizona Coyotes,36.0,64.0,57.0,28.0,60.0,58.0
-/zapas/2893473,1.0,1.0,St. Louis Blues,San Jose Sharks,33.0,61.0,57.0,22.0,56.0,68.0
-/zapas/2893486,0.0,1.0,St. Louis Blues,San Jose Sharks,35.0,62.0,55.0,20.0,53.0,71.0
-/zapas/2893503,0.0,1.0,St. Louis Blues,Los Angeles Kings,32.0,64.0,60.0,34.0,65.0,54.0
-/zapas/2893516,0.0,1.0,St. Louis Blues,Los Angeles Kings,32.0,63.0,61.0,35.0,67.0,54.0
-/zapas/2893547,1.0,0.0,St. Louis Blues,San Jose Sharks,29.0,60.0,61.0,20.0,53.0,76.0
-/zapas/2893560,1.0,0.0,St. Louis Blues,Anaheim Ducks,29.0,63.0,66.0,22.0,40.0,56.0
-/zapas/2893570,1.0,0.0,St. Louis Blues,Anaheim Ducks,32.0,68.0,62.0,21.0,43.0,59.0
-/zapas/2893587,1.0,0.0,St. Louis Blues,Los Angeles Kings,32.0,66.0,60.0,29.0,59.0,55.0
-/zapas/2893596,0.0,0.0,St. Louis Blues,Los Angeles Kings,33.0,68.0,60.0,29.0,58.0,54.0
-/zapas/2893534,0.0,0.0,St. Louis Blues,San Jose Sharks,31.0,67.0,62.0,21.0,56.0,78.0
-/zapas/2893633,0.0,1.0,St. Louis Blues,Vegas Golden Knights,32.0,66.0,59.0,37.0,62.0,46.0
-/zapas/2893638,0.0,1.0,St. Louis Blues,Vegas Golden Knights,31.0,65.0,60.0,36.0,62.0,48.0
-/zapas/2893675,0.0,0.0,St. Louis Blues,Los Angeles Kings,28.0,60.0,64.0,26.0,57.0,57.0
-/zapas/2893690,1.0,0.0,St. Louis Blues,San Jose Sharks,25.0,57.0,67.0,24.0,58.0,68.0
-/zapas/2893701,1.0,0.0,St. Louis Blues,San Jose Sharks,24.0,55.0,65.0,25.0,59.0,67.0
-/zapas/2893330,0.0,0.0,St. Louis Blues,Vegas Golden Knights,27.0,57.0,63.0,38.0,63.0,44.0
-/zapas/2893425,0.0,0.0,St. Louis Blues,Minnesota Wild,27.0,57.0,65.0,42.0,62.0,48.0
-/zapas/2893732,0.0,1.0,St. Louis Blues,Anaheim Ducks,26.0,54.0,63.0,12.0,45.0,76.0
-/zapas/2893738,0.0,1.0,St. Louis Blues,Anaheim Ducks,23.0,51.0,66.0,12.0,48.0,77.0
-/zapas/2893925,0.0,0.0,St. Louis Blues,Colorado Avalanche,22.0,48.0,65.0,43.0,83.0,48.0
-/zapas/2893795,0.0,0.0,St. Louis Blues,Colorado Avalanche,22.0,50.0,67.0,46.0,84.0,44.0
-/zapas/2893813,0.0,1.0,St. Louis Blues,Vegas Golden Knights,20.0,48.0,67.0,35.0,65.0,50.0
-/zapas/2893828,1.0,1.0,St. Louis Blues,Vegas Golden Knights,20.0,45.0,68.0,36.0,68.0,49.0
-/zapas/2893843,1.0,1.0,St. Louis Blues,Minnesota Wild,23.0,48.0,66.0,37.0,59.0,53.0
-/zapas/2893858,1.0,1.0,St. Louis Blues,Minnesota Wild,26.0,56.0,65.0,36.0,56.0,57.0
-/zapas/2893387,0.0,1.0,St. Louis Blues,Colorado Avalanche,25.0,52.0,61.0,49.0,82.0,43.0
-/zapas/2893908,0.0,0.0,St. Louis Blues,Arizona Coyotes,22.0,50.0,61.0,24.0,53.0,66.0
-/zapas/2893937,0.0,1.0,St. Louis Blues,Colorado Avalanche,19.0,49.0,62.0,52.0,84.0,43.0
-/zapas/2893952,1.0,1.0,St. Louis Blues,Colorado Avalanche,17.0,48.0,64.0,53.0,86.0,44.0
-/zapas/2893396,1.0,1.0,St. Louis Blues,Colorado Avalanche,19.0,50.0,63.0,50.0,87.0,49.0
-/zapas/2893984,1.0,0.0,St. Louis Blues,Minnesota Wild,21.0,52.0,61.0,40.0,65.0,59.0
-/zapas/2893968,1.0,0.0,St. Louis Blues,Minnesota Wild,23.0,52.0,59.0,40.0,67.0,58.0
-/zapas/2893410,0.0,0.0,St. Louis Blues,Minnesota Wild,25.0,56.0,58.0,41.0,71.0,57.0
-/zapas/2894020,1.0,1.0,St. Louis Blues,Anaheim Ducks,26.0,58.0,58.0,21.0,45.0,56.0
-/zapas/2894038,0.0,1.0,St. Louis Blues,Anaheim Ducks,27.0,59.0,58.0,21.0,45.0,57.0
-/zapas/2894059,0.0,0.0,St. Louis Blues,Vegas Golden Knights,25.0,56.0,59.0,40.0,72.0,44.0
-/zapas/2894074,0.0,0.0,St. Louis Blues,Vegas Golden Knights,26.0,58.0,58.0,39.0,72.0,46.0
-/zapas/2893664,1.0,0.0,St. Louis Blues,Los Angeles Kings,26.0,59.0,60.0,24.0,49.0,63.0
-/zapas/2893998,1.0,1.0,St. Louis Blues,Minnesota Wild,28.0,60.0,57.0,41.0,79.0,63.0
-/zapas/2894005,1.0,1.0,St. Louis Blues,Minnesota Wild,30.0,62.0,54.0,39.0,76.0,65.0
-/zapas/2897003,1.0,0.0,St. Louis Blues,Colorado Avalanche,33.0,67.0,54.0,44.0,69.0,52.0
-/zapas/2897016,1.0,0.0,St. Louis Blues,Arizona Coyotes,36.0,71.0,55.0,19.0,54.0,70.0
-/zapas/2897031,1.0,0.0,St. Louis Blues,Vegas Golden Knights,39.0,77.0,53.0,44.0,77.0,45.0
-/zapas/2897049,1.0,1.0,St. Louis Blues,Los Angeles Kings,39.0,77.0,53.0,20.0,44.0,63.0
-/zapas/2897064,1.0,1.0,St. Louis Blues,Los Angeles Kings,39.0,75.0,55.0,20.0,45.0,66.0
-/zapas/2897088,0.0,1.0,St. Louis Blues,Colorado Avalanche,40.0,75.0,53.0,34.0,63.0,58.0
-/zapas/2897103,1.0,1.0,St. Louis Blues,Chicago Blackhawks,40.0,75.0,53.0,14.0,55.0,83.0
-/zapas/2897125,0.0,0.0,St. Louis Blues,Los Angeles Kings,43.0,74.0,50.0,23.0,47.0,61.0
-/zapas/2897129,1.0,0.0,St. Louis Blues,San Jose Sharks,44.0,74.0,49.0,28.0,58.0,69.0
-/zapas/2897156,0.0,0.0,St. Louis Blues,Anaheim Ducks,44.0,74.0,49.0,27.0,59.0,59.0
-/zapas/2897167,1.0,0.0,St. Louis Blues,Winnipeg Jets,41.0,71.0,52.0,28.0,59.0,57.0
-/zapas/2897179,0.0,1.0,St. Louis Blues,Nashville Predators,40.0,70.0,51.0,33.0,59.0,51.0
-/zapas/2897203,0.0,0.0,St. Louis Blues,Carolina Hurricanes,39.0,68.0,51.0,44.0,65.0,41.0
-/zapas/2897206,0.0,1.0,St. Louis Blues,Edmonton Oilers,38.0,67.0,50.0,41.0,79.0,61.0
-/zapas/2897215,0.0,1.0,St. Louis Blues,Arizona Coyotes,35.0,68.0,54.0,10.0,39.0,76.0
-/zapas/2897232,1.0,1.0,St. Louis Blues,San Jose Sharks,34.0,68.0,54.0,29.0,56.0,65.0
-/zapas/2897247,0.0,0.0,St. Louis Blues,Dallas Stars,36.0,69.0,51.0,22.0,57.0,71.0
-/zapas/2897264,1.0,1.0,St. Louis Blues,Vegas Golden Knights,36.0,69.0,51.0,34.0,64.0,56.0
-/zapas/2897278,0.0,0.0,St. Louis Blues,Detroit Red Wings,37.0,72.0,52.0,24.0,54.0,67.0
-/zapas/2897287,0.0,0.0,St. Louis Blues,Chicago Blackhawks,34.0,70.0,56.0,19.0,46.0,68.0
-/zapas/2897303,1.0,1.0,St. Louis Blues,Columbus Blue Jackets,32.0,65.0,56.0,33.0,71.0,62.0
-/zapas/2897319,1.0,1.0,St. Louis Blues,Tampa Bay Lightning,32.0,66.0,56.0,34.0,64.0,56.0
-/zapas/2897338,0.0,0.0,St. Louis Blues,Tampa Bay Lightning,31.0,63.0,55.0,35.0,65.0,54.0
-/zapas/2897354,0.0,0.0,St. Louis Blues,Florida Panthers,28.0,62.0,58.0,39.0,75.0,58.0
-/zapas/2897372,1.0,1.0,St. Louis Blues,Florida Panthers,26.0,58.0,59.0,38.0,75.0,60.0
-/zapas/2897388,1.0,1.0,St. Louis Blues,Detroit Red Wings,25.0,59.0,62.0,26.0,53.0,62.0
-/zapas/2897406,1.0,1.0,St. Louis Blues,Montreal Canadiens,28.0,62.0,60.0,15.0,46.0,73.0
-/zapas/2897415,0.0,1.0,St. Louis Blues,Anaheim Ducks,28.0,65.0,61.0,37.0,64.0,47.0
-/zapas/2897423,1.0,0.0,St. Louis Blues,Dallas Stars,28.0,65.0,61.0,31.0,58.0,59.0
-/zapas/2897448,1.0,1.0,St. Louis Blues,Dallas Stars,28.0,64.0,59.0,31.0,58.0,59.0
-/zapas/2897464,0.0,0.0,St. Louis Blues,Winnipeg Jets,31.0,67.0,56.0,26.0,54.0,56.0
-/zapas/2897525,1.0,1.0,St. Louis Blues,Edmonton Oilers,29.0,66.0,58.0,28.0,62.0,67.0
-/zapas/2897550,1.0,0.0,St. Louis Blues,Minnesota Wild,31.0,67.0,56.0,36.0,80.0,58.0
-/zapas/2897579,0.0,0.0,St. Louis Blues,Pittsburgh Penguins,34.0,71.0,57.0,41.0,64.0,46.0
-/zapas/2897593,1.0,1.0,St. Louis Blues,Washington Capitals,34.0,70.0,57.0,38.0,71.0,54.0
-/zapas/2897610,1.0,1.0,St. Louis Blues,Dallas Stars,37.0,73.0,55.0,37.0,66.0,57.0
-/zapas/2897635,1.0,1.0,St. Louis Blues,Seattle Kraken,37.0,71.0,55.0,21.0,55.0,76.0
-/zapas/2897651,0.0,1.0,St. Louis Blues,Toronto Maple Leafs,40.0,72.0,52.0,43.0,79.0,50.0
-/zapas/2897668,1.0,1.0,St. Louis Blues,Nashville Predators,37.0,72.0,56.0,41.0,69.0,52.0
-/zapas/2897696,1.0,0.0,St. Louis Blues,Seattle Kraken,40.0,75.0,55.0,20.0,51.0,71.0
-/zapas/2897713,1.0,0.0,St. Louis Blues,Vancouver Canucks,42.0,78.0,52.0,35.0,55.0,47.0
-/zapas/2897719,0.0,0.0,St. Louis Blues,Calgary Flames,42.0,75.0,50.0,29.0,64.0,59.0
-/zapas/2897739,1.0,1.0,St. Louis Blues,Calgary Flames,40.0,72.0,54.0,29.0,67.0,58.0
-/zapas/2897755,0.0,1.0,St. Louis Blues,Winnipeg Jets,43.0,75.0,51.0,26.0,59.0,66.0
-/zapas/2897509,0.0,1.0,St. Louis Blues,New Jersey Devils,42.0,73.0,51.0,16.0,59.0,76.0
-/zapas/2897765,1.0,1.0,St. Louis Blues,Chicago Blackhawks,40.0,73.0,55.0,24.0,54.0,71.0
-/zapas/2897482,1.0,0.0,St. Louis Blues,Ottawa Senators,40.0,72.0,54.0,29.0,55.0,52.0
-/zapas/2897781,0.0,0.0,St. Louis Blues,Montreal Canadiens,40.0,73.0,55.0,9.0,45.0,93.0
-/zapas/2897497,1.0,0.0,St. Louis Blues,Toronto Maple Leafs,40.0,73.0,55.0,40.0,86.0,60.0
-/zapas/2897830,1.0,0.0,St. Louis Blues,Philadelphia Flyers,40.0,75.0,57.0,10.0,48.0,79.0
-/zapas/2897808,1.0,1.0,St. Louis Blues,Buffalo Sabres,40.0,75.0,57.0,21.0,52.0,74.0
-/zapas/2897823,1.0,0.0,St. Louis Blues,Chicago Blackhawks,43.0,78.0,56.0,26.0,57.0,69.0
-/zapas/2897844,0.0,0.0,St. Louis Blues,New York Rangers,43.0,78.0,54.0,35.0,60.0,50.0
-/zapas/2897867,0.0,0.0,St. Louis Blues,New York Islanders,40.0,75.0,55.0,25.0,60.0,61.0
-/zapas/2897877,0.0,0.0,St. Louis Blues,New Jersey Devils,40.0,73.0,52.0,15.0,66.0,78.0
-/zapas/2897885,0.0,1.0,St. Louis Blues,Ottawa Senators,38.0,70.0,54.0,22.0,45.0,54.0
-/zapas/2897898,1.0,1.0,St. Louis Blues,New York Rangers,35.0,69.0,57.0,38.0,64.0,50.0
-/zapas/2897916,1.0,0.0,St. Louis Blues,Nashville Predators,35.0,73.0,58.0,28.0,63.0,58.0
-/zapas/2897926,0.0,1.0,St. Louis Blues,Winnipeg Jets,38.0,75.0,56.0,30.0,64.0,65.0
-/zapas/2897953,0.0,1.0,St. Louis Blues,Pittsburgh Penguins,36.0,73.0,57.0,33.0,59.0,56.0
-/zapas/2897974,0.0,0.0,St. Louis Blues,Columbus Blue Jackets,34.0,70.0,60.0,32.0,73.0,79.0
-/zapas/2897993,1.0,0.0,St. Louis Blues,Washington Capitals,31.0,71.0,64.0,33.0,74.0,58.0
-/zapas/2898003,0.0,1.0,St. Louis Blues,Philadelphia Flyers,34.0,75.0,59.0,23.0,53.0,72.0
-/zapas/2898019,0.0,1.0,St. Louis Blues,Carolina Hurricanes,31.0,72.0,63.0,35.0,56.0,48.0
-/zapas/2898038,1.0,1.0,St. Louis Blues,Vancouver Canucks,31.0,73.0,66.0,35.0,72.0,64.0
-/zapas/2898049,1.0,0.0,St. Louis Blues,Vancouver Canucks,34.0,73.0,60.0,35.0,70.0,62.0
-/zapas/2898066,0.0,0.0,St. Louis Blues,Edmonton Oilers,34.0,72.0,62.0,33.0,76.0,67.0
-/zapas/2898073,1.0,0.0,St. Louis Blues,Calgary Flames,32.0,72.0,66.0,38.0,70.0,53.0
-/zapas/2898091,1.0,1.0,St. Louis Blues,Arizona Coyotes,34.0,76.0,67.0,29.0,65.0,64.0
-/zapas/2898106,1.0,1.0,St. Louis Blues,Seattle Kraken,34.0,75.0,65.0,19.0,53.0,69.0
-/zapas/2898118,1.0,1.0,St. Louis Blues,Minnesota Wild,34.0,75.0,65.0,34.0,67.0,65.0
-/zapas/2898127,1.0,1.0,St. Louis Blues,New York Islanders,33.0,74.0,65.0,40.0,66.0,48.0
-/zapas/2898151,1.0,0.0,St. Louis Blues,Boston Bruins,33.0,76.0,66.0,38.0,76.0,53.0
-/zapas/2898169,1.0,0.0,St. Louis Blues,Buffalo Sabres,36.0,77.0,63.0,30.0,60.0,70.0
-/zapas/2898182,1.0,1.0,St. Louis Blues,Minnesota Wild,39.0,82.0,63.0,40.0,71.0,54.0
-/zapas/2898192,1.0,0.0,St. Louis Blues,Nashville Predators,40.0,86.0,65.0,36.0,67.0,62.0
-/zapas/2898203,0.0,1.0,St. Louis Blues,Boston Bruins,43.0,93.0,64.0,35.0,67.0,55.0
-/zapas/2898215,1.0,0.0,St. Louis Blues,San Jose Sharks,41.0,89.0,65.0,22.0,53.0,64.0
-/zapas/2898229,1.0,0.0,St. Louis Blues,Arizona Coyotes,41.0,85.0,62.0,13.0,41.0,88.0
-/zapas/2898242,1.0,0.0,St. Louis Blues,Anaheim Ducks,42.0,87.0,62.0,14.0,47.0,72.0
-/zapas/2898255,0.0,0.0,St. Louis Blues,Colorado Avalanche,44.0,91.0,62.0,40.0,72.0,52.0
-/zapas/2898282,0.0,1.0,St. Louis Blues,Vegas Golden Knights,44.0,90.0,62.0,31.0,67.0,61.0
+/zapas/2732178,0.0,1.0,St. Louis Blues,Winnipeg Jets,31.0,57.0,59.0,31.0,63.0,51.0
+/zapas/2732179,1.0,0.0,St. Louis Blues,Winnipeg Jets,31.0,56.0,58.0,30.0,62.0,50.0
+/zapas/2732190,1.0,1.0,St. Louis Blues,Winnipeg Jets,34.0,59.0,58.0,27.0,60.0,52.0
+/zapas/2748721,1.0,1.0,St. Louis Blues,Dallas Stars,34.0,55.0,58.0,25.0,56.0,60.0
+/zapas/2749188,0.0,1.0,St. Louis Blues,Dallas Stars,34.0,54.0,58.0,25.0,57.0,60.0
+/zapas/2749189,1.0,0.0,St. Louis Blues,Dallas Stars,34.0,55.0,58.0,28.0,59.0,58.0
+/zapas/2749190,0.0,0.0,St. Louis Blues,Dallas Stars,35.0,55.0,58.0,27.0,57.0,56.0
+/zapas/2749191,0.0,1.0,St. Louis Blues,Dallas Stars,33.0,52.0,58.0,29.0,59.0,55.0
+/zapas/2749192,1.0,0.0,St. Louis Blues,Dallas Stars,31.0,51.0,59.0,32.0,59.0,52.0
+/zapas/2749193,1.0,1.0,St. Louis Blues,Dallas Stars,31.0,51.0,59.0,32.0,57.0,52.0
+/zapas/2762313,0.0,0.0,St. Louis Blues,San Jose Sharks,30.0,51.0,59.0,29.0,57.0,65.0
+/zapas/2762314,1.0,0.0,St. Louis Blues,San Jose Sharks,28.0,51.0,63.0,32.0,63.0,61.0
+/zapas/2762315,0.0,1.0,St. Louis Blues,San Jose Sharks,30.0,52.0,61.0,30.0,61.0,62.0
+/zapas/2762316,1.0,1.0,St. Louis Blues,San Jose Sharks,31.0,56.0,60.0,31.0,63.0,62.0
+/zapas/2762317,1.0,0.0,St. Louis Blues,San Jose Sharks,34.0,56.0,57.0,28.0,60.0,64.0
+/zapas/2762328,1.0,1.0,St. Louis Blues,San Jose Sharks,37.0,58.0,53.0,28.0,57.0,64.0
+/zapas/2774830,0.0,0.0,St. Louis Blues,Boston Bruins,37.0,59.0,53.0,37.0,62.0,44.0
+/zapas/2774831,1.0,0.0,St. Louis Blues,Boston Bruins,37.0,59.0,52.0,40.0,65.0,42.0
+/zapas/2774832,0.0,1.0,St. Louis Blues,Boston Bruins,36.0,60.0,53.0,40.0,64.0,41.0
+/zapas/2774833,1.0,1.0,St. Louis Blues,Boston Bruins,33.0,58.0,57.0,43.0,70.0,40.0
+/zapas/2774834,1.0,0.0,St. Louis Blues,Boston Bruins,36.0,59.0,53.0,43.0,71.0,40.0
+/zapas/2774835,0.0,1.0,St. Louis Blues,Boston Bruins,38.0,60.0,52.0,40.0,68.0,41.0
+/zapas/2774836,1.0,0.0,St. Louis Blues,Boston Bruins,35.0,58.0,55.0,43.0,71.0,39.0
+/zapas/2891096,0.0,1.0,St. Louis Blues,Vancouver Canucks,35.0,59.0,54.0,30.0,57.0,58.0
+/zapas/2891097,0.0,1.0,St. Louis Blues,Vancouver Canucks,32.0,58.0,57.0,31.0,59.0,58.0
+/zapas/2891098,1.0,0.0,St. Louis Blues,Vancouver Canucks,33.0,59.0,57.0,33.0,61.0,58.0
+/zapas/2891099,1.0,0.0,St. Louis Blues,Vancouver Canucks,32.0,58.0,56.0,34.0,61.0,55.0
+/zapas/2891100,0.0,1.0,St. Louis Blues,Vancouver Canucks,35.0,59.0,53.0,31.0,58.0,57.0
+/zapas/2891101,0.0,0.0,St. Louis Blues,Vancouver Canucks,35.0,61.0,55.0,33.0,60.0,57.0
+/zapas/2894364,0.0,0.0,St. Louis Blues,Colorado Avalanche,32.0,59.0,60.0,33.0,74.0,57.0
+/zapas/2894365,0.0,0.0,St. Louis Blues,Colorado Avalanche,30.0,58.0,63.0,33.0,73.0,57.0
+/zapas/2894366,0.0,1.0,St. Louis Blues,Colorado Avalanche,30.0,58.0,63.0,36.0,77.0,55.0
+/zapas/2894367,0.0,1.0,St. Louis Blues,Colorado Avalanche,27.0,55.0,66.0,36.0,78.0,53.0
+/zapas/2900296,1.0,0.0,St. Louis Blues,Minnesota Wild,26.0,53.0,66.0,20.0,35.0,55.0
+/zapas/2900297,0.0,0.0,St. Louis Blues,Minnesota Wild,26.0,55.0,65.0,20.0,34.0,56.0
+/zapas/2900298,0.0,1.0,St. Louis Blues,Minnesota Wild,23.0,52.0,71.0,20.0,38.0,57.0
+/zapas/2900299,1.0,1.0,St. Louis Blues,Minnesota Wild,20.0,48.0,75.0,23.0,42.0,53.0
+/zapas/2900300,1.0,0.0,St. Louis Blues,Minnesota Wild,23.0,51.0,73.0,23.0,44.0,57.0
+/zapas/2900301,1.0,1.0,St. Louis Blues,Minnesota Wild,24.0,53.0,73.0,20.0,43.0,60.0
+/zapas/2900380,0.0,0.0,St. Louis Blues,Colorado Avalanche,27.0,56.0,67.0,39.0,85.0,59.0
+/zapas/2900381,1.0,0.0,St. Louis Blues,Colorado Avalanche,25.0,54.0,68.0,41.0,86.0,56.0
+/zapas/2900382,0.0,1.0,St. Louis Blues,Colorado Avalanche,25.0,56.0,68.0,38.0,81.0,56.0
+/zapas/2900383,0.0,1.0,St. Louis Blues,Colorado Avalanche,25.0,57.0,68.0,41.0,82.0,53.0
+/zapas/2900384,1.0,0.0,St. Louis Blues,Colorado Avalanche,22.0,56.0,73.0,41.0,82.0,53.0
+/zapas/2900385,0.0,1.0,St. Louis Blues,Colorado Avalanche,24.0,59.0,72.0,39.0,82.0,57.0

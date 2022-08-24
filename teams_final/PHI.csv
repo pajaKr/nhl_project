@@ -1,295 +1,77 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
-/zapas/2526370,0.0,1.0,Philadelphia Flyers,Vancouver Canucks,27.0,56.0,56.0,30.0,51.0,57.0
-/zapas/2526377,0.0,0.0,Philadelphia Flyers,New York Islanders,24.0,53.0,58.0,34.0,73.0,66.0
-/zapas/2526391,0.0,1.0,Philadelphia Flyers,New York Islanders,25.0,56.0,60.0,36.0,77.0,64.0
-/zapas/2526417,0.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,24.0,57.0,63.0,28.0,53.0,64.0
-/zapas/2526424,0.0,1.0,Philadelphia Flyers,San Jose Sharks,25.0,56.0,62.0,37.0,54.0,41.0
-/zapas/2526450,0.0,1.0,Philadelphia Flyers,Boston Bruins,22.0,49.0,63.0,33.0,56.0,55.0
-/zapas/2526469,1.0,0.0,Philadelphia Flyers,Calgary Flames,19.0,44.0,65.0,27.0,61.0,66.0
-/zapas/2526482,1.0,0.0,Philadelphia Flyers,Edmonton Oilers,22.0,49.0,66.0,26.0,64.0,70.0
-/zapas/2526490,1.0,0.0,Philadelphia Flyers,Vancouver Canucks,22.0,51.0,67.0,33.0,55.0,54.0
-/zapas/2526522,1.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,25.0,53.0,62.0,36.0,61.0,48.0
-/zapas/2526534,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,28.0,53.0,59.0,19.0,40.0,63.0
-/zapas/2526555,1.0,1.0,Philadelphia Flyers,Dallas Stars,28.0,51.0,58.0,31.0,62.0,59.0
-/zapas/2526567,0.0,1.0,Philadelphia Flyers,Los Angeles Kings,29.0,50.0,55.0,28.0,55.0,50.0
-/zapas/2526581,1.0,1.0,Philadelphia Flyers,Detroit Red Wings,29.0,51.0,56.0,27.0,55.0,68.0
-/zapas/2526593,0.0,0.0,Philadelphia Flyers,Buffalo Sabres,29.0,53.0,59.0,17.0,37.0,61.0
-/zapas/2526606,0.0,0.0,Philadelphia Flyers,Columbus Blue Jackets,28.0,51.0,58.0,33.0,51.0,52.0
-/zapas/2526625,0.0,0.0,Philadelphia Flyers,Florida Panthers,26.0,49.0,59.0,30.0,50.0,57.0
-/zapas/2526633,1.0,0.0,Philadelphia Flyers,Tampa Bay Lightning,26.0,51.0,61.0,42.0,72.0,45.0
-/zapas/2526656,0.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,29.0,56.0,61.0,23.0,56.0,56.0
-/zapas/2526670,1.0,1.0,Philadelphia Flyers,New York Islanders,28.0,55.0,63.0,24.0,64.0,78.0
-/zapas/2526687,1.0,1.0,Philadelphia Flyers,St. Louis Blues,30.0,57.0,62.0,29.0,46.0,45.0
-/zapas/2526697,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,33.0,61.0,60.0,19.0,43.0,65.0
-/zapas/2526727,1.0,0.0,Philadelphia Flyers,New Jersey Devils,35.0,62.0,57.0,32.0,61.0,59.0
-/zapas/2526742,0.0,0.0,Philadelphia Flyers,New York Rangers,37.0,63.0,55.0,26.0,54.0,57.0
-/zapas/2526751,1.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,36.0,60.0,55.0,27.0,55.0,55.0
-/zapas/2526762,1.0,1.0,Philadelphia Flyers,New Jersey Devils,38.0,62.0,54.0,32.0,63.0,60.0
-/zapas/2526775,1.0,0.0,Philadelphia Flyers,Washington Capitals,41.0,65.0,52.0,37.0,65.0,51.0
-/zapas/2526788,1.0,0.0,Philadelphia Flyers,Detroit Red Wings,40.0,62.0,51.0,27.0,50.0,58.0
-/zapas/2526800,0.0,1.0,Philadelphia Flyers,Tampa Bay Lightning,39.0,61.0,51.0,37.0,64.0,53.0
-/zapas/2526828,0.0,0.0,Philadelphia Flyers,Washington Capitals,36.0,58.0,55.0,35.0,60.0,52.0
-/zapas/2526832,0.0,0.0,Philadelphia Flyers,New Jersey Devils,33.0,57.0,58.0,29.0,58.0,56.0
-/zapas/2526847,0.0,1.0,Philadelphia Flyers,Ottawa Senators,30.0,58.0,61.0,21.0,48.0,68.0
-/zapas/2526868,1.0,0.0,Philadelphia Flyers,Carolina Hurricanes,29.0,59.0,64.0,31.0,52.0,56.0
-/zapas/2526882,1.0,1.0,Philadelphia Flyers,Montreal Canadiens,31.0,60.0,61.0,25.0,52.0,61.0
-/zapas/2526903,1.0,0.0,Philadelphia Flyers,Arizona Coyotes,31.0,61.0,61.0,18.0,50.0,71.0
-/zapas/2526913,1.0,0.0,Philadelphia Flyers,Vegas Golden Knights,33.0,63.0,60.0,39.0,67.0,48.0
-/zapas/2526921,0.0,1.0,Philadelphia Flyers,New Jersey Devils,35.0,66.0,59.0,20.0,50.0,67.0
-/zapas/2526944,1.0,0.0,Philadelphia Flyers,Columbus Blue Jackets,36.0,68.0,61.0,20.0,49.0,63.0
-/zapas/2526959,1.0,0.0,Philadelphia Flyers,New York Rangers,35.0,65.0,59.0,17.0,46.0,75.0
-/zapas/2526974,1.0,1.0,Philadelphia Flyers,Montreal Canadiens,38.0,71.0,58.0,20.0,49.0,65.0
-/zapas/2526986,1.0,1.0,Philadelphia Flyers,Columbus Blue Jackets,37.0,68.0,56.0,23.0,46.0,56.0
-/zapas/2527000,1.0,0.0,Philadelphia Flyers,Ottawa Senators,37.0,64.0,54.0,18.0,52.0,73.0
-/zapas/2527019,1.0,0.0,Philadelphia Flyers,Montreal Canadiens,37.0,65.0,56.0,23.0,54.0,66.0
-/zapas/2527038,0.0,1.0,Philadelphia Flyers,Carolina Hurricanes,36.0,61.0,53.0,24.0,45.0,61.0
-/zapas/2527054,0.0,0.0,Philadelphia Flyers,Tampa Bay Lightning,36.0,61.0,52.0,36.0,71.0,60.0
-/zapas/2527063,0.0,0.0,Philadelphia Flyers,Florida Panthers,35.0,64.0,57.0,37.0,65.0,61.0
-/zapas/2527084,0.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,32.0,62.0,60.0,41.0,81.0,57.0
-/zapas/2527086,0.0,0.0,Philadelphia Flyers,Boston Bruins,30.0,62.0,64.0,41.0,69.0,52.0
-/zapas/2527105,1.0,1.0,Philadelphia Flyers,Winnipeg Jets,28.0,61.0,65.0,42.0,71.0,49.0
-/zapas/2527118,0.0,1.0,Philadelphia Flyers,Vegas Golden Knights,31.0,62.0,61.0,35.0,68.0,57.0
-/zapas/2527139,0.0,1.0,Philadelphia Flyers,Columbus Blue Jackets,31.0,61.0,59.0,30.0,60.0,55.0
-/zapas/2527157,1.0,0.0,Philadelphia Flyers,Carolina Hurricanes,31.0,61.0,60.0,24.0,49.0,63.0
-/zapas/2527166,1.0,1.0,Philadelphia Flyers,Washington Capitals,33.0,62.0,58.0,34.0,63.0,60.0
-/zapas/2527180,0.0,0.0,Philadelphia Flyers,Detroit Red Wings,34.0,66.0,60.0,16.0,48.0,70.0
-/zapas/2527191,1.0,1.0,Philadelphia Flyers,New York Rangers,32.0,65.0,62.0,22.0,55.0,74.0
-/zapas/2527217,0.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,33.0,65.0,62.0,37.0,77.0,63.0
-/zapas/2527237,0.0,0.0,Philadelphia Flyers,Dallas Stars,31.0,65.0,66.0,18.0,40.0,63.0
-/zapas/2527243,1.0,0.0,Philadelphia Flyers,Colorado Avalanche,31.0,63.0,64.0,32.0,64.0,59.0
-/zapas/2527272,1.0,1.0,Philadelphia Flyers,Boston Bruins,32.0,63.0,64.0,38.0,70.0,57.0
-/zapas/2527284,0.0,0.0,Philadelphia Flyers,New York Islanders,31.0,60.0,63.0,16.0,56.0,74.0
-/zapas/2527297,1.0,1.0,Philadelphia Flyers,Carolina Hurricanes,29.0,61.0,66.0,25.0,60.0,70.0
-/zapas/2527311,1.0,1.0,Philadelphia Flyers,New York Rangers,29.0,63.0,68.0,23.0,57.0,69.0
-/zapas/2647212,1.0,0.0,Philadelphia Flyers,Vegas Golden Knights,29.0,63.0,65.0,29.0,55.0,59.0
-/zapas/2647225,0.0,0.0,Philadelphia Flyers,Colorado Avalanche,30.0,67.0,67.0,33.0,66.0,50.0
-/zapas/2647234,0.0,1.0,Philadelphia Flyers,San Jose Sharks,30.0,68.0,68.0,30.0,63.0,60.0
-/zapas/2647240,1.0,0.0,Philadelphia Flyers,Ottawa Senators,29.0,64.0,69.0,18.0,55.0,77.0
-/zapas/2647256,0.0,1.0,Philadelphia Flyers,Vegas Golden Knights,32.0,70.0,69.0,25.0,52.0,63.0
-/zapas/2647278,1.0,1.0,Philadelphia Flyers,Florida Panthers,32.0,68.0,65.0,34.0,57.0,52.0
-/zapas/2647290,0.0,0.0,Philadelphia Flyers,Columbus Blue Jackets,34.0,72.0,67.0,40.0,78.0,62.0
-/zapas/2647300,1.0,1.0,Philadelphia Flyers,New Jersey Devils,31.0,73.0,72.0,41.0,69.0,50.0
-/zapas/2647316,0.0,1.0,Philadelphia Flyers,Colorado Avalanche,34.0,76.0,71.0,32.0,62.0,52.0
-/zapas/2647332,0.0,0.0,Philadelphia Flyers,Boston Bruins,34.0,74.0,70.0,34.0,62.0,54.0
-/zapas/2647347,0.0,1.0,Philadelphia Flyers,New York Islanders,31.0,70.0,71.0,23.0,61.0,67.0
-/zapas/2647374,1.0,0.0,Philadelphia Flyers,Anaheim Ducks,28.0,65.0,74.0,32.0,55.0,53.0
-/zapas/2647388,1.0,0.0,Philadelphia Flyers,Los Angeles Kings,30.0,64.0,71.0,26.0,50.0,58.0
-/zapas/2647404,0.0,0.0,Philadelphia Flyers,San Jose Sharks,30.0,65.0,70.0,25.0,62.0,66.0
-/zapas/2647412,1.0,0.0,Philadelphia Flyers,Arizona Coyotes,30.0,64.0,69.0,32.0,59.0,43.0
-/zapas/2647427,1.0,1.0,Philadelphia Flyers,Arizona Coyotes,32.0,67.0,68.0,32.0,59.0,44.0
-/zapas/2647441,1.0,1.0,Philadelphia Flyers,Chicago Blackhawks,31.0,70.0,71.0,21.0,55.0,76.0
-/zapas/2647465,0.0,1.0,Philadelphia Flyers,Florida Panthers,32.0,70.0,68.0,34.0,64.0,60.0
-/zapas/2647476,0.0,1.0,Philadelphia Flyers,New Jersey Devils,32.0,67.0,65.0,31.0,61.0,65.0
-/zapas/2647491,0.0,1.0,Philadelphia Flyers,Tampa Bay Lightning,29.0,63.0,65.0,39.0,70.0,56.0
+/zapas/2647412,1.0,0.0,Philadelphia Flyers,Arizona Coyotes,24.0,58.0,82.0,32.0,59.0,43.0
+/zapas/2647427,1.0,1.0,Philadelphia Flyers,Arizona Coyotes,27.0,63.0,77.0,32.0,59.0,44.0
+/zapas/2647441,1.0,1.0,Philadelphia Flyers,Chicago Blackhawks,26.0,63.0,80.0,21.0,55.0,76.0
+/zapas/2647465,0.0,1.0,Philadelphia Flyers,Florida Panthers,29.0,66.0,75.0,34.0,64.0,60.0
+/zapas/2647476,0.0,1.0,Philadelphia Flyers,New Jersey Devils,29.0,67.0,72.0,25.0,59.0,69.0
 /zapas/2647516,0.0,0.0,Philadelphia Flyers,Buffalo Sabres,27.0,63.0,71.0,37.0,65.0,56.0
 /zapas/2647530,1.0,1.0,Philadelphia Flyers,New York Rangers,24.0,60.0,74.0,33.0,65.0,59.0
-/zapas/2647547,0.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,27.0,62.0,69.0,38.0,65.0,49.0
 /zapas/2647566,0.0,1.0,Philadelphia Flyers,Ottawa Senators,27.0,60.0,67.0,25.0,70.0,84.0
-/zapas/2647601,1.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,24.0,56.0,67.0,27.0,66.0,63.0
-/zapas/2647629,0.0,1.0,Philadelphia Flyers,Columbus Blue Jackets,27.0,60.0,68.0,34.0,73.0,66.0
 /zapas/2647642,1.0,0.0,Philadelphia Flyers,Buffalo Sabres,26.0,57.0,67.0,33.0,67.0,57.0
-/zapas/2647653,0.0,0.0,Philadelphia Flyers,Winnipeg Jets,29.0,60.0,63.0,34.0,70.0,59.0
-/zapas/2647675,0.0,0.0,Philadelphia Flyers,Calgary Flames,26.0,56.0,68.0,42.0,71.0,45.0
 /zapas/2647692,0.0,0.0,Philadelphia Flyers,Edmonton Oilers,27.0,60.0,70.0,29.0,56.0,62.0
 /zapas/2647702,0.0,0.0,Philadelphia Flyers,Vancouver Canucks,27.0,61.0,71.0,21.0,61.0,71.0
 /zapas/2647718,1.0,1.0,Philadelphia Flyers,Detroit Red Wings,27.0,61.0,70.0,27.0,61.0,62.0
-/zapas/2647730,1.0,1.0,Philadelphia Flyers,Nashville Predators,27.0,61.0,70.0,29.0,57.0,57.0
-/zapas/2647744,0.0,1.0,Philadelphia Flyers,Columbus Blue Jackets,27.0,58.0,69.0,37.0,64.0,55.0
 /zapas/2647760,1.0,0.0,Philadelphia Flyers,New York Rangers,26.0,58.0,69.0,29.0,62.0,68.0
-/zapas/2647769,0.0,0.0,Philadelphia Flyers,Tampa Bay Lightning,25.0,56.0,69.0,45.0,91.0,58.0
 /zapas/2647789,0.0,0.0,Philadelphia Flyers,Florida Panthers,24.0,56.0,71.0,24.0,66.0,77.0
-/zapas/2647801,0.0,0.0,Philadelphia Flyers,Carolina Hurricanes,21.0,53.0,73.0,25.0,44.0,56.0
-/zapas/2647811,0.0,0.0,Philadelphia Flyers,Nashville Predators,21.0,53.0,74.0,26.0,53.0,57.0
-/zapas/2647823,0.0,1.0,Philadelphia Flyers,Carolina Hurricanes,21.0,53.0,75.0,26.0,44.0,55.0
-/zapas/2647834,0.0,1.0,Philadelphia Flyers,Calgary Flames,20.0,51.0,74.0,38.0,75.0,55.0
-/zapas/2647851,0.0,1.0,Philadelphia Flyers,St. Louis Blues,21.0,51.0,72.0,26.0,54.0,70.0
-/zapas/2647859,0.0,0.0,Philadelphia Flyers,Washington Capitals,18.0,47.0,75.0,41.0,72.0,52.0
-/zapas/2647872,1.0,1.0,Philadelphia Flyers,Dallas Stars,18.0,50.0,74.0,32.0,51.0,51.0
 /zapas/2647885,0.0,0.0,Philadelphia Flyers,New Jersey Devils,21.0,49.0,71.0,22.0,57.0,70.0
 /zapas/2647906,1.0,1.0,Philadelphia Flyers,Minnesota Wild,18.0,47.0,72.0,25.0,46.0,58.0
-/zapas/2647920,1.0,1.0,Philadelphia Flyers,Boston Bruins,20.0,51.0,72.0,35.0,62.0,55.0
 /zapas/2647943,1.0,0.0,Philadelphia Flyers,Montreal Canadiens,20.0,49.0,73.0,36.0,57.0,51.0
-/zapas/2647969,1.0,1.0,Philadelphia Flyers,Winnipeg Jets,23.0,53.0,68.0,38.0,73.0,55.0
 /zapas/2647972,1.0,0.0,Philadelphia Flyers,New York Rangers,25.0,51.0,63.0,27.0,59.0,76.0
-/zapas/2647976,1.0,0.0,Philadelphia Flyers,Boston Bruins,28.0,51.0,59.0,34.0,65.0,56.0
 /zapas/2647987,1.0,1.0,Philadelphia Flyers,Edmonton Oilers,30.0,53.0,56.0,20.0,62.0,76.0
 /zapas/2648005,1.0,1.0,Philadelphia Flyers,Vancouver Canucks,29.0,55.0,58.0,34.0,57.0,53.0
 /zapas/2648024,0.0,1.0,Philadelphia Flyers,Los Angeles Kings,29.0,55.0,58.0,31.0,53.0,56.0
 /zapas/2648040,1.0,1.0,Philadelphia Flyers,Anaheim Ducks,30.0,54.0,57.0,10.0,32.0,76.0
-/zapas/2648058,0.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,31.0,57.0,57.0,33.0,73.0,62.0
 /zapas/2648069,1.0,0.0,Philadelphia Flyers,Minnesota Wild,30.0,53.0,55.0,31.0,51.0,58.0
 /zapas/2648090,1.0,1.0,Philadelphia Flyers,Detroit Red Wings,33.0,57.0,57.0,23.0,53.0,64.0
 /zapas/2648105,1.0,0.0,Philadelphia Flyers,Detroit Red Wings,35.0,62.0,59.0,24.0,56.0,65.0
-/zapas/2648116,0.0,1.0,Philadelphia Flyers,Tampa Bay Lightning,38.0,65.0,56.0,43.0,69.0,43.0
 /zapas/2648132,0.0,0.0,Philadelphia Flyers,Montreal Canadiens,38.0,64.0,56.0,33.0,51.0,48.0
-/zapas/2648151,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,37.0,63.0,58.0,27.0,66.0,74.0
 /zapas/2648168,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,39.0,67.0,58.0,21.0,59.0,74.0
-/zapas/2648184,0.0,0.0,Philadelphia Flyers,Columbus Blue Jackets,42.0,69.0,55.0,31.0,62.0,55.0
 /zapas/2648190,1.0,0.0,Philadelphia Flyers,New Jersey Devils,40.0,70.0,58.0,23.0,57.0,68.0
-/zapas/2648208,1.0,0.0,Philadelphia Flyers,New York Islanders,43.0,74.0,58.0,36.0,52.0,36.0
-/zapas/2648227,0.0,1.0,Philadelphia Flyers,Washington Capitals,43.0,71.0,55.0,32.0,69.0,69.0
-/zapas/2648251,1.0,0.0,Philadelphia Flyers,New York Islanders,40.0,70.0,57.0,33.0,54.0,44.0
 /zapas/2648265,1.0,1.0,Philadelphia Flyers,Ottawa Senators,40.0,70.0,57.0,12.0,49.0,74.0
-/zapas/2648283,0.0,1.0,Philadelphia Flyers,Washington Capitals,40.0,70.0,58.0,40.0,69.0,55.0
-/zapas/2648291,0.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,37.0,71.0,63.0,37.0,74.0,61.0
-/zapas/2648313,1.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,35.0,74.0,68.0,35.0,65.0,58.0
 /zapas/2648323,0.0,1.0,Philadelphia Flyers,Montreal Canadiens,35.0,71.0,65.0,27.0,56.0,60.0
 /zapas/2648340,1.0,0.0,Philadelphia Flyers,Chicago Blackhawks,32.0,70.0,67.0,36.0,80.0,70.0
-/zapas/2648349,0.0,1.0,Philadelphia Flyers,New York Islanders,34.0,71.0,65.0,29.0,48.0,50.0
-/zapas/2648362,0.0,0.0,Philadelphia Flyers,Washington Capitals,31.0,67.0,67.0,38.0,71.0,57.0
-/zapas/2648383,1.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,31.0,67.0,66.0,33.0,71.0,69.0
-/zapas/2648401,0.0,0.0,Philadelphia Flyers,Carolina Hurricanes,30.0,67.0,66.0,37.0,61.0,49.0
 /zapas/2648413,0.0,1.0,Philadelphia Flyers,New York Rangers,28.0,63.0,66.0,19.0,50.0,70.0
-/zapas/2648433,0.0,0.0,Philadelphia Flyers,Dallas Stars,25.0,60.0,68.0,36.0,52.0,40.0
-/zapas/2648446,0.0,0.0,Philadelphia Flyers,St. Louis Blues,25.0,60.0,69.0,34.0,58.0,49.0
-/zapas/2648461,0.0,1.0,Philadelphia Flyers,Carolina Hurricanes,25.0,62.0,71.0,37.0,63.0,50.0
-/zapas/2806392,1.0,1.0,Philadelphia Flyers,Chicago Blackhawks,23.0,61.0,72.0,30.0,62.0,60.0
-/zapas/2806421,1.0,1.0,Philadelphia Flyers,New Jersey Devils,23.0,60.0,73.0,19.0,43.0,71.0
-/zapas/2806449,0.0,0.0,Philadelphia Flyers,Vancouver Canucks,25.0,61.0,69.0,24.0,55.0,59.0
-/zapas/2806464,0.0,0.0,Philadelphia Flyers,Calgary Flames,23.0,57.0,69.0,33.0,69.0,51.0
-/zapas/2806471,0.0,0.0,Philadelphia Flyers,Edmonton Oilers,20.0,54.0,71.0,29.0,63.0,69.0
-/zapas/2806494,0.0,1.0,Philadelphia Flyers,Dallas Stars,20.0,54.0,72.0,22.0,48.0,57.0
-/zapas/2806506,1.0,1.0,Philadelphia Flyers,Vegas Golden Knights,17.0,50.0,74.0,31.0,67.0,54.0
-/zapas/2806527,1.0,0.0,Philadelphia Flyers,Chicago Blackhawks,17.0,53.0,74.0,26.0,55.0,58.0
-/zapas/2806541,1.0,1.0,Philadelphia Flyers,Columbus Blue Jackets,20.0,55.0,70.0,34.0,64.0,54.0
-/zapas/2806550,0.0,0.0,Philadelphia Flyers,New York Islanders,23.0,56.0,67.0,35.0,51.0,47.0
-/zapas/2806558,0.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,21.0,57.0,71.0,35.0,61.0,48.0
-/zapas/2806572,1.0,0.0,Philadelphia Flyers,New Jersey Devils,21.0,57.0,75.0,21.0,46.0,72.0
-/zapas/2806586,0.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,20.0,58.0,77.0,25.0,64.0,72.0
-/zapas/2806602,1.0,1.0,Philadelphia Flyers,Carolina Hurricanes,21.0,59.0,77.0,37.0,68.0,51.0
-/zapas/2806616,1.0,1.0,Philadelphia Flyers,Montreal Canadiens,24.0,62.0,75.0,32.0,73.0,65.0
-/zapas/2806630,1.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,24.0,60.0,73.0,28.0,65.0,67.0
-/zapas/2806644,1.0,0.0,Philadelphia Flyers,Boston Bruins,26.0,61.0,70.0,41.0,73.0,54.0
-/zapas/2806659,0.0,1.0,Philadelphia Flyers,Washington Capitals,28.0,64.0,69.0,39.0,77.0,62.0
-/zapas/2806674,0.0,0.0,Philadelphia Flyers,Ottawa Senators,29.0,63.0,65.0,21.0,55.0,72.0
-/zapas/2806683,0.0,1.0,Philadelphia Flyers,New York Islanders,29.0,61.0,60.0,42.0,60.0,42.0
-/zapas/2806695,0.0,0.0,Philadelphia Flyers,Florida Panthers,30.0,61.0,60.0,31.0,74.0,74.0
-/zapas/2806712,1.0,0.0,Philadelphia Flyers,Carolina Hurricanes,27.0,59.0,62.0,33.0,70.0,58.0
-/zapas/2806725,0.0,1.0,Philadelphia Flyers,Calgary Flames,27.0,60.0,65.0,23.0,48.0,61.0
-/zapas/2806743,1.0,1.0,Philadelphia Flyers,Vancouver Canucks,27.0,60.0,65.0,32.0,65.0,59.0
-/zapas/2806760,1.0,0.0,Philadelphia Flyers,Columbus Blue Jackets,30.0,61.0,63.0,28.0,52.0,59.0
-/zapas/2806773,1.0,1.0,Philadelphia Flyers,Detroit Red Wings,33.0,61.0,59.0,14.0,41.0,78.0
-/zapas/2806780,1.0,0.0,Philadelphia Flyers,Montreal Canadiens,36.0,66.0,56.0,28.0,64.0,68.0
-/zapas/2806804,1.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,35.0,64.0,57.0,26.0,62.0,64.0
-/zapas/2806818,0.0,1.0,Philadelphia Flyers,Arizona Coyotes,35.0,66.0,57.0,31.0,56.0,50.0
-/zapas/2806828,1.0,1.0,Philadelphia Flyers,Ottawa Senators,32.0,60.0,56.0,28.0,54.0,60.0
-/zapas/2806862,0.0,0.0,Philadelphia Flyers,Colorado Avalanche,35.0,61.0,54.0,34.0,69.0,59.0
-/zapas/2806883,0.0,0.0,Philadelphia Flyers,Minnesota Wild,35.0,61.0,50.0,37.0,69.0,63.0
-/zapas/2806891,0.0,0.0,Philadelphia Flyers,Winnipeg Jets,33.0,58.0,51.0,39.0,62.0,51.0
-/zapas/2806904,1.0,1.0,Philadelphia Flyers,Anaheim Ducks,32.0,58.0,54.0,22.0,55.0,66.0
-/zapas/2806916,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,32.0,58.0,54.0,25.0,65.0,68.0
-/zapas/2806934,1.0,0.0,Philadelphia Flyers,Ottawa Senators,33.0,61.0,53.0,26.0,54.0,66.0
-/zapas/2806950,1.0,1.0,Philadelphia Flyers,New York Rangers,33.0,63.0,55.0,30.0,62.0,62.0
-/zapas/2806977,0.0,0.0,Philadelphia Flyers,San Jose Sharks,34.0,65.0,54.0,22.0,49.0,69.0
-/zapas/2806986,1.0,0.0,Philadelphia Flyers,Anaheim Ducks,33.0,65.0,58.0,21.0,53.0,68.0
-/zapas/2806998,0.0,0.0,Philadelphia Flyers,Los Angeles Kings,35.0,66.0,57.0,25.0,51.0,54.0
-/zapas/2807014,0.0,0.0,Philadelphia Flyers,Vegas Golden Knights,34.0,66.0,58.0,33.0,62.0,58.0
-/zapas/2807026,0.0,0.0,Philadelphia Flyers,Arizona Coyotes,34.0,68.0,58.0,30.0,57.0,58.0
-/zapas/2807044,0.0,0.0,Philadelphia Flyers,Carolina Hurricanes,31.0,65.0,61.0,33.0,63.0,53.0
-/zapas/2807052,1.0,1.0,Philadelphia Flyers,Washington Capitals,31.0,67.0,63.0,40.0,71.0,57.0
-/zapas/2807071,0.0,1.0,Philadelphia Flyers,Tampa Bay Lightning,31.0,68.0,64.0,41.0,74.0,51.0
-/zapas/2807087,1.0,1.0,Philadelphia Flyers,Boston Bruins,28.0,65.0,63.0,32.0,58.0,55.0
-/zapas/2807102,1.0,0.0,Philadelphia Flyers,St. Louis Blues,27.0,65.0,67.0,42.0,71.0,52.0
-/zapas/2807107,0.0,1.0,Philadelphia Flyers,Montreal Canadiens,27.0,65.0,67.0,22.0,53.0,54.0
-/zapas/2807126,1.0,1.0,Philadelphia Flyers,Los Angeles Kings,24.0,60.0,70.0,22.0,51.0,58.0
-/zapas/2807139,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,27.0,63.0,68.0,40.0,70.0,55.0
-/zapas/2807162,0.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,27.0,62.0,65.0,37.0,65.0,55.0
-/zapas/2807175,1.0,1.0,Philadelphia Flyers,Colorado Avalanche,28.0,64.0,66.0,31.0,72.0,64.0
-/zapas/2807187,1.0,0.0,Philadelphia Flyers,Detroit Red Wings,31.0,69.0,65.0,12.0,39.0,73.0
-/zapas/2807208,0.0,1.0,Philadelphia Flyers,New Jersey Devils,34.0,69.0,58.0,26.0,64.0,75.0
-/zapas/2807226,1.0,0.0,Philadelphia Flyers,Washington Capitals,31.0,65.0,62.0,34.0,72.0,63.0
-/zapas/2807237,1.0,1.0,Philadelphia Flyers,Florida Panthers,31.0,66.0,63.0,37.0,70.0,68.0
-/zapas/2807245,0.0,0.0,Philadelphia Flyers,New York Islanders,32.0,65.0,60.0,28.0,58.0,60.0
-/zapas/2807259,1.0,0.0,Philadelphia Flyers,Florida Panthers,29.0,63.0,64.0,37.0,71.0,67.0
-/zapas/2807273,0.0,0.0,Philadelphia Flyers,Tampa Bay Lightning,32.0,68.0,60.0,49.0,69.0,33.0
-/zapas/2807296,1.0,1.0,Philadelphia Flyers,Columbus Blue Jackets,30.0,69.0,64.0,38.0,50.0,38.0
-/zapas/2807312,1.0,0.0,Philadelphia Flyers,Columbus Blue Jackets,33.0,71.0,60.0,36.0,49.0,42.0
-/zapas/2807325,1.0,1.0,Philadelphia Flyers,Winnipeg Jets,35.0,71.0,58.0,30.0,60.0,56.0
-/zapas/2807348,1.0,1.0,Philadelphia Flyers,San Jose Sharks,38.0,73.0,54.0,25.0,47.0,62.0
-/zapas/2807370,1.0,1.0,Philadelphia Flyers,New York Rangers,40.0,73.0,51.0,40.0,68.0,49.0
-/zapas/2807387,1.0,0.0,Philadelphia Flyers,New York Rangers,40.0,75.0,51.0,40.0,68.0,49.0
-/zapas/2807405,1.0,0.0,Philadelphia Flyers,Washington Capitals,43.0,80.0,53.0,30.0,63.0,66.0
-/zapas/2807413,1.0,1.0,Philadelphia Flyers,Carolina Hurricanes,44.0,79.0,50.0,27.0,59.0,60.0
-/zapas/2807433,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,45.0,79.0,48.0,23.0,51.0,63.0
-/zapas/2807449,0.0,1.0,Philadelphia Flyers,Boston Bruins,48.0,81.0,45.0,42.0,62.0,45.0
-/zapas/2893211,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,45.0,77.0,46.0,27.0,56.0,63.0
-/zapas/2893227,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,45.0,80.0,49.0,27.0,59.0,66.0
-/zapas/2893249,0.0,1.0,Philadelphia Flyers,Buffalo Sabres,47.0,82.0,47.0,22.0,52.0,65.0
-/zapas/2893256,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,44.0,77.0,50.0,23.0,56.0,65.0
-/zapas/2893268,0.0,0.0,Philadelphia Flyers,Boston Bruins,44.0,77.0,50.0,39.0,54.0,42.0
-/zapas/2893285,0.0,0.0,Philadelphia Flyers,Boston Bruins,45.0,81.0,50.0,38.0,55.0,46.0
-/zapas/2893310,1.0,0.0,Philadelphia Flyers,New Jersey Devils,42.0,75.0,54.0,34.0,51.0,51.0
-/zapas/2893324,1.0,0.0,Philadelphia Flyers,New Jersey Devils,42.0,76.0,56.0,34.0,51.0,51.0
-/zapas/2893337,1.0,1.0,Philadelphia Flyers,New York Islanders,45.0,76.0,52.0,19.0,40.0,59.0
-/zapas/2893348,1.0,1.0,Philadelphia Flyers,New York Islanders,44.0,73.0,52.0,20.0,42.0,57.0
-/zapas/2893367,0.0,1.0,Philadelphia Flyers,Boston Bruins,46.0,74.0,50.0,39.0,61.0,49.0
-/zapas/2893382,0.0,1.0,Philadelphia Flyers,Boston Bruins,44.0,72.0,53.0,38.0,62.0,51.0
-/zapas/2893399,1.0,0.0,Philadelphia Flyers,Washington Capitals,42.0,69.0,52.0,32.0,69.0,69.0
-/zapas/2893477,0.0,1.0,Philadelphia Flyers,New York Rangers,42.0,72.0,54.0,20.0,53.0,63.0
-/zapas/2893498,0.0,0.0,Philadelphia Flyers,Boston Bruins,40.0,70.0,55.0,38.0,57.0,40.0
-/zapas/2893518,1.0,1.0,Philadelphia Flyers,New York Rangers,37.0,68.0,60.0,25.0,56.0,58.0
-/zapas/2893531,1.0,0.0,Philadelphia Flyers,Buffalo Sabres,37.0,67.0,60.0,21.0,50.0,60.0
-/zapas/2893551,1.0,0.0,Philadelphia Flyers,Buffalo Sabres,37.0,65.0,58.0,21.0,48.0,59.0
-/zapas/2893564,0.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,37.0,64.0,57.0,27.0,60.0,65.0
-/zapas/2893578,1.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,34.0,63.0,61.0,30.0,62.0,61.0
-/zapas/2893877,0.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,37.0,67.0,62.0,30.0,63.0,60.0
-/zapas/2893980,0.0,1.0,Philadelphia Flyers,Washington Capitals,34.0,64.0,63.0,33.0,65.0,66.0
+/zapas/2891089,1.0,1.0,Philadelphia Flyers,Montreal Canadiens,23.0,61.0,72.0,35.0,58.0,51.0
+/zapas/2891090,0.0,1.0,Philadelphia Flyers,Montreal Canadiens,23.0,58.0,71.0,32.0,56.0,52.0
+/zapas/2891091,1.0,0.0,Philadelphia Flyers,Montreal Canadiens,22.0,55.0,72.0,35.0,59.0,47.0
+/zapas/2891092,1.0,0.0,Philadelphia Flyers,Montreal Canadiens,22.0,50.0,69.0,35.0,57.0,40.0
+/zapas/2891093,0.0,1.0,Philadelphia Flyers,Montreal Canadiens,22.0,48.0,68.0,32.0,54.0,41.0
+/zapas/2891094,1.0,0.0,Philadelphia Flyers,Montreal Canadiens,22.0,48.0,68.0,35.0,58.0,42.0
+/zapas/2891139,0.0,1.0,Philadelphia Flyers,New York Islanders,22.0,46.0,68.0,40.0,60.0,42.0
+/zapas/2891140,1.0,1.0,Philadelphia Flyers,New York Islanders,19.0,43.0,70.0,40.0,59.0,38.0
+/zapas/2891141,0.0,0.0,Philadelphia Flyers,New York Islanders,21.0,45.0,68.0,38.0,60.0,41.0
+/zapas/2891142,0.0,0.0,Philadelphia Flyers,New York Islanders,21.0,40.0,64.0,39.0,59.0,39.0
+/zapas/2891143,1.0,1.0,Philadelphia Flyers,New York Islanders,19.0,40.0,66.0,40.0,58.0,38.0
+/zapas/2891144,1.0,0.0,Philadelphia Flyers,New York Islanders,21.0,43.0,66.0,38.0,58.0,41.0
+/zapas/2891145,0.0,1.0,Philadelphia Flyers,New York Islanders,20.0,45.0,69.0,36.0,58.0,45.0
+/zapas/2893249,0.0,1.0,Philadelphia Flyers,Buffalo Sabres,24.0,48.0,67.0,22.0,52.0,65.0
+/zapas/2893256,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,24.0,47.0,68.0,23.0,56.0,65.0
+/zapas/2893310,1.0,0.0,Philadelphia Flyers,New Jersey Devils,28.0,50.0,63.0,34.0,51.0,51.0
+/zapas/2893324,1.0,0.0,Philadelphia Flyers,New Jersey Devils,31.0,52.0,62.0,34.0,51.0,51.0
+/zapas/2893477,0.0,1.0,Philadelphia Flyers,New York Rangers,30.0,62.0,65.0,17.0,44.0,60.0
+/zapas/2893518,1.0,1.0,Philadelphia Flyers,New York Rangers,29.0,63.0,68.0,21.0,48.0,56.0
+/zapas/2893531,1.0,0.0,Philadelphia Flyers,Buffalo Sabres,32.0,66.0,68.0,21.0,50.0,60.0
+/zapas/2893551,1.0,0.0,Philadelphia Flyers,Buffalo Sabres,35.0,67.0,65.0,21.0,48.0,59.0
 /zapas/2893611,1.0,1.0,Philadelphia Flyers,Buffalo Sabres,31.0,60.0,64.0,16.0,41.0,66.0
-/zapas/2893628,0.0,1.0,Philadelphia Flyers,Washington Capitals,33.0,64.0,62.0,35.0,65.0,63.0
-/zapas/2893643,0.0,1.0,Philadelphia Flyers,Washington Capitals,30.0,64.0,67.0,37.0,67.0,62.0
 /zapas/2893656,1.0,0.0,Philadelphia Flyers,New York Rangers,29.0,64.0,67.0,30.0,57.0,53.0
 /zapas/2893672,0.0,0.0,Philadelphia Flyers,New York Rangers,31.0,68.0,65.0,29.0,58.0,56.0
-/zapas/2893679,1.0,0.0,Philadelphia Flyers,New York Islanders,28.0,63.0,71.0,45.0,64.0,40.0
-/zapas/2893694,0.0,0.0,Philadelphia Flyers,New York Islanders,28.0,64.0,73.0,42.0,65.0,44.0
-/zapas/2893963,0.0,1.0,Philadelphia Flyers,New York Islanders,26.0,62.0,77.0,44.0,68.0,41.0
 /zapas/2893715,0.0,1.0,Philadelphia Flyers,New Jersey Devils,25.0,59.0,76.0,21.0,48.0,64.0
 /zapas/2893728,0.0,1.0,Philadelphia Flyers,New York Rangers,24.0,59.0,76.0,31.0,65.0,52.0
 /zapas/2893743,1.0,1.0,Philadelphia Flyers,New York Rangers,24.0,61.0,82.0,33.0,71.0,52.0
 /zapas/2893759,1.0,0.0,Philadelphia Flyers,Buffalo Sabres,24.0,56.0,79.0,8.0,36.0,77.0
 /zapas/2893767,0.0,0.0,Philadelphia Flyers,Buffalo Sabres,25.0,58.0,79.0,6.0,36.0,79.0
-/zapas/2893798,0.0,0.0,Philadelphia Flyers,New York Islanders,25.0,56.0,78.0,42.0,73.0,47.0
-/zapas/2893600,1.0,0.0,Philadelphia Flyers,Boston Bruins,23.0,54.0,78.0,29.0,54.0,56.0
-/zapas/2893824,0.0,1.0,Philadelphia Flyers,Boston Bruins,22.0,54.0,80.0,30.0,54.0,56.0
-/zapas/2893836,0.0,0.0,Philadelphia Flyers,New York Islanders,19.0,53.0,84.0,41.0,67.0,45.0
-/zapas/2893816,1.0,1.0,Philadelphia Flyers,Boston Bruins,20.0,53.0,82.0,33.0,53.0,50.0
 /zapas/2893861,0.0,1.0,Philadelphia Flyers,Buffalo Sabres,20.0,52.0,81.0,11.0,47.0,81.0
-/zapas/2893415,0.0,0.0,Philadelphia Flyers,Washington Capitals,20.0,52.0,82.0,40.0,71.0,56.0
-/zapas/2893889,1.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,20.0,52.0,85.0,46.0,78.0,47.0
-/zapas/2893903,0.0,1.0,Philadelphia Flyers,Washington Capitals,20.0,49.0,82.0,40.0,75.0,56.0
-/zapas/2893912,0.0,1.0,Philadelphia Flyers,New York Islanders,20.0,49.0,83.0,32.0,58.0,51.0
 /zapas/2893463,1.0,0.0,Philadelphia Flyers,New York Rangers,21.0,45.0,79.0,38.0,80.0,53.0
 /zapas/2893949,0.0,0.0,Philadelphia Flyers,New York Rangers,22.0,43.0,77.0,37.0,78.0,51.0
 /zapas/2893430,1.0,1.0,Philadelphia Flyers,New Jersey Devils,22.0,44.0,72.0,13.0,50.0,80.0
 /zapas/2893928,0.0,0.0,Philadelphia Flyers,New Jersey Devils,21.0,44.0,72.0,14.0,52.0,81.0
 /zapas/2893994,0.0,0.0,Philadelphia Flyers,New Jersey Devils,21.0,47.0,72.0,15.0,56.0,84.0
 /zapas/2894011,0.0,1.0,Philadelphia Flyers,New Jersey Devils,20.0,49.0,75.0,15.0,57.0,84.0
-/zapas/2894025,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,20.0,47.0,75.0,45.0,78.0,54.0
-/zapas/2894034,0.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,23.0,51.0,69.0,42.0,75.0,59.0
-/zapas/2894056,1.0,0.0,Philadelphia Flyers,Washington Capitals,20.0,52.0,75.0,35.0,71.0,62.0
-/zapas/2894068,0.0,0.0,Philadelphia Flyers,Washington Capitals,21.0,52.0,74.0,32.0,68.0,62.0
 /zapas/2893444,1.0,1.0,Philadelphia Flyers,New Jersey Devils,22.0,52.0,70.0,18.0,59.0,82.0
 /zapas/2897000,0.0,1.0,Philadelphia Flyers,Vancouver Canucks,24.0,54.0,69.0,22.0,53.0,71.0
-/zapas/2897032,1.0,1.0,Philadelphia Flyers,Boston Bruins,26.0,59.0,69.0,38.0,65.0,44.0
-/zapas/2897056,0.0,1.0,Philadelphia Flyers,Florida Panthers,28.0,63.0,69.0,41.0,75.0,52.0
-/zapas/2897078,1.0,0.0,Philadelphia Flyers,Edmonton Oilers,25.0,62.0,71.0,42.0,73.0,52.0
 /zapas/2897083,1.0,0.0,Philadelphia Flyers,Vancouver Canucks,28.0,64.0,69.0,22.0,54.0,71.0
-/zapas/2897102,0.0,0.0,Philadelphia Flyers,Calgary Flames,31.0,65.0,64.0,35.0,66.0,49.0
 /zapas/2897124,1.0,1.0,Philadelphia Flyers,Arizona Coyotes,29.0,63.0,67.0,13.0,45.0,74.0
-/zapas/2897137,0.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,32.0,63.0,61.0,37.0,72.0,59.0
-/zapas/2897153,1.0,0.0,Philadelphia Flyers,Washington Capitals,32.0,65.0,63.0,39.0,64.0,49.0
-/zapas/2897175,0.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,32.0,64.0,62.0,34.0,57.0,54.0
-/zapas/2897190,1.0,0.0,Philadelphia Flyers,Carolina Hurricanes,32.0,63.0,61.0,45.0,67.0,43.0
-/zapas/2897196,0.0,0.0,Philadelphia Flyers,Dallas Stars,33.0,61.0,59.0,17.0,46.0,69.0
-/zapas/2897223,1.0,1.0,Philadelphia Flyers,Calgary Flames,33.0,59.0,58.0,38.0,72.0,45.0
-/zapas/2897239,0.0,1.0,Philadelphia Flyers,Tampa Bay Lightning,35.0,58.0,54.0,31.0,54.0,58.0
-/zapas/2897254,0.0,1.0,Philadelphia Flyers,Boston Bruins,36.0,60.0,54.0,35.0,65.0,52.0
-/zapas/2897270,0.0,0.0,Philadelphia Flyers,Tampa Bay Lightning,33.0,55.0,57.0,28.0,58.0,66.0
-/zapas/2897279,0.0,0.0,Philadelphia Flyers,Florida Panthers,33.0,52.0,54.0,45.0,80.0,48.0
-/zapas/2897295,0.0,1.0,Philadelphia Flyers,Carolina Hurricanes,31.0,49.0,54.0,42.0,59.0,44.0
 /zapas/2897311,0.0,0.0,Philadelphia Flyers,New Jersey Devils,30.0,51.0,58.0,25.0,55.0,65.0
-/zapas/2897332,0.0,0.0,Philadelphia Flyers,New York Rangers,27.0,49.0,61.0,40.0,60.0,54.0
-/zapas/2897362,0.0,1.0,Philadelphia Flyers,Tampa Bay Lightning,26.0,46.0,60.0,36.0,63.0,51.0
-/zapas/2897367,0.0,1.0,Philadelphia Flyers,Colorado Avalanche,23.0,41.0,66.0,34.0,81.0,69.0
 /zapas/2897381,0.0,0.0,Philadelphia Flyers,New Jersey Devils,20.0,40.0,70.0,24.0,58.0,70.0
 /zapas/2897394,1.0,0.0,Philadelphia Flyers,Vegas Golden Knights,20.0,38.0,69.0,40.0,76.0,58.0
 /zapas/2897405,1.0,0.0,Philadelphia Flyers,Arizona Coyotes,20.0,37.0,69.0,14.0,34.0,66.0
@@ -298,54 +80,28 @@ game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,T
 /zapas/2897460,1.0,1.0,Philadelphia Flyers,Ottawa Senators,21.0,45.0,71.0,17.0,57.0,77.0
 /zapas/2897523,1.0,0.0,Philadelphia Flyers,Seattle Kraken,22.0,47.0,71.0,23.0,59.0,75.0
 /zapas/2897534,0.0,0.0,Philadelphia Flyers,San Jose Sharks,21.0,48.0,72.0,27.0,54.0,62.0
-/zapas/2897547,0.0,0.0,Philadelphia Flyers,Los Angeles Kings,22.0,50.0,72.0,29.0,50.0,54.0
 /zapas/2897568,0.0,0.0,Philadelphia Flyers,Anaheim Ducks,19.0,51.0,77.0,27.0,55.0,55.0
-/zapas/2897592,0.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,19.0,50.0,76.0,42.0,66.0,47.0
 /zapas/2897607,0.0,1.0,Philadelphia Flyers,San Jose Sharks,17.0,50.0,81.0,26.0,56.0,68.0
-/zapas/2897637,0.0,0.0,Philadelphia Flyers,Boston Bruins,17.0,49.0,80.0,37.0,63.0,48.0
-/zapas/2897659,0.0,1.0,Philadelphia Flyers,New York Rangers,17.0,49.0,78.0,39.0,59.0,43.0
 /zapas/2897671,0.0,0.0,Philadelphia Flyers,New York Islanders,17.0,51.0,77.0,21.0,40.0,59.0
 /zapas/2897326,0.0,1.0,Philadelphia Flyers,New York Islanders,16.0,51.0,79.0,24.0,44.0,56.0
 /zapas/2897692,0.0,1.0,Philadelphia Flyers,Columbus Blue Jackets,17.0,51.0,77.0,20.0,59.0,80.0
 /zapas/2897708,0.0,0.0,Philadelphia Flyers,Buffalo Sabres,17.0,50.0,74.0,16.0,47.0,72.0
-/zapas/2897723,0.0,1.0,Philadelphia Flyers,Dallas Stars,17.0,52.0,76.0,30.0,62.0,66.0
 /zapas/2897730,0.0,0.0,Philadelphia Flyers,New York Islanders,17.0,52.0,72.0,29.0,49.0,47.0
-/zapas/2897762,1.0,1.0,Philadelphia Flyers,Los Angeles Kings,17.0,50.0,69.0,37.0,60.0,53.0
 /zapas/2897786,1.0,1.0,Philadelphia Flyers,Winnipeg Jets,19.0,54.0,69.0,26.0,59.0,65.0
 /zapas/2897680,0.0,1.0,Philadelphia Flyers,Detroit Red Wings,19.0,53.0,67.0,21.0,55.0,73.0
 /zapas/2897794,0.0,0.0,Philadelphia Flyers,Detroit Red Wings,16.0,51.0,70.0,24.0,58.0,69.0
-/zapas/2897502,0.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,13.0,47.0,73.0,43.0,76.0,54.0
-/zapas/2897483,0.0,1.0,Philadelphia Flyers,Washington Capitals,13.0,49.0,75.0,26.0,58.0,61.0
-/zapas/2897625,0.0,1.0,Philadelphia Flyers,Carolina Hurricanes,11.0,48.0,77.0,40.0,77.0,56.0
-/zapas/2897830,0.0,1.0,Philadelphia Flyers,St. Louis Blues,10.0,48.0,79.0,40.0,75.0,57.0
-/zapas/2897818,1.0,1.0,Philadelphia Flyers,Washington Capitals,9.0,47.0,80.0,23.0,56.0,64.0
-/zapas/2897839,0.0,1.0,Philadelphia Flyers,Edmonton Oilers,12.0,46.0,75.0,32.0,65.0,64.0
-/zapas/2897852,0.0,1.0,Philadelphia Flyers,Minnesota Wild,12.0,45.0,74.0,35.0,75.0,64.0
 /zapas/2897868,1.0,1.0,Philadelphia Flyers,Chicago Blackhawks,12.0,47.0,73.0,25.0,55.0,69.0
 /zapas/2897892,1.0,1.0,Philadelphia Flyers,Vegas Golden Knights,14.0,49.0,73.0,28.0,50.0,56.0
-/zapas/2897905,0.0,0.0,Philadelphia Flyers,Florida Panthers,17.0,49.0,71.0,39.0,88.0,58.0
-/zapas/2897922,0.0,0.0,Philadelphia Flyers,Carolina Hurricanes,17.0,50.0,74.0,38.0,61.0,50.0
 /zapas/2897930,0.0,1.0,Philadelphia Flyers,Montreal Canadiens,17.0,50.0,73.0,21.0,60.0,82.0
-/zapas/2897956,1.0,1.0,Philadelphia Flyers,Nashville Predators,17.0,50.0,73.0,33.0,70.0,55.0
 /zapas/2897962,0.0,0.0,Philadelphia Flyers,Ottawa Senators,20.0,54.0,75.0,21.0,48.0,62.0
 /zapas/2897978,1.0,1.0,Philadelphia Flyers,New York Islanders,20.0,52.0,72.0,33.0,68.0,59.0
 /zapas/2897989,0.0,0.0,Philadelphia Flyers,Detroit Red Wings,23.0,53.0,70.0,18.0,65.0,93.0
-/zapas/2898003,1.0,0.0,Philadelphia Flyers,St. Louis Blues,23.0,53.0,72.0,34.0,75.0,59.0
-/zapas/2898010,0.0,0.0,Philadelphia Flyers,Colorado Avalanche,24.0,54.0,71.0,39.0,62.0,49.0
-/zapas/2898027,0.0,0.0,Philadelphia Flyers,Nashville Predators,21.0,54.0,76.0,29.0,72.0,67.0
-/zapas/2898043,0.0,0.0,Philadelphia Flyers,Minnesota Wild,21.0,55.0,75.0,27.0,66.0,74.0
-/zapas/2898079,0.0,1.0,Philadelphia Flyers,Toronto Maple Leafs,21.0,54.0,75.0,35.0,81.0,78.0
-/zapas/2898088,1.0,0.0,Philadelphia Flyers,New York Rangers,20.0,53.0,76.0,36.0,62.0,55.0
 /zapas/2898102,0.0,1.0,Philadelphia Flyers,Columbus Blue Jackets,22.0,54.0,74.0,22.0,58.0,80.0
 /zapas/2898117,1.0,0.0,Philadelphia Flyers,Columbus Blue Jackets,21.0,53.0,74.0,22.0,56.0,79.0
 /zapas/2898134,0.0,1.0,Philadelphia Flyers,Anaheim Ducks,24.0,56.0,71.0,13.0,45.0,76.0
-/zapas/2898157,0.0,0.0,Philadelphia Flyers,Washington Capitals,21.0,57.0,75.0,33.0,69.0,65.0
-/zapas/2898160,0.0,1.0,Philadelphia Flyers,New York Rangers,21.0,59.0,81.0,37.0,65.0,54.0
 /zapas/2898186,0.0,0.0,Philadelphia Flyers,Buffalo Sabres,21.0,55.0,80.0,27.0,57.0,72.0
 /zapas/2898196,0.0,1.0,Philadelphia Flyers,Buffalo Sabres,18.0,54.0,81.0,30.0,61.0,72.0
-/zapas/2898204,0.0,0.0,Philadelphia Flyers,Toronto Maple Leafs,15.0,55.0,85.0,42.0,88.0,68.0
 /zapas/2898218,1.0,0.0,Philadelphia Flyers,Montreal Canadiens,15.0,54.0,84.0,17.0,57.0,80.0
-/zapas/2898249,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,18.0,59.0,84.0,29.0,72.0,59.0
 /zapas/2898252,0.0,0.0,Philadelphia Flyers,Chicago Blackhawks,20.0,60.0,81.0,15.0,55.0,79.0
 /zapas/2898270,0.0,0.0,Philadelphia Flyers,Winnipeg Jets,17.0,56.0,80.0,27.0,63.0,69.0
 /zapas/2898291,0.0,1.0,Philadelphia Flyers,Ottawa Senators,17.0,55.0,81.0,29.0,62.0,65.0

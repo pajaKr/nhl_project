@@ -1,350 +1,109 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
-/zapas/2526394,1.0,1.0,New Jersey Devils,Vancouver Canucks,33.0,65.0,65.0,32.0,56.0,56.0
-/zapas/2526405,1.0,0.0,New Jersey Devils,Detroit Red Wings,33.0,62.0,65.0,27.0,58.0,59.0
-/zapas/2526416,0.0,1.0,New Jersey Devils,Florida Panthers,32.0,60.0,65.0,21.0,56.0,68.0
-/zapas/2526449,1.0,0.0,New Jersey Devils,Colorado Avalanche,32.0,60.0,63.0,29.0,67.0,67.0
-/zapas/2526457,0.0,0.0,New Jersey Devils,Arizona Coyotes,32.0,59.0,62.0,17.0,48.0,67.0
-/zapas/2526471,1.0,0.0,New Jersey Devils,Columbus Blue Jackets,30.0,54.0,63.0,31.0,58.0,51.0
-/zapas/2526493,0.0,1.0,New Jersey Devils,Columbus Blue Jackets,31.0,53.0,60.0,31.0,55.0,49.0
-/zapas/2526503,0.0,0.0,New Jersey Devils,New York Rangers,31.0,56.0,62.0,38.0,73.0,55.0
-/zapas/2526521,1.0,1.0,New Jersey Devils,Los Angeles Kings,29.0,53.0,63.0,31.0,59.0,48.0
-/zapas/2526536,0.0,0.0,New Jersey Devils,Montreal Canadiens,29.0,54.0,61.0,31.0,62.0,57.0
-/zapas/2526546,1.0,1.0,New Jersey Devils,Dallas Stars,27.0,53.0,63.0,31.0,62.0,59.0
-/zapas/2526566,1.0,1.0,New Jersey Devils,Anaheim Ducks,30.0,55.0,59.0,30.0,49.0,54.0
-/zapas/2526584,1.0,1.0,New Jersey Devils,New York Rangers,32.0,56.0,57.0,39.0,70.0,49.0
-/zapas/2526602,1.0,1.0,New Jersey Devils,Chicago Blackhawks,34.0,59.0,57.0,30.0,59.0,56.0
-/zapas/2526613,1.0,1.0,New Jersey Devils,Detroit Red Wings,36.0,61.0,55.0,24.0,54.0,72.0
-/zapas/2526630,0.0,1.0,New Jersey Devils,Buffalo Sabres,36.0,62.0,55.0,17.0,40.0,63.0
-/zapas/2526643,0.0,0.0,New Jersey Devils,Washington Capitals,34.0,58.0,54.0,38.0,62.0,52.0
-/zapas/2526661,0.0,0.0,New Jersey Devils,St. Louis Blues,33.0,60.0,58.0,27.0,49.0,47.0
-/zapas/2526677,0.0,0.0,New Jersey Devils,Dallas Stars,34.0,60.0,56.0,31.0,62.0,52.0
-/zapas/2526696,0.0,0.0,New Jersey Devils,New York Islanders,32.0,59.0,57.0,20.0,59.0,81.0
-/zapas/2526727,0.0,1.0,New Jersey Devils,Philadelphia Flyers,32.0,61.0,59.0,35.0,62.0,57.0
-/zapas/2526741,1.0,0.0,New Jersey Devils,New York Islanders,29.0,61.0,62.0,21.0,64.0,82.0
-/zapas/2526752,1.0,1.0,New Jersey Devils,Washington Capitals,30.0,61.0,60.0,39.0,66.0,52.0
-/zapas/2526762,0.0,0.0,New Jersey Devils,Philadelphia Flyers,32.0,63.0,60.0,38.0,62.0,54.0
-/zapas/2526780,0.0,1.0,New Jersey Devils,Detroit Red Wings,29.0,62.0,62.0,24.0,50.0,64.0
-/zapas/2526786,0.0,0.0,New Jersey Devils,Boston Bruins,29.0,62.0,60.0,46.0,81.0,39.0
-/zapas/2526801,0.0,1.0,New Jersey Devils,Nashville Predators,26.0,60.0,62.0,39.0,60.0,48.0
-/zapas/2526815,1.0,0.0,New Jersey Devils,Buffalo Sabres,26.0,57.0,60.0,23.0,52.0,64.0
-/zapas/2526832,1.0,1.0,New Jersey Devils,Philadelphia Flyers,29.0,58.0,56.0,33.0,57.0,58.0
-/zapas/2526852,1.0,1.0,New Jersey Devils,Pittsburgh Penguins,29.0,57.0,58.0,36.0,68.0,53.0
-/zapas/2526870,0.0,0.0,New Jersey Devils,Ottawa Senators,31.0,59.0,57.0,17.0,47.0,73.0
-/zapas/2526881,0.0,1.0,New Jersey Devils,Calgary Flames,28.0,57.0,60.0,35.0,59.0,50.0
-/zapas/2526902,0.0,0.0,New Jersey Devils,Columbus Blue Jackets,25.0,54.0,60.0,20.0,44.0,61.0
-/zapas/2526911,0.0,1.0,New Jersey Devils,Boston Bruins,23.0,51.0,63.0,47.0,77.0,40.0
-/zapas/2526921,1.0,0.0,New Jersey Devils,Philadelphia Flyers,20.0,50.0,67.0,35.0,66.0,59.0
-/zapas/2526933,1.0,1.0,New Jersey Devils,Carolina Hurricanes,19.0,52.0,70.0,29.0,54.0,58.0
-/zapas/2526953,1.0,0.0,New Jersey Devils,Tampa Bay Lightning,21.0,54.0,68.0,33.0,64.0,62.0
-/zapas/2526961,1.0,0.0,New Jersey Devils,Carolina Hurricanes,24.0,56.0,66.0,28.0,50.0,58.0
-/zapas/2526973,0.0,1.0,New Jersey Devils,Columbus Blue Jackets,25.0,57.0,65.0,20.0,44.0,60.0
-/zapas/2526985,0.0,1.0,New Jersey Devils,Minnesota Wild,25.0,55.0,63.0,39.0,67.0,56.0
-/zapas/2527007,1.0,1.0,New Jersey Devils,New York Islanders,24.0,53.0,62.0,27.0,65.0,69.0
-/zapas/2527024,1.0,0.0,New Jersey Devils,Pittsburgh Penguins,27.0,52.0,58.0,45.0,86.0,54.0
-/zapas/2527039,0.0,0.0,New Jersey Devils,Florida Panthers,27.0,51.0,59.0,35.0,67.0,65.0
-/zapas/2527047,0.0,0.0,New Jersey Devils,Carolina Hurricanes,25.0,49.0,59.0,27.0,46.0,58.0
-/zapas/2527065,0.0,1.0,New Jersey Devils,Vegas Golden Knights,25.0,49.0,59.0,34.0,73.0,60.0
-/zapas/2527075,1.0,1.0,New Jersey Devils,Montreal Canadiens,25.0,51.0,59.0,26.0,51.0,58.0
-/zapas/2527087,0.0,1.0,New Jersey Devils,Winnipeg Jets,28.0,55.0,60.0,41.0,70.0,48.0
-/zapas/2527111,1.0,0.0,New Jersey Devils,Nashville Predators,28.0,57.0,60.0,42.0,75.0,47.0
-/zapas/2527135,1.0,0.0,New Jersey Devils,Vegas Golden Knights,27.0,57.0,61.0,35.0,67.0,57.0
-/zapas/2527154,1.0,0.0,New Jersey Devils,Los Angeles Kings,27.0,61.0,61.0,36.0,65.0,52.0
-/zapas/2527169,0.0,0.0,New Jersey Devils,Anaheim Ducks,27.0,61.0,60.0,33.0,57.0,51.0
-/zapas/2527185,0.0,0.0,New Jersey Devils,San Jose Sharks,27.0,60.0,59.0,35.0,67.0,57.0
-/zapas/2527201,1.0,0.0,New Jersey Devils,Pittsburgh Penguins,27.0,60.0,62.0,39.0,79.0,63.0
-/zapas/2527211,1.0,1.0,New Jersey Devils,Tampa Bay Lightning,29.0,63.0,59.0,37.0,77.0,69.0
-/zapas/2527231,1.0,1.0,New Jersey Devils,Carolina Hurricanes,32.0,62.0,55.0,26.0,61.0,74.0
-/zapas/2527246,0.0,1.0,New Jersey Devils,Pittsburgh Penguins,33.0,61.0,54.0,35.0,77.0,67.0
-/zapas/2527264,1.0,1.0,New Jersey Devils,New York Islanders,31.0,59.0,56.0,19.0,56.0,70.0
-/zapas/2527274,1.0,0.0,New Jersey Devils,Montreal Canadiens,31.0,59.0,56.0,23.0,49.0,65.0
-/zapas/2527283,1.0,1.0,New Jersey Devils,New York Rangers,32.0,58.0,55.0,23.0,59.0,72.0
-/zapas/2527295,1.0,1.0,New Jersey Devils,Toronto Maple Leafs,35.0,62.0,55.0,39.0,71.0,58.0
-/zapas/2527317,0.0,0.0,New Jersey Devils,Washington Capitals,38.0,62.0,52.0,40.0,65.0,53.0
-/zapas/2647215,1.0,1.0,New Jersey Devils,Edmonton Oilers,35.0,63.0,56.0,26.0,57.0,59.0
-/zapas/2647246,1.0,1.0,New Jersey Devils,Washington Capitals,35.0,65.0,56.0,41.0,74.0,55.0
-/zapas/2647269,1.0,1.0,New Jersey Devils,San Jose Sharks,38.0,69.0,53.0,31.0,69.0,61.0
-/zapas/2647276,1.0,1.0,New Jersey Devils,Dallas Stars,41.0,71.0,52.0,25.0,58.0,64.0
-/zapas/2647289,0.0,1.0,New Jersey Devils,Colorado Avalanche,44.0,72.0,49.0,32.0,63.0,50.0
-/zapas/2647300,0.0,0.0,New Jersey Devils,Philadelphia Flyers,41.0,69.0,50.0,31.0,73.0,72.0
-/zapas/2647334,0.0,1.0,New Jersey Devils,Nashville Predators,41.0,69.0,52.0,39.0,66.0,53.0
-/zapas/2647346,1.0,1.0,New Jersey Devils,Florida Panthers,40.0,69.0,54.0,32.0,62.0,62.0
-/zapas/2647370,0.0,0.0,New Jersey Devils,Tampa Bay Lightning,40.0,64.0,53.0,37.0,69.0,61.0
-/zapas/2647382,0.0,0.0,New Jersey Devils,Detroit Red Wings,37.0,64.0,61.0,21.0,58.0,72.0
-/zapas/2647396,0.0,0.0,New Jersey Devils,New York Islanders,37.0,65.0,61.0,31.0,62.0,56.0
-/zapas/2647410,1.0,0.0,New Jersey Devils,Pittsburgh Penguins,37.0,63.0,58.0,32.0,74.0,65.0
-/zapas/2647416,0.0,0.0,New Jersey Devils,Ottawa Senators,38.0,64.0,56.0,22.0,59.0,80.0
-/zapas/2647434,0.0,0.0,New Jersey Devils,Toronto Maple Leafs,35.0,65.0,62.0,37.0,67.0,53.0
-/zapas/2647454,0.0,0.0,New Jersey Devils,Winnipeg Jets,32.0,62.0,65.0,41.0,66.0,52.0
-/zapas/2647463,1.0,1.0,New Jersey Devils,Pittsburgh Penguins,31.0,61.0,66.0,32.0,70.0,59.0
-/zapas/2647476,1.0,0.0,New Jersey Devils,Philadelphia Flyers,31.0,61.0,65.0,32.0,67.0,65.0
-/zapas/2647490,0.0,1.0,New Jersey Devils,Detroit Red Wings,31.0,62.0,64.0,23.0,57.0,67.0
-/zapas/2647502,0.0,0.0,New Jersey Devils,Carolina Hurricanes,29.0,59.0,65.0,26.0,54.0,60.0
-/zapas/2647517,1.0,1.0,New Jersey Devils,Montreal Canadiens,26.0,58.0,66.0,34.0,68.0,67.0
-/zapas/2647534,0.0,1.0,New Jersey Devils,New York Islanders,29.0,60.0,63.0,30.0,63.0,60.0
-/zapas/2647557,0.0,0.0,New Jersey Devils,Tampa Bay Lightning,27.0,58.0,65.0,41.0,76.0,59.0
+/zapas/2647476,1.0,0.0,New Jersey Devils,Philadelphia Flyers,25.0,59.0,69.0,29.0,67.0,72.0
+/zapas/2647490,0.0,1.0,New Jersey Devils,Detroit Red Wings,28.0,59.0,64.0,23.0,57.0,67.0
+/zapas/2647517,1.0,1.0,New Jersey Devils,Montreal Canadiens,26.0,56.0,64.0,34.0,68.0,67.0
 /zapas/2647561,0.0,0.0,New Jersey Devils,Florida Panthers,24.0,54.0,70.0,25.0,68.0,76.0
-/zapas/2647589,0.0,0.0,New Jersey Devils,Washington Capitals,22.0,54.0,72.0,34.0,66.0,59.0
-/zapas/2647599,0.0,1.0,New Jersey Devils,Winnipeg Jets,19.0,54.0,78.0,37.0,75.0,61.0
-/zapas/2647611,0.0,1.0,New Jersey Devils,Tampa Bay Lightning,20.0,54.0,77.0,39.0,75.0,61.0
 /zapas/2647637,1.0,0.0,New Jersey Devils,Los Angeles Kings,20.0,53.0,77.0,22.0,44.0,56.0
 /zapas/2647656,0.0,0.0,New Jersey Devils,Anaheim Ducks,22.0,56.0,76.0,30.0,48.0,59.0
-/zapas/2647662,0.0,0.0,New Jersey Devils,San Jose Sharks,20.0,58.0,80.0,29.0,59.0,64.0
-/zapas/2647685,1.0,1.0,New Jersey Devils,Vegas Golden Knights,20.0,57.0,77.0,38.0,69.0,54.0
-/zapas/2647700,0.0,0.0,New Jersey Devils,Nashville Predators,22.0,59.0,77.0,35.0,60.0,52.0
-/zapas/2647716,0.0,1.0,New Jersey Devils,Toronto Maple Leafs,23.0,60.0,76.0,39.0,74.0,54.0
-/zapas/2647733,0.0,0.0,New Jersey Devils,Columbus Blue Jackets,20.0,57.0,82.0,35.0,64.0,57.0
 /zapas/2647740,1.0,1.0,New Jersey Devils,Ottawa Senators,20.0,55.0,77.0,26.0,64.0,73.0
-/zapas/2647757,0.0,1.0,New Jersey Devils,Columbus Blue Jackets,23.0,59.0,73.0,37.0,64.0,57.0
-/zapas/2647765,1.0,0.0,New Jersey Devils,Boston Bruins,23.0,57.0,71.0,29.0,52.0,55.0
-/zapas/2647781,1.0,1.0,New Jersey Devils,Carolina Hurricanes,23.0,58.0,71.0,26.0,47.0,58.0
 /zapas/2647798,1.0,1.0,New Jersey Devils,Vancouver Canucks,23.0,57.0,71.0,28.0,59.0,54.0
-/zapas/2647816,0.0,0.0,New Jersey Devils,Dallas Stars,25.0,59.0,68.0,27.0,50.0,54.0
 /zapas/2647832,1.0,0.0,New Jersey Devils,Arizona Coyotes,25.0,62.0,71.0,21.0,50.0,64.0
-/zapas/2647844,0.0,0.0,New Jersey Devils,Vegas Golden Knights,24.0,60.0,71.0,44.0,70.0,47.0
 /zapas/2647856,0.0,0.0,New Jersey Devils,Buffalo Sabres,23.0,59.0,70.0,24.0,50.0,58.0
-/zapas/2647870,0.0,1.0,New Jersey Devils,Toronto Maple Leafs,23.0,58.0,70.0,36.0,76.0,59.0
 /zapas/2647885,1.0,1.0,New Jersey Devils,Philadelphia Flyers,22.0,57.0,70.0,21.0,49.0,71.0
 /zapas/2647905,1.0,1.0,New Jersey Devils,Chicago Blackhawks,25.0,57.0,66.0,24.0,62.0,70.0
-/zapas/2647911,0.0,0.0,New Jersey Devils,Columbus Blue Jackets,27.0,62.0,67.0,32.0,60.0,59.0
-/zapas/2647925,0.0,0.0,New Jersey Devils,New York Islanders,27.0,62.0,66.0,37.0,60.0,46.0
 /zapas/2647938,0.0,1.0,New Jersey Devils,Anaheim Ducks,24.0,57.0,67.0,23.0,52.0,65.0
-/zapas/2647970,1.0,0.0,New Jersey Devils,Pittsburgh Penguins,23.0,54.0,64.0,39.0,73.0,55.0
 /zapas/2647977,0.0,1.0,New Jersey Devils,New York Rangers,26.0,58.0,62.0,25.0,54.0,73.0
 /zapas/2647988,1.0,0.0,New Jersey Devils,Montreal Canadiens,24.0,56.0,62.0,36.0,57.0,48.0
 /zapas/2648010,0.0,1.0,New Jersey Devils,Los Angeles Kings,25.0,58.0,62.0,28.0,49.0,59.0
-/zapas/2648023,0.0,1.0,New Jersey Devils,New York Islanders,25.0,57.0,60.0,42.0,59.0,36.0
 /zapas/2648038,0.0,1.0,New Jersey Devils,Minnesota Wild,26.0,57.0,60.0,29.0,49.0,61.0
-/zapas/2648054,1.0,1.0,New Jersey Devils,Carolina Hurricanes,23.0,54.0,62.0,39.0,71.0,57.0
-/zapas/2648067,0.0,0.0,New Jersey Devils,St. Louis Blues,26.0,57.0,61.0,38.0,59.0,45.0
 /zapas/2648081,0.0,0.0,New Jersey Devils,Chicago Blackhawks,23.0,55.0,67.0,32.0,79.0,71.0
 /zapas/2648088,1.0,0.0,New Jersey Devils,Minnesota Wild,20.0,55.0,72.0,28.0,52.0,62.0
 /zapas/2648104,1.0,1.0,New Jersey Devils,Buffalo Sabres,19.0,56.0,76.0,21.0,56.0,72.0
-/zapas/2648115,0.0,1.0,New Jersey Devils,Pittsburgh Penguins,22.0,56.0,72.0,30.0,73.0,69.0
 /zapas/2648129,1.0,1.0,New Jersey Devils,Ottawa Senators,20.0,56.0,74.0,20.0,63.0,66.0
 /zapas/2648144,0.0,0.0,New Jersey Devils,New York Rangers,23.0,58.0,71.0,27.0,59.0,63.0
 /zapas/2648161,1.0,1.0,New Jersey Devils,Montreal Canadiens,23.0,59.0,71.0,33.0,56.0,51.0
-/zapas/2648178,0.0,1.0,New Jersey Devils,Calgary Flames,26.0,59.0,68.0,44.0,75.0,58.0
 /zapas/2648190,0.0,1.0,New Jersey Devils,Philadelphia Flyers,23.0,57.0,68.0,40.0,70.0,58.0
-/zapas/2648199,0.0,0.0,New Jersey Devils,Boston Bruins,20.0,52.0,69.0,40.0,65.0,47.0
-/zapas/2648218,0.0,1.0,New Jersey Devils,Columbus Blue Jackets,20.0,51.0,66.0,26.0,55.0,58.0
-/zapas/2648243,0.0,0.0,New Jersey Devils,Washington Capitals,21.0,51.0,64.0,35.0,74.0,70.0
 /zapas/2648252,0.0,0.0,New Jersey Devils,New York Rangers,21.0,49.0,64.0,25.0,56.0,60.0
-/zapas/2648276,0.0,0.0,New Jersey Devils,Calgary Flames,18.0,45.0,65.0,34.0,59.0,58.0
 /zapas/2648279,1.0,0.0,New Jersey Devils,Edmonton Oilers,18.0,46.0,70.0,26.0,53.0,63.0
 /zapas/2648296,1.0,0.0,New Jersey Devils,Vancouver Canucks,19.0,49.0,71.0,18.0,46.0,62.0
-/zapas/2648309,0.0,0.0,New Jersey Devils,Colorado Avalanche,21.0,51.0,68.0,26.0,56.0,56.0
-/zapas/2648320,0.0,1.0,New Jersey Devils,Washington Capitals,20.0,50.0,69.0,40.0,73.0,59.0
-/zapas/2648335,0.0,1.0,New Jersey Devils,Boston Bruins,20.0,49.0,69.0,41.0,69.0,49.0
 /zapas/2648348,1.0,1.0,New Jersey Devils,Arizona Coyotes,17.0,47.0,72.0,37.0,56.0,49.0
 /zapas/2648368,1.0,1.0,New Jersey Devils,Buffalo Sabres,19.0,46.0,65.0,12.0,45.0,77.0
 /zapas/2648397,0.0,0.0,New Jersey Devils,Detroit Red Wings,22.0,47.0,61.0,21.0,52.0,74.0
-/zapas/2648406,0.0,1.0,New Jersey Devils,St. Louis Blues,20.0,42.0,61.0,34.0,58.0,48.0
 /zapas/2648420,1.0,1.0,New Jersey Devils,New York Rangers,18.0,40.0,63.0,22.0,48.0,64.0
-/zapas/2648445,0.0,0.0,New Jersey Devils,Carolina Hurricanes,21.0,41.0,61.0,37.0,64.0,52.0
 /zapas/2648460,1.0,0.0,New Jersey Devils,Florida Panthers,18.0,38.0,64.0,29.0,70.0,69.0
-/zapas/2806389,0.0,1.0,New Jersey Devils,Winnipeg Jets,21.0,40.0,62.0,30.0,64.0,62.0
 /zapas/2806394,0.0,0.0,New Jersey Devils,Buffalo Sabres,19.0,42.0,66.0,15.0,48.0,73.0
-/zapas/2806421,0.0,0.0,New Jersey Devils,Philadelphia Flyers,19.0,43.0,71.0,23.0,60.0,73.0
-/zapas/2806425,0.0,1.0,New Jersey Devils,Edmonton Oilers,19.0,40.0,69.0,30.0,63.0,70.0
-/zapas/2806441,0.0,0.0,New Jersey Devils,Boston Bruins,20.0,43.0,72.0,35.0,70.0,59.0
-/zapas/2806456,0.0,1.0,New Jersey Devils,Florida Panthers,19.0,42.0,73.0,30.0,68.0,69.0
-/zapas/2806476,1.0,1.0,New Jersey Devils,New York Rangers,19.0,46.0,76.0,22.0,48.0,63.0
-/zapas/2806489,1.0,1.0,New Jersey Devils,Vancouver Canucks,22.0,49.0,74.0,29.0,62.0,57.0
-/zapas/2806533,0.0,1.0,New Jersey Devils,Arizona Coyotes,25.0,46.0,65.0,27.0,46.0,45.0
-/zapas/2806564,0.0,1.0,New Jersey Devils,Tampa Bay Lightning,22.0,43.0,67.0,33.0,73.0,67.0
-/zapas/2806572,0.0,1.0,New Jersey Devils,Philadelphia Flyers,21.0,46.0,72.0,21.0,57.0,75.0
-/zapas/2806587,1.0,0.0,New Jersey Devils,Carolina Hurricanes,22.0,49.0,73.0,37.0,66.0,50.0
-/zapas/2806605,1.0,0.0,New Jersey Devils,Winnipeg Jets,25.0,53.0,72.0,25.0,55.0,65.0
-/zapas/2806621,0.0,0.0,New Jersey Devils,Calgary Flames,27.0,54.0,68.0,25.0,54.0,59.0
-/zapas/2806627,0.0,0.0,New Jersey Devils,Edmonton Oilers,25.0,54.0,72.0,32.0,55.0,56.0
-/zapas/2806641,1.0,0.0,New Jersey Devils,Vancouver Canucks,22.0,51.0,75.0,32.0,65.0,53.0
 /zapas/2806657,0.0,1.0,New Jersey Devils,Ottawa Senators,25.0,53.0,72.0,21.0,55.0,71.0
-/zapas/2806671,1.0,1.0,New Jersey Devils,Pittsburgh Penguins,24.0,53.0,73.0,33.0,67.0,52.0
-/zapas/2806681,1.0,0.0,New Jersey Devils,Montreal Canadiens,24.0,51.0,72.0,35.0,76.0,63.0
-/zapas/2806696,0.0,1.0,New Jersey Devils,Boston Bruins,26.0,54.0,72.0,41.0,70.0,53.0
-/zapas/2806722,0.0,0.0,New Jersey Devils,Pittsburgh Penguins,23.0,51.0,74.0,31.0,66.0,54.0
 /zapas/2806732,1.0,1.0,New Jersey Devils,Detroit Red Wings,22.0,48.0,73.0,14.0,44.0,80.0
-/zapas/2806751,0.0,1.0,New Jersey Devils,Minnesota Wild,25.0,51.0,67.0,31.0,56.0,59.0
-/zapas/2806766,1.0,0.0,New Jersey Devils,Montreal Canadiens,25.0,53.0,66.0,31.0,67.0,65.0
-/zapas/2806779,0.0,1.0,New Jersey Devils,New York Rangers,27.0,56.0,66.0,31.0,66.0,69.0
 /zapas/2806795,0.0,0.0,New Jersey Devils,Buffalo Sabres,27.0,56.0,67.0,24.0,51.0,64.0
-/zapas/2806803,0.0,1.0,New Jersey Devils,Vegas Golden Knights,27.0,53.0,68.0,25.0,55.0,61.0
-/zapas/2806823,0.0,1.0,New Jersey Devils,Chicago Blackhawks,24.0,51.0,70.0,28.0,58.0,62.0
-/zapas/2806836,0.0,0.0,New Jersey Devils,Nashville Predators,22.0,51.0,72.0,27.0,59.0,60.0
-/zapas/2806854,0.0,0.0,New Jersey Devils,Dallas Stars,22.0,52.0,73.0,41.0,59.0,44.0
-/zapas/2806876,0.0,0.0,New Jersey Devils,Colorado Avalanche,21.0,46.0,68.0,37.0,70.0,55.0
-/zapas/2806888,1.0,0.0,New Jersey Devils,Arizona Coyotes,20.0,44.0,67.0,29.0,55.0,52.0
 /zapas/2806911,1.0,1.0,New Jersey Devils,Anaheim Ducks,20.0,41.0,65.0,19.0,49.0,66.0
-/zapas/2806925,0.0,1.0,New Jersey Devils,Washington Capitals,21.0,42.0,65.0,40.0,65.0,53.0
-/zapas/2806937,0.0,0.0,New Jersey Devils,Columbus Blue Jackets,21.0,43.0,66.0,31.0,55.0,51.0
-/zapas/2806954,1.0,0.0,New Jersey Devils,Chicago Blackhawks,21.0,44.0,67.0,27.0,59.0,65.0
-/zapas/2806959,0.0,1.0,New Jersey Devils,Toronto Maple Leafs,21.0,49.0,67.0,32.0,73.0,65.0
 /zapas/2806979,1.0,0.0,New Jersey Devils,Ottawa Senators,22.0,51.0,68.0,27.0,55.0,62.0
-/zapas/2806989,1.0,1.0,New Jersey Devils,Boston Bruins,21.0,53.0,70.0,38.0,66.0,49.0
-/zapas/2807006,1.0,0.0,New Jersey Devils,New York Islanders,21.0,52.0,69.0,30.0,56.0,58.0
-/zapas/2807025,0.0,1.0,New Jersey Devils,Colorado Avalanche,24.0,53.0,65.0,35.0,75.0,61.0
-/zapas/2807041,0.0,1.0,New Jersey Devils,New York Islanders,24.0,54.0,66.0,28.0,48.0,54.0
-/zapas/2807058,0.0,0.0,New Jersey Devils,New York Rangers,22.0,52.0,69.0,28.0,64.0,63.0
-/zapas/2807072,1.0,0.0,New Jersey Devils,Washington Capitals,22.0,53.0,72.0,39.0,72.0,58.0
-/zapas/2807084,1.0,1.0,New Jersey Devils,Tampa Bay Lightning,22.0,52.0,69.0,44.0,73.0,48.0
-/zapas/2807091,0.0,0.0,New Jersey Devils,Toronto Maple Leafs,25.0,55.0,66.0,36.0,79.0,68.0
-/zapas/2807108,0.0,0.0,New Jersey Devils,Washington Capitals,25.0,58.0,66.0,37.0,67.0,57.0
-/zapas/2807127,0.0,0.0,New Jersey Devils,Columbus Blue Jackets,25.0,57.0,67.0,41.0,57.0,39.0
 /zapas/2807145,1.0,0.0,New Jersey Devils,Ottawa Senators,24.0,56.0,70.0,23.0,59.0,74.0
-/zapas/2807159,0.0,1.0,New Jersey Devils,Nashville Predators,26.0,56.0,67.0,28.0,65.0,70.0
-/zapas/2807174,0.0,1.0,New Jersey Devils,Dallas Stars,27.0,61.0,71.0,33.0,52.0,52.0
-/zapas/2807191,0.0,1.0,New Jersey Devils,Montreal Canadiens,28.0,62.0,71.0,22.0,59.0,58.0
-/zapas/2807208,1.0,0.0,New Jersey Devils,Philadelphia Flyers,26.0,64.0,75.0,34.0,69.0,58.0
 /zapas/2807225,1.0,1.0,New Jersey Devils,Los Angeles Kings,26.0,66.0,74.0,14.0,46.0,65.0
-/zapas/2807244,0.0,1.0,New Jersey Devils,Florida Panthers,29.0,66.0,68.0,34.0,67.0,70.0
 /zapas/2807260,1.0,1.0,New Jersey Devils,Detroit Red Wings,29.0,68.0,68.0,14.0,38.0,66.0
-/zapas/2807270,0.0,0.0,New Jersey Devils,Carolina Hurricanes,29.0,65.0,68.0,27.0,63.0,63.0
-/zapas/2807288,1.0,1.0,New Jersey Devils,Columbus Blue Jackets,28.0,63.0,68.0,40.0,51.0,35.0
-/zapas/2807300,0.0,0.0,New Jersey Devils,St. Louis Blues,28.0,63.0,68.0,24.0,64.0,69.0
 /zapas/2807310,1.0,1.0,New Jersey Devils,San Jose Sharks,26.0,60.0,69.0,30.0,52.0,58.0
-/zapas/2807324,1.0,1.0,New Jersey Devils,Washington Capitals,26.0,60.0,69.0,30.0,68.0,66.0
 /zapas/2807351,1.0,0.0,New Jersey Devils,Detroit Red Wings,29.0,61.0,66.0,11.0,34.0,72.0
 /zapas/2807369,0.0,0.0,New Jersey Devils,San Jose Sharks,31.0,62.0,63.0,22.0,46.0,64.0
 /zapas/2807376,0.0,0.0,New Jersey Devils,Los Angeles Kings,32.0,61.0,60.0,19.0,46.0,64.0
 /zapas/2807391,1.0,0.0,New Jersey Devils,Anaheim Ducks,30.0,57.0,61.0,27.0,55.0,63.0
-/zapas/2807403,0.0,0.0,New Jersey Devils,Vegas Golden Knights,30.0,57.0,60.0,36.0,67.0,60.0
-/zapas/2807419,1.0,1.0,New Jersey Devils,St. Louis Blues,30.0,53.0,56.0,30.0,64.0,60.0
-/zapas/2807432,1.0,0.0,New Jersey Devils,New York Rangers,33.0,55.0,53.0,36.0,68.0,56.0
-/zapas/2807448,0.0,1.0,New Jersey Devils,Pittsburgh Penguins,36.0,61.0,52.0,27.0,55.0,64.0
-/zapas/2893219,0.0,1.0,New Jersey Devils,Boston Bruins,34.0,59.0,54.0,45.0,61.0,41.0
-/zapas/2893235,1.0,1.0,New Jersey Devils,Boston Bruins,34.0,56.0,51.0,44.0,61.0,41.0
-/zapas/2893255,1.0,0.0,New Jersey Devils,New York Rangers,35.0,56.0,49.0,34.0,68.0,57.0
-/zapas/2893269,0.0,0.0,New Jersey Devils,New York Islanders,37.0,56.0,47.0,25.0,47.0,59.0
-/zapas/2893296,1.0,1.0,New Jersey Devils,New York Islanders,34.0,52.0,51.0,25.0,46.0,57.0
-/zapas/2893310,0.0,1.0,New Jersey Devils,Philadelphia Flyers,34.0,51.0,51.0,42.0,75.0,54.0
-/zapas/2893324,0.0,1.0,New Jersey Devils,Philadelphia Flyers,34.0,51.0,51.0,42.0,76.0,56.0
+/zapas/2893255,1.0,0.0,New Jersey Devils,New York Rangers,35.0,56.0,49.0,18.0,44.0,65.0
+/zapas/2893310,0.0,1.0,New Jersey Devils,Philadelphia Flyers,34.0,51.0,51.0,28.0,50.0,63.0
+/zapas/2893324,0.0,1.0,New Jersey Devils,Philadelphia Flyers,34.0,51.0,51.0,31.0,52.0,62.0
 /zapas/2893335,0.0,0.0,New Jersey Devils,Buffalo Sabres,31.0,48.0,53.0,23.0,56.0,63.0
 /zapas/2893347,1.0,0.0,New Jersey Devils,Buffalo Sabres,32.0,49.0,52.0,23.0,56.0,63.0
-/zapas/2893576,1.0,0.0,New Jersey Devils,New York Rangers,33.0,50.0,52.0,20.0,53.0,63.0
-/zapas/2893476,1.0,0.0,New Jersey Devils,Boston Bruins,36.0,55.0,51.0,41.0,59.0,40.0
+/zapas/2893576,1.0,0.0,New Jersey Devils,New York Rangers,33.0,50.0,52.0,17.0,44.0,59.0
 /zapas/2893491,0.0,1.0,New Jersey Devils,Buffalo Sabres,36.0,56.0,52.0,14.0,45.0,65.0
-/zapas/2893602,0.0,0.0,New Jersey Devils,Washington Capitals,33.0,55.0,53.0,30.0,68.0,73.0
 /zapas/2893506,0.0,1.0,New Jersey Devils,Buffalo Sabres,30.0,54.0,56.0,17.0,46.0,63.0
 /zapas/2893844,1.0,0.0,New Jersey Devils,Buffalo Sabres,29.0,53.0,57.0,20.0,48.0,59.0
-/zapas/2893541,0.0,1.0,New Jersey Devils,Washington Capitals,30.0,56.0,58.0,33.0,67.0,68.0
-/zapas/2893555,0.0,1.0,New Jersey Devils,Washington Capitals,27.0,55.0,63.0,35.0,70.0,67.0
-/zapas/2893509,0.0,1.0,New Jersey Devils,New York Islanders,27.0,57.0,63.0,34.0,52.0,49.0
 /zapas/2893391,0.0,1.0,New Jersey Devils,New York Rangers,24.0,54.0,63.0,25.0,53.0,54.0
 /zapas/2893585,0.0,1.0,New Jersey Devils,New York Rangers,21.0,49.0,65.0,28.0,59.0,51.0
-/zapas/2893455,1.0,0.0,New Jersey Devils,Boston Bruins,21.0,50.0,66.0,35.0,62.0,51.0
-/zapas/2893612,0.0,0.0,New Jersey Devils,Washington Capitals,23.0,49.0,63.0,35.0,64.0,62.0
-/zapas/2893627,0.0,0.0,New Jersey Devils,New York Islanders,22.0,51.0,67.0,42.0,64.0,46.0
-/zapas/2893642,0.0,1.0,New Jersey Devils,New York Islanders,19.0,50.0,69.0,45.0,66.0,43.0
-/zapas/2893978,0.0,1.0,New Jersey Devils,New York Islanders,19.0,51.0,68.0,47.0,67.0,42.0
 /zapas/2893665,1.0,1.0,New Jersey Devils,Buffalo Sabres,17.0,51.0,71.0,11.0,37.0,73.0
-/zapas/2893414,1.0,1.0,New Jersey Devils,Pittsburgh Penguins,20.0,51.0,68.0,36.0,65.0,48.0
-/zapas/2893685,0.0,1.0,New Jersey Devils,Pittsburgh Penguins,23.0,53.0,67.0,36.0,66.0,48.0
-/zapas/2893364,1.0,0.0,New Jersey Devils,Pittsburgh Penguins,22.0,51.0,66.0,39.0,66.0,45.0
 /zapas/2893715,1.0,0.0,New Jersey Devils,Philadelphia Flyers,21.0,48.0,64.0,25.0,59.0,76.0
-/zapas/2893729,0.0,0.0,New Jersey Devils,Washington Capitals,21.0,47.0,65.0,41.0,66.0,54.0
-/zapas/2893734,0.0,0.0,New Jersey Devils,Washington Capitals,18.0,47.0,67.0,44.0,66.0,50.0
-/zapas/2893751,1.0,0.0,New Jersey Devils,Boston Bruins,18.0,45.0,68.0,32.0,49.0,49.0
-/zapas/2893766,0.0,0.0,New Jersey Devils,Boston Bruins,21.0,43.0,64.0,29.0,47.0,49.0
-/zapas/2893790,0.0,1.0,New Jersey Devils,Washington Capitals,22.0,46.0,65.0,44.0,71.0,55.0
-/zapas/2893807,0.0,1.0,New Jersey Devils,Washington Capitals,21.0,43.0,64.0,43.0,69.0,53.0
 /zapas/2893821,0.0,1.0,New Jersey Devils,Buffalo Sabres,21.0,45.0,64.0,8.0,38.0,77.0
 /zapas/2893835,1.0,0.0,New Jersey Devils,Buffalo Sabres,21.0,46.0,66.0,11.0,43.0,77.0
-/zapas/2893702,0.0,1.0,New Jersey Devils,Pittsburgh Penguins,24.0,51.0,67.0,43.0,75.0,47.0
-/zapas/2893859,0.0,1.0,New Jersey Devils,Pittsburgh Penguins,24.0,54.0,67.0,43.0,76.0,49.0
 /zapas/2893875,0.0,1.0,New Jersey Devils,New York Rangers,24.0,53.0,66.0,32.0,74.0,57.0
 /zapas/2893885,0.0,0.0,New Jersey Devils,New York Rangers,21.0,52.0,69.0,32.0,71.0,54.0
 /zapas/2893902,0.0,0.0,New Jersey Devils,New York Rangers,20.0,48.0,68.0,35.0,74.0,49.0
 /zapas/2893911,0.0,1.0,New Jersey Devils,New York Rangers,20.0,48.0,69.0,38.0,78.0,48.0
-/zapas/2893378,0.0,0.0,New Jersey Devils,Pittsburgh Penguins,20.0,49.0,71.0,41.0,71.0,49.0
-/zapas/2893943,0.0,0.0,New Jersey Devils,Pittsburgh Penguins,19.0,53.0,75.0,41.0,73.0,53.0
-/zapas/2893957,0.0,0.0,New Jersey Devils,Pittsburgh Penguins,16.0,51.0,78.0,41.0,75.0,54.0
 /zapas/2893430,0.0,0.0,New Jersey Devils,Philadelphia Flyers,13.0,50.0,80.0,22.0,44.0,72.0
 /zapas/2893928,1.0,1.0,New Jersey Devils,Philadelphia Flyers,14.0,52.0,81.0,21.0,44.0,72.0
 /zapas/2893994,1.0,1.0,New Jersey Devils,Philadelphia Flyers,15.0,56.0,84.0,21.0,47.0,72.0
 /zapas/2894011,1.0,0.0,New Jersey Devils,Philadelphia Flyers,15.0,57.0,84.0,20.0,49.0,75.0
-/zapas/2894023,0.0,1.0,New Jersey Devils,Boston Bruins,18.0,58.0,81.0,38.0,67.0,51.0
-/zapas/2894033,1.0,1.0,New Jersey Devils,Boston Bruins,18.0,58.0,80.0,41.0,70.0,50.0
-/zapas/2894048,1.0,0.0,New Jersey Devils,New York Islanders,17.0,61.0,83.0,27.0,50.0,49.0
-/zapas/2894067,0.0,0.0,New Jersey Devils,New York Islanders,19.0,59.0,79.0,25.0,47.0,48.0
 /zapas/2893444,0.0,0.0,New Jersey Devils,Philadelphia Flyers,18.0,59.0,82.0,22.0,52.0,70.0
 /zapas/2896999,1.0,1.0,New Jersey Devils,Chicago Blackhawks,18.0,57.0,81.0,20.0,57.0,75.0
-/zapas/2897041,0.0,1.0,New Jersey Devils,Washington Capitals,20.0,56.0,78.0,39.0,71.0,51.0
 /zapas/2897055,1.0,1.0,New Jersey Devils,Buffalo Sabres,20.0,53.0,76.0,26.0,58.0,66.0
-/zapas/2897076,0.0,1.0,New Jersey Devils,Calgary Flames,22.0,53.0,72.0,34.0,64.0,49.0
-/zapas/2897107,1.0,0.0,New Jersey Devils,Pittsburgh Penguins,22.0,56.0,74.0,40.0,73.0,57.0
 /zapas/2897111,0.0,1.0,New Jersey Devils,Columbus Blue Jackets,25.0,60.0,72.0,21.0,47.0,65.0
 /zapas/2897117,0.0,0.0,New Jersey Devils,Anaheim Ducks,26.0,60.0,70.0,21.0,54.0,67.0
-/zapas/2897140,0.0,0.0,New Jersey Devils,Los Angeles Kings,26.0,57.0,69.0,22.0,46.0,62.0
 /zapas/2897144,1.0,0.0,New Jersey Devils,San Jose Sharks,27.0,53.0,65.0,28.0,59.0,69.0
-/zapas/2897172,1.0,1.0,New Jersey Devils,Florida Panthers,29.0,55.0,62.0,46.0,84.0,51.0
-/zapas/2897185,1.0,1.0,New Jersey Devils,New York Islanders,32.0,60.0,61.0,29.0,50.0,47.0
-/zapas/2897202,0.0,1.0,New Jersey Devils,Boston Bruins,34.0,61.0,57.0,35.0,63.0,51.0
-/zapas/2897209,0.0,0.0,New Jersey Devils,New York Rangers,31.0,57.0,58.0,29.0,48.0,65.0
-/zapas/2897238,0.0,0.0,New Jersey Devils,Florida Panthers,29.0,55.0,59.0,44.0,81.0,51.0
-/zapas/2897251,1.0,0.0,New Jersey Devils,Tampa Bay Lightning,26.0,52.0,62.0,32.0,58.0,60.0
-/zapas/2897280,0.0,1.0,New Jersey Devils,Minnesota Wild,29.0,57.0,62.0,30.0,67.0,70.0
-/zapas/2897288,0.0,0.0,New Jersey Devils,Nashville Predators,28.0,55.0,62.0,31.0,57.0,55.0
+/zapas/2897185,1.0,1.0,New Jersey Devils,New York Islanders,32.0,60.0,61.0,34.0,53.0,52.0
 /zapas/2897311,1.0,1.0,New Jersey Devils,Philadelphia Flyers,25.0,55.0,65.0,30.0,51.0,58.0
 /zapas/2897325,0.0,1.0,New Jersey Devils,San Jose Sharks,28.0,59.0,62.0,29.0,51.0,55.0
-/zapas/2897336,0.0,0.0,New Jersey Devils,Minnesota Wild,28.0,59.0,63.0,35.0,78.0,63.0
 /zapas/2897346,0.0,0.0,New Jersey Devils,Winnipeg Jets,26.0,57.0,65.0,32.0,56.0,53.0
 /zapas/2897221,0.0,1.0,New Jersey Devils,Ottawa Senators,23.0,57.0,71.0,15.0,53.0,81.0
 /zapas/2897381,1.0,1.0,New Jersey Devils,Philadelphia Flyers,24.0,58.0,70.0,20.0,40.0,70.0
-/zapas/2897398,0.0,1.0,New Jersey Devils,Nashville Predators,25.0,59.0,69.0,36.0,60.0,54.0
 /zapas/2897410,0.0,0.0,New Jersey Devils,New York Islanders,25.0,58.0,67.0,23.0,42.0,57.0
 /zapas/2897430,0.0,0.0,New Jersey Devils,Philadelphia Flyers,22.0,56.0,69.0,20.0,40.0,71.0
 /zapas/2897443,0.0,1.0,New Jersey Devils,Vegas Golden Knights,21.0,54.0,71.0,39.0,78.0,60.0
 /zapas/2897459,0.0,0.0,New Jersey Devils,Detroit Red Wings,21.0,57.0,72.0,26.0,54.0,68.0
-/zapas/2897466,0.0,1.0,New Jersey Devils,Pittsburgh Penguins,20.0,57.0,74.0,37.0,59.0,47.0
 /zapas/2897527,1.0,0.0,New Jersey Devils,Buffalo Sabres,18.0,56.0,75.0,18.0,52.0,77.0
-/zapas/2897546,1.0,1.0,New Jersey Devils,Edmonton Oilers,18.0,53.0,75.0,26.0,58.0,66.0
-/zapas/2897563,1.0,0.0,New Jersey Devils,Washington Capitals,17.0,55.0,80.0,40.0,72.0,53.0
-/zapas/2897572,0.0,0.0,New Jersey Devils,Boston Bruins,19.0,57.0,78.0,34.0,57.0,52.0
 /zapas/2897591,1.0,1.0,New Jersey Devils,Columbus Blue Jackets,18.0,57.0,79.0,22.0,66.0,80.0
 /zapas/2897609,0.0,0.0,New Jersey Devils,Columbus Blue Jackets,21.0,59.0,76.0,22.0,64.0,78.0
 /zapas/2897640,0.0,0.0,New Jersey Devils,New York Islanders,18.0,57.0,77.0,21.0,41.0,60.0
 /zapas/2897683,0.0,1.0,New Jersey Devils,Arizona Coyotes,17.0,57.0,77.0,20.0,52.0,73.0
-/zapas/2897710,1.0,1.0,New Jersey Devils,Carolina Hurricanes,17.0,56.0,77.0,39.0,75.0,50.0
-/zapas/2897715,0.0,1.0,New Jersey Devils,Los Angeles Kings,17.0,58.0,79.0,33.0,59.0,54.0
-/zapas/2897729,0.0,1.0,New Jersey Devils,Dallas Stars,17.0,58.0,77.0,30.0,62.0,65.0
-/zapas/2897743,0.0,0.0,New Jersey Devils,Tampa Bay Lightning,17.0,57.0,77.0,41.0,75.0,59.0
-/zapas/2897763,0.0,0.0,New Jersey Devils,Carolina Hurricanes,17.0,55.0,72.0,40.0,77.0,53.0
-/zapas/2897670,0.0,0.0,New Jersey Devils,Toronto Maple Leafs,16.0,54.0,71.0,42.0,89.0,62.0
-/zapas/2897783,0.0,1.0,New Jersey Devils,Toronto Maple Leafs,13.0,55.0,77.0,42.0,89.0,64.0
 /zapas/2898114,0.0,0.0,New Jersey Devils,Ottawa Senators,13.0,54.0,81.0,30.0,62.0,57.0
 /zapas/2897654,1.0,0.0,New Jersey Devils,Montreal Canadiens,13.0,53.0,81.0,10.0,44.0,87.0
-/zapas/2897509,1.0,0.0,New Jersey Devils,St. Louis Blues,16.0,59.0,76.0,42.0,73.0,51.0
-/zapas/2897802,0.0,1.0,New Jersey Devils,Pittsburgh Penguins,19.0,63.0,75.0,42.0,75.0,54.0
-/zapas/2897616,0.0,1.0,New Jersey Devils,Tampa Bay Lightning,19.0,63.0,74.0,39.0,71.0,60.0
-/zapas/2897484,1.0,0.0,New Jersey Devils,Pittsburgh Penguins,19.0,64.0,77.0,36.0,69.0,56.0
 /zapas/2897807,0.0,0.0,New Jersey Devils,Chicago Blackhawks,19.0,66.0,75.0,24.0,52.0,68.0
 /zapas/2897829,1.0,1.0,New Jersey Devils,Vancouver Canucks,17.0,65.0,78.0,32.0,63.0,56.0
 /zapas/2897840,0.0,0.0,New Jersey Devils,Columbus Blue Jackets,18.0,68.0,77.0,31.0,69.0,75.0
-/zapas/2897858,0.0,0.0,New Jersey Devils,New York Rangers,18.0,68.0,76.0,35.0,61.0,52.0
-/zapas/2897877,1.0,1.0,New Jersey Devils,St. Louis Blues,15.0,66.0,78.0,40.0,73.0,52.0
-/zapas/2897891,1.0,1.0,New Jersey Devils,Colorado Avalanche,17.0,66.0,76.0,45.0,69.0,48.0
 /zapas/2897906,0.0,1.0,New Jersey Devils,Winnipeg Jets,20.0,69.0,76.0,28.0,65.0,67.0
 /zapas/2897921,1.0,1.0,New Jersey Devils,Anaheim Ducks,20.0,69.0,74.0,24.0,56.0,74.0
 /zapas/2897934,0.0,0.0,New Jersey Devils,Vancouver Canucks,19.0,64.0,71.0,35.0,71.0,61.0
-/zapas/2897946,0.0,0.0,New Jersey Devils,Calgary Flames,19.0,65.0,74.0,47.0,77.0,44.0
-/zapas/2897968,0.0,0.0,New Jersey Devils,Edmonton Oilers,19.0,67.0,75.0,36.0,69.0,58.0
-/zapas/2897990,1.0,1.0,New Jersey Devils,New York Rangers,19.0,68.0,78.0,35.0,57.0,50.0
-/zapas/2897999,0.0,0.0,New Jersey Devils,Toronto Maple Leafs,22.0,74.0,80.0,31.0,76.0,77.0
-/zapas/2898026,0.0,0.0,New Jersey Devils,Washington Capitals,22.0,72.0,77.0,30.0,71.0,63.0
 /zapas/2898031,1.0,1.0,New Jersey Devils,Montreal Canadiens,22.0,74.0,74.0,29.0,67.0,65.0
-/zapas/2898059,0.0,0.0,New Jersey Devils,Boston Bruins,24.0,76.0,72.0,39.0,69.0,50.0
-/zapas/2898078,0.0,1.0,New Jersey Devils,Florida Panthers,21.0,70.0,79.0,40.0,81.0,56.0
 /zapas/2898087,0.0,1.0,New Jersey Devils,New York Islanders,19.0,69.0,82.0,37.0,67.0,51.0
-/zapas/2898101,0.0,1.0,New Jersey Devils,New York Rangers,19.0,70.0,82.0,34.0,63.0,58.0
 /zapas/2897500,0.0,1.0,New Jersey Devils,Montreal Canadiens,19.0,68.0,79.0,28.0,69.0,73.0
-/zapas/2898129,1.0,0.0,New Jersey Devils,Dallas Stars,16.0,66.0,85.0,34.0,61.0,63.0
 /zapas/2898146,1.0,0.0,New Jersey Devils,Arizona Coyotes,19.0,64.0,78.0,23.0,60.0,75.0
-/zapas/2898163,0.0,0.0,New Jersey Devils,Colorado Avalanche,19.0,63.0,78.0,41.0,71.0,51.0
 /zapas/2898178,0.0,0.0,New Jersey Devils,Seattle Kraken,19.0,61.0,77.0,22.0,52.0,65.0
 /zapas/2898199,1.0,0.0,New Jersey Devils,Vegas Golden Knights,20.0,63.0,78.0,29.0,62.0,60.0
 /zapas/2898221,0.0,1.0,New Jersey Devils,Buffalo Sabres,21.0,63.0,78.0,33.0,65.0,69.0
-/zapas/2898240,0.0,1.0,New Jersey Devils,Carolina Hurricanes,18.0,60.0,80.0,30.0,64.0,57.0
 /zapas/2898246,0.0,1.0,New Jersey Devils,Detroit Red Wings,19.0,61.0,81.0,21.0,52.0,85.0
 /zapas/2898261,0.0,0.0,New Jersey Devils,Ottawa Senators,17.0,59.0,83.0,30.0,61.0,62.0
-/zapas/2898278,0.0,0.0,New Jersey Devils,Carolina Hurricanes,18.0,60.0,82.0,37.0,69.0,53.0
 /zapas/2898289,0.0,1.0,New Jersey Devils,Detroit Red Wings,18.0,60.0,82.0,21.0,49.0,81.0
