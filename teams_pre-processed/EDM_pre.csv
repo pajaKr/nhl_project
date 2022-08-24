@@ -1,189 +1,374 @@
 game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
-/zapas/2526057,Edmonton Oilers,Calgary Flames,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2526082,Vancouver Canucks,Edmonton Oilers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vancouver Canucks,Edmonton Oilers,2021
-/zapas/2526091,Edmonton Oilers,Winnipeg Jets,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2526128,Edmonton Oilers,Ottawa Senators,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Ottawa Senators,Edmonton Oilers,2021
-/zapas/2526143,Edmonton Oilers,Carolina Hurricanes,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Carolina Hurricanes,Edmonton Oilers,2021
-/zapas/2526154,Chicago Blackhawks,Edmonton Oilers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2526165,Philadelphia Flyers,Edmonton Oilers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Philadelphia Flyers,Edmonton Oilers,2021
-/zapas/2526181,Pittsburgh Penguins,Edmonton Oilers,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Pittsburgh Penguins,Edmonton Oilers,2021
-/zapas/2526201,Edmonton Oilers,Dallas Stars,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Dallas Stars,Edmonton Oilers,2021
-/zapas/2526220,Edmonton Oilers,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Edmonton Oilers,2021
-/zapas/2526236,Edmonton Oilers,Pittsburgh Penguins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Pittsburgh Penguins,Edmonton Oilers,2021
-/zapas/2526252,Edmonton Oilers,New Jersey Devils,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,New Jersey Devils,Edmonton Oilers,2021
-/zapas/2526267,Edmonton Oilers,Detroit Red Wings,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Detroit Red Wings,Edmonton Oilers,2021
-/zapas/2526279,New York Islanders,Edmonton Oilers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,New York Islanders,Edmonton Oilers,2021
-/zapas/2526289,New Jersey Devils,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New Jersey Devils,Edmonton Oilers,2021
-/zapas/2526303,New York Rangers,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,New York Rangers,Edmonton Oilers,2021
-/zapas/2526316,Washington Capitals,Edmonton Oilers,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Washington Capitals,Edmonton Oilers,2021
-/zapas/2526327,Edmonton Oilers,Vegas Golden Knights,8,2,0,3.0,0.0,1.0,3.0,8.0,2.0,1.0,Vegas Golden Knights,Edmonton Oilers,2021
-/zapas/2526340,Edmonton Oilers,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Edmonton Oilers,2021
-/zapas/2526347,Dallas Stars,Edmonton Oilers,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Dallas Stars,Edmonton Oilers,2021
-/zapas/2526371,St. Louis Blues,Edmonton Oilers,8,3,0,3.0,0.0,0.0,0.0,3.0,8.0,0.0,St. Louis Blues,Edmonton Oilers,2021
-/zapas/2526374,Detroit Red Wings,Edmonton Oilers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Detroit Red Wings,Edmonton Oilers,2021
-/zapas/2526393,Buffalo Sabres,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Buffalo Sabres,Edmonton Oilers,2021
-/zapas/2526415,Boston Bruins,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Boston Bruins,Edmonton Oilers,2021
-/zapas/2526429,Edmonton Oilers,Arizona Coyotes,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Edmonton Oilers,2021
-/zapas/2526441,Edmonton Oilers,Toronto Maple Leafs,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2021
-/zapas/2526461,Calgary Flames,Edmonton Oilers,5,7,0,0.0,3.0,0.0,3.0,7.0,5.0,1.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2526482,Edmonton Oilers,Philadelphia Flyers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Philadelphia Flyers,Edmonton Oilers,2021
-/zapas/2526500,Montreal Canadiens,Edmonton Oilers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Montreal Canadiens,Edmonton Oilers,2021
-/zapas/2526512,Toronto Maple Leafs,Edmonton Oilers,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2021
-/zapas/2526524,Columbus Blue Jackets,Edmonton Oilers,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,Columbus Blue Jackets,Edmonton Oilers,2021
-/zapas/2526542,Edmonton Oilers,Nashville Predators,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Nashville Predators,Edmonton Oilers,2021
-/zapas/2526550,Minnesota Wild,Edmonton Oilers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Minnesota Wild,Edmonton Oilers,2021
-/zapas/2526569,Edmonton Oilers,San Jose Sharks,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,San Jose Sharks,Edmonton Oilers,2021
-/zapas/2526590,Edmonton Oilers,St. Louis Blues,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,St. Louis Blues,Edmonton Oilers,2021
-/zapas/2526599,Edmonton Oilers,Montreal Canadiens,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Montreal Canadiens,Edmonton Oilers,2021
-/zapas/2526620,Winnipeg Jets,Edmonton Oilers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2526639,Edmonton Oilers,Chicago Blackhawks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2526650,Edmonton Oilers,Winnipeg Jets,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2526664,Edmonton Oilers,Los Angeles Kings,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2526679,Edmonton Oilers,Anaheim Ducks,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Anaheim Ducks,Edmonton Oilers,2021
-/zapas/2526689,Dallas Stars,Edmonton Oilers,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Dallas Stars,Edmonton Oilers,2021
-/zapas/2526698,Chicago Blackhawks,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2526713,Nashville Predators,Edmonton Oilers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Nashville Predators,Edmonton Oilers,2021
-/zapas/2526723,Arizona Coyotes,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Edmonton Oilers,2021
-/zapas/2526730,Vegas Golden Knights,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vegas Golden Knights,Edmonton Oilers,2021
-/zapas/2526774,Edmonton Oilers,Vancouver Canucks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2021
-/zapas/2526793,Edmonton Oilers,Buffalo Sabres,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Buffalo Sabres,Edmonton Oilers,2021
-/zapas/2526809,Edmonton Oilers,Calgary Flames,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2526839,Edmonton Oilers,Colorado Avalanche,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Colorado Avalanche,Edmonton Oilers,2021
-/zapas/2526865,Edmonton Oilers,Tampa Bay Lightning,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Tampa Bay Lightning,Edmonton Oilers,2021
-/zapas/2526879,Los Angeles Kings,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2526896,Anaheim Ducks,Edmonton Oilers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Anaheim Ducks,Edmonton Oilers,2021
-/zapas/2526905,San Jose Sharks,Edmonton Oilers,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,San Jose Sharks,Edmonton Oilers,2021
-/zapas/2526916,Edmonton Oilers,Florida Panthers,5,7,0,0.0,3.0,1.0,0.0,5.0,7.0,0.0,Florida Panthers,Edmonton Oilers,2021
-/zapas/2526942,Vegas Golden Knights,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Edmonton Oilers,2021
-/zapas/2526951,Arizona Coyotes,Edmonton Oilers,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Arizona Coyotes,Edmonton Oilers,2021
-/zapas/2526960,Colorado Avalanche,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Colorado Avalanche,Edmonton Oilers,2021
-/zapas/2526979,Edmonton Oilers,Boston Bruins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Boston Bruins,Edmonton Oilers,2021
-/zapas/2526992,Edmonton Oilers,Colorado Avalanche,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Edmonton Oilers,2021
-/zapas/2527011,Los Angeles Kings,Edmonton Oilers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2527015,Anaheim Ducks,Edmonton Oilers,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Anaheim Ducks,Edmonton Oilers,2021
-/zapas/2527031,San Jose Sharks,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,San Jose Sharks,Edmonton Oilers,2021
-/zapas/2527041,Edmonton Oilers,Nashville Predators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Nashville Predators,Edmonton Oilers,2021
-/zapas/2527061,Edmonton Oilers,New York Rangers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,New York Rangers,Edmonton Oilers,2021
-/zapas/2527072,Edmonton Oilers,Arizona Coyotes,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Arizona Coyotes,Edmonton Oilers,2021
-/zapas/2527095,Edmonton Oilers,New York Islanders,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,New York Islanders,Edmonton Oilers,2021
-/zapas/2527112,Edmonton Oilers,Minnesota Wild,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Minnesota Wild,Edmonton Oilers,2021
-/zapas/2527130,Calgary Flames,Edmonton Oilers,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2527134,Edmonton Oilers,San Jose Sharks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,San Jose Sharks,Edmonton Oilers,2021
-/zapas/2527153,Florida Panthers,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Florida Panthers,Edmonton Oilers,2021
-/zapas/2527164,Tampa Bay Lightning,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Tampa Bay Lightning,Edmonton Oilers,2021
-/zapas/2527178,Carolina Hurricanes,Edmonton Oilers,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Carolina Hurricanes,Edmonton Oilers,2021
-/zapas/2527194,Ottawa Senators,Edmonton Oilers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Ottawa Senators,Edmonton Oilers,2021
-/zapas/2527216,Edmonton Oilers,Los Angeles Kings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2527221,Edmonton Oilers,Anaheim Ducks,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Anaheim Ducks,Edmonton Oilers,2021
-/zapas/2527238,Edmonton Oilers,Columbus Blue Jackets,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Columbus Blue Jackets,Edmonton Oilers,2021
-/zapas/2527252,Vancouver Canucks,Edmonton Oilers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Vancouver Canucks,Edmonton Oilers,2021
-/zapas/2527270,Calgary Flames,Edmonton Oilers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2527281,Minnesota Wild,Edmonton Oilers,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Minnesota Wild,Edmonton Oilers,2021
-/zapas/2527303,Edmonton Oilers,Vegas Golden Knights,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Vegas Golden Knights,Edmonton Oilers,2021
-/zapas/2527323,Edmonton Oilers,Vancouver Canucks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2021
-/zapas/2647215,New Jersey Devils,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New Jersey Devils,Edmonton Oilers,2021
-/zapas/2647243,Boston Bruins,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Boston Bruins,Edmonton Oilers,2021
-/zapas/2647255,New York Rangers,Edmonton Oilers,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,New York Rangers,Edmonton Oilers,2021
-/zapas/2647282,Winnipeg Jets,Edmonton Oilers,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2647294,Edmonton Oilers,Boston Bruins,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Boston Bruins,Edmonton Oilers,2021
-/zapas/2647311,Edmonton Oilers,Nashville Predators,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Nashville Predators,Edmonton Oilers,2021
-/zapas/2647327,Edmonton Oilers,Pittsburgh Penguins,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Pittsburgh Penguins,Edmonton Oilers,2021
-/zapas/2647340,Edmonton Oilers,Washington Capitals,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Washington Capitals,Edmonton Oilers,2021
-/zapas/2647348,Nashville Predators,Edmonton Oilers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Nashville Predators,Edmonton Oilers,2021
-/zapas/2647360,Chicago Blackhawks,Edmonton Oilers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2647372,Edmonton Oilers,Minnesota Wild,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Minnesota Wild,Edmonton Oilers,2021
-/zapas/2647386,Edmonton Oilers,Chicago Blackhawks,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2647395,Detroit Red Wings,Edmonton Oilers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Detroit Red Wings,Edmonton Oilers,2021
-/zapas/2647411,Washington Capitals,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Washington Capitals,Edmonton Oilers,2021
-/zapas/2647418,Tampa Bay Lightning,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Edmonton Oilers,2021
-/zapas/2647426,Florida Panthers,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Florida Panthers,Edmonton Oilers,2021
-/zapas/2647457,Edmonton Oilers,Colorado Avalanche,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Edmonton Oilers,2021
-/zapas/2647468,Edmonton Oilers,Montreal Canadiens,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Montreal Canadiens,Edmonton Oilers,2021
-/zapas/2647499,Calgary Flames,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2647505,Edmonton Oilers,Vegas Golden Knights,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Vegas Golden Knights,Edmonton Oilers,2021
-/zapas/2647515,San Jose Sharks,Edmonton Oilers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,San Jose Sharks,Edmonton Oilers,2021
-/zapas/2647531,Anaheim Ducks,Edmonton Oilers,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Anaheim Ducks,Edmonton Oilers,2021
-/zapas/2647559,Los Angeles Kings,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2647573,Edmonton Oilers,Dallas Stars,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,Dallas Stars,Edmonton Oilers,2021
-/zapas/2647586,Edmonton Oilers,Los Angeles Kings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2647604,Edmonton Oilers,Vegas Golden Knights,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Vegas Golden Knights,Edmonton Oilers,2021
-/zapas/2647613,Dallas Stars,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Dallas Stars,Edmonton Oilers,2021
-/zapas/2647624,St. Louis Blues,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,St. Louis Blues,Edmonton Oilers,2021
-/zapas/2647640,Edmonton Oilers,Minnesota Wild,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Minnesota Wild,Edmonton Oilers,2021
-/zapas/2647658,Edmonton Oilers,Calgary Flames,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2647672,Colorado Avalanche,Edmonton Oilers,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Colorado Avalanche,Edmonton Oilers,2021
-/zapas/2647683,Winnipeg Jets,Edmonton Oilers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2647692,Edmonton Oilers,Philadelphia Flyers,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Philadelphia Flyers,Edmonton Oilers,2021
-/zapas/2647709,Vancouver Canucks,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Edmonton Oilers,2021
-/zapas/2647722,Edmonton Oilers,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Edmonton Oilers,2021
-/zapas/2647756,Edmonton Oilers,Tampa Bay Lightning,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Tampa Bay Lightning,Edmonton Oilers,2021
-/zapas/2647774,Edmonton Oilers,Vancouver Canucks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Edmonton Oilers,2021
-/zapas/2647784,Edmonton Oilers,San Jose Sharks,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,San Jose Sharks,Edmonton Oilers,2021
-/zapas/2647808,Edmonton Oilers,Winnipeg Jets,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2647818,Arizona Coyotes,Edmonton Oilers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Edmonton Oilers,2021
-/zapas/2647841,Los Angeles Kings,Edmonton Oilers,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2647848,Anaheim Ducks,Edmonton Oilers,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Anaheim Ducks,Edmonton Oilers,2021
-/zapas/2647865,San Jose Sharks,Edmonton Oilers,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,San Jose Sharks,Edmonton Oilers,2021
-/zapas/2647877,Edmonton Oilers,Florida Panthers,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Florida Panthers,Edmonton Oilers,2021
-/zapas/2647895,Edmonton Oilers,Arizona Coyotes,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Arizona Coyotes,Edmonton Oilers,2021
-/zapas/2647908,Edmonton Oilers,Buffalo Sabres,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Buffalo Sabres,Edmonton Oilers,2021
-/zapas/2647922,Vancouver Canucks,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2021
-/zapas/2647948,Edmonton Oilers,Calgary Flames,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2647953,Edmonton Oilers,Carolina Hurricanes,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Carolina Hurricanes,Edmonton Oilers,2021
-/zapas/2647962,Edmonton Oilers,Detroit Red Wings,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Detroit Red Wings,Edmonton Oilers,2021
-/zapas/2647987,Philadelphia Flyers,Edmonton Oilers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Philadelphia Flyers,Edmonton Oilers,2021
-/zapas/2648001,Montreal Canadiens,Edmonton Oilers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Montreal Canadiens,Edmonton Oilers,2021
-/zapas/2648018,Edmonton Oilers,Chicago Blackhawks,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2648031,Minnesota Wild,Edmonton Oilers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Minnesota Wild,Edmonton Oilers,2021
-/zapas/2648044,Edmonton Oilers,San Jose Sharks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,San Jose Sharks,Edmonton Oilers,2021
-/zapas/2648073,Pittsburgh Penguins,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Pittsburgh Penguins,Edmonton Oilers,2021
-/zapas/2648087,Carolina Hurricanes,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Edmonton Oilers,2021
-/zapas/2648096,New York Islanders,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Islanders,Edmonton Oilers,2021
-/zapas/2648122,Edmonton Oilers,Arizona Coyotes,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Arizona Coyotes,Edmonton Oilers,2021
-/zapas/2648136,Edmonton Oilers,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Edmonton Oilers,2021
-/zapas/2648153,Edmonton Oilers,Anaheim Ducks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Edmonton Oilers,2021
-/zapas/2648163,Nashville Predators,Edmonton Oilers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Nashville Predators,Edmonton Oilers,2021
-/zapas/2648177,Toronto Maple Leafs,Edmonton Oilers,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2021
-/zapas/2648185,Ottawa Senators,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Ottawa Senators,Edmonton Oilers,2021
-/zapas/2648197,Columbus Blue Jackets,Edmonton Oilers,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Columbus Blue Jackets,Edmonton Oilers,2021
-/zapas/2648215,Buffalo Sabres,Edmonton Oilers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Buffalo Sabres,Edmonton Oilers,2021
-/zapas/2648238,Edmonton Oilers,Vancouver Canucks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2021
-/zapas/2648248,Edmonton Oilers,Toronto Maple Leafs,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2021
-/zapas/2648269,Edmonton Oilers,New York Rangers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Rangers,Edmonton Oilers,2021
-/zapas/2648279,Edmonton Oilers,New Jersey Devils,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,New Jersey Devils,Edmonton Oilers,2021
-/zapas/2648307,Arizona Coyotes,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Edmonton Oilers,2021
-/zapas/2648315,Vegas Golden Knights,Edmonton Oilers,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Vegas Golden Knights,Edmonton Oilers,2021
-/zapas/2648325,St. Louis Blues,Edmonton Oilers,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,St. Louis Blues,Edmonton Oilers,2021
-/zapas/2648343,Edmonton Oilers,Columbus Blue Jackets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Edmonton Oilers,2021
-/zapas/2648351,Edmonton Oilers,Ottawa Senators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Ottawa Senators,Edmonton Oilers,2021
-/zapas/2648380,Edmonton Oilers,Los Angeles Kings,8,4,0,3.0,0.0,1.0,3.0,8.0,4.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2648392,Edmonton Oilers,Dallas Stars,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Dallas Stars,Edmonton Oilers,2021
-/zapas/2648411,Edmonton Oilers,Anaheim Ducks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Anaheim Ducks,Edmonton Oilers,2021
-/zapas/2648425,Vegas Golden Knights,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Vegas Golden Knights,Edmonton Oilers,2021
-/zapas/2648434,Colorado Avalanche,Edmonton Oilers,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Colorado Avalanche,Edmonton Oilers,2021
-/zapas/2648450,Edmonton Oilers,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Edmonton Oilers,2021
-/zapas/2648467,Calgary Flames,Edmonton Oilers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2891009,Edmonton Oilers,Chicago Blackhawks,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2891010,Edmonton Oilers,Chicago Blackhawks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2891011,Chicago Blackhawks,Edmonton Oilers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2891012,Chicago Blackhawks,Edmonton Oilers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Chicago Blackhawks,Edmonton Oilers,2021
-/zapas/2894371,Edmonton Oilers,Winnipeg Jets,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2894372,Edmonton Oilers,Winnipeg Jets,0,1,1,1.0,2.0,1.0,1.0,0.0,1.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2894373,Winnipeg Jets,Edmonton Oilers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2894374,Winnipeg Jets,Edmonton Oilers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
-/zapas/2900303,Edmonton Oilers,Los Angeles Kings,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2900304,Edmonton Oilers,Los Angeles Kings,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2900305,Los Angeles Kings,Edmonton Oilers,2,8,0,0.0,3.0,0.0,3.0,8.0,2.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2900306,Los Angeles Kings,Edmonton Oilers,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2900307,Edmonton Oilers,Los Angeles Kings,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2900308,Los Angeles Kings,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2900309,Edmonton Oilers,Los Angeles Kings,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
-/zapas/2900387,Calgary Flames,Edmonton Oilers,9,6,0,3.0,0.0,0.0,0.0,6.0,9.0,0.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2900388,Calgary Flames,Edmonton Oilers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2900389,Edmonton Oilers,Calgary Flames,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2900390,Edmonton Oilers,Calgary Flames,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2900391,Calgary Flames,Edmonton Oilers,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Calgary Flames,Edmonton Oilers,2021
-/zapas/2900409,Colorado Avalanche,Edmonton Oilers,8,6,0,3.0,0.0,0.0,0.0,6.0,8.0,0.0,Colorado Avalanche,Edmonton Oilers,2021
-/zapas/2900410,Colorado Avalanche,Edmonton Oilers,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Colorado Avalanche,Edmonton Oilers,2021
-/zapas/2900411,Edmonton Oilers,Colorado Avalanche,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Colorado Avalanche,Edmonton Oilers,2021
-/zapas/2900412,Edmonton Oilers,Colorado Avalanche,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Colorado Avalanche,Edmonton Oilers,2021
+/zapas/2526057,Edmonton Oilers,Calgary Flames,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Calgary Flames,Edmonton Oilers,2017
+/zapas/2526082,Vancouver Canucks,Edmonton Oilers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vancouver Canucks,Edmonton Oilers,2017
+/zapas/2526091,Edmonton Oilers,Winnipeg Jets,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Winnipeg Jets,Edmonton Oilers,2017
+/zapas/2526128,Edmonton Oilers,Ottawa Senators,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Ottawa Senators,Edmonton Oilers,2017
+/zapas/2526143,Edmonton Oilers,Carolina Hurricanes,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Carolina Hurricanes,Edmonton Oilers,2017
+/zapas/2526154,Chicago Blackhawks,Edmonton Oilers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,2017
+/zapas/2526165,Philadelphia Flyers,Edmonton Oilers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Philadelphia Flyers,Edmonton Oilers,2017
+/zapas/2526181,Pittsburgh Penguins,Edmonton Oilers,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Pittsburgh Penguins,Edmonton Oilers,2017
+/zapas/2526201,Edmonton Oilers,Dallas Stars,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Dallas Stars,Edmonton Oilers,2017
+/zapas/2526220,Edmonton Oilers,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Edmonton Oilers,2017
+/zapas/2526236,Edmonton Oilers,Pittsburgh Penguins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Pittsburgh Penguins,Edmonton Oilers,2017
+/zapas/2526252,Edmonton Oilers,New Jersey Devils,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,New Jersey Devils,Edmonton Oilers,2017
+/zapas/2526267,Edmonton Oilers,Detroit Red Wings,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Detroit Red Wings,Edmonton Oilers,2017
+/zapas/2526279,New York Islanders,Edmonton Oilers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,New York Islanders,Edmonton Oilers,2017
+/zapas/2526289,New Jersey Devils,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,New Jersey Devils,Edmonton Oilers,2017
+/zapas/2526303,New York Rangers,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,New York Rangers,Edmonton Oilers,2017
+/zapas/2526316,Washington Capitals,Edmonton Oilers,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Washington Capitals,Edmonton Oilers,2017
+/zapas/2526327,Edmonton Oilers,Vegas Golden Knights,8,2,0,3.0,0.0,1.0,3.0,8.0,2.0,1.0,Vegas Golden Knights,Edmonton Oilers,2017
+/zapas/2526340,Edmonton Oilers,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Edmonton Oilers,2017
+/zapas/2526347,Dallas Stars,Edmonton Oilers,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Dallas Stars,Edmonton Oilers,2017
+/zapas/2526371,St. Louis Blues,Edmonton Oilers,8,3,0,3.0,0.0,0.0,0.0,3.0,8.0,0.0,St. Louis Blues,Edmonton Oilers,2017
+/zapas/2526374,Detroit Red Wings,Edmonton Oilers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Detroit Red Wings,Edmonton Oilers,2017
+/zapas/2526393,Buffalo Sabres,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Buffalo Sabres,Edmonton Oilers,2017
+/zapas/2526415,Boston Bruins,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Boston Bruins,Edmonton Oilers,2017
+/zapas/2526429,Edmonton Oilers,Arizona Coyotes,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Edmonton Oilers,2017
+/zapas/2526441,Edmonton Oilers,Toronto Maple Leafs,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2017
+/zapas/2526461,Calgary Flames,Edmonton Oilers,5,7,0,0.0,3.0,0.0,3.0,7.0,5.0,1.0,Calgary Flames,Edmonton Oilers,2017
+/zapas/2526482,Edmonton Oilers,Philadelphia Flyers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Philadelphia Flyers,Edmonton Oilers,2017
+/zapas/2526500,Montreal Canadiens,Edmonton Oilers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Montreal Canadiens,Edmonton Oilers,2017
+/zapas/2526512,Toronto Maple Leafs,Edmonton Oilers,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2017
+/zapas/2526524,Columbus Blue Jackets,Edmonton Oilers,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,Columbus Blue Jackets,Edmonton Oilers,2017
+/zapas/2526542,Edmonton Oilers,Nashville Predators,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Nashville Predators,Edmonton Oilers,2017
+/zapas/2526550,Minnesota Wild,Edmonton Oilers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Minnesota Wild,Edmonton Oilers,2017
+/zapas/2526569,Edmonton Oilers,San Jose Sharks,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,San Jose Sharks,Edmonton Oilers,2017
+/zapas/2526590,Edmonton Oilers,St. Louis Blues,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,St. Louis Blues,Edmonton Oilers,2017
+/zapas/2526599,Edmonton Oilers,Montreal Canadiens,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Montreal Canadiens,Edmonton Oilers,2017
+/zapas/2526620,Winnipeg Jets,Edmonton Oilers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Edmonton Oilers,2017
+/zapas/2526639,Edmonton Oilers,Chicago Blackhawks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Chicago Blackhawks,Edmonton Oilers,2017
+/zapas/2526650,Edmonton Oilers,Winnipeg Jets,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Winnipeg Jets,Edmonton Oilers,2017
+/zapas/2526664,Edmonton Oilers,Los Angeles Kings,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Los Angeles Kings,Edmonton Oilers,2017
+/zapas/2526679,Edmonton Oilers,Anaheim Ducks,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Anaheim Ducks,Edmonton Oilers,2017
+/zapas/2526689,Dallas Stars,Edmonton Oilers,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Dallas Stars,Edmonton Oilers,2017
+/zapas/2526698,Chicago Blackhawks,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Chicago Blackhawks,Edmonton Oilers,2017
+/zapas/2526713,Nashville Predators,Edmonton Oilers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Nashville Predators,Edmonton Oilers,2017
+/zapas/2526723,Arizona Coyotes,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Edmonton Oilers,2017
+/zapas/2526730,Vegas Golden Knights,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vegas Golden Knights,Edmonton Oilers,2017
+/zapas/2526774,Edmonton Oilers,Vancouver Canucks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2017
+/zapas/2526793,Edmonton Oilers,Buffalo Sabres,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Buffalo Sabres,Edmonton Oilers,2017
+/zapas/2526809,Edmonton Oilers,Calgary Flames,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Calgary Flames,Edmonton Oilers,2017
+/zapas/2526839,Edmonton Oilers,Colorado Avalanche,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Colorado Avalanche,Edmonton Oilers,2017
+/zapas/2526865,Edmonton Oilers,Tampa Bay Lightning,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Tampa Bay Lightning,Edmonton Oilers,2017
+/zapas/2526879,Los Angeles Kings,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Los Angeles Kings,Edmonton Oilers,2017
+/zapas/2526896,Anaheim Ducks,Edmonton Oilers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Anaheim Ducks,Edmonton Oilers,2017
+/zapas/2526905,San Jose Sharks,Edmonton Oilers,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,San Jose Sharks,Edmonton Oilers,2017
+/zapas/2526916,Edmonton Oilers,Florida Panthers,5,7,0,0.0,3.0,1.0,0.0,5.0,7.0,0.0,Florida Panthers,Edmonton Oilers,2017
+/zapas/2526942,Vegas Golden Knights,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Edmonton Oilers,2017
+/zapas/2526951,Arizona Coyotes,Edmonton Oilers,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Arizona Coyotes,Edmonton Oilers,2017
+/zapas/2526960,Colorado Avalanche,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Colorado Avalanche,Edmonton Oilers,2017
+/zapas/2526979,Edmonton Oilers,Boston Bruins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Boston Bruins,Edmonton Oilers,2017
+/zapas/2526992,Edmonton Oilers,Colorado Avalanche,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Edmonton Oilers,2017
+/zapas/2527011,Los Angeles Kings,Edmonton Oilers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Los Angeles Kings,Edmonton Oilers,2017
+/zapas/2527015,Anaheim Ducks,Edmonton Oilers,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Anaheim Ducks,Edmonton Oilers,2017
+/zapas/2527031,San Jose Sharks,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,San Jose Sharks,Edmonton Oilers,2017
+/zapas/2527041,Edmonton Oilers,Nashville Predators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Nashville Predators,Edmonton Oilers,2017
+/zapas/2527061,Edmonton Oilers,New York Rangers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,New York Rangers,Edmonton Oilers,2017
+/zapas/2527072,Edmonton Oilers,Arizona Coyotes,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Arizona Coyotes,Edmonton Oilers,2017
+/zapas/2527095,Edmonton Oilers,New York Islanders,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,New York Islanders,Edmonton Oilers,2017
+/zapas/2527112,Edmonton Oilers,Minnesota Wild,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Minnesota Wild,Edmonton Oilers,2017
+/zapas/2527130,Calgary Flames,Edmonton Oilers,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Calgary Flames,Edmonton Oilers,2017
+/zapas/2527134,Edmonton Oilers,San Jose Sharks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,San Jose Sharks,Edmonton Oilers,2017
+/zapas/2527153,Florida Panthers,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Florida Panthers,Edmonton Oilers,2017
+/zapas/2527164,Tampa Bay Lightning,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Tampa Bay Lightning,Edmonton Oilers,2017
+/zapas/2527178,Carolina Hurricanes,Edmonton Oilers,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Carolina Hurricanes,Edmonton Oilers,2017
+/zapas/2527194,Ottawa Senators,Edmonton Oilers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Ottawa Senators,Edmonton Oilers,2017
+/zapas/2527216,Edmonton Oilers,Los Angeles Kings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Edmonton Oilers,2017
+/zapas/2527221,Edmonton Oilers,Anaheim Ducks,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Anaheim Ducks,Edmonton Oilers,2017
+/zapas/2527238,Edmonton Oilers,Columbus Blue Jackets,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Columbus Blue Jackets,Edmonton Oilers,2017
+/zapas/2527252,Vancouver Canucks,Edmonton Oilers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Vancouver Canucks,Edmonton Oilers,2017
+/zapas/2527270,Calgary Flames,Edmonton Oilers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Calgary Flames,Edmonton Oilers,2017
+/zapas/2527281,Minnesota Wild,Edmonton Oilers,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Minnesota Wild,Edmonton Oilers,2017
+/zapas/2527303,Edmonton Oilers,Vegas Golden Knights,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Vegas Golden Knights,Edmonton Oilers,2017
+/zapas/2527323,Edmonton Oilers,Vancouver Canucks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2017
+/zapas/2647215,New Jersey Devils,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New Jersey Devils,Edmonton Oilers,2018
+/zapas/2647243,Boston Bruins,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Boston Bruins,Edmonton Oilers,2018
+/zapas/2647255,New York Rangers,Edmonton Oilers,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,New York Rangers,Edmonton Oilers,2018
+/zapas/2647282,Winnipeg Jets,Edmonton Oilers,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Winnipeg Jets,Edmonton Oilers,2018
+/zapas/2647294,Edmonton Oilers,Boston Bruins,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Boston Bruins,Edmonton Oilers,2018
+/zapas/2647311,Edmonton Oilers,Nashville Predators,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Nashville Predators,Edmonton Oilers,2018
+/zapas/2647327,Edmonton Oilers,Pittsburgh Penguins,5,6,1,1.0,2.0,1.0,1.0,5.0,6.0,0.0,Pittsburgh Penguins,Edmonton Oilers,2018
+/zapas/2647340,Edmonton Oilers,Washington Capitals,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Washington Capitals,Edmonton Oilers,2018
+/zapas/2647348,Nashville Predators,Edmonton Oilers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Nashville Predators,Edmonton Oilers,2018
+/zapas/2647360,Chicago Blackhawks,Edmonton Oilers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Chicago Blackhawks,Edmonton Oilers,2018
+/zapas/2647372,Edmonton Oilers,Minnesota Wild,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Minnesota Wild,Edmonton Oilers,2018
+/zapas/2647386,Edmonton Oilers,Chicago Blackhawks,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Chicago Blackhawks,Edmonton Oilers,2018
+/zapas/2647395,Detroit Red Wings,Edmonton Oilers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Detroit Red Wings,Edmonton Oilers,2018
+/zapas/2647411,Washington Capitals,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Washington Capitals,Edmonton Oilers,2018
+/zapas/2647418,Tampa Bay Lightning,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Edmonton Oilers,2018
+/zapas/2647426,Florida Panthers,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Florida Panthers,Edmonton Oilers,2018
+/zapas/2647457,Edmonton Oilers,Colorado Avalanche,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Edmonton Oilers,2018
+/zapas/2647468,Edmonton Oilers,Montreal Canadiens,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Montreal Canadiens,Edmonton Oilers,2018
+/zapas/2647499,Calgary Flames,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Calgary Flames,Edmonton Oilers,2018
+/zapas/2647505,Edmonton Oilers,Vegas Golden Knights,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Vegas Golden Knights,Edmonton Oilers,2018
+/zapas/2647515,San Jose Sharks,Edmonton Oilers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,San Jose Sharks,Edmonton Oilers,2018
+/zapas/2647531,Anaheim Ducks,Edmonton Oilers,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Anaheim Ducks,Edmonton Oilers,2018
+/zapas/2647559,Los Angeles Kings,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Los Angeles Kings,Edmonton Oilers,2018
+/zapas/2647573,Edmonton Oilers,Dallas Stars,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,Dallas Stars,Edmonton Oilers,2018
+/zapas/2647586,Edmonton Oilers,Los Angeles Kings,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Edmonton Oilers,2018
+/zapas/2647604,Edmonton Oilers,Vegas Golden Knights,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Vegas Golden Knights,Edmonton Oilers,2018
+/zapas/2647613,Dallas Stars,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Dallas Stars,Edmonton Oilers,2018
+/zapas/2647624,St. Louis Blues,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,St. Louis Blues,Edmonton Oilers,2018
+/zapas/2647640,Edmonton Oilers,Minnesota Wild,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Minnesota Wild,Edmonton Oilers,2018
+/zapas/2647658,Edmonton Oilers,Calgary Flames,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Calgary Flames,Edmonton Oilers,2018
+/zapas/2647672,Colorado Avalanche,Edmonton Oilers,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Colorado Avalanche,Edmonton Oilers,2018
+/zapas/2647683,Winnipeg Jets,Edmonton Oilers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Winnipeg Jets,Edmonton Oilers,2018
+/zapas/2647692,Edmonton Oilers,Philadelphia Flyers,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Philadelphia Flyers,Edmonton Oilers,2018
+/zapas/2647709,Vancouver Canucks,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Edmonton Oilers,2018
+/zapas/2647722,Edmonton Oilers,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Edmonton Oilers,2018
+/zapas/2647756,Edmonton Oilers,Tampa Bay Lightning,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Tampa Bay Lightning,Edmonton Oilers,2018
+/zapas/2647774,Edmonton Oilers,Vancouver Canucks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Edmonton Oilers,2018
+/zapas/2647784,Edmonton Oilers,San Jose Sharks,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,San Jose Sharks,Edmonton Oilers,2018
+/zapas/2647808,Edmonton Oilers,Winnipeg Jets,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Winnipeg Jets,Edmonton Oilers,2018
+/zapas/2647818,Arizona Coyotes,Edmonton Oilers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Edmonton Oilers,2018
+/zapas/2647841,Los Angeles Kings,Edmonton Oilers,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Los Angeles Kings,Edmonton Oilers,2018
+/zapas/2647848,Anaheim Ducks,Edmonton Oilers,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Anaheim Ducks,Edmonton Oilers,2018
+/zapas/2647865,San Jose Sharks,Edmonton Oilers,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,San Jose Sharks,Edmonton Oilers,2018
+/zapas/2647877,Edmonton Oilers,Florida Panthers,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Florida Panthers,Edmonton Oilers,2018
+/zapas/2647895,Edmonton Oilers,Arizona Coyotes,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Arizona Coyotes,Edmonton Oilers,2018
+/zapas/2647908,Edmonton Oilers,Buffalo Sabres,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Buffalo Sabres,Edmonton Oilers,2018
+/zapas/2647922,Vancouver Canucks,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2018
+/zapas/2647948,Edmonton Oilers,Calgary Flames,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Calgary Flames,Edmonton Oilers,2018
+/zapas/2647953,Edmonton Oilers,Carolina Hurricanes,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Carolina Hurricanes,Edmonton Oilers,2018
+/zapas/2647962,Edmonton Oilers,Detroit Red Wings,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Detroit Red Wings,Edmonton Oilers,2018
+/zapas/2647987,Philadelphia Flyers,Edmonton Oilers,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Philadelphia Flyers,Edmonton Oilers,2018
+/zapas/2648001,Montreal Canadiens,Edmonton Oilers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Montreal Canadiens,Edmonton Oilers,2018
+/zapas/2648018,Edmonton Oilers,Chicago Blackhawks,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Chicago Blackhawks,Edmonton Oilers,2018
+/zapas/2648031,Minnesota Wild,Edmonton Oilers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Minnesota Wild,Edmonton Oilers,2018
+/zapas/2648044,Edmonton Oilers,San Jose Sharks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,San Jose Sharks,Edmonton Oilers,2018
+/zapas/2648073,Pittsburgh Penguins,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Pittsburgh Penguins,Edmonton Oilers,2018
+/zapas/2648087,Carolina Hurricanes,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Edmonton Oilers,2018
+/zapas/2648096,New York Islanders,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Islanders,Edmonton Oilers,2018
+/zapas/2648122,Edmonton Oilers,Arizona Coyotes,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Arizona Coyotes,Edmonton Oilers,2018
+/zapas/2648136,Edmonton Oilers,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Edmonton Oilers,2018
+/zapas/2648153,Edmonton Oilers,Anaheim Ducks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Edmonton Oilers,2018
+/zapas/2648163,Nashville Predators,Edmonton Oilers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Nashville Predators,Edmonton Oilers,2018
+/zapas/2648177,Toronto Maple Leafs,Edmonton Oilers,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2018
+/zapas/2648185,Ottawa Senators,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Ottawa Senators,Edmonton Oilers,2018
+/zapas/2648197,Columbus Blue Jackets,Edmonton Oilers,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Columbus Blue Jackets,Edmonton Oilers,2018
+/zapas/2648215,Buffalo Sabres,Edmonton Oilers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Buffalo Sabres,Edmonton Oilers,2018
+/zapas/2648238,Edmonton Oilers,Vancouver Canucks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2018
+/zapas/2648248,Edmonton Oilers,Toronto Maple Leafs,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2018
+/zapas/2648269,Edmonton Oilers,New York Rangers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Rangers,Edmonton Oilers,2018
+/zapas/2648279,Edmonton Oilers,New Jersey Devils,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,New Jersey Devils,Edmonton Oilers,2018
+/zapas/2648307,Arizona Coyotes,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Edmonton Oilers,2018
+/zapas/2648315,Vegas Golden Knights,Edmonton Oilers,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Vegas Golden Knights,Edmonton Oilers,2018
+/zapas/2648325,St. Louis Blues,Edmonton Oilers,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,St. Louis Blues,Edmonton Oilers,2018
+/zapas/2648343,Edmonton Oilers,Columbus Blue Jackets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Edmonton Oilers,2018
+/zapas/2648351,Edmonton Oilers,Ottawa Senators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Ottawa Senators,Edmonton Oilers,2018
+/zapas/2648380,Edmonton Oilers,Los Angeles Kings,8,4,0,3.0,0.0,1.0,3.0,8.0,4.0,1.0,Los Angeles Kings,Edmonton Oilers,2018
+/zapas/2648392,Edmonton Oilers,Dallas Stars,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Dallas Stars,Edmonton Oilers,2018
+/zapas/2648411,Edmonton Oilers,Anaheim Ducks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Anaheim Ducks,Edmonton Oilers,2018
+/zapas/2648425,Vegas Golden Knights,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Vegas Golden Knights,Edmonton Oilers,2018
+/zapas/2648434,Colorado Avalanche,Edmonton Oilers,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Colorado Avalanche,Edmonton Oilers,2018
+/zapas/2648450,Edmonton Oilers,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Edmonton Oilers,2018
+/zapas/2648467,Calgary Flames,Edmonton Oilers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Calgary Flames,Edmonton Oilers,2018
+/zapas/2806379,Edmonton Oilers,Vancouver Canucks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2019
+/zapas/2806406,Edmonton Oilers,Los Angeles Kings,6,5,0,3.0,0.0,1.0,3.0,6.0,5.0,1.0,Los Angeles Kings,Edmonton Oilers,2019
+/zapas/2806413,New York Islanders,Edmonton Oilers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New York Islanders,Edmonton Oilers,2019
+/zapas/2806425,New Jersey Devils,Edmonton Oilers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New Jersey Devils,Edmonton Oilers,2019
+/zapas/2806437,New York Rangers,Edmonton Oilers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New York Rangers,Edmonton Oilers,2019
+/zapas/2806460,Chicago Blackhawks,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Chicago Blackhawks,Edmonton Oilers,2019
+/zapas/2806471,Edmonton Oilers,Philadelphia Flyers,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Philadelphia Flyers,Edmonton Oilers,2019
+/zapas/2806487,Edmonton Oilers,Detroit Red Wings,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Detroit Red Wings,Edmonton Oilers,2019
+/zapas/2806503,Winnipeg Jets,Edmonton Oilers,1,0,1,2.0,1.0,0.0,1.0,0.0,1.0,0.0,Winnipeg Jets,Edmonton Oilers,2019
+/zapas/2806515,Minnesota Wild,Edmonton Oilers,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Minnesota Wild,Edmonton Oilers,2019
+/zapas/2806530,Edmonton Oilers,Washington Capitals,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Washington Capitals,Edmonton Oilers,2019
+/zapas/2806546,Edmonton Oilers,Florida Panthers,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Florida Panthers,Edmonton Oilers,2019
+/zapas/2806560,Detroit Red Wings,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Detroit Red Wings,Edmonton Oilers,2019
+/zapas/2806565,Columbus Blue Jackets,Edmonton Oilers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Edmonton Oilers,2019
+/zapas/2806580,Pittsburgh Penguins,Edmonton Oilers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Pittsburgh Penguins,Edmonton Oilers,2019
+/zapas/2806599,Edmonton Oilers,Arizona Coyotes,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Arizona Coyotes,Edmonton Oilers,2019
+/zapas/2806612,Edmonton Oilers,St. Louis Blues,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,St. Louis Blues,Edmonton Oilers,2019
+/zapas/2806627,Edmonton Oilers,New Jersey Devils,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,New Jersey Devils,Edmonton Oilers,2019
+/zapas/2806645,Anaheim Ducks,Edmonton Oilers,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Anaheim Ducks,Edmonton Oilers,2019
+/zapas/2806656,San Jose Sharks,Edmonton Oilers,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,San Jose Sharks,Edmonton Oilers,2019
+/zapas/2806666,Edmonton Oilers,Colorado Avalanche,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Colorado Avalanche,Edmonton Oilers,2019
+/zapas/2806676,Edmonton Oilers,Dallas Stars,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Dallas Stars,Edmonton Oilers,2019
+/zapas/2806706,San Jose Sharks,Edmonton Oilers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,San Jose Sharks,Edmonton Oilers,2019
+/zapas/2806721,Los Angeles Kings,Edmonton Oilers,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Los Angeles Kings,Edmonton Oilers,2019
+/zapas/2806736,Vegas Golden Knights,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Edmonton Oilers,2019
+/zapas/2806740,Arizona Coyotes,Edmonton Oilers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Arizona Coyotes,Edmonton Oilers,2019
+/zapas/2806763,Colorado Avalanche,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Edmonton Oilers,2019
+/zapas/2806791,Edmonton Oilers,Vancouver Canucks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Edmonton Oilers,2019
+/zapas/2806794,Vancouver Canucks,Edmonton Oilers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2019
+/zapas/2806812,Edmonton Oilers,Ottawa Senators,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Ottawa Senators,Edmonton Oilers,2019
+/zapas/2806826,Edmonton Oilers,Los Angeles Kings,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Los Angeles Kings,Edmonton Oilers,2019
+/zapas/2806843,Edmonton Oilers,Buffalo Sabres,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Buffalo Sabres,Edmonton Oilers,2019
+/zapas/2806855,Edmonton Oilers,Carolina Hurricanes,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Carolina Hurricanes,Edmonton Oilers,2019
+/zapas/2806869,Minnesota Wild,Edmonton Oilers,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Minnesota Wild,Edmonton Oilers,2019
+/zapas/2806882,Edmonton Oilers,Toronto Maple Leafs,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2019
+/zapas/2806899,Dallas Stars,Edmonton Oilers,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Dallas Stars,Edmonton Oilers,2019
+/zapas/2806913,St. Louis Blues,Edmonton Oilers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,St. Louis Blues,Edmonton Oilers,2019
+/zapas/2806927,Edmonton Oilers,Pittsburgh Penguins,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Pittsburgh Penguins,Edmonton Oilers,2019
+/zapas/2806931,Edmonton Oilers,Montreal Canadiens,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Montreal Canadiens,Edmonton Oilers,2019
+/zapas/2806955,Vancouver Canucks,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Edmonton Oilers,2019
+/zapas/2806966,Edmonton Oilers,Calgary Flames,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Calgary Flames,Edmonton Oilers,2019
+/zapas/2807000,Edmonton Oilers,New York Rangers,7,5,0,3.0,0.0,1.0,3.0,7.0,5.0,1.0,New York Rangers,Edmonton Oilers,2019
+/zapas/2807004,Buffalo Sabres,Edmonton Oilers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Buffalo Sabres,Edmonton Oilers,2019
+/zapas/2807017,Boston Bruins,Edmonton Oilers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Boston Bruins,Edmonton Oilers,2019
+/zapas/2807035,Toronto Maple Leafs,Edmonton Oilers,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Toronto Maple Leafs,Edmonton Oilers,2019
+/zapas/2807055,Montreal Canadiens,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Montreal Canadiens,Edmonton Oilers,2019
+/zapas/2807077,Calgary Flames,Edmonton Oilers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Calgary Flames,Edmonton Oilers,2019
+/zapas/2807099,Edmonton Oilers,Nashville Predators,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Nashville Predators,Edmonton Oilers,2019
+/zapas/2807121,Edmonton Oilers,Arizona Coyotes,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Arizona Coyotes,Edmonton Oilers,2019
+/zapas/2807156,Edmonton Oilers,Calgary Flames,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Calgary Flames,Edmonton Oilers,2019
+/zapas/2807166,Edmonton Oilers,St. Louis Blues,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,St. Louis Blues,Edmonton Oilers,2019
+/zapas/2807179,Calgary Flames,Edmonton Oilers,3,8,0,0.0,3.0,0.0,3.0,8.0,3.0,1.0,Calgary Flames,Edmonton Oilers,2019
+/zapas/2807200,Arizona Coyotes,Edmonton Oilers,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Arizona Coyotes,Edmonton Oilers,2019
+/zapas/2807213,Edmonton Oilers,San Jose Sharks,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,San Jose Sharks,Edmonton Oilers,2019
+/zapas/2807221,Edmonton Oilers,Nashville Predators,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Nashville Predators,Edmonton Oilers,2019
+/zapas/2807251,Edmonton Oilers,Chicago Blackhawks,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Chicago Blackhawks,Edmonton Oilers,2019
+/zapas/2807258,Tampa Bay Lightning,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Tampa Bay Lightning,Edmonton Oilers,2019
+/zapas/2807274,Florida Panthers,Edmonton Oilers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Florida Panthers,Edmonton Oilers,2019
+/zapas/2807284,Carolina Hurricanes,Edmonton Oilers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Carolina Hurricanes,Edmonton Oilers,2019
+/zapas/2807304,Edmonton Oilers,Boston Bruins,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Boston Bruins,Edmonton Oilers,2019
+/zapas/2807322,Edmonton Oilers,Minnesota Wild,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Minnesota Wild,Edmonton Oilers,2019
+/zapas/2807342,Los Angeles Kings,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Los Angeles Kings,Edmonton Oilers,2019
+/zapas/2807356,Anaheim Ducks,Edmonton Oilers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Anaheim Ducks,Edmonton Oilers,2019
+/zapas/2807358,Vegas Golden Knights,Edmonton Oilers,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Vegas Golden Knights,Edmonton Oilers,2019
+/zapas/2807385,Edmonton Oilers,Winnipeg Jets,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Edmonton Oilers,2019
+/zapas/2807394,Nashville Predators,Edmonton Oilers,3,8,0,0.0,3.0,0.0,3.0,8.0,3.0,1.0,Nashville Predators,Edmonton Oilers,2019
+/zapas/2807402,Dallas Stars,Edmonton Oilers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Dallas Stars,Edmonton Oilers,2019
+/zapas/2807416,Chicago Blackhawks,Edmonton Oilers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Chicago Blackhawks,Edmonton Oilers,2019
+/zapas/2807434,Edmonton Oilers,Columbus Blue Jackets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Edmonton Oilers,2019
+/zapas/2807444,Edmonton Oilers,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Edmonton Oilers,2019
+/zapas/2807456,Edmonton Oilers,Winnipeg Jets,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Winnipeg Jets,Edmonton Oilers,2019
+/zapas/2893209,Edmonton Oilers,Vancouver Canucks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2893216,Edmonton Oilers,Vancouver Canucks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2893233,Edmonton Oilers,Montreal Canadiens,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Montreal Canadiens,Edmonton Oilers,2020
+/zapas/2893247,Edmonton Oilers,Montreal Canadiens,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Montreal Canadiens,Edmonton Oilers,2020
+/zapas/2893264,Toronto Maple Leafs,Edmonton Oilers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Toronto Maple Leafs,Edmonton Oilers,2020
+/zapas/2893281,Toronto Maple Leafs,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2020
+/zapas/2893291,Winnipeg Jets,Edmonton Oilers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Winnipeg Jets,Edmonton Oilers,2020
+/zapas/2893302,Winnipeg Jets,Edmonton Oilers,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Winnipeg Jets,Edmonton Oilers,2020
+/zapas/2893319,Edmonton Oilers,Toronto Maple Leafs,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2020
+/zapas/2893334,Edmonton Oilers,Toronto Maple Leafs,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Toronto Maple Leafs,Edmonton Oilers,2020
+/zapas/2893346,Edmonton Oilers,Ottawa Senators,8,5,0,3.0,0.0,1.0,3.0,8.0,5.0,1.0,Ottawa Senators,Edmonton Oilers,2020
+/zapas/2893361,Edmonton Oilers,Ottawa Senators,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Ottawa Senators,Edmonton Oilers,2020
+/zapas/2893389,Calgary Flames,Edmonton Oilers,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2893407,Ottawa Senators,Edmonton Oilers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Ottawa Senators,Edmonton Oilers,2020
+/zapas/2893417,Ottawa Senators,Edmonton Oilers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Ottawa Senators,Edmonton Oilers,2020
+/zapas/2893432,Montreal Canadiens,Edmonton Oilers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Montreal Canadiens,Edmonton Oilers,2020
+/zapas/2893453,Edmonton Oilers,Winnipeg Jets,5,6,0,0.0,3.0,1.0,0.0,5.0,6.0,0.0,Winnipeg Jets,Edmonton Oilers,2020
+/zapas/2893470,Edmonton Oilers,Winnipeg Jets,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Edmonton Oilers,2020
+/zapas/2893482,Calgary Flames,Edmonton Oilers,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2893488,Edmonton Oilers,Calgary Flames,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2893515,Vancouver Canucks,Edmonton Oilers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2893529,Vancouver Canucks,Edmonton Oilers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2893539,Edmonton Oilers,Toronto Maple Leafs,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2020
+/zapas/2893554,Edmonton Oilers,Toronto Maple Leafs,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2020
+/zapas/2893567,Edmonton Oilers,Toronto Maple Leafs,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2020
+/zapas/2893591,Edmonton Oilers,Calgary Flames,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2893605,Edmonton Oilers,Ottawa Senators,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Ottawa Senators,Edmonton Oilers,2020
+/zapas/2893619,Edmonton Oilers,Ottawa Senators,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Ottawa Senators,Edmonton Oilers,2020
+/zapas/2893635,Edmonton Oilers,Ottawa Senators,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Ottawa Senators,Edmonton Oilers,2020
+/zapas/2893648,Vancouver Canucks,Edmonton Oilers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2893655,Calgary Flames,Edmonton Oilers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2893671,Calgary Flames,Edmonton Oilers,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2893676,Edmonton Oilers,Winnipeg Jets,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Winnipeg Jets,Edmonton Oilers,2020
+/zapas/2893691,Edmonton Oilers,Winnipeg Jets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Edmonton Oilers,2020
+/zapas/2893747,Toronto Maple Leafs,Edmonton Oilers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2020
+/zapas/2893761,Toronto Maple Leafs,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Toronto Maple Leafs,Edmonton Oilers,2020
+/zapas/2893707,Montreal Canadiens,Edmonton Oilers,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Montreal Canadiens,Edmonton Oilers,2020
+/zapas/2893789,Edmonton Oilers,Calgary Flames,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2893817,Montreal Canadiens,Edmonton Oilers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Montreal Canadiens,Edmonton Oilers,2020
+/zapas/2893830,Ottawa Senators,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Ottawa Senators,Edmonton Oilers,2020
+/zapas/2893846,Ottawa Senators,Edmonton Oilers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Ottawa Senators,Edmonton Oilers,2020
+/zapas/2894055,Calgary Flames,Edmonton Oilers,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2893898,Winnipeg Jets,Edmonton Oilers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Winnipeg Jets,Edmonton Oilers,2020
+/zapas/2893916,Edmonton Oilers,Montreal Canadiens,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Montreal Canadiens,Edmonton Oilers,2020
+/zapas/2893924,Edmonton Oilers,Montreal Canadiens,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Montreal Canadiens,Edmonton Oilers,2020
+/zapas/2893967,Winnipeg Jets,Edmonton Oilers,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Winnipeg Jets,Edmonton Oilers,2020
+/zapas/2893983,Winnipeg Jets,Edmonton Oilers,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Edmonton Oilers,2020
+/zapas/2893992,Edmonton Oilers,Calgary Flames,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2894007,Edmonton Oilers,Calgary Flames,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Calgary Flames,Edmonton Oilers,2020
+/zapas/2894037,Vancouver Canucks,Edmonton Oilers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2894051,Vancouver Canucks,Edmonton Oilers,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2893794,Edmonton Oilers,Vancouver Canucks,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2893866,Edmonton Oilers,Vancouver Canucks,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2893719,Montreal Canadiens,Edmonton Oilers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Edmonton Oilers,2020
+/zapas/2893735,Montreal Canadiens,Edmonton Oilers,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Montreal Canadiens,Edmonton Oilers,2020
+/zapas/2893879,Edmonton Oilers,Vancouver Canucks,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Vancouver Canucks,Edmonton Oilers,2020
+/zapas/2896985,Edmonton Oilers,Vancouver Canucks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2021
+/zapas/2897004,Edmonton Oilers,Calgary Flames,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Calgary Flames,Edmonton Oilers,2021
+/zapas/2897020,Edmonton Oilers,Anaheim Ducks,6,5,0,3.0,0.0,1.0,3.0,6.0,5.0,1.0,Anaheim Ducks,Edmonton Oilers,2021
+/zapas/2897033,Arizona Coyotes,Edmonton Oilers,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Arizona Coyotes,Edmonton Oilers,2021
+/zapas/2897043,Vegas Golden Knights,Edmonton Oilers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Vegas Golden Knights,Edmonton Oilers,2021
+/zapas/2897078,Edmonton Oilers,Philadelphia Flyers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Philadelphia Flyers,Edmonton Oilers,2021
+/zapas/2897098,Vancouver Canucks,Edmonton Oilers,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Vancouver Canucks,Edmonton Oilers,2021
+/zapas/2897113,Edmonton Oilers,Seattle Kraken,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Seattle Kraken,Edmonton Oilers,2021
+/zapas/2897127,Edmonton Oilers,Nashville Predators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Nashville Predators,Edmonton Oilers,2021
+/zapas/2897141,Edmonton Oilers,New York Rangers,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,New York Rangers,Edmonton Oilers,2021
+/zapas/2897170,Detroit Red Wings,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Detroit Red Wings,Edmonton Oilers,2021
+/zapas/2897181,Boston Bruins,Edmonton Oilers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Boston Bruins,Edmonton Oilers,2021
+/zapas/2897188,Buffalo Sabres,Edmonton Oilers,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Buffalo Sabres,Edmonton Oilers,2021
+/zapas/2897206,St. Louis Blues,Edmonton Oilers,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,St. Louis Blues,Edmonton Oilers,2021
+/zapas/2897218,Winnipeg Jets,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Winnipeg Jets,Edmonton Oilers,2021
+/zapas/2897230,Edmonton Oilers,Winnipeg Jets,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Winnipeg Jets,Edmonton Oilers,2021
+/zapas/2897245,Edmonton Oilers,Chicago Blackhawks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Edmonton Oilers,2021
+/zapas/2897269,Dallas Stars,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Dallas Stars,Edmonton Oilers,2021
+/zapas/2897275,Arizona Coyotes,Edmonton Oilers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Arizona Coyotes,Edmonton Oilers,2021
+/zapas/2897298,Vegas Golden Knights,Edmonton Oilers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vegas Golden Knights,Edmonton Oilers,2021
+/zapas/2897328,Edmonton Oilers,Pittsburgh Penguins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Pittsburgh Penguins,Edmonton Oilers,2021
+/zapas/2897344,Seattle Kraken,Edmonton Oilers,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Seattle Kraken,Edmonton Oilers,2021
+/zapas/2897359,Edmonton Oilers,Los Angeles Kings,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Los Angeles Kings,Edmonton Oilers,2021
+/zapas/2897370,Edmonton Oilers,Minnesota Wild,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Minnesota Wild,Edmonton Oilers,2021
+/zapas/2897387,Edmonton Oilers,Boston Bruins,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Boston Bruins,Edmonton Oilers,2021
+/zapas/2897404,Edmonton Oilers,Carolina Hurricanes,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Edmonton Oilers,2021
+/zapas/2897421,Edmonton Oilers,Toronto Maple Leafs,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2021
+/zapas/2897437,Edmonton Oilers,Columbus Blue Jackets,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Columbus Blue Jackets,Edmonton Oilers,2021
+/zapas/2897453,Seattle Kraken,Edmonton Oilers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Seattle Kraken,Edmonton Oilers,2021
+/zapas/2897525,St. Louis Blues,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,St. Louis Blues,Edmonton Oilers,2021
+/zapas/2897546,New Jersey Devils,Edmonton Oilers,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,New Jersey Devils,Edmonton Oilers,2021
+/zapas/2897554,New York Islanders,Edmonton Oilers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Islanders,Edmonton Oilers,2021
+/zapas/2897566,New York Rangers,Edmonton Oilers,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Rangers,Edmonton Oilers,2021
+/zapas/2897578,Toronto Maple Leafs,Edmonton Oilers,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Toronto Maple Leafs,Edmonton Oilers,2021
+/zapas/2897613,Edmonton Oilers,Ottawa Senators,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Ottawa Senators,Edmonton Oilers,2021
+/zapas/2897688,Edmonton Oilers,Florida Panthers,0,6,0,0.0,3.0,1.0,0.0,0.0,6.0,0.0,Florida Panthers,Edmonton Oilers,2021
+/zapas/2897704,Edmonton Oilers,Calgary Flames,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Calgary Flames,Edmonton Oilers,2021
+/zapas/2897725,Vancouver Canucks,Edmonton Oilers,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2021
+/zapas/2897738,Edmonton Oilers,Nashville Predators,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Nashville Predators,Edmonton Oilers,2021
+/zapas/2897756,Montreal Canadiens,Edmonton Oilers,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,Montreal Canadiens,Edmonton Oilers,2021
+/zapas/2897773,Ottawa Senators,Edmonton Oilers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Ottawa Senators,Edmonton Oilers,2021
+/zapas/2897791,Washington Capitals,Edmonton Oilers,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Washington Capitals,Edmonton Oilers,2021
+/zapas/2897643,Edmonton Oilers,Vegas Golden Knights,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Vegas Golden Knights,Edmonton Oilers,2021
+/zapas/2897674,Edmonton Oilers,Chicago Blackhawks,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Chicago Blackhawks,Edmonton Oilers,2021
+/zapas/2897600,Edmonton Oilers,New York Islanders,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New York Islanders,Edmonton Oilers,2021
+/zapas/2897491,San Jose Sharks,Edmonton Oilers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,San Jose Sharks,Edmonton Oilers,2021
+/zapas/2897485,Los Angeles Kings,Edmonton Oilers,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
+/zapas/2897470,Edmonton Oilers,Anaheim Ducks,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Anaheim Ducks,Edmonton Oilers,2021
+/zapas/2897661,Winnipeg Jets,Edmonton Oilers,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Edmonton Oilers,2021
+/zapas/2897627,Edmonton Oilers,Minnesota Wild,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Minnesota Wild,Edmonton Oilers,2021
+/zapas/2897795,Tampa Bay Lightning,Edmonton Oilers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Tampa Bay Lightning,Edmonton Oilers,2021
+/zapas/2897817,Florida Panthers,Edmonton Oilers,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Florida Panthers,Edmonton Oilers,2021
+/zapas/2897826,Carolina Hurricanes,Edmonton Oilers,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Carolina Hurricanes,Edmonton Oilers,2021
+/zapas/2897839,Philadelphia Flyers,Edmonton Oilers,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Philadelphia Flyers,Edmonton Oilers,2021
+/zapas/2897848,Chicago Blackhawks,Edmonton Oilers,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Chicago Blackhawks,Edmonton Oilers,2021
+/zapas/2897863,Edmonton Oilers,Montreal Canadiens,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Montreal Canadiens,Edmonton Oilers,2021
+/zapas/2897507,Calgary Flames,Edmonton Oilers,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Calgary Flames,Edmonton Oilers,2021
+/zapas/2897895,Edmonton Oilers,Washington Capitals,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Washington Capitals,Edmonton Oilers,2021
+/zapas/2897915,Edmonton Oilers,Tampa Bay Lightning,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Tampa Bay Lightning,Edmonton Oilers,2021
+/zapas/2897937,Edmonton Oilers,Detroit Red Wings,7,5,0,3.0,0.0,1.0,3.0,7.0,5.0,1.0,Detroit Red Wings,Edmonton Oilers,2021
+/zapas/2897952,Edmonton Oilers,Buffalo Sabres,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Buffalo Sabres,Edmonton Oilers,2021
+/zapas/2897968,Edmonton Oilers,New Jersey Devils,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,New Jersey Devils,Edmonton Oilers,2021
+/zapas/2897982,Colorado Avalanche,Edmonton Oilers,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Edmonton Oilers,2021
+/zapas/2897987,Dallas Stars,Edmonton Oilers,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Dallas Stars,Edmonton Oilers,2021
+/zapas/2898002,Edmonton Oilers,San Jose Sharks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,San Jose Sharks,Edmonton Oilers,2021
+/zapas/2898018,Calgary Flames,Edmonton Oilers,9,5,0,3.0,0.0,0.0,0.0,5.0,9.0,0.0,Calgary Flames,Edmonton Oilers,2021
+/zapas/2898036,Edmonton Oilers,Arizona Coyotes,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Arizona Coyotes,Edmonton Oilers,2021
+/zapas/2898052,Edmonton Oilers,Los Angeles Kings,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
+/zapas/2898066,Edmonton Oilers,St. Louis Blues,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,St. Louis Blues,Edmonton Oilers,2021
+/zapas/2898082,Anaheim Ducks,Edmonton Oilers,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Anaheim Ducks,Edmonton Oilers,2021
+/zapas/2898094,San Jose Sharks,Edmonton Oilers,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,San Jose Sharks,Edmonton Oilers,2021
+/zapas/2898110,Los Angeles Kings,Edmonton Oilers,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Edmonton Oilers,2021
+/zapas/2898126,Edmonton Oilers,Colorado Avalanche,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Colorado Avalanche,Edmonton Oilers,2021
+/zapas/2898143,Minnesota Wild,Edmonton Oilers,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Minnesota Wild,Edmonton Oilers,2021
+/zapas/2898149,Nashville Predators,Edmonton Oilers,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Nashville Predators,Edmonton Oilers,2021
+/zapas/2898174,Edmonton Oilers,Vegas Golden Knights,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Vegas Golden Knights,Edmonton Oilers,2021
+/zapas/2898212,Edmonton Oilers,Dallas Stars,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Dallas Stars,Edmonton Oilers,2021
+/zapas/2898226,Edmonton Oilers,Colorado Avalanche,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Colorado Avalanche,Edmonton Oilers,2021
+/zapas/2898251,Columbus Blue Jackets,Edmonton Oilers,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Columbus Blue Jackets,Edmonton Oilers,2021
+/zapas/2898265,Pittsburgh Penguins,Edmonton Oilers,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Pittsburgh Penguins,Edmonton Oilers,2021
+/zapas/2898272,Edmonton Oilers,San Jose Sharks,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,San Jose Sharks,Edmonton Oilers,2021
+/zapas/2898181,Edmonton Oilers,Vancouver Canucks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Edmonton Oilers,2021

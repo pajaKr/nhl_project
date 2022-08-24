@@ -3,108 +3,348 @@ game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,T
 /zapas/2526414,1.0,1.0,New York Rangers,Vancouver Canucks,32.0,65.0,57.0,32.0,56.0,55.0
 /zapas/2526423,0.0,1.0,New York Rangers,Florida Panthers,34.0,68.0,57.0,21.0,54.0,68.0
 /zapas/2526444,1.0,1.0,New York Rangers,Carolina Hurricanes,34.0,71.0,59.0,30.0,61.0,62.0
+/zapas/2526470,1.0,0.0,New York Rangers,Pittsburgh Penguins,37.0,74.0,57.0,28.0,54.0,59.0
+/zapas/2526494,0.0,0.0,New York Rangers,Washington Capitals,39.0,74.0,55.0,37.0,62.0,55.0
+/zapas/2526503,1.0,1.0,New York Rangers,New Jersey Devils,38.0,73.0,55.0,31.0,56.0,62.0
 /zapas/2526515,0.0,1.0,New York Rangers,Dallas Stars,38.0,74.0,55.0,31.0,59.0,58.0
 /zapas/2526529,0.0,0.0,New York Rangers,Ottawa Senators,39.0,74.0,53.0,17.0,47.0,77.0
+/zapas/2526547,1.0,1.0,New York Rangers,Los Angeles Kings,36.0,71.0,54.0,31.0,58.0,49.0
+/zapas/2526551,1.0,0.0,New York Rangers,Boston Bruins,39.0,71.0,51.0,33.0,57.0,53.0
+/zapas/2526573,1.0,1.0,New York Rangers,Anaheim Ducks,38.0,68.0,49.0,29.0,51.0,57.0
+/zapas/2526584,0.0,0.0,New York Rangers,New Jersey Devils,39.0,70.0,49.0,32.0,56.0,57.0
+/zapas/2526603,0.0,1.0,New York Rangers,Toronto Maple Leafs,38.0,68.0,49.0,34.0,58.0,44.0
+/zapas/2526615,1.0,1.0,New York Rangers,Washington Capitals,35.0,65.0,49.0,37.0,63.0,55.0
 /zapas/2526632,0.0,0.0,New York Rangers,Detroit Red Wings,34.0,62.0,47.0,21.0,52.0,73.0
 /zapas/2526655,1.0,0.0,New York Rangers,Buffalo Sabres,32.0,60.0,48.0,18.0,40.0,61.0
 /zapas/2526669,0.0,1.0,New York Rangers,Chicago Blackhawks,34.0,60.0,44.0,31.0,59.0,57.0
 /zapas/2526693,1.0,0.0,New York Rangers,Arizona Coyotes,34.0,62.0,47.0,17.0,43.0,63.0
+/zapas/2526705,0.0,0.0,New York Rangers,Vegas Golden Knights,33.0,61.0,48.0,41.0,69.0,52.0
 /zapas/2526724,0.0,1.0,New York Rangers,New York Islanders,30.0,56.0,49.0,19.0,62.0,84.0
+/zapas/2526733,0.0,0.0,New York Rangers,Pittsburgh Penguins,28.0,56.0,55.0,28.0,61.0,53.0
+/zapas/2526742,1.0,1.0,New York Rangers,Philadelphia Flyers,26.0,54.0,57.0,37.0,63.0,55.0
 /zapas/2526750,1.0,1.0,New York Rangers,Buffalo Sabres,29.0,55.0,53.0,19.0,44.0,68.0
+/zapas/2526764,0.0,0.0,New York Rangers,Colorado Avalanche,29.0,54.0,55.0,38.0,70.0,54.0
+/zapas/2526779,0.0,0.0,New York Rangers,Los Angeles Kings,26.0,51.0,55.0,26.0,53.0,53.0
+/zapas/2526794,0.0,0.0,New York Rangers,Anaheim Ducks,26.0,51.0,55.0,35.0,56.0,49.0
+/zapas/2526814,1.0,0.0,New York Rangers,San Jose Sharks,23.0,49.0,59.0,34.0,67.0,62.0
+/zapas/2526833,0.0,1.0,New York Rangers,Toronto Maple Leafs,25.0,54.0,62.0,28.0,59.0,54.0
+/zapas/2526854,0.0,0.0,New York Rangers,Nashville Predators,25.0,52.0,63.0,38.0,56.0,41.0
 /zapas/2526864,0.0,0.0,New York Rangers,Dallas Stars,22.0,50.0,66.0,37.0,67.0,42.0
+/zapas/2526878,0.0,1.0,New York Rangers,Boston Bruins,20.0,48.0,66.0,49.0,74.0,36.0
 /zapas/2526890,1.0,1.0,New York Rangers,Calgary Flames,17.0,45.0,71.0,35.0,56.0,51.0
+/zapas/2526907,1.0,0.0,New York Rangers,Winnipeg Jets,19.0,46.0,70.0,38.0,60.0,50.0
+/zapas/2526926,0.0,0.0,New York Rangers,Minnesota Wild,22.0,47.0,68.0,38.0,63.0,53.0
 /zapas/2526934,0.0,0.0,New York Rangers,New York Islanders,20.0,48.0,71.0,20.0,59.0,81.0
 /zapas/2526950,0.0,0.0,New York Rangers,Ottawa Senators,19.0,46.0,71.0,20.0,52.0,73.0
+/zapas/2526959,0.0,1.0,New York Rangers,Philadelphia Flyers,17.0,46.0,75.0,35.0,65.0,59.0
 /zapas/2526987,0.0,0.0,New York Rangers,Montreal Canadiens,17.0,48.0,77.0,21.0,51.0,66.0
+/zapas/2526995,0.0,1.0,New York Rangers,Minnesota Wild,15.0,47.0,79.0,39.0,66.0,57.0
 /zapas/2527014,0.0,1.0,New York Rangers,Detroit Red Wings,15.0,47.0,81.0,25.0,50.0,54.0
 /zapas/2527036,1.0,0.0,New York Rangers,Vancouver Canucks,16.0,47.0,77.0,23.0,57.0,61.0
 /zapas/2527050,1.0,0.0,New York Rangers,Calgary Flames,18.0,51.0,77.0,25.0,53.0,67.0
 /zapas/2527061,1.0,0.0,New York Rangers,Edmonton Oilers,18.0,49.0,77.0,24.0,62.0,70.0
+/zapas/2527076,0.0,1.0,New York Rangers,Winnipeg Jets,18.0,48.0,76.0,38.0,68.0,52.0
+/zapas/2527091,0.0,0.0,New York Rangers,Tampa Bay Lightning,18.0,47.0,76.0,37.0,79.0,65.0
 /zapas/2527110,0.0,0.0,New York Rangers,Florida Panthers,18.0,48.0,77.0,42.0,69.0,56.0
 /zapas/2527117,1.0,1.0,New York Rangers,Carolina Hurricanes,19.0,48.0,75.0,30.0,50.0,57.0
+/zapas/2527133,1.0,1.0,New York Rangers,Pittsburgh Penguins,19.0,48.0,73.0,41.0,84.0,61.0
 /zapas/2527159,0.0,0.0,New York Rangers,St. Louis Blues,21.0,52.0,72.0,26.0,47.0,57.0
+/zapas/2527176,0.0,1.0,New York Rangers,Columbus Blue Jackets,22.0,53.0,71.0,38.0,66.0,53.0
+/zapas/2527191,0.0,0.0,New York Rangers,Philadelphia Flyers,22.0,55.0,74.0,32.0,65.0,62.0
 /zapas/2527213,1.0,1.0,New York Rangers,Buffalo Sabres,22.0,57.0,72.0,23.0,49.0,65.0
+/zapas/2527224,0.0,1.0,New York Rangers,Washington Capitals,22.0,58.0,70.0,36.0,63.0,60.0
+/zapas/2527241,0.0,0.0,New York Rangers,Washington Capitals,19.0,57.0,73.0,38.0,64.0,58.0
+/zapas/2527255,0.0,1.0,New York Rangers,Tampa Bay Lightning,20.0,57.0,73.0,34.0,71.0,67.0
 /zapas/2527266,1.0,0.0,New York Rangers,Carolina Hurricanes,20.0,60.0,77.0,26.0,59.0,71.0
+/zapas/2527283,0.0,0.0,New York Rangers,New Jersey Devils,23.0,59.0,72.0,32.0,58.0,55.0
 /zapas/2527296,0.0,0.0,New York Rangers,New York Islanders,23.0,57.0,70.0,16.0,58.0,78.0
+/zapas/2527311,0.0,0.0,New York Rangers,Philadelphia Flyers,23.0,57.0,69.0,29.0,63.0,68.0
+/zapas/2647204,0.0,1.0,New York Rangers,Nashville Predators,23.0,56.0,70.0,41.0,65.0,51.0
 /zapas/2647217,0.0,0.0,New York Rangers,Buffalo Sabres,22.0,56.0,70.0,17.0,48.0,78.0
+/zapas/2647227,0.0,0.0,New York Rangers,Carolina Hurricanes,20.0,51.0,68.0,27.0,61.0,65.0
+/zapas/2647247,1.0,1.0,New York Rangers,San Jose Sharks,17.0,53.0,75.0,33.0,69.0,58.0
 /zapas/2647255,0.0,1.0,New York Rangers,Edmonton Oilers,16.0,53.0,75.0,26.0,56.0,59.0
+/zapas/2647277,1.0,1.0,New York Rangers,Colorado Avalanche,16.0,54.0,74.0,34.0,66.0,49.0
+/zapas/2647285,0.0,0.0,New York Rangers,Washington Capitals,18.0,54.0,71.0,41.0,75.0,58.0
+/zapas/2647314,0.0,1.0,New York Rangers,Calgary Flames,18.0,54.0,71.0,20.0,49.0,70.0
 /zapas/2647320,1.0,1.0,New York Rangers,Florida Panthers,15.0,49.0,72.0,33.0,61.0,59.0
 /zapas/2647337,0.0,0.0,New York Rangers,Chicago Blackhawks,16.0,50.0,71.0,25.0,61.0,76.0
+/zapas/2647357,0.0,0.0,New York Rangers,Los Angeles Kings,15.0,48.0,71.0,25.0,50.0,58.0
+/zapas/2647375,1.0,0.0,New York Rangers,San Jose Sharks,15.0,48.0,70.0,29.0,65.0,60.0
+/zapas/2647387,1.0,0.0,New York Rangers,Anaheim Ducks,17.0,49.0,69.0,31.0,55.0,53.0
 /zapas/2647406,1.0,1.0,New York Rangers,Buffalo Sabres,16.0,47.0,70.0,26.0,64.0,71.0
 /zapas/2647414,1.0,1.0,New York Rangers,Montreal Canadiens,19.0,48.0,67.0,31.0,62.0,61.0
 /zapas/2647436,0.0,0.0,New York Rangers,Detroit Red Wings,21.0,51.0,67.0,23.0,58.0,71.0
+/zapas/2647449,1.0,0.0,New York Rangers,Columbus Blue Jackets,22.0,50.0,63.0,30.0,67.0,71.0
 /zapas/2647458,1.0,1.0,New York Rangers,Vancouver Canucks,21.0,53.0,66.0,31.0,66.0,68.0
+/zapas/2647475,0.0,0.0,New York Rangers,New York Islanders,24.0,53.0,62.0,35.0,65.0,52.0
 /zapas/2647495,1.0,1.0,New York Rangers,Florida Panthers,24.0,57.0,67.0,34.0,65.0,61.0
+/zapas/2647507,1.0,1.0,New York Rangers,Dallas Stars,27.0,61.0,64.0,33.0,58.0,52.0
+/zapas/2647518,1.0,1.0,New York Rangers,New York Islanders,30.0,61.0,62.0,32.0,67.0,58.0
 /zapas/2647530,0.0,0.0,New York Rangers,Philadelphia Flyers,33.0,65.0,59.0,24.0,60.0,74.0
+/zapas/2647545,0.0,1.0,New York Rangers,Washington Capitals,33.0,60.0,55.0,31.0,62.0,63.0
 /zapas/2647563,1.0,1.0,New York Rangers,Ottawa Senators,31.0,60.0,58.0,25.0,72.0,87.0
 /zapas/2647582,0.0,0.0,New York Rangers,Ottawa Senators,34.0,63.0,58.0,25.0,69.0,86.0
 /zapas/2647597,0.0,0.0,New York Rangers,Montreal Canadiens,32.0,60.0,59.0,27.0,59.0,70.0
+/zapas/2647606,0.0,1.0,New York Rangers,Winnipeg Jets,31.0,59.0,60.0,36.0,76.0,63.0
 /zapas/2647648,1.0,0.0,New York Rangers,Florida Panthers,32.0,61.0,60.0,29.0,66.0,66.0
+/zapas/2647661,0.0,0.0,New York Rangers,Tampa Bay Lightning,31.0,61.0,62.0,41.0,83.0,58.0
 /zapas/2647686,0.0,1.0,New York Rangers,Arizona Coyotes,31.0,63.0,64.0,25.0,51.0,63.0
+/zapas/2647703,0.0,1.0,New York Rangers,Vegas Golden Knights,32.0,63.0,64.0,36.0,70.0,59.0
 /zapas/2647717,1.0,1.0,New York Rangers,Anaheim Ducks,31.0,62.0,65.0,36.0,56.0,58.0
+/zapas/2647751,0.0,0.0,New York Rangers,Toronto Maple Leafs,32.0,62.0,64.0,39.0,79.0,56.0
 /zapas/2647760,0.0,1.0,New York Rangers,Philadelphia Flyers,29.0,62.0,68.0,26.0,58.0,69.0
+/zapas/2647766,0.0,1.0,New York Rangers,Columbus Blue Jackets,27.0,59.0,68.0,37.0,65.0,56.0
+/zapas/2647791,1.0,0.0,New York Rangers,Nashville Predators,27.0,60.0,69.0,26.0,50.0,55.0
+/zapas/2647802,1.0,0.0,New York Rangers,St. Louis Blues,28.0,59.0,68.0,26.0,49.0,69.0
+/zapas/2647815,0.0,1.0,New York Rangers,Pittsburgh Penguins,28.0,59.0,68.0,42.0,69.0,49.0
+/zapas/2647831,0.0,0.0,New York Rangers,Colorado Avalanche,28.0,56.0,68.0,28.0,60.0,66.0
 /zapas/2647845,0.0,0.0,New York Rangers,Arizona Coyotes,25.0,53.0,72.0,22.0,51.0,62.0
+/zapas/2647864,0.0,0.0,New York Rangers,Vegas Golden Knights,22.0,51.0,76.0,44.0,67.0,49.0
+/zapas/2647871,0.0,1.0,New York Rangers,New York Islanders,19.0,48.0,80.0,36.0,57.0,48.0
+/zapas/2647886,1.0,0.0,New York Rangers,New York Islanders,19.0,51.0,80.0,36.0,57.0,50.0
+/zapas/2647899,0.0,0.0,New York Rangers,Columbus Blue Jackets,22.0,50.0,76.0,32.0,57.0,56.0
+/zapas/2647910,1.0,1.0,New York Rangers,Carolina Hurricanes,19.0,51.0,81.0,31.0,57.0,61.0
 /zapas/2647926,1.0,1.0,New York Rangers,Chicago Blackhawks,22.0,57.0,80.0,24.0,65.0,75.0
+/zapas/2647942,1.0,0.0,New York Rangers,Boston Bruins,25.0,59.0,78.0,38.0,68.0,53.0
 /zapas/2647972,0.0,1.0,New York Rangers,Philadelphia Flyers,27.0,59.0,76.0,25.0,51.0,63.0
 /zapas/2647977,1.0,0.0,New York Rangers,New Jersey Devils,25.0,54.0,73.0,26.0,58.0,62.0
+/zapas/2647994,0.0,1.0,New York Rangers,Tampa Bay Lightning,28.0,55.0,70.0,42.0,78.0,56.0
 /zapas/2648004,0.0,1.0,New York Rangers,Los Angeles Kings,27.0,54.0,69.0,27.0,48.0,60.0
+/zapas/2648020,1.0,1.0,New York Rangers,Boston Bruins,27.0,54.0,69.0,38.0,62.0,48.0
+/zapas/2648035,0.0,1.0,New York Rangers,Carolina Hurricanes,26.0,55.0,71.0,39.0,73.0,60.0
+/zapas/2648057,1.0,1.0,New York Rangers,Toronto Maple Leafs,26.0,52.0,69.0,35.0,70.0,58.0
+/zapas/2648070,0.0,0.0,New York Rangers,Winnipeg Jets,28.0,54.0,67.0,32.0,66.0,59.0
 /zapas/2648086,1.0,0.0,New York Rangers,Buffalo Sabres,27.0,54.0,67.0,24.0,57.0,66.0
+/zapas/2648102,0.0,0.0,New York Rangers,Pittsburgh Penguins,27.0,56.0,66.0,30.0,70.0,66.0
+/zapas/2648117,1.0,0.0,New York Rangers,Carolina Hurricanes,24.0,59.0,71.0,42.0,74.0,53.0
 /zapas/2648130,0.0,1.0,New York Rangers,Minnesota Wild,27.0,59.0,65.0,23.0,46.0,66.0
 /zapas/2648144,1.0,1.0,New York Rangers,New Jersey Devils,27.0,59.0,63.0,23.0,58.0,71.0
+/zapas/2648154,0.0,0.0,New York Rangers,Washington Capitals,30.0,64.0,60.0,26.0,58.0,74.0
+/zapas/2648179,0.0,1.0,New York Rangers,Tampa Bay Lightning,31.0,67.0,62.0,44.0,68.0,42.0
 /zapas/2648192,0.0,1.0,New York Rangers,Montreal Canadiens,32.0,67.0,62.0,33.0,62.0,51.0
+/zapas/2648207,0.0,1.0,New York Rangers,Washington Capitals,29.0,67.0,65.0,30.0,68.0,74.0
+/zapas/2648223,0.0,0.0,New York Rangers,Dallas Stars,30.0,64.0,61.0,30.0,46.0,51.0
 /zapas/2648234,0.0,0.0,New York Rangers,Detroit Red Wings,27.0,58.0,60.0,23.0,54.0,69.0
 /zapas/2648252,1.0,1.0,New York Rangers,New Jersey Devils,25.0,56.0,60.0,21.0,49.0,64.0
 /zapas/2648269,0.0,0.0,New York Rangers,Edmonton Oilers,25.0,57.0,60.0,24.0,54.0,68.0
 /zapas/2648280,0.0,0.0,New York Rangers,Vancouver Canucks,26.0,59.0,62.0,18.0,45.0,63.0
+/zapas/2648295,0.0,0.0,New York Rangers,Calgary Flames,23.0,56.0,63.0,34.0,63.0,60.0
 /zapas/2648306,0.0,0.0,New York Rangers,Minnesota Wild,23.0,55.0,65.0,25.0,49.0,64.0
 /zapas/2648322,0.0,1.0,New York Rangers,Detroit Red Wings,22.0,54.0,66.0,17.0,47.0,73.0
+/zapas/2648353,1.0,0.0,New York Rangers,Toronto Maple Leafs,20.0,52.0,66.0,32.0,69.0,68.0
+/zapas/2648369,0.0,1.0,New York Rangers,Pittsburgh Penguins,22.0,54.0,64.0,38.0,63.0,53.0
+/zapas/2648384,0.0,0.0,New York Rangers,Boston Bruins,19.0,52.0,68.0,42.0,75.0,49.0
+/zapas/2648395,1.0,1.0,New York Rangers,St. Louis Blues,19.0,52.0,70.0,37.0,59.0,44.0
 /zapas/2648413,1.0,0.0,New York Rangers,Philadelphia Flyers,19.0,50.0,70.0,28.0,63.0,66.0
 /zapas/2648420,0.0,0.0,New York Rangers,New Jersey Devils,22.0,48.0,64.0,18.0,40.0,63.0
 /zapas/2648437,0.0,1.0,New York Rangers,Ottawa Senators,19.0,48.0,67.0,18.0,48.0,71.0
-/zapas/2890989,0.0,0.0,New York Rangers,Carolina Hurricanes,18.0,44.0,65.0,28.0,52.0,54.0
-/zapas/2890990,0.0,0.0,New York Rangers,Carolina Hurricanes,17.0,43.0,64.0,28.0,51.0,55.0
-/zapas/2890991,0.0,1.0,New York Rangers,Carolina Hurricanes,17.0,42.0,64.0,31.0,54.0,54.0
-/zapas/2893255,0.0,1.0,New York Rangers,New Jersey Devils,18.0,44.0,65.0,35.0,56.0,49.0
-/zapas/2893309,0.0,0.0,New York Rangers,Buffalo Sabres,15.0,45.0,67.0,22.0,56.0,63.0
-/zapas/2893323,1.0,0.0,New York Rangers,Buffalo Sabres,15.0,46.0,65.0,25.0,57.0,62.0
-/zapas/2893576,0.0,1.0,New York Rangers,New Jersey Devils,17.0,44.0,59.0,33.0,50.0,52.0
-/zapas/2893477,1.0,0.0,New York Rangers,Philadelphia Flyers,17.0,44.0,60.0,30.0,62.0,65.0
-/zapas/2893518,0.0,0.0,New York Rangers,Philadelphia Flyers,21.0,48.0,56.0,29.0,63.0,68.0
-/zapas/2893563,1.0,1.0,New York Rangers,Buffalo Sabres,22.0,51.0,56.0,21.0,47.0,59.0
+/zapas/2648452,0.0,1.0,New York Rangers,Columbus Blue Jackets,19.0,48.0,67.0,32.0,58.0,48.0
+/zapas/2648462,1.0,0.0,New York Rangers,Pittsburgh Penguins,17.0,45.0,68.0,38.0,60.0,46.0
+/zapas/2806382,1.0,1.0,New York Rangers,Winnipeg Jets,18.0,44.0,65.0,30.0,62.0,59.0
+/zapas/2806396,1.0,0.0,New York Rangers,Ottawa Senators,20.0,47.0,65.0,21.0,56.0,72.0
+/zapas/2806437,0.0,1.0,New York Rangers,Edmonton Oilers,23.0,49.0,62.0,29.0,63.0,70.0
+/zapas/2806476,0.0,0.0,New York Rangers,New Jersey Devils,22.0,48.0,63.0,19.0,46.0,76.0
+/zapas/2806485,0.0,0.0,New York Rangers,Washington Capitals,22.0,50.0,67.0,35.0,64.0,58.0
+/zapas/2806500,0.0,1.0,New York Rangers,Vancouver Canucks,21.0,50.0,69.0,29.0,60.0,52.0
+/zapas/2806512,0.0,1.0,New York Rangers,Arizona Coyotes,18.0,48.0,70.0,31.0,50.0,41.0
+/zapas/2806523,1.0,1.0,New York Rangers,Buffalo Sabres,18.0,48.0,70.0,29.0,64.0,62.0
+/zapas/2806551,0.0,1.0,New York Rangers,Boston Bruins,21.0,53.0,68.0,41.0,72.0,50.0
+/zapas/2806557,1.0,1.0,New York Rangers,Tampa Bay Lightning,21.0,56.0,70.0,36.0,76.0,64.0
+/zapas/2806581,1.0,0.0,New York Rangers,Nashville Predators,24.0,58.0,66.0,40.0,70.0,57.0
+/zapas/2806597,0.0,1.0,New York Rangers,Ottawa Senators,27.0,58.0,64.0,21.0,55.0,69.0
+/zapas/2806611,1.0,1.0,New York Rangers,Detroit Red Wings,25.0,58.0,69.0,19.0,46.0,78.0
+/zapas/2806617,1.0,0.0,New York Rangers,Carolina Hurricanes,28.0,61.0,65.0,37.0,67.0,52.0
+/zapas/2806639,0.0,1.0,New York Rangers,Florida Panthers,31.0,62.0,61.0,31.0,69.0,68.0
+/zapas/2806650,1.0,1.0,New York Rangers,Pittsburgh Penguins,29.0,63.0,65.0,32.0,66.0,53.0
+/zapas/2806663,0.0,0.0,New York Rangers,Tampa Bay Lightning,28.0,63.0,67.0,33.0,71.0,68.0
+/zapas/2806682,0.0,0.0,New York Rangers,Florida Panthers,28.0,64.0,72.0,28.0,73.0,75.0
+/zapas/2806708,1.0,1.0,New York Rangers,Washington Capitals,28.0,66.0,72.0,40.0,82.0,63.0
+/zapas/2806723,0.0,0.0,New York Rangers,Ottawa Senators,30.0,68.0,70.0,29.0,57.0,61.0
+/zapas/2806730,1.0,0.0,New York Rangers,Montreal Canadiens,28.0,65.0,71.0,32.0,67.0,60.0
+/zapas/2806742,1.0,1.0,New York Rangers,Minnesota Wild,28.0,65.0,72.0,30.0,58.0,63.0
+/zapas/2806757,1.0,1.0,New York Rangers,Carolina Hurricanes,27.0,64.0,73.0,32.0,66.0,57.0
+/zapas/2806767,0.0,0.0,New York Rangers,Boston Bruins,30.0,66.0,71.0,43.0,81.0,54.0
+/zapas/2806779,1.0,0.0,New York Rangers,New Jersey Devils,31.0,66.0,69.0,27.0,56.0,66.0
+/zapas/2806796,0.0,1.0,New York Rangers,Vegas Golden Knights,34.0,68.0,64.0,25.0,54.0,60.0
+/zapas/2806820,1.0,0.0,New York Rangers,Columbus Blue Jackets,34.0,67.0,65.0,24.0,52.0,61.0
+/zapas/2806824,0.0,1.0,New York Rangers,Montreal Canadiens,36.0,68.0,64.0,26.0,61.0,71.0
+/zapas/2806841,1.0,0.0,New York Rangers,Vegas Golden Knights,33.0,63.0,64.0,27.0,57.0,60.0
+/zapas/2806859,0.0,0.0,New York Rangers,Los Angeles Kings,36.0,64.0,57.0,21.0,47.0,58.0
+/zapas/2806874,1.0,0.0,New York Rangers,San Jose Sharks,33.0,61.0,59.0,29.0,57.0,66.0
+/zapas/2806879,0.0,0.0,New York Rangers,Anaheim Ducks,33.0,65.0,61.0,20.0,53.0,68.0
+/zapas/2806896,0.0,1.0,New York Rangers,Nashville Predators,34.0,66.0,59.0,24.0,57.0,67.0
+/zapas/2806926,0.0,1.0,New York Rangers,Toronto Maple Leafs,31.0,63.0,63.0,29.0,62.0,60.0
+/zapas/2806941,1.0,1.0,New York Rangers,Anaheim Ducks,28.0,62.0,67.0,18.0,52.0,70.0
+/zapas/2806950,0.0,0.0,New York Rangers,Philadelphia Flyers,30.0,62.0,62.0,33.0,63.0,55.0
+/zapas/2806960,1.0,1.0,New York Rangers,Carolina Hurricanes,28.0,60.0,65.0,37.0,71.0,52.0
+/zapas/2806970,1.0,0.0,New York Rangers,Toronto Maple Leafs,31.0,62.0,59.0,34.0,74.0,64.0
+/zapas/2807000,0.0,0.0,New York Rangers,Edmonton Oilers,33.0,64.0,59.0,22.0,51.0,73.0
+/zapas/2807011,0.0,0.0,New York Rangers,Calgary Flames,30.0,65.0,65.0,29.0,54.0,63.0
+/zapas/2807027,0.0,0.0,New York Rangers,Vancouver Canucks,30.0,67.0,65.0,32.0,70.0,65.0
+/zapas/2807042,1.0,1.0,New York Rangers,Colorado Avalanche,27.0,62.0,62.0,38.0,75.0,56.0
+/zapas/2807058,1.0,1.0,New York Rangers,New Jersey Devils,28.0,64.0,63.0,22.0,52.0,69.0
+/zapas/2807074,0.0,0.0,New York Rangers,St. Louis Blues,28.0,67.0,64.0,42.0,69.0,53.0
+/zapas/2807086,1.0,1.0,New York Rangers,New York Islanders,27.0,67.0,66.0,31.0,53.0,53.0
+/zapas/2807106,1.0,0.0,New York Rangers,New York Islanders,27.0,69.0,68.0,28.0,57.0,60.0
+/zapas/2807134,0.0,1.0,New York Rangers,Columbus Blue Jackets,30.0,71.0,66.0,44.0,61.0,35.0
+/zapas/2807138,0.0,1.0,New York Rangers,New York Islanders,27.0,69.0,66.0,27.0,58.0,62.0
+/zapas/2807161,1.0,1.0,New York Rangers,Detroit Red Wings,27.0,70.0,68.0,15.0,43.0,75.0
+/zapas/2807173,1.0,0.0,New York Rangers,Detroit Red Wings,27.0,69.0,70.0,15.0,44.0,74.0
+/zapas/2807186,0.0,1.0,New York Rangers,Dallas Stars,30.0,69.0,67.0,32.0,52.0,53.0
+/zapas/2807201,1.0,1.0,New York Rangers,Toronto Maple Leafs,27.0,66.0,69.0,40.0,85.0,68.0
+/zapas/2807216,0.0,1.0,New York Rangers,Buffalo Sabres,29.0,68.0,68.0,20.0,47.0,68.0
+/zapas/2807233,1.0,1.0,New York Rangers,Los Angeles Kings,29.0,68.0,66.0,12.0,42.0,65.0
+/zapas/2807248,1.0,0.0,New York Rangers,Winnipeg Jets,32.0,69.0,61.0,26.0,60.0,65.0
+/zapas/2807263,1.0,0.0,New York Rangers,Minnesota Wild,32.0,68.0,61.0,29.0,58.0,61.0
+/zapas/2807269,1.0,0.0,New York Rangers,Columbus Blue Jackets,34.0,71.0,59.0,41.0,52.0,35.0
+/zapas/2807283,0.0,1.0,New York Rangers,Boston Bruins,34.0,69.0,57.0,40.0,63.0,45.0
+/zapas/2807303,1.0,0.0,New York Rangers,Chicago Blackhawks,32.0,65.0,56.0,29.0,66.0,61.0
+/zapas/2807318,1.0,0.0,New York Rangers,Carolina Hurricanes,35.0,66.0,52.0,31.0,60.0,53.0
+/zapas/2807329,1.0,1.0,New York Rangers,San Jose Sharks,38.0,68.0,50.0,27.0,47.0,59.0
+/zapas/2807347,1.0,0.0,New York Rangers,New York Islanders,41.0,70.0,50.0,28.0,60.0,59.0
+/zapas/2807361,1.0,0.0,New York Rangers,Montreal Canadiens,40.0,69.0,50.0,29.0,56.0,52.0
+/zapas/2807370,0.0,0.0,New York Rangers,Philadelphia Flyers,40.0,68.0,49.0,40.0,73.0,51.0
+/zapas/2807387,0.0,1.0,New York Rangers,Philadelphia Flyers,40.0,68.0,49.0,40.0,75.0,51.0
+/zapas/2807397,0.0,1.0,New York Rangers,St. Louis Blues,37.0,65.0,52.0,30.0,65.0,60.0
+/zapas/2807412,1.0,1.0,New York Rangers,Washington Capitals,34.0,63.0,53.0,30.0,64.0,66.0
+/zapas/2807432,0.0,1.0,New York Rangers,New Jersey Devils,36.0,68.0,56.0,33.0,55.0,53.0
+/zapas/2807452,1.0,0.0,New York Rangers,Dallas Stars,36.0,70.0,58.0,30.0,53.0,53.0
+/zapas/2807457,0.0,0.0,New York Rangers,Colorado Avalanche,36.0,70.0,58.0,40.0,55.0,46.0
+/zapas/2893220,0.0,1.0,New York Rangers,New York Islanders,34.0,71.0,61.0,25.0,53.0,63.0
+/zapas/2893236,1.0,1.0,New York Rangers,New York Islanders,34.0,68.0,60.0,25.0,53.0,61.0
+/zapas/2893255,0.0,1.0,New York Rangers,New Jersey Devils,34.0,68.0,57.0,35.0,56.0,49.0
+/zapas/2893280,0.0,0.0,New York Rangers,Pittsburgh Penguins,34.0,69.0,58.0,26.0,60.0,68.0
+/zapas/2893298,0.0,0.0,New York Rangers,Pittsburgh Penguins,32.0,68.0,61.0,25.0,61.0,69.0
+/zapas/2893309,0.0,0.0,New York Rangers,Buffalo Sabres,29.0,66.0,63.0,22.0,56.0,63.0
+/zapas/2893323,1.0,0.0,New York Rangers,Buffalo Sabres,27.0,64.0,63.0,25.0,57.0,62.0
+/zapas/2893336,0.0,1.0,New York Rangers,Pittsburgh Penguins,26.0,64.0,64.0,22.0,57.0,74.0
+/zapas/2893353,1.0,1.0,New York Rangers,Pittsburgh Penguins,27.0,67.0,66.0,21.0,57.0,76.0
+/zapas/2893376,1.0,1.0,New York Rangers,Washington Capitals,27.0,64.0,64.0,33.0,70.0,69.0
+/zapas/2893405,0.0,1.0,New York Rangers,New York Islanders,27.0,63.0,64.0,24.0,48.0,61.0
+/zapas/2893420,0.0,1.0,New York Rangers,Boston Bruins,24.0,60.0,64.0,39.0,62.0,51.0
+/zapas/2893436,0.0,1.0,New York Rangers,Boston Bruins,23.0,58.0,64.0,38.0,61.0,50.0
+/zapas/2893576,0.0,1.0,New York Rangers,New Jersey Devils,20.0,53.0,63.0,33.0,50.0,52.0
+/zapas/2893477,1.0,0.0,New York Rangers,Philadelphia Flyers,20.0,53.0,63.0,42.0,72.0,54.0
+/zapas/2893492,1.0,0.0,New York Rangers,Washington Capitals,22.0,53.0,60.0,33.0,71.0,72.0
+/zapas/2893518,0.0,0.0,New York Rangers,Philadelphia Flyers,25.0,56.0,58.0,37.0,68.0,60.0
+/zapas/2893532,1.0,1.0,New York Rangers,Boston Bruins,23.0,53.0,57.0,35.0,60.0,49.0
+/zapas/2893553,0.0,1.0,New York Rangers,Boston Bruins,26.0,55.0,53.0,33.0,60.0,54.0
+/zapas/2893563,1.0,1.0,New York Rangers,Buffalo Sabres,23.0,52.0,55.0,21.0,47.0,59.0
 /zapas/2893391,1.0,0.0,New York Rangers,New Jersey Devils,25.0,53.0,54.0,24.0,54.0,63.0
 /zapas/2893585,1.0,0.0,New York Rangers,New Jersey Devils,28.0,59.0,51.0,21.0,49.0,65.0
+/zapas/2893603,0.0,0.0,New York Rangers,Pittsburgh Penguins,28.0,60.0,54.0,31.0,63.0,60.0
+/zapas/2893614,0.0,0.0,New York Rangers,Pittsburgh Penguins,28.0,58.0,55.0,32.0,63.0,57.0
+/zapas/2893625,0.0,0.0,New York Rangers,Boston Bruins,27.0,57.0,55.0,35.0,62.0,51.0
+/zapas/2893640,1.0,0.0,New York Rangers,Boston Bruins,27.0,55.0,56.0,36.0,61.0,47.0
 /zapas/2893656,0.0,1.0,New York Rangers,Philadelphia Flyers,30.0,57.0,53.0,29.0,64.0,67.0
 /zapas/2893672,1.0,1.0,New York Rangers,Philadelphia Flyers,29.0,58.0,56.0,31.0,68.0,65.0
+/zapas/2893686,0.0,0.0,New York Rangers,Washington Capitals,31.0,63.0,51.0,38.0,68.0,59.0
+/zapas/2893499,1.0,0.0,New York Rangers,Washington Capitals,28.0,61.0,52.0,41.0,67.0,55.0
 /zapas/2893705,1.0,1.0,New York Rangers,Buffalo Sabres,28.0,60.0,51.0,8.0,34.0,74.0
 /zapas/2893728,1.0,0.0,New York Rangers,Philadelphia Flyers,31.0,65.0,52.0,24.0,59.0,76.0
 /zapas/2893743,0.0,0.0,New York Rangers,Philadelphia Flyers,33.0,71.0,52.0,24.0,61.0,82.0
+/zapas/2893752,0.0,0.0,New York Rangers,Washington Capitals,33.0,72.0,53.0,47.0,67.0,44.0
+/zapas/2893768,1.0,1.0,New York Rangers,Washington Capitals,33.0,74.0,53.0,47.0,69.0,47.0
 /zapas/2893782,1.0,0.0,New York Rangers,Buffalo Sabres,34.0,76.0,53.0,9.0,40.0,77.0
 /zapas/2893797,0.0,0.0,New York Rangers,Buffalo Sabres,33.0,75.0,54.0,7.0,38.0,79.0
+/zapas/2893823,1.0,1.0,New York Rangers,Pittsburgh Penguins,34.0,74.0,53.0,42.0,70.0,42.0
+/zapas/2893837,0.0,1.0,New York Rangers,Pittsburgh Penguins,34.0,76.0,55.0,40.0,70.0,47.0
+/zapas/2893845,1.0,0.0,New York Rangers,New York Islanders,34.0,77.0,56.0,42.0,67.0,43.0
+/zapas/2893860,0.0,0.0,New York Rangers,New York Islanders,34.0,78.0,55.0,39.0,66.0,47.0
 /zapas/2893875,1.0,0.0,New York Rangers,New Jersey Devils,32.0,74.0,57.0,24.0,53.0,66.0
 /zapas/2893885,1.0,1.0,New York Rangers,New Jersey Devils,32.0,71.0,54.0,21.0,52.0,69.0
 /zapas/2893902,1.0,1.0,New York Rangers,New Jersey Devils,35.0,74.0,49.0,20.0,48.0,68.0
 /zapas/2893911,1.0,0.0,New York Rangers,New Jersey Devils,38.0,78.0,48.0,20.0,48.0,69.0
+/zapas/2893929,0.0,0.0,New York Rangers,New York Islanders,41.0,83.0,47.0,31.0,54.0,49.0
 /zapas/2893463,0.0,1.0,New York Rangers,Philadelphia Flyers,38.0,80.0,53.0,21.0,45.0,79.0
 /zapas/2893949,1.0,1.0,New York Rangers,Philadelphia Flyers,37.0,78.0,51.0,22.0,43.0,77.0
 /zapas/2893962,1.0,1.0,New York Rangers,Buffalo Sabres,37.0,73.0,52.0,23.0,58.0,68.0
 /zapas/2893979,1.0,1.0,New York Rangers,Buffalo Sabres,40.0,78.0,53.0,23.0,60.0,70.0
-/zapas/2900310,0.0,1.0,New York Rangers,Pittsburgh Penguins,32.0,62.0,61.0,20.0,44.0,64.0
-/zapas/2900311,1.0,1.0,New York Rangers,Pittsburgh Penguins,32.0,63.0,62.0,19.0,45.0,65.0
-/zapas/2900312,0.0,0.0,New York Rangers,Pittsburgh Penguins,32.0,60.0,60.0,19.0,46.0,66.0
-/zapas/2900313,0.0,0.0,New York Rangers,Pittsburgh Penguins,32.0,62.0,62.0,22.0,50.0,66.0
-/zapas/2900314,1.0,1.0,New York Rangers,Pittsburgh Penguins,29.0,60.0,68.0,22.0,54.0,67.0
-/zapas/2900315,1.0,0.0,New York Rangers,Pittsburgh Penguins,31.0,63.0,68.0,22.0,54.0,66.0
-/zapas/2900316,1.0,1.0,New York Rangers,Pittsburgh Penguins,31.0,65.0,71.0,21.0,56.0,69.0
-/zapas/2900373,0.0,0.0,New York Rangers,Carolina Hurricanes,30.0,65.0,74.0,26.0,59.0,56.0
-/zapas/2900374,0.0,0.0,New York Rangers,Carolina Hurricanes,28.0,60.0,73.0,28.0,58.0,53.0
-/zapas/2900375,1.0,1.0,New York Rangers,Carolina Hurricanes,25.0,55.0,72.0,31.0,59.0,51.0
-/zapas/2900376,1.0,1.0,New York Rangers,Carolina Hurricanes,28.0,57.0,67.0,28.0,55.0,52.0
-/zapas/2900377,0.0,0.0,New York Rangers,Carolina Hurricanes,31.0,59.0,65.0,25.0,53.0,56.0
-/zapas/2900378,1.0,1.0,New York Rangers,Carolina Hurricanes,28.0,56.0,67.0,27.0,52.0,52.0
-/zapas/2900379,1.0,0.0,New York Rangers,Carolina Hurricanes,28.0,55.0,66.0,26.0,51.0,53.0
-/zapas/2900402,1.0,1.0,New York Rangers,Tampa Bay Lightning,28.0,58.0,67.0,43.0,66.0,41.0
-/zapas/2900403,1.0,1.0,New York Rangers,Tampa Bay Lightning,31.0,64.0,65.0,43.0,66.0,44.0
-/zapas/2900404,0.0,0.0,New York Rangers,Tampa Bay Lightning,34.0,67.0,64.0,40.0,60.0,47.0
-/zapas/2900405,0.0,0.0,New York Rangers,Tampa Bay Lightning,34.0,66.0,61.0,42.0,61.0,46.0
-/zapas/2900406,0.0,1.0,New York Rangers,Tampa Bay Lightning,34.0,65.0,61.0,42.0,64.0,47.0
-/zapas/2900407,0.0,0.0,New York Rangers,Tampa Bay Lightning,34.0,66.0,60.0,42.0,62.0,47.0
+/zapas/2893995,0.0,1.0,New York Rangers,New York Islanders,40.0,78.0,53.0,25.0,50.0,50.0
+/zapas/2894010,0.0,0.0,New York Rangers,New York Islanders,37.0,73.0,54.0,28.0,53.0,47.0
+/zapas/2894024,0.0,1.0,New York Rangers,Washington Capitals,34.0,65.0,54.0,35.0,69.0,60.0
+/zapas/2894041,0.0,1.0,New York Rangers,Washington Capitals,34.0,67.0,58.0,35.0,71.0,60.0
+/zapas/2894047,0.0,0.0,New York Rangers,Boston Bruins,34.0,65.0,57.0,40.0,68.0,50.0
+/zapas/2894066,1.0,0.0,New York Rangers,Boston Bruins,31.0,60.0,59.0,43.0,71.0,46.0
+/zapas/2896987,0.0,0.0,New York Rangers,Washington Capitals,32.0,62.0,61.0,37.0,66.0,51.0
+/zapas/2896995,0.0,1.0,New York Rangers,Dallas Stars,31.0,61.0,63.0,30.0,60.0,59.0
+/zapas/2897009,1.0,0.0,New York Rangers,Montreal Canadiens,29.0,55.0,62.0,21.0,43.0,67.0
+/zapas/2897018,1.0,0.0,New York Rangers,Toronto Maple Leafs,32.0,56.0,58.0,37.0,64.0,55.0
+/zapas/2897035,1.0,0.0,New York Rangers,Nashville Predators,31.0,54.0,58.0,33.0,64.0,49.0
+/zapas/2897053,1.0,0.0,New York Rangers,Ottawa Senators,33.0,55.0,56.0,36.0,59.0,49.0
+/zapas/2897068,0.0,1.0,New York Rangers,Calgary Flames,33.0,55.0,58.0,34.0,64.0,48.0
+/zapas/2897095,1.0,1.0,New York Rangers,Columbus Blue Jackets,30.0,52.0,63.0,21.0,50.0,65.0
+/zapas/2897116,0.0,0.0,New York Rangers,Vancouver Canucks,30.0,48.0,58.0,22.0,54.0,66.0
+/zapas/2897141,0.0,0.0,New York Rangers,Edmonton Oilers,31.0,49.0,55.0,45.0,78.0,52.0
+/zapas/2897145,0.0,0.0,New York Rangers,Calgary Flames,32.0,52.0,58.0,37.0,68.0,48.0
+/zapas/2897161,1.0,1.0,New York Rangers,Florida Panthers,29.0,48.0,63.0,46.0,83.0,51.0
+/zapas/2897204,1.0,0.0,New York Rangers,Columbus Blue Jackets,29.0,46.0,63.0,27.0,56.0,61.0
+/zapas/2897209,1.0,1.0,New York Rangers,New Jersey Devils,29.0,48.0,65.0,31.0,57.0,58.0
+/zapas/2897222,1.0,1.0,New York Rangers,Montreal Canadiens,31.0,52.0,64.0,16.0,44.0,69.0
+/zapas/2897235,0.0,0.0,New York Rangers,Toronto Maple Leafs,34.0,55.0,63.0,35.0,54.0,52.0
+/zapas/2897261,1.0,1.0,New York Rangers,Buffalo Sabres,34.0,53.0,59.0,26.0,57.0,63.0
+/zapas/2897281,1.0,0.0,New York Rangers,New York Islanders,37.0,56.0,59.0,22.0,44.0,61.0
+/zapas/2897291,1.0,0.0,New York Rangers,Boston Bruins,40.0,60.0,56.0,34.0,63.0,53.0
+/zapas/2897332,1.0,1.0,New York Rangers,Philadelphia Flyers,40.0,60.0,54.0,27.0,49.0,61.0
+/zapas/2897347,1.0,1.0,New York Rangers,San Jose Sharks,43.0,63.0,50.0,28.0,51.0,57.0
+/zapas/2897355,1.0,1.0,New York Rangers,Chicago Blackhawks,45.0,62.0,47.0,21.0,44.0,62.0
+/zapas/2897371,1.0,0.0,New York Rangers,Chicago Blackhawks,45.0,62.0,48.0,23.0,46.0,58.0
+/zapas/2897382,0.0,1.0,New York Rangers,Colorado Avalanche,46.0,66.0,49.0,37.0,85.0,69.0
+/zapas/2897397,1.0,0.0,New York Rangers,Buffalo Sabres,43.0,66.0,55.0,16.0,56.0,82.0
+/zapas/2897416,0.0,1.0,New York Rangers,Nashville Predators,43.0,65.0,54.0,36.0,60.0,55.0
+/zapas/2897420,0.0,0.0,New York Rangers,Colorado Avalanche,43.0,64.0,50.0,44.0,94.0,64.0
+/zapas/2897433,1.0,0.0,New York Rangers,Arizona Coyotes,40.0,62.0,54.0,14.0,36.0,66.0
+/zapas/2897450,0.0,1.0,New York Rangers,Vegas Golden Knights,40.0,62.0,55.0,42.0,83.0,59.0
+/zapas/2897530,0.0,0.0,New York Rangers,Florida Panthers,40.0,62.0,55.0,30.0,68.0,69.0
+/zapas/2897545,1.0,0.0,New York Rangers,Tampa Bay Lightning,39.0,60.0,53.0,40.0,70.0,56.0
+/zapas/2897561,1.0,1.0,New York Rangers,Tampa Bay Lightning,41.0,64.0,50.0,39.0,70.0,58.0
+/zapas/2897566,1.0,1.0,New York Rangers,Edmonton Oilers,41.0,64.0,47.0,25.0,58.0,68.0
+/zapas/2897580,0.0,0.0,New York Rangers,Vegas Golden Knights,41.0,63.0,45.0,38.0,80.0,60.0
+/zapas/2897597,1.0,0.0,New York Rangers,Anaheim Ducks,39.0,60.0,47.0,27.0,54.0,55.0
+/zapas/2897611,0.0,0.0,New York Rangers,Los Angeles Kings,39.0,61.0,46.0,29.0,55.0,56.0
+/zapas/2897632,1.0,0.0,New York Rangers,San Jose Sharks,39.0,61.0,47.0,30.0,61.0,64.0
+/zapas/2897659,1.0,0.0,New York Rangers,Philadelphia Flyers,39.0,59.0,43.0,17.0,49.0,78.0
+/zapas/2897684,1.0,1.0,New York Rangers,Toronto Maple Leafs,39.0,58.0,44.0,43.0,80.0,51.0
+/zapas/2897700,0.0,0.0,New York Rangers,Carolina Hurricanes,39.0,59.0,45.0,37.0,70.0,49.0
+/zapas/2897711,1.0,1.0,New York Rangers,Arizona Coyotes,36.0,58.0,50.0,19.0,52.0,76.0
+/zapas/2897722,1.0,1.0,New York Rangers,Los Angeles Kings,36.0,64.0,53.0,36.0,60.0,53.0
+/zapas/2897747,0.0,0.0,New York Rangers,Columbus Blue Jackets,35.0,64.0,53.0,17.0,54.0,80.0
+/zapas/2897751,0.0,1.0,New York Rangers,Minnesota Wild,32.0,61.0,56.0,40.0,85.0,56.0
+/zapas/2897769,1.0,1.0,New York Rangers,Seattle Kraken,32.0,60.0,52.0,18.0,46.0,72.0
+/zapas/2897785,1.0,1.0,New York Rangers,Florida Panthers,32.0,61.0,53.0,40.0,93.0,62.0
+/zapas/2898248,1.0,1.0,New York Rangers,Boston Bruins,35.0,66.0,54.0,38.0,64.0,61.0
+/zapas/2897514,0.0,1.0,New York Rangers,Detroit Red Wings,37.0,66.0,51.0,24.0,61.0,72.0
+/zapas/2897250,1.0,0.0,New York Rangers,Ottawa Senators,35.0,65.0,52.0,29.0,50.0,53.0
+/zapas/2897803,1.0,1.0,New York Rangers,Washington Capitals,37.0,65.0,50.0,26.0,58.0,61.0
+/zapas/2897819,0.0,0.0,New York Rangers,Pittsburgh Penguins,40.0,66.0,47.0,33.0,64.0,60.0
+/zapas/2897825,0.0,1.0,New York Rangers,Vancouver Canucks,38.0,62.0,45.0,32.0,63.0,56.0
+/zapas/2897844,1.0,1.0,New York Rangers,St. Louis Blues,35.0,60.0,50.0,43.0,78.0,54.0
+/zapas/2897858,1.0,1.0,New York Rangers,New Jersey Devils,35.0,61.0,52.0,18.0,68.0,76.0
+/zapas/2897875,1.0,0.0,New York Rangers,Winnipeg Jets,38.0,63.0,48.0,25.0,61.0,67.0
+/zapas/2897887,0.0,0.0,New York Rangers,Minnesota Wild,38.0,63.0,48.0,30.0,74.0,72.0
+/zapas/2897898,0.0,0.0,New York Rangers,St. Louis Blues,38.0,64.0,50.0,35.0,69.0,57.0
+/zapas/2897917,1.0,0.0,New York Rangers,Dallas Stars,35.0,63.0,56.0,38.0,64.0,51.0
+/zapas/2897943,1.0,1.0,New York Rangers,Anaheim Ducks,35.0,67.0,58.0,25.0,60.0,75.0
+/zapas/2897312,0.0,1.0,New York Rangers,New York Islanders,34.0,65.0,58.0,30.0,66.0,60.0
+/zapas/2897972,1.0,0.0,New York Rangers,Tampa Bay Lightning,34.0,63.0,54.0,39.0,69.0,59.0
+/zapas/2897980,1.0,0.0,New York Rangers,Carolina Hurricanes,34.0,58.0,52.0,35.0,58.0,49.0
+/zapas/2897990,0.0,0.0,New York Rangers,New Jersey Devils,35.0,57.0,50.0,19.0,68.0,78.0
+/zapas/2898014,1.0,1.0,New York Rangers,Pittsburgh Penguins,35.0,58.0,52.0,37.0,62.0,52.0
+/zapas/2898033,1.0,1.0,New York Rangers,Buffalo Sabres,38.0,61.0,50.0,26.0,57.0,70.0
+/zapas/2898047,1.0,0.0,New York Rangers,Pittsburgh Penguins,37.0,63.0,52.0,36.0,67.0,53.0
+/zapas/2898054,1.0,0.0,New York Rangers,Detroit Red Wings,37.0,61.0,52.0,18.0,62.0,96.0
+/zapas/2898070,0.0,1.0,New York Rangers,New York Islanders,37.0,64.0,55.0,35.0,67.0,55.0
+/zapas/2898088,0.0,1.0,New York Rangers,Philadelphia Flyers,36.0,62.0,55.0,20.0,53.0,76.0
+/zapas/2898101,1.0,0.0,New York Rangers,New Jersey Devils,34.0,63.0,58.0,19.0,70.0,82.0
+/zapas/2898115,1.0,1.0,New York Rangers,Pittsburgh Penguins,34.0,62.0,58.0,30.0,67.0,58.0
+/zapas/2898133,1.0,1.0,New York Rangers,Ottawa Senators,37.0,65.0,57.0,21.0,55.0,68.0
+/zapas/2898155,0.0,1.0,New York Rangers,Carolina Hurricanes,40.0,68.0,53.0,32.0,58.0,49.0
+/zapas/2898160,1.0,0.0,New York Rangers,Philadelphia Flyers,37.0,65.0,54.0,21.0,59.0,81.0
+/zapas/2898190,1.0,1.0,New York Rangers,Detroit Red Wings,37.0,66.0,53.0,19.0,53.0,87.0
+/zapas/2898208,1.0,1.0,New York Rangers,Winnipeg Jets,37.0,66.0,52.0,30.0,68.0,71.0
+/zapas/2898222,1.0,0.0,New York Rangers,New York Islanders,40.0,67.0,47.0,34.0,58.0,56.0
+/zapas/2898234,0.0,0.0,New York Rangers,Boston Bruins,43.0,71.0,44.0,34.0,63.0,54.0
+/zapas/2898264,0.0,1.0,New York Rangers,Carolina Hurricanes,40.0,65.0,43.0,35.0,68.0,54.0
+/zapas/2897488,0.0,1.0,New York Rangers,Montreal Canadiens,38.0,64.0,44.0,14.0,57.0,84.0
+/zapas/2898290,1.0,1.0,New York Rangers,Washington Capitals,38.0,66.0,46.0,33.0,72.0,70.0

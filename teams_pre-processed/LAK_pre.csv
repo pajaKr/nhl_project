@@ -1,220 +1,373 @@
 game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
-/zapas/2553182,Vegas Golden Knights,Los Angeles Kings,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2553183,Vegas Golden Knights,Los Angeles Kings,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2553184,Los Angeles Kings,Vegas Golden Knights,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2553185,Los Angeles Kings,Vegas Golden Knights,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2647214,Los Angeles Kings,San Jose Sharks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2647229,Los Angeles Kings,Detroit Red Wings,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Detroit Red Wings,Los Angeles Kings,2021
-/zapas/2647238,Winnipeg Jets,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Winnipeg Jets,Los Angeles Kings,2021
-/zapas/2647249,Montreal Canadiens,Los Angeles Kings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Montreal Canadiens,Los Angeles Kings,2021
-/zapas/2647257,Ottawa Senators,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Ottawa Senators,Los Angeles Kings,2021
-/zapas/2647272,Toronto Maple Leafs,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Los Angeles Kings,2021
-/zapas/2647295,Los Angeles Kings,New York Islanders,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,New York Islanders,Los Angeles Kings,2021
-/zapas/2647303,Los Angeles Kings,Buffalo Sabres,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Buffalo Sabres,Los Angeles Kings,2021
-/zapas/2647326,Dallas Stars,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Dallas Stars,Los Angeles Kings,2021
-/zapas/2647336,Minnesota Wild,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2647357,Los Angeles Kings,New York Rangers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,New York Rangers,Los Angeles Kings,2021
-/zapas/2647388,Los Angeles Kings,Philadelphia Flyers,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Philadelphia Flyers,Los Angeles Kings,2021
-/zapas/2647403,Los Angeles Kings,Columbus Blue Jackets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Los Angeles Kings,2021
-/zapas/2647420,Los Angeles Kings,Anaheim Ducks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2647433,Los Angeles Kings,Minnesota Wild,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2647450,Los Angeles Kings,Calgary Flames,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Calgary Flames,Los Angeles Kings,2021
-/zapas/2647469,Los Angeles Kings,Toronto Maple Leafs,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Toronto Maple Leafs,Los Angeles Kings,2021
-/zapas/2647486,Chicago Blackhawks,Los Angeles Kings,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Chicago Blackhawks,Los Angeles Kings,2021
-/zapas/2647498,Nashville Predators,Los Angeles Kings,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Nashville Predators,Los Angeles Kings,2021
-/zapas/2647511,St. Louis Blues,Los Angeles Kings,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2647529,Los Angeles Kings,Colorado Avalanche,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2647555,Los Angeles Kings,Vancouver Canucks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Los Angeles Kings,2021
-/zapas/2647559,Los Angeles Kings,Edmonton Oilers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2647574,Vancouver Canucks,Los Angeles Kings,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Vancouver Canucks,Los Angeles Kings,2021
-/zapas/2647586,Edmonton Oilers,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2647592,Calgary Flames,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Calgary Flames,Los Angeles Kings,2021
-/zapas/2647610,Los Angeles Kings,Carolina Hurricanes,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Carolina Hurricanes,Los Angeles Kings,2021
-/zapas/2647623,Los Angeles Kings,Arizona Coyotes,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2647637,Los Angeles Kings,New Jersey Devils,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,New Jersey Devils,Los Angeles Kings,2021
-/zapas/2647643,Los Angeles Kings,Vegas Golden Knights,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2647660,Detroit Red Wings,Los Angeles Kings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Detroit Red Wings,Los Angeles Kings,2021
-/zapas/2647664,Buffalo Sabres,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Buffalo Sabres,Los Angeles Kings,2021
-/zapas/2647678,Columbus Blue Jackets,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Columbus Blue Jackets,Los Angeles Kings,2021
-/zapas/2647697,Pittsburgh Penguins,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Pittsburgh Penguins,Los Angeles Kings,2021
-/zapas/2647725,Los Angeles Kings,Winnipeg Jets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Los Angeles Kings,2021
-/zapas/2647747,San Jose Sharks,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2647762,Vegas Golden Knights,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2647776,Los Angeles Kings,Arizona Coyotes,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2647783,Los Angeles Kings,Vegas Golden Knights,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2647805,Colorado Avalanche,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2647812,Vegas Golden Knights,Los Angeles Kings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2647826,Los Angeles Kings,Tampa Bay Lightning,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2021
-/zapas/2647841,Los Angeles Kings,Edmonton Oilers,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2647854,San Jose Sharks,Los Angeles Kings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2647880,Los Angeles Kings,Ottawa Senators,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Ottawa Senators,Los Angeles Kings,2021
-/zapas/2647896,Los Angeles Kings,Pittsburgh Penguins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Pittsburgh Penguins,Los Angeles Kings,2021
-/zapas/2647915,Minnesota Wild,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2647930,Dallas Stars,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Dallas Stars,Los Angeles Kings,2021
-/zapas/2647939,Colorado Avalanche,Los Angeles Kings,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2647955,Los Angeles Kings,St. Louis Blues,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2647993,New York Islanders,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,New York Islanders,Los Angeles Kings,2021
-/zapas/2648004,New York Rangers,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Rangers,Los Angeles Kings,2021
-/zapas/2648010,New Jersey Devils,Los Angeles Kings,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,New Jersey Devils,Los Angeles Kings,2021
-/zapas/2648024,Philadelphia Flyers,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Philadelphia Flyers,Los Angeles Kings,2021
-/zapas/2648036,Boston Bruins,Los Angeles Kings,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Boston Bruins,Los Angeles Kings,2021
-/zapas/2648059,Washington Capitals,Los Angeles Kings,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Washington Capitals,Los Angeles Kings,2021
-/zapas/2648084,Los Angeles Kings,Vancouver Canucks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Vancouver Canucks,Los Angeles Kings,2021
-/zapas/2648101,Los Angeles Kings,Boston Bruins,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Boston Bruins,Los Angeles Kings,2021
-/zapas/2648112,Los Angeles Kings,Washington Capitals,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Washington Capitals,Los Angeles Kings,2021
-/zapas/2648134,Nashville Predators,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Nashville Predators,Los Angeles Kings,2021
-/zapas/2648147,Florida Panthers,Los Angeles Kings,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Florida Panthers,Los Angeles Kings,2021
-/zapas/2648162,Tampa Bay Lightning,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2021
-/zapas/2648170,Carolina Hurricanes,Los Angeles Kings,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Carolina Hurricanes,Los Angeles Kings,2021
-/zapas/2648188,Los Angeles Kings,Dallas Stars,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Dallas Stars,Los Angeles Kings,2021
-/zapas/2648198,Los Angeles Kings,Chicago Blackhawks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Chicago Blackhawks,Los Angeles Kings,2021
-/zapas/2648226,Los Angeles Kings,Montreal Canadiens,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Montreal Canadiens,Los Angeles Kings,2021
-/zapas/2648240,Los Angeles Kings,St. Louis Blues,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2648254,Arizona Coyotes,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2648262,Anaheim Ducks,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2648289,Los Angeles Kings,Nashville Predators,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Nashville Predators,Los Angeles Kings,2021
-/zapas/2648299,Los Angeles Kings,Florida Panthers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Florida Panthers,Los Angeles Kings,2021
-/zapas/2648318,Los Angeles Kings,Winnipeg Jets,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Los Angeles Kings,2021
-/zapas/2648345,Los Angeles Kings,San Jose Sharks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2648361,Los Angeles Kings,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2648374,Calgary Flames,Los Angeles Kings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Calgary Flames,Los Angeles Kings,2021
-/zapas/2648380,Edmonton Oilers,Los Angeles Kings,8,4,0,3.0,0.0,0.0,0.0,4.0,8.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2648393,Vancouver Canucks,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Los Angeles Kings,2021
-/zapas/2648412,Los Angeles Kings,Chicago Blackhawks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Los Angeles Kings,2021
-/zapas/2648426,Los Angeles Kings,Calgary Flames,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,Calgary Flames,Los Angeles Kings,2021
-/zapas/2648436,Arizona Coyotes,Los Angeles Kings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2648454,Anaheim Ducks,Los Angeles Kings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2648468,Los Angeles Kings,Vegas Golden Knights,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2806406,Edmonton Oilers,Los Angeles Kings,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2806418,Calgary Flames,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Calgary Flames,Los Angeles Kings,2021
-/zapas/2806422,Vancouver Canucks,Los Angeles Kings,8,2,0,3.0,0.0,0.0,0.0,2.0,8.0,0.0,Vancouver Canucks,Los Angeles Kings,2021
-/zapas/2806439,Los Angeles Kings,Nashville Predators,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Nashville Predators,Los Angeles Kings,2021
-/zapas/2806452,Los Angeles Kings,Vegas Golden Knights,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2806467,Los Angeles Kings,Carolina Hurricanes,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Carolina Hurricanes,Los Angeles Kings,2021
-/zapas/2806482,Los Angeles Kings,Buffalo Sabres,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Buffalo Sabres,Los Angeles Kings,2021
-/zapas/2806498,Los Angeles Kings,Calgary Flames,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Calgary Flames,Los Angeles Kings,2021
-/zapas/2806516,Winnipeg Jets,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Los Angeles Kings,2021
-/zapas/2806525,St. Louis Blues,Los Angeles Kings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2806543,Minnesota Wild,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2806548,Chicago Blackhawks,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Chicago Blackhawks,Los Angeles Kings,2021
-/zapas/2806569,Los Angeles Kings,Vancouver Canucks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Vancouver Canucks,Los Angeles Kings,2021
-/zapas/2806593,Los Angeles Kings,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Los Angeles Kings,2021
-/zapas/2806604,Toronto Maple Leafs,Los Angeles Kings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Toronto Maple Leafs,Los Angeles Kings,2021
-/zapas/2806618,Ottawa Senators,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Ottawa Senators,Los Angeles Kings,2021
-/zapas/2806631,Montreal Canadiens,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Montreal Canadiens,Los Angeles Kings,2021
-/zapas/2806655,Los Angeles Kings,Minnesota Wild,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2806669,Los Angeles Kings,Detroit Red Wings,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Detroit Red Wings,Los Angeles Kings,2021
-/zapas/2806688,Los Angeles Kings,Vegas Golden Knights,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2806693,Arizona Coyotes,Los Angeles Kings,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2806721,Los Angeles Kings,Edmonton Oilers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2806726,Los Angeles Kings,Arizona Coyotes,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2806749,Los Angeles Kings,San Jose Sharks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2806764,Los Angeles Kings,New York Islanders,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,New York Islanders,Los Angeles Kings,2021
-/zapas/2806769,San Jose Sharks,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2806790,Los Angeles Kings,Winnipeg Jets,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Winnipeg Jets,Los Angeles Kings,2021
-/zapas/2806799,Anaheim Ducks,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2806813,Los Angeles Kings,Washington Capitals,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Washington Capitals,Los Angeles Kings,2021
-/zapas/2806826,Edmonton Oilers,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2806838,Calgary Flames,Los Angeles Kings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Calgary Flames,Los Angeles Kings,2021
-/zapas/2806859,Los Angeles Kings,New York Rangers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New York Rangers,Los Angeles Kings,2021
-/zapas/2806873,Anaheim Ducks,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2806887,Pittsburgh Penguins,Los Angeles Kings,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Pittsburgh Penguins,Los Angeles Kings,2021
-/zapas/2806893,Detroit Red Wings,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Detroit Red Wings,Los Angeles Kings,2021
-/zapas/2806900,Boston Bruins,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Boston Bruins,Los Angeles Kings,2021
-/zapas/2806917,Columbus Blue Jackets,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Columbus Blue Jackets,Los Angeles Kings,2021
-/zapas/2806928,Buffalo Sabres,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Buffalo Sabres,Los Angeles Kings,2021
-/zapas/2806957,Los Angeles Kings,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2806968,San Jose Sharks,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2806975,Vancouver Canucks,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vancouver Canucks,Los Angeles Kings,2021
-/zapas/2806998,Los Angeles Kings,Philadelphia Flyers,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Philadelphia Flyers,Los Angeles Kings,2021
-/zapas/2807028,Los Angeles Kings,Nashville Predators,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Nashville Predators,Los Angeles Kings,2021
-/zapas/2807038,Los Angeles Kings,Columbus Blue Jackets,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Los Angeles Kings,2021
-/zapas/2807053,Los Angeles Kings,Dallas Stars,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Dallas Stars,Los Angeles Kings,2021
-/zapas/2807062,Vegas Golden Knights,Los Angeles Kings,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2807073,Carolina Hurricanes,Los Angeles Kings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Carolina Hurricanes,Los Angeles Kings,2021
-/zapas/2807092,Tampa Bay Lightning,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2021
-/zapas/2807105,Florida Panthers,Los Angeles Kings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Florida Panthers,Los Angeles Kings,2021
-/zapas/2807126,Philadelphia Flyers,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Philadelphia Flyers,Los Angeles Kings,2021
-/zapas/2807155,Los Angeles Kings,Tampa Bay Lightning,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2021
-/zapas/2807160,Arizona Coyotes,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2807180,Los Angeles Kings,Anaheim Ducks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2807193,Washington Capitals,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Washington Capitals,Los Angeles Kings,2021
-/zapas/2807207,New York Islanders,Los Angeles Kings,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Islanders,Los Angeles Kings,2021
-/zapas/2807225,New Jersey Devils,Los Angeles Kings,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,New Jersey Devils,Los Angeles Kings,2021
-/zapas/2807233,New York Rangers,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Rangers,Los Angeles Kings,2021
-/zapas/2807254,Los Angeles Kings,Calgary Flames,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Calgary Flames,Los Angeles Kings,2021
-/zapas/2807278,Colorado Avalanche,Los Angeles Kings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2807302,Winnipeg Jets,Los Angeles Kings,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Winnipeg Jets,Los Angeles Kings,2021
-/zapas/2807316,Los Angeles Kings,Florida Panthers,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Florida Panthers,Los Angeles Kings,2021
-/zapas/2807334,Los Angeles Kings,Colorado Avalanche,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2807342,Los Angeles Kings,Edmonton Oilers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2807359,Los Angeles Kings,Pittsburgh Penguins,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Pittsburgh Penguins,Los Angeles Kings,2021
-/zapas/2807376,Los Angeles Kings,New Jersey Devils,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,New Jersey Devils,Los Angeles Kings,2021
-/zapas/2807392,Vegas Golden Knights,Los Angeles Kings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2807417,Los Angeles Kings,Toronto Maple Leafs,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,Toronto Maple Leafs,Los Angeles Kings,2021
-/zapas/2807428,Los Angeles Kings,Minnesota Wild,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2807445,Los Angeles Kings,Colorado Avalanche,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2807458,Los Angeles Kings,Ottawa Senators,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Ottawa Senators,Los Angeles Kings,2021
-/zapas/2893224,Los Angeles Kings,Minnesota Wild,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2893240,Los Angeles Kings,Minnesota Wild,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2893262,Los Angeles Kings,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2893274,Los Angeles Kings,Colorado Avalanche,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2893283,St. Louis Blues,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2893290,St. Louis Blues,Los Angeles Kings,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2893303,Minnesota Wild,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2893317,Minnesota Wild,Los Angeles Kings,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2893369,Los Angeles Kings,Anaheim Ducks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2893385,Vegas Golden Knights,Los Angeles Kings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2893402,Vegas Golden Knights,Los Angeles Kings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2893419,Los Angeles Kings,San Jose Sharks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2893435,Los Angeles Kings,San Jose Sharks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2893468,Los Angeles Kings,Minnesota Wild,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2893475,Arizona Coyotes,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2893490,Arizona Coyotes,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2893503,St. Louis Blues,Los Angeles Kings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2893516,St. Louis Blues,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2893530,Minnesota Wild,Los Angeles Kings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2893538,Minnesota Wild,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2893950,Los Angeles Kings,Arizona Coyotes,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2893587,Los Angeles Kings,St. Louis Blues,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2893596,Los Angeles Kings,St. Louis Blues,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2893608,Anaheim Ducks,Los Angeles Kings,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2893622,Anaheim Ducks,Los Angeles Kings,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2893636,Colorado Avalanche,Los Angeles Kings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2893653,Colorado Avalanche,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2893675,Los Angeles Kings,St. Louis Blues,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2893689,Los Angeles Kings,Vegas Golden Knights,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2893703,Los Angeles Kings,Vegas Golden Knights,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2893711,San Jose Sharks,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2893722,San Jose Sharks,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2893762,Vegas Golden Knights,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2893777,Vegas Golden Knights,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2893792,Los Angeles Kings,San Jose Sharks,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2893804,Los Angeles Kings,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2893818,Los Angeles Kings,Arizona Coyotes,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2893832,Los Angeles Kings,Arizona Coyotes,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2893849,San Jose Sharks,Los Angeles Kings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2893857,San Jose Sharks,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2021
-/zapas/2893871,Los Angeles Kings,Vegas Golden Knights,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2893882,Los Angeles Kings,Vegas Golden Knights,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
-/zapas/2893932,Los Angeles Kings,Anaheim Ducks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2893448,Los Angeles Kings,Minnesota Wild,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2021
-/zapas/2893960,Los Angeles Kings,Arizona Coyotes,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2893973,Los Angeles Kings,Anaheim Ducks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2893988,Los Angeles Kings,Anaheim Ducks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2894003,Anaheim Ducks,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2894018,Anaheim Ducks,Los Angeles Kings,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Anaheim Ducks,Los Angeles Kings,2021
-/zapas/2894030,Arizona Coyotes,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2894044,Arizona Coyotes,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
-/zapas/2894060,Los Angeles Kings,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2894075,Los Angeles Kings,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2893664,Los Angeles Kings,St. Louis Blues,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,St. Louis Blues,Los Angeles Kings,2021
-/zapas/2893894,Colorado Avalanche,Los Angeles Kings,6,0,0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2893909,Colorado Avalanche,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
-/zapas/2900303,Edmonton Oilers,Los Angeles Kings,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2900304,Edmonton Oilers,Los Angeles Kings,6,0,0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2900305,Los Angeles Kings,Edmonton Oilers,2,8,0,0.0,3.0,1.0,0.0,2.0,8.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2900306,Los Angeles Kings,Edmonton Oilers,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2900307,Edmonton Oilers,Los Angeles Kings,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2900308,Los Angeles Kings,Edmonton Oilers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
-/zapas/2900309,Edmonton Oilers,Los Angeles Kings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
+/zapas/2526066,Los Angeles Kings,Philadelphia Flyers,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Philadelphia Flyers,Los Angeles Kings,2017
+/zapas/2526084,San Jose Sharks,Los Angeles Kings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,San Jose Sharks,Los Angeles Kings,2017
+/zapas/2526104,Los Angeles Kings,Calgary Flames,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Calgary Flames,Los Angeles Kings,2017
+/zapas/2526130,Los Angeles Kings,Buffalo Sabres,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Buffalo Sabres,Los Angeles Kings,2017
+/zapas/2526133,Los Angeles Kings,New York Islanders,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,New York Islanders,Los Angeles Kings,2017
+/zapas/2526148,Los Angeles Kings,Montreal Canadiens,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Montreal Canadiens,Los Angeles Kings,2017
+/zapas/2526170,Columbus Blue Jackets,Los Angeles Kings,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Columbus Blue Jackets,Los Angeles Kings,2017
+/zapas/2526177,Toronto Maple Leafs,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Toronto Maple Leafs,Los Angeles Kings,2017
+/zapas/2526185,Ottawa Senators,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Ottawa Senators,Los Angeles Kings,2017
+/zapas/2526199,Montreal Canadiens,Los Angeles Kings,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Montreal Canadiens,Los Angeles Kings,2017
+/zapas/2526214,Boston Bruins,Los Angeles Kings,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Boston Bruins,Los Angeles Kings,2017
+/zapas/2526229,St. Louis Blues,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,St. Louis Blues,Los Angeles Kings,2017
+/zapas/2526251,Los Angeles Kings,Toronto Maple Leafs,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Toronto Maple Leafs,Los Angeles Kings,2017
+/zapas/2526265,Los Angeles Kings,Nashville Predators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Nashville Predators,Los Angeles Kings,2017
+/zapas/2526285,Anaheim Ducks,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Los Angeles Kings,2017
+/zapas/2526295,Los Angeles Kings,Tampa Bay Lightning,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2017
+/zapas/2526318,Los Angeles Kings,San Jose Sharks,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,San Jose Sharks,Los Angeles Kings,2017
+/zapas/2526328,Los Angeles Kings,Vancouver Canucks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Vancouver Canucks,Los Angeles Kings,2017
+/zapas/2526342,Los Angeles Kings,Boston Bruins,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Boston Bruins,Los Angeles Kings,2017
+/zapas/2526350,Los Angeles Kings,Florida Panthers,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Florida Panthers,Los Angeles Kings,2017
+/zapas/2526362,Vegas Golden Knights,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2017
+/zapas/2526387,Los Angeles Kings,Winnipeg Jets,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Winnipeg Jets,Los Angeles Kings,2017
+/zapas/2526399,Arizona Coyotes,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Arizona Coyotes,Los Angeles Kings,2017
+/zapas/2526412,Los Angeles Kings,Anaheim Ducks,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2017
+/zapas/2526426,Detroit Red Wings,Los Angeles Kings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Detroit Red Wings,Los Angeles Kings,2017
+/zapas/2526435,Washington Capitals,Los Angeles Kings,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Washington Capitals,Los Angeles Kings,2017
+/zapas/2526447,St. Louis Blues,Los Angeles Kings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,St. Louis Blues,Los Angeles Kings,2017
+/zapas/2526462,Chicago Blackhawks,Los Angeles Kings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Chicago Blackhawks,Los Angeles Kings,2017
+/zapas/2526479,Los Angeles Kings,Minnesota Wild,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Minnesota Wild,Los Angeles Kings,2017
+/zapas/2526491,Los Angeles Kings,Ottawa Senators,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Ottawa Senators,Los Angeles Kings,2017
+/zapas/2526509,Los Angeles Kings,Carolina Hurricanes,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Carolina Hurricanes,Los Angeles Kings,2017
+/zapas/2526521,New Jersey Devils,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,New Jersey Devils,Los Angeles Kings,2017
+/zapas/2526547,New York Rangers,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,New York Rangers,Los Angeles Kings,2017
+/zapas/2526554,New York Islanders,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Islanders,Los Angeles Kings,2017
+/zapas/2526567,Philadelphia Flyers,Los Angeles Kings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Philadelphia Flyers,Los Angeles Kings,2017
+/zapas/2526591,Los Angeles Kings,Colorado Avalanche,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Colorado Avalanche,Los Angeles Kings,2017
+/zapas/2526611,San Jose Sharks,Los Angeles Kings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,San Jose Sharks,Los Angeles Kings,2017
+/zapas/2526628,Los Angeles Kings,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Los Angeles Kings,2017
+/zapas/2526646,Vancouver Canucks,Los Angeles Kings,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Vancouver Canucks,Los Angeles Kings,2017
+/zapas/2526664,Edmonton Oilers,Los Angeles Kings,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Edmonton Oilers,Los Angeles Kings,2017
+/zapas/2526680,Calgary Flames,Los Angeles Kings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Calgary Flames,Los Angeles Kings,2017
+/zapas/2526695,Los Angeles Kings,Nashville Predators,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Nashville Predators,Los Angeles Kings,2017
+/zapas/2526731,Los Angeles Kings,Anaheim Ducks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Anaheim Ducks,Los Angeles Kings,2017
+/zapas/2526739,Los Angeles Kings,San Jose Sharks,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2017
+/zapas/2526758,Los Angeles Kings,Pittsburgh Penguins,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Pittsburgh Penguins,Los Angeles Kings,2017
+/zapas/2526761,Anaheim Ducks,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Anaheim Ducks,Los Angeles Kings,2017
+/zapas/2526779,Los Angeles Kings,New York Rangers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New York Rangers,Los Angeles Kings,2017
+/zapas/2526795,Vancouver Canucks,Los Angeles Kings,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Vancouver Canucks,Los Angeles Kings,2017
+/zapas/2526799,Calgary Flames,Los Angeles Kings,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Calgary Flames,Los Angeles Kings,2017
+/zapas/2526824,Dallas Stars,Los Angeles Kings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Dallas Stars,Los Angeles Kings,2017
+/zapas/2526836,Nashville Predators,Los Angeles Kings,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,Nashville Predators,Los Angeles Kings,2017
+/zapas/2526858,Los Angeles Kings,Arizona Coyotes,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,Arizona Coyotes,Los Angeles Kings,2017
+/zapas/2526879,Los Angeles Kings,Edmonton Oilers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Edmonton Oilers,Los Angeles Kings,2017
+/zapas/2526892,Florida Panthers,Los Angeles Kings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Florida Panthers,Los Angeles Kings,2017
+/zapas/2526900,Tampa Bay Lightning,Los Angeles Kings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2017
+/zapas/2526923,Carolina Hurricanes,Los Angeles Kings,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Carolina Hurricanes,Los Angeles Kings,2017
+/zapas/2526935,Pittsburgh Penguins,Los Angeles Kings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Pittsburgh Penguins,Los Angeles Kings,2017
+/zapas/2526948,Buffalo Sabres,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Buffalo Sabres,Los Angeles Kings,2017
+/zapas/2526970,Chicago Blackhawks,Los Angeles Kings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Chicago Blackhawks,Los Angeles Kings,2017
+/zapas/2526978,Winnipeg Jets,Los Angeles Kings,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Winnipeg Jets,Los Angeles Kings,2017
+/zapas/2526994,Los Angeles Kings,Dallas Stars,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Dallas Stars,Los Angeles Kings,2017
+/zapas/2527011,Los Angeles Kings,Edmonton Oilers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Edmonton Oilers,Los Angeles Kings,2017
+/zapas/2527022,Los Angeles Kings,Vegas Golden Knights,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vegas Golden Knights,Los Angeles Kings,2017
+/zapas/2527030,Vegas Golden Knights,Los Angeles Kings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,2017
+/zapas/2527043,Los Angeles Kings,Columbus Blue Jackets,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Columbus Blue Jackets,Los Angeles Kings,2017
+/zapas/2527056,Los Angeles Kings,Chicago Blackhawks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Chicago Blackhawks,Los Angeles Kings,2017
+/zapas/2527096,Los Angeles Kings,Washington Capitals,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Washington Capitals,Los Angeles Kings,2017
+/zapas/2527107,Los Angeles Kings,St. Louis Blues,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,St. Louis Blues,Los Angeles Kings,2017
+/zapas/2527123,Los Angeles Kings,Vancouver Canucks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vancouver Canucks,Los Angeles Kings,2017
+/zapas/2527131,Arizona Coyotes,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Arizona Coyotes,Los Angeles Kings,2017
+/zapas/2527145,Los Angeles Kings,Detroit Red Wings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Detroit Red Wings,Los Angeles Kings,2017
+/zapas/2527154,Los Angeles Kings,New Jersey Devils,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,New Jersey Devils,Los Angeles Kings,2017
+/zapas/2527173,Minnesota Wild,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Minnesota Wild,Los Angeles Kings,2017
+/zapas/2527182,Winnipeg Jets,Los Angeles Kings,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Winnipeg Jets,Los Angeles Kings,2017
+/zapas/2527198,Colorado Avalanche,Los Angeles Kings,1,7,0,0.0,3.0,0.0,3.0,7.0,1.0,1.0,Colorado Avalanche,Los Angeles Kings,2017
+/zapas/2527216,Edmonton Oilers,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Los Angeles Kings,2017
+/zapas/2527230,Los Angeles Kings,Calgary Flames,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Calgary Flames,Los Angeles Kings,2017
+/zapas/2527253,Los Angeles Kings,Arizona Coyotes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2017
+/zapas/2527258,Anaheim Ducks,Los Angeles Kings,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Anaheim Ducks,Los Angeles Kings,2017
+/zapas/2527282,Los Angeles Kings,Colorado Avalanche,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Colorado Avalanche,Los Angeles Kings,2017
+/zapas/2527305,Los Angeles Kings,Minnesota Wild,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Minnesota Wild,Los Angeles Kings,2017
+/zapas/2527324,Los Angeles Kings,Dallas Stars,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Dallas Stars,Los Angeles Kings,2017
+/zapas/2647214,Los Angeles Kings,San Jose Sharks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,San Jose Sharks,Los Angeles Kings,2018
+/zapas/2647229,Los Angeles Kings,Detroit Red Wings,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Detroit Red Wings,Los Angeles Kings,2018
+/zapas/2647238,Winnipeg Jets,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Winnipeg Jets,Los Angeles Kings,2018
+/zapas/2647249,Montreal Canadiens,Los Angeles Kings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Montreal Canadiens,Los Angeles Kings,2018
+/zapas/2647257,Ottawa Senators,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Ottawa Senators,Los Angeles Kings,2018
+/zapas/2647272,Toronto Maple Leafs,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Los Angeles Kings,2018
+/zapas/2647295,Los Angeles Kings,New York Islanders,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,New York Islanders,Los Angeles Kings,2018
+/zapas/2647303,Los Angeles Kings,Buffalo Sabres,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Buffalo Sabres,Los Angeles Kings,2018
+/zapas/2647326,Dallas Stars,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Dallas Stars,Los Angeles Kings,2018
+/zapas/2647336,Minnesota Wild,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2018
+/zapas/2647357,Los Angeles Kings,New York Rangers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,New York Rangers,Los Angeles Kings,2018
+/zapas/2647388,Los Angeles Kings,Philadelphia Flyers,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Philadelphia Flyers,Los Angeles Kings,2018
+/zapas/2647403,Los Angeles Kings,Columbus Blue Jackets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Columbus Blue Jackets,Los Angeles Kings,2018
+/zapas/2647420,Los Angeles Kings,Anaheim Ducks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2018
+/zapas/2647433,Los Angeles Kings,Minnesota Wild,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Minnesota Wild,Los Angeles Kings,2018
+/zapas/2647450,Los Angeles Kings,Calgary Flames,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Calgary Flames,Los Angeles Kings,2018
+/zapas/2647469,Los Angeles Kings,Toronto Maple Leafs,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Toronto Maple Leafs,Los Angeles Kings,2018
+/zapas/2647486,Chicago Blackhawks,Los Angeles Kings,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Chicago Blackhawks,Los Angeles Kings,2018
+/zapas/2647498,Nashville Predators,Los Angeles Kings,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Nashville Predators,Los Angeles Kings,2018
+/zapas/2647511,St. Louis Blues,Los Angeles Kings,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,St. Louis Blues,Los Angeles Kings,2018
+/zapas/2647529,Los Angeles Kings,Colorado Avalanche,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Colorado Avalanche,Los Angeles Kings,2018
+/zapas/2647555,Los Angeles Kings,Vancouver Canucks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Los Angeles Kings,2018
+/zapas/2647559,Los Angeles Kings,Edmonton Oilers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Edmonton Oilers,Los Angeles Kings,2018
+/zapas/2647574,Vancouver Canucks,Los Angeles Kings,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Vancouver Canucks,Los Angeles Kings,2018
+/zapas/2647586,Edmonton Oilers,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Los Angeles Kings,2018
+/zapas/2647592,Calgary Flames,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Calgary Flames,Los Angeles Kings,2018
+/zapas/2647610,Los Angeles Kings,Carolina Hurricanes,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Carolina Hurricanes,Los Angeles Kings,2018
+/zapas/2647623,Los Angeles Kings,Arizona Coyotes,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Arizona Coyotes,Los Angeles Kings,2018
+/zapas/2647637,Los Angeles Kings,New Jersey Devils,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,New Jersey Devils,Los Angeles Kings,2018
+/zapas/2647643,Los Angeles Kings,Vegas Golden Knights,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,2018
+/zapas/2647660,Detroit Red Wings,Los Angeles Kings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Detroit Red Wings,Los Angeles Kings,2018
+/zapas/2647664,Buffalo Sabres,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Buffalo Sabres,Los Angeles Kings,2018
+/zapas/2647678,Columbus Blue Jackets,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Columbus Blue Jackets,Los Angeles Kings,2018
+/zapas/2647697,Pittsburgh Penguins,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Pittsburgh Penguins,Los Angeles Kings,2018
+/zapas/2647725,Los Angeles Kings,Winnipeg Jets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Los Angeles Kings,2018
+/zapas/2647747,San Jose Sharks,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2018
+/zapas/2647762,Vegas Golden Knights,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vegas Golden Knights,Los Angeles Kings,2018
+/zapas/2647776,Los Angeles Kings,Arizona Coyotes,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Arizona Coyotes,Los Angeles Kings,2018
+/zapas/2647783,Los Angeles Kings,Vegas Golden Knights,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2018
+/zapas/2647805,Colorado Avalanche,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Los Angeles Kings,2018
+/zapas/2647812,Vegas Golden Knights,Los Angeles Kings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Vegas Golden Knights,Los Angeles Kings,2018
+/zapas/2647826,Los Angeles Kings,Tampa Bay Lightning,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2018
+/zapas/2647841,Los Angeles Kings,Edmonton Oilers,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Edmonton Oilers,Los Angeles Kings,2018
+/zapas/2647854,San Jose Sharks,Los Angeles Kings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,San Jose Sharks,Los Angeles Kings,2018
+/zapas/2647880,Los Angeles Kings,Ottawa Senators,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Ottawa Senators,Los Angeles Kings,2018
+/zapas/2647896,Los Angeles Kings,Pittsburgh Penguins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Pittsburgh Penguins,Los Angeles Kings,2018
+/zapas/2647915,Minnesota Wild,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Minnesota Wild,Los Angeles Kings,2018
+/zapas/2647930,Dallas Stars,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Dallas Stars,Los Angeles Kings,2018
+/zapas/2647939,Colorado Avalanche,Los Angeles Kings,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Colorado Avalanche,Los Angeles Kings,2018
+/zapas/2647955,Los Angeles Kings,St. Louis Blues,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,St. Louis Blues,Los Angeles Kings,2018
+/zapas/2647993,New York Islanders,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,New York Islanders,Los Angeles Kings,2018
+/zapas/2648004,New York Rangers,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Rangers,Los Angeles Kings,2018
+/zapas/2648010,New Jersey Devils,Los Angeles Kings,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,New Jersey Devils,Los Angeles Kings,2018
+/zapas/2648024,Philadelphia Flyers,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Philadelphia Flyers,Los Angeles Kings,2018
+/zapas/2648036,Boston Bruins,Los Angeles Kings,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Boston Bruins,Los Angeles Kings,2018
+/zapas/2648059,Washington Capitals,Los Angeles Kings,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Washington Capitals,Los Angeles Kings,2018
+/zapas/2648084,Los Angeles Kings,Vancouver Canucks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Vancouver Canucks,Los Angeles Kings,2018
+/zapas/2648101,Los Angeles Kings,Boston Bruins,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Boston Bruins,Los Angeles Kings,2018
+/zapas/2648112,Los Angeles Kings,Washington Capitals,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Washington Capitals,Los Angeles Kings,2018
+/zapas/2648134,Nashville Predators,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Nashville Predators,Los Angeles Kings,2018
+/zapas/2648147,Florida Panthers,Los Angeles Kings,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Florida Panthers,Los Angeles Kings,2018
+/zapas/2648162,Tampa Bay Lightning,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2018
+/zapas/2648170,Carolina Hurricanes,Los Angeles Kings,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Carolina Hurricanes,Los Angeles Kings,2018
+/zapas/2648188,Los Angeles Kings,Dallas Stars,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Dallas Stars,Los Angeles Kings,2018
+/zapas/2648198,Los Angeles Kings,Chicago Blackhawks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Chicago Blackhawks,Los Angeles Kings,2018
+/zapas/2648226,Los Angeles Kings,Montreal Canadiens,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Montreal Canadiens,Los Angeles Kings,2018
+/zapas/2648240,Los Angeles Kings,St. Louis Blues,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,St. Louis Blues,Los Angeles Kings,2018
+/zapas/2648254,Arizona Coyotes,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Arizona Coyotes,Los Angeles Kings,2018
+/zapas/2648262,Anaheim Ducks,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Los Angeles Kings,2018
+/zapas/2648289,Los Angeles Kings,Nashville Predators,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Nashville Predators,Los Angeles Kings,2018
+/zapas/2648299,Los Angeles Kings,Florida Panthers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Florida Panthers,Los Angeles Kings,2018
+/zapas/2648318,Los Angeles Kings,Winnipeg Jets,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Los Angeles Kings,2018
+/zapas/2648345,Los Angeles Kings,San Jose Sharks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2018
+/zapas/2648361,Los Angeles Kings,Anaheim Ducks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Los Angeles Kings,2018
+/zapas/2648374,Calgary Flames,Los Angeles Kings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Calgary Flames,Los Angeles Kings,2018
+/zapas/2648380,Edmonton Oilers,Los Angeles Kings,8,4,0,3.0,0.0,0.0,0.0,4.0,8.0,0.0,Edmonton Oilers,Los Angeles Kings,2018
+/zapas/2648393,Vancouver Canucks,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Los Angeles Kings,2018
+/zapas/2648412,Los Angeles Kings,Chicago Blackhawks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Los Angeles Kings,2018
+/zapas/2648426,Los Angeles Kings,Calgary Flames,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,Calgary Flames,Los Angeles Kings,2018
+/zapas/2648436,Arizona Coyotes,Los Angeles Kings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Los Angeles Kings,2018
+/zapas/2648454,Anaheim Ducks,Los Angeles Kings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Anaheim Ducks,Los Angeles Kings,2018
+/zapas/2648468,Los Angeles Kings,Vegas Golden Knights,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Los Angeles Kings,2018
+/zapas/2806406,Edmonton Oilers,Los Angeles Kings,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Edmonton Oilers,Los Angeles Kings,2019
+/zapas/2806418,Calgary Flames,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Calgary Flames,Los Angeles Kings,2019
+/zapas/2806422,Vancouver Canucks,Los Angeles Kings,8,2,0,3.0,0.0,0.0,0.0,2.0,8.0,0.0,Vancouver Canucks,Los Angeles Kings,2019
+/zapas/2806439,Los Angeles Kings,Nashville Predators,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Nashville Predators,Los Angeles Kings,2019
+/zapas/2806452,Los Angeles Kings,Vegas Golden Knights,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Los Angeles Kings,2019
+/zapas/2806467,Los Angeles Kings,Carolina Hurricanes,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Carolina Hurricanes,Los Angeles Kings,2019
+/zapas/2806482,Los Angeles Kings,Buffalo Sabres,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Buffalo Sabres,Los Angeles Kings,2019
+/zapas/2806498,Los Angeles Kings,Calgary Flames,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Calgary Flames,Los Angeles Kings,2019
+/zapas/2806516,Winnipeg Jets,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Los Angeles Kings,2019
+/zapas/2806525,St. Louis Blues,Los Angeles Kings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,St. Louis Blues,Los Angeles Kings,2019
+/zapas/2806543,Minnesota Wild,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Minnesota Wild,Los Angeles Kings,2019
+/zapas/2806548,Chicago Blackhawks,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Chicago Blackhawks,Los Angeles Kings,2019
+/zapas/2806569,Los Angeles Kings,Vancouver Canucks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Vancouver Canucks,Los Angeles Kings,2019
+/zapas/2806593,Los Angeles Kings,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Los Angeles Kings,2019
+/zapas/2806604,Toronto Maple Leafs,Los Angeles Kings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Toronto Maple Leafs,Los Angeles Kings,2019
+/zapas/2806618,Ottawa Senators,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Ottawa Senators,Los Angeles Kings,2019
+/zapas/2806631,Montreal Canadiens,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Montreal Canadiens,Los Angeles Kings,2019
+/zapas/2806655,Los Angeles Kings,Minnesota Wild,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Minnesota Wild,Los Angeles Kings,2019
+/zapas/2806669,Los Angeles Kings,Detroit Red Wings,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Detroit Red Wings,Los Angeles Kings,2019
+/zapas/2806688,Los Angeles Kings,Vegas Golden Knights,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Vegas Golden Knights,Los Angeles Kings,2019
+/zapas/2806693,Arizona Coyotes,Los Angeles Kings,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Arizona Coyotes,Los Angeles Kings,2019
+/zapas/2806721,Los Angeles Kings,Edmonton Oilers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Edmonton Oilers,Los Angeles Kings,2019
+/zapas/2806726,Los Angeles Kings,Arizona Coyotes,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Arizona Coyotes,Los Angeles Kings,2019
+/zapas/2806749,Los Angeles Kings,San Jose Sharks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2019
+/zapas/2806764,Los Angeles Kings,New York Islanders,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,New York Islanders,Los Angeles Kings,2019
+/zapas/2806769,San Jose Sharks,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2019
+/zapas/2806790,Los Angeles Kings,Winnipeg Jets,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Winnipeg Jets,Los Angeles Kings,2019
+/zapas/2806799,Anaheim Ducks,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Anaheim Ducks,Los Angeles Kings,2019
+/zapas/2806813,Los Angeles Kings,Washington Capitals,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Washington Capitals,Los Angeles Kings,2019
+/zapas/2806826,Edmonton Oilers,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Edmonton Oilers,Los Angeles Kings,2019
+/zapas/2806838,Calgary Flames,Los Angeles Kings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Calgary Flames,Los Angeles Kings,2019
+/zapas/2806859,Los Angeles Kings,New York Rangers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New York Rangers,Los Angeles Kings,2019
+/zapas/2806873,Anaheim Ducks,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2019
+/zapas/2806887,Pittsburgh Penguins,Los Angeles Kings,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Pittsburgh Penguins,Los Angeles Kings,2019
+/zapas/2806893,Detroit Red Wings,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Detroit Red Wings,Los Angeles Kings,2019
+/zapas/2806900,Boston Bruins,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Boston Bruins,Los Angeles Kings,2019
+/zapas/2806917,Columbus Blue Jackets,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Columbus Blue Jackets,Los Angeles Kings,2019
+/zapas/2806928,Buffalo Sabres,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Buffalo Sabres,Los Angeles Kings,2019
+/zapas/2806957,Los Angeles Kings,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Los Angeles Kings,2019
+/zapas/2806968,San Jose Sharks,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2019
+/zapas/2806975,Vancouver Canucks,Los Angeles Kings,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vancouver Canucks,Los Angeles Kings,2019
+/zapas/2806998,Los Angeles Kings,Philadelphia Flyers,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Philadelphia Flyers,Los Angeles Kings,2019
+/zapas/2807028,Los Angeles Kings,Nashville Predators,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Nashville Predators,Los Angeles Kings,2019
+/zapas/2807038,Los Angeles Kings,Columbus Blue Jackets,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Los Angeles Kings,2019
+/zapas/2807053,Los Angeles Kings,Dallas Stars,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Dallas Stars,Los Angeles Kings,2019
+/zapas/2807062,Vegas Golden Knights,Los Angeles Kings,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Los Angeles Kings,2019
+/zapas/2807073,Carolina Hurricanes,Los Angeles Kings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Carolina Hurricanes,Los Angeles Kings,2019
+/zapas/2807092,Tampa Bay Lightning,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2019
+/zapas/2807105,Florida Panthers,Los Angeles Kings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Florida Panthers,Los Angeles Kings,2019
+/zapas/2807126,Philadelphia Flyers,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Philadelphia Flyers,Los Angeles Kings,2019
+/zapas/2807155,Los Angeles Kings,Tampa Bay Lightning,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2019
+/zapas/2807160,Arizona Coyotes,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2019
+/zapas/2807180,Los Angeles Kings,Anaheim Ducks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Los Angeles Kings,2019
+/zapas/2807193,Washington Capitals,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Washington Capitals,Los Angeles Kings,2019
+/zapas/2807207,New York Islanders,Los Angeles Kings,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Islanders,Los Angeles Kings,2019
+/zapas/2807225,New Jersey Devils,Los Angeles Kings,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,New Jersey Devils,Los Angeles Kings,2019
+/zapas/2807233,New York Rangers,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Rangers,Los Angeles Kings,2019
+/zapas/2807254,Los Angeles Kings,Calgary Flames,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Calgary Flames,Los Angeles Kings,2019
+/zapas/2807278,Colorado Avalanche,Los Angeles Kings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Colorado Avalanche,Los Angeles Kings,2019
+/zapas/2807302,Winnipeg Jets,Los Angeles Kings,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Winnipeg Jets,Los Angeles Kings,2019
+/zapas/2807316,Los Angeles Kings,Florida Panthers,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Florida Panthers,Los Angeles Kings,2019
+/zapas/2807334,Los Angeles Kings,Colorado Avalanche,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Colorado Avalanche,Los Angeles Kings,2019
+/zapas/2807342,Los Angeles Kings,Edmonton Oilers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Edmonton Oilers,Los Angeles Kings,2019
+/zapas/2807359,Los Angeles Kings,Pittsburgh Penguins,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Pittsburgh Penguins,Los Angeles Kings,2019
+/zapas/2807376,Los Angeles Kings,New Jersey Devils,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,New Jersey Devils,Los Angeles Kings,2019
+/zapas/2807392,Vegas Golden Knights,Los Angeles Kings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,2019
+/zapas/2807417,Los Angeles Kings,Toronto Maple Leafs,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,Toronto Maple Leafs,Los Angeles Kings,2019
+/zapas/2807428,Los Angeles Kings,Minnesota Wild,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Minnesota Wild,Los Angeles Kings,2019
+/zapas/2807445,Los Angeles Kings,Colorado Avalanche,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Colorado Avalanche,Los Angeles Kings,2019
+/zapas/2807458,Los Angeles Kings,Ottawa Senators,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Ottawa Senators,Los Angeles Kings,2019
+/zapas/2893224,Los Angeles Kings,Minnesota Wild,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2020
+/zapas/2893240,Los Angeles Kings,Minnesota Wild,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2020
+/zapas/2893262,Los Angeles Kings,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Los Angeles Kings,2020
+/zapas/2893274,Los Angeles Kings,Colorado Avalanche,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Colorado Avalanche,Los Angeles Kings,2020
+/zapas/2893283,St. Louis Blues,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,St. Louis Blues,Los Angeles Kings,2020
+/zapas/2893290,St. Louis Blues,Los Angeles Kings,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,St. Louis Blues,Los Angeles Kings,2020
+/zapas/2893303,Minnesota Wild,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Minnesota Wild,Los Angeles Kings,2020
+/zapas/2893317,Minnesota Wild,Los Angeles Kings,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Minnesota Wild,Los Angeles Kings,2020
+/zapas/2893369,Los Angeles Kings,Anaheim Ducks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Los Angeles Kings,2020
+/zapas/2893385,Vegas Golden Knights,Los Angeles Kings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Los Angeles Kings,2020
+/zapas/2893402,Vegas Golden Knights,Los Angeles Kings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2020
+/zapas/2893419,Los Angeles Kings,San Jose Sharks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2020
+/zapas/2893435,Los Angeles Kings,San Jose Sharks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2020
+/zapas/2893468,Los Angeles Kings,Minnesota Wild,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Minnesota Wild,Los Angeles Kings,2020
+/zapas/2893475,Arizona Coyotes,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2020
+/zapas/2893490,Arizona Coyotes,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2020
+/zapas/2893503,St. Louis Blues,Los Angeles Kings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,St. Louis Blues,Los Angeles Kings,2020
+/zapas/2893516,St. Louis Blues,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,St. Louis Blues,Los Angeles Kings,2020
+/zapas/2893530,Minnesota Wild,Los Angeles Kings,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Minnesota Wild,Los Angeles Kings,2020
+/zapas/2893538,Minnesota Wild,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2020
+/zapas/2893950,Los Angeles Kings,Arizona Coyotes,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Arizona Coyotes,Los Angeles Kings,2020
+/zapas/2893587,Los Angeles Kings,St. Louis Blues,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,St. Louis Blues,Los Angeles Kings,2020
+/zapas/2893596,Los Angeles Kings,St. Louis Blues,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,St. Louis Blues,Los Angeles Kings,2020
+/zapas/2893608,Anaheim Ducks,Los Angeles Kings,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Anaheim Ducks,Los Angeles Kings,2020
+/zapas/2893622,Anaheim Ducks,Los Angeles Kings,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2020
+/zapas/2893636,Colorado Avalanche,Los Angeles Kings,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Colorado Avalanche,Los Angeles Kings,2020
+/zapas/2893653,Colorado Avalanche,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Los Angeles Kings,2020
+/zapas/2893675,Los Angeles Kings,St. Louis Blues,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,St. Louis Blues,Los Angeles Kings,2020
+/zapas/2893689,Los Angeles Kings,Vegas Golden Knights,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2020
+/zapas/2893703,Los Angeles Kings,Vegas Golden Knights,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,2020
+/zapas/2893711,San Jose Sharks,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,San Jose Sharks,Los Angeles Kings,2020
+/zapas/2893722,San Jose Sharks,Los Angeles Kings,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2020
+/zapas/2893762,Vegas Golden Knights,Los Angeles Kings,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2020
+/zapas/2893777,Vegas Golden Knights,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Los Angeles Kings,2020
+/zapas/2893792,Los Angeles Kings,San Jose Sharks,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,San Jose Sharks,Los Angeles Kings,2020
+/zapas/2893804,Los Angeles Kings,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Los Angeles Kings,2020
+/zapas/2893818,Los Angeles Kings,Arizona Coyotes,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Los Angeles Kings,2020
+/zapas/2893832,Los Angeles Kings,Arizona Coyotes,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Arizona Coyotes,Los Angeles Kings,2020
+/zapas/2893849,San Jose Sharks,Los Angeles Kings,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,San Jose Sharks,Los Angeles Kings,2020
+/zapas/2893857,San Jose Sharks,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,San Jose Sharks,Los Angeles Kings,2020
+/zapas/2893871,Los Angeles Kings,Vegas Golden Knights,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Los Angeles Kings,2020
+/zapas/2893882,Los Angeles Kings,Vegas Golden Knights,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Vegas Golden Knights,Los Angeles Kings,2020
+/zapas/2893932,Los Angeles Kings,Anaheim Ducks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2020
+/zapas/2893448,Los Angeles Kings,Minnesota Wild,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Minnesota Wild,Los Angeles Kings,2020
+/zapas/2893960,Los Angeles Kings,Arizona Coyotes,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Arizona Coyotes,Los Angeles Kings,2020
+/zapas/2893973,Los Angeles Kings,Anaheim Ducks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2020
+/zapas/2893988,Los Angeles Kings,Anaheim Ducks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Anaheim Ducks,Los Angeles Kings,2020
+/zapas/2894003,Anaheim Ducks,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2020
+/zapas/2894018,Anaheim Ducks,Los Angeles Kings,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Anaheim Ducks,Los Angeles Kings,2020
+/zapas/2894030,Arizona Coyotes,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2020
+/zapas/2894044,Arizona Coyotes,Los Angeles Kings,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2020
+/zapas/2894060,Los Angeles Kings,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Los Angeles Kings,2020
+/zapas/2894075,Los Angeles Kings,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Los Angeles Kings,2020
+/zapas/2893664,Los Angeles Kings,St. Louis Blues,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,St. Louis Blues,Los Angeles Kings,2020
+/zapas/2893894,Colorado Avalanche,Los Angeles Kings,6,0,0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,Colorado Avalanche,Los Angeles Kings,2020
+/zapas/2893909,Colorado Avalanche,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Los Angeles Kings,2020
+/zapas/2896989,Los Angeles Kings,Vegas Golden Knights,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
+/zapas/2897001,Los Angeles Kings,Minnesota Wild,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Minnesota Wild,Los Angeles Kings,2021
+/zapas/2897022,Nashville Predators,Los Angeles Kings,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Nashville Predators,Los Angeles Kings,2021
+/zapas/2897044,Dallas Stars,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Dallas Stars,Los Angeles Kings,2021
+/zapas/2897049,St. Louis Blues,Los Angeles Kings,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,St. Louis Blues,Los Angeles Kings,2021
+/zapas/2897064,St. Louis Blues,Los Angeles Kings,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,St. Louis Blues,Los Angeles Kings,2021
+/zapas/2897085,Los Angeles Kings,Winnipeg Jets,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Los Angeles Kings,2021
+/zapas/2897099,Los Angeles Kings,Montreal Canadiens,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Los Angeles Kings,2021
+/zapas/2897109,Los Angeles Kings,Buffalo Sabres,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Buffalo Sabres,Los Angeles Kings,2021
+/zapas/2897125,Los Angeles Kings,St. Louis Blues,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,St. Louis Blues,Los Angeles Kings,2021
+/zapas/2897140,Los Angeles Kings,New Jersey Devils,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New Jersey Devils,Los Angeles Kings,2021
+/zapas/2897160,Toronto Maple Leafs,Los Angeles Kings,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Toronto Maple Leafs,Los Angeles Kings,2021
+/zapas/2897169,Montreal Canadiens,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Los Angeles Kings,2021
+/zapas/2897183,Ottawa Senators,Los Angeles Kings,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Ottawa Senators,Los Angeles Kings,2021
+/zapas/2897197,Winnipeg Jets,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Winnipeg Jets,Los Angeles Kings,2021
+/zapas/2897226,Los Angeles Kings,Washington Capitals,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Washington Capitals,Los Angeles Kings,2021
+/zapas/2897243,Los Angeles Kings,Carolina Hurricanes,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Carolina Hurricanes,Los Angeles Kings,2021
+/zapas/2897256,Los Angeles Kings,Arizona Coyotes,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Arizona Coyotes,Los Angeles Kings,2021
+/zapas/2897271,Los Angeles Kings,Toronto Maple Leafs,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Toronto Maple Leafs,Los Angeles Kings,2021
+/zapas/2897299,Los Angeles Kings,Ottawa Senators,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Ottawa Senators,Los Angeles Kings,2021
+/zapas/2897318,Los Angeles Kings,Anaheim Ducks,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Anaheim Ducks,Los Angeles Kings,2021
+/zapas/2897333,Los Angeles Kings,Calgary Flames,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Calgary Flames,Los Angeles Kings,2021
+/zapas/2897359,Edmonton Oilers,Los Angeles Kings,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Edmonton Oilers,Los Angeles Kings,2021
+/zapas/2897364,Vancouver Canucks,Los Angeles Kings,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Vancouver Canucks,Los Angeles Kings,2021
+/zapas/2897383,Los Angeles Kings,Dallas Stars,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Dallas Stars,Los Angeles Kings,2021
+/zapas/2897400,Los Angeles Kings,Minnesota Wild,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Minnesota Wild,Los Angeles Kings,2021
+/zapas/2897428,Tampa Bay Lightning,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2021
+/zapas/2897442,Florida Panthers,Los Angeles Kings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Florida Panthers,Los Angeles Kings,2021
+/zapas/2897461,Carolina Hurricanes,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Carolina Hurricanes,Los Angeles Kings,2021
+/zapas/2897468,Washington Capitals,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Washington Capitals,Los Angeles Kings,2021
+/zapas/2897518,Los Angeles Kings,Vegas Golden Knights,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
+/zapas/2897533,Los Angeles Kings,Vancouver Canucks,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Vancouver Canucks,Los Angeles Kings,2021
+/zapas/2897547,Los Angeles Kings,Philadelphia Flyers,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Philadelphia Flyers,Los Angeles Kings,2021
+/zapas/2897582,Los Angeles Kings,Nashville Predators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Nashville Predators,Los Angeles Kings,2021
+/zapas/2897598,Los Angeles Kings,Detroit Red Wings,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Detroit Red Wings,Los Angeles Kings,2021
+/zapas/2897611,Los Angeles Kings,New York Rangers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New York Rangers,Los Angeles Kings,2021
+/zapas/2897631,Los Angeles Kings,Pittsburgh Penguins,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Pittsburgh Penguins,Los Angeles Kings,2021
+/zapas/2897647,Seattle Kraken,Los Angeles Kings,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Seattle Kraken,Los Angeles Kings,2021
+/zapas/2897664,San Jose Sharks,Los Angeles Kings,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,San Jose Sharks,Los Angeles Kings,2021
+/zapas/2897672,Los Angeles Kings,Tampa Bay Lightning,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Tampa Bay Lightning,Los Angeles Kings,2021
+/zapas/2897686,Los Angeles Kings,Colorado Avalanche,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
+/zapas/2897715,New Jersey Devils,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New Jersey Devils,Los Angeles Kings,2021
+/zapas/2897722,New York Rangers,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Rangers,Los Angeles Kings,2021
+/zapas/2897745,New York Islanders,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Islanders,Los Angeles Kings,2021
+/zapas/2897762,Philadelphia Flyers,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Philadelphia Flyers,Los Angeles Kings,2021
+/zapas/2897770,Pittsburgh Penguins,Los Angeles Kings,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Pittsburgh Penguins,Los Angeles Kings,2021
+/zapas/2897790,Detroit Red Wings,Los Angeles Kings,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Detroit Red Wings,Los Angeles Kings,2021
+/zapas/2897485,Los Angeles Kings,Edmonton Oilers,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
+/zapas/2897490,Vegas Golden Knights,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vegas Golden Knights,Los Angeles Kings,2021
+/zapas/2897508,Arizona Coyotes,Los Angeles Kings,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
+/zapas/2897792,Arizona Coyotes,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Arizona Coyotes,Los Angeles Kings,2021
+/zapas/2897804,Anaheim Ducks,Los Angeles Kings,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
+/zapas/2897811,Los Angeles Kings,New York Islanders,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New York Islanders,Los Angeles Kings,2021
+/zapas/2897828,Los Angeles Kings,Boston Bruins,0,7,0,0.0,3.0,1.0,0.0,0.0,7.0,0.0,Boston Bruins,Los Angeles Kings,2021
+/zapas/2897842,Dallas Stars,Los Angeles Kings,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Dallas Stars,Los Angeles Kings,2021
+/zapas/2897860,Columbus Blue Jackets,Los Angeles Kings,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Columbus Blue Jackets,Los Angeles Kings,2021
+/zapas/2897876,Buffalo Sabres,Los Angeles Kings,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Buffalo Sabres,Los Angeles Kings,2021
+/zapas/2897879,Boston Bruins,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Boston Bruins,Los Angeles Kings,2021
+/zapas/2897896,Los Angeles Kings,San Jose Sharks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,San Jose Sharks,Los Angeles Kings,2021
+/zapas/2897913,San Jose Sharks,Los Angeles Kings,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,San Jose Sharks,Los Angeles Kings,2021
+/zapas/2897924,Los Angeles Kings,Florida Panthers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Florida Panthers,Los Angeles Kings,2021
+/zapas/2897935,Los Angeles Kings,Colorado Avalanche,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
+/zapas/2897951,Los Angeles Kings,San Jose Sharks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,San Jose Sharks,Los Angeles Kings,2021
+/zapas/2897966,Vegas Golden Knights,Los Angeles Kings,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Vegas Golden Knights,Los Angeles Kings,2021
+/zapas/2897985,Los Angeles Kings,Nashville Predators,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Nashville Predators,Los Angeles Kings,2021
+/zapas/2898001,Los Angeles Kings,Chicago Blackhawks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Chicago Blackhawks,Los Angeles Kings,2021
+/zapas/2898016,Los Angeles Kings,Seattle Kraken,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Seattle Kraken,Los Angeles Kings,2021
+/zapas/2898035,Los Angeles Kings,Seattle Kraken,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Seattle Kraken,Los Angeles Kings,2021
+/zapas/2898052,Edmonton Oilers,Los Angeles Kings,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
+/zapas/2898057,Calgary Flames,Los Angeles Kings,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Calgary Flames,Los Angeles Kings,2021
+/zapas/2898075,Winnipeg Jets,Los Angeles Kings,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Los Angeles Kings,2021
+/zapas/2898090,Los Angeles Kings,Calgary Flames,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Calgary Flames,Los Angeles Kings,2021
+/zapas/2898110,Los Angeles Kings,Edmonton Oilers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Los Angeles Kings,2021
+/zapas/2898130,Minnesota Wild,Los Angeles Kings,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Minnesota Wild,Los Angeles Kings,2021
+/zapas/2898165,Chicago Blackhawks,Los Angeles Kings,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Los Angeles Kings,2021
+/zapas/2898158,Colorado Avalanche,Los Angeles Kings,9,3,0,3.0,0.0,0.0,0.0,3.0,9.0,0.0,Colorado Avalanche,Los Angeles Kings,2021
+/zapas/2898177,Los Angeles Kings,Columbus Blue Jackets,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Columbus Blue Jackets,Los Angeles Kings,2021
+/zapas/2898201,Anaheim Ducks,Los Angeles Kings,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
+/zapas/2898214,Los Angeles Kings,Chicago Blackhawks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Chicago Blackhawks,Los Angeles Kings,2021
+/zapas/2898230,Los Angeles Kings,Anaheim Ducks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Anaheim Ducks,Los Angeles Kings,2021
+/zapas/2898267,Seattle Kraken,Los Angeles Kings,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Seattle Kraken,Los Angeles Kings,2021
+/zapas/2898279,Vancouver Canucks,Los Angeles Kings,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Los Angeles Kings,2021

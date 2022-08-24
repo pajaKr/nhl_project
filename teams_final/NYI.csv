@@ -1,114 +1,351 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2526377,1.0,1.0,New York Islanders,Philadelphia Flyers,34.0,73.0,66.0,24.0,53.0,58.0
+/zapas/2526391,1.0,0.0,New York Islanders,Philadelphia Flyers,36.0,77.0,64.0,25.0,56.0,60.0
 /zapas/2526404,1.0,0.0,New York Islanders,Ottawa Senators,35.0,76.0,65.0,27.0,62.0,67.0
 /zapas/2526422,1.0,1.0,New York Islanders,Vancouver Canucks,37.0,76.0,63.0,33.0,57.0,54.0
 /zapas/2526443,0.0,1.0,New York Islanders,Ottawa Senators,40.0,79.0,62.0,24.0,60.0,67.0
 /zapas/2526467,1.0,0.0,New York Islanders,Florida Panthers,37.0,81.0,67.0,25.0,55.0,64.0
+/zapas/2526474,0.0,0.0,New York Islanders,Tampa Bay Lightning,39.0,84.0,68.0,39.0,72.0,49.0
+/zapas/2526485,0.0,0.0,New York Islanders,Pittsburgh Penguins,37.0,82.0,71.0,28.0,56.0,56.0
+/zapas/2526499,0.0,0.0,New York Islanders,Boston Bruins,35.0,80.0,72.0,33.0,55.0,53.0
+/zapas/2526514,1.0,1.0,New York Islanders,Washington Capitals,32.0,76.0,72.0,40.0,64.0,51.0
 /zapas/2526530,0.0,1.0,New York Islanders,Dallas Stars,35.0,75.0,67.0,30.0,59.0,58.0
+/zapas/2526535,0.0,0.0,New York Islanders,Columbus Blue Jackets,32.0,71.0,70.0,32.0,55.0,53.0
+/zapas/2526554,1.0,1.0,New York Islanders,Los Angeles Kings,29.0,69.0,73.0,28.0,55.0,50.0
 /zapas/2526572,0.0,1.0,New York Islanders,Detroit Red Wings,31.0,70.0,72.0,27.0,54.0,68.0
+/zapas/2526585,0.0,1.0,New York Islanders,Anaheim Ducks,28.0,67.0,74.0,28.0,49.0,57.0
+/zapas/2526598,1.0,1.0,New York Islanders,Winnipeg Jets,28.0,70.0,77.0,35.0,67.0,54.0
 /zapas/2526614,1.0,1.0,New York Islanders,Buffalo Sabres,31.0,75.0,74.0,17.0,39.0,62.0
+/zapas/2526636,0.0,0.0,New York Islanders,Winnipeg Jets,30.0,73.0,74.0,33.0,66.0,59.0
+/zapas/2526652,0.0,0.0,New York Islanders,Colorado Avalanche,27.0,69.0,74.0,26.0,57.0,62.0
+/zapas/2526657,0.0,1.0,New York Islanders,Boston Bruins,24.0,65.0,77.0,44.0,68.0,39.0
+/zapas/2526670,0.0,0.0,New York Islanders,Philadelphia Flyers,24.0,64.0,78.0,28.0,55.0,63.0
+/zapas/2526682,0.0,1.0,New York Islanders,Pittsburgh Penguins,22.0,64.0,81.0,23.0,57.0,58.0
+/zapas/2526696,1.0,1.0,New York Islanders,New Jersey Devils,20.0,59.0,81.0,32.0,59.0,57.0
 /zapas/2526724,1.0,0.0,New York Islanders,New York Rangers,19.0,62.0,84.0,30.0,56.0,49.0
 /zapas/2526740,1.0,0.0,New York Islanders,Montreal Canadiens,19.0,64.0,84.0,30.0,57.0,53.0
+/zapas/2526741,0.0,1.0,New York Islanders,New Jersey Devils,21.0,64.0,82.0,29.0,61.0,62.0
+/zapas/2526749,0.0,1.0,New York Islanders,Boston Bruins,19.0,60.0,82.0,43.0,78.0,41.0
 /zapas/2526772,1.0,0.0,New York Islanders,Chicago Blackhawks,19.0,60.0,81.0,29.0,57.0,56.0
 /zapas/2526784,0.0,0.0,New York Islanders,Arizona Coyotes,21.0,64.0,80.0,18.0,48.0,67.0
+/zapas/2526811,1.0,0.0,New York Islanders,Vegas Golden Knights,22.0,65.0,80.0,46.0,69.0,41.0
 /zapas/2526817,0.0,1.0,New York Islanders,Florida Panthers,22.0,64.0,80.0,27.0,53.0,65.0
+/zapas/2526827,0.0,0.0,New York Islanders,Toronto Maple Leafs,22.0,63.0,79.0,25.0,56.0,58.0
+/zapas/2526853,1.0,1.0,New York Islanders,Columbus Blue Jackets,22.0,59.0,78.0,23.0,46.0,63.0
+/zapas/2526863,0.0,1.0,New York Islanders,Nashville Predators,23.0,59.0,78.0,38.0,54.0,42.0
 /zapas/2526880,0.0,0.0,New York Islanders,Buffalo Sabres,24.0,60.0,77.0,19.0,48.0,64.0
 /zapas/2526889,1.0,1.0,New York Islanders,Detroit Red Wings,23.0,59.0,76.0,25.0,50.0,51.0
 /zapas/2526912,0.0,1.0,New York Islanders,Calgary Flames,22.0,61.0,80.0,32.0,57.0,54.0
+/zapas/2526920,0.0,1.0,New York Islanders,Columbus Blue Jackets,20.0,60.0,81.0,20.0,46.0,60.0
 /zapas/2526934,1.0,1.0,New York Islanders,New York Rangers,20.0,59.0,81.0,20.0,48.0,71.0
 /zapas/2526945,1.0,0.0,New York Islanders,Carolina Hurricanes,23.0,61.0,75.0,29.0,54.0,60.0
+/zapas/2526966,0.0,1.0,New York Islanders,Minnesota Wild,26.0,63.0,70.0,36.0,62.0,56.0
+/zapas/2526984,0.0,0.0,New York Islanders,Toronto Maple Leafs,26.0,62.0,69.0,39.0,67.0,50.0
+/zapas/2527007,0.0,0.0,New York Islanders,New Jersey Devils,27.0,65.0,69.0,24.0,53.0,62.0
 /zapas/2527032,0.0,0.0,New York Islanders,Montreal Canadiens,25.0,61.0,67.0,21.0,49.0,65.0
 /zapas/2527045,0.0,1.0,New York Islanders,Montreal Canadiens,22.0,55.0,68.0,23.0,49.0,62.0
+/zapas/2527058,0.0,0.0,New York Islanders,Pittsburgh Penguins,20.0,53.0,70.0,40.0,82.0,59.0
 /zapas/2527073,0.0,0.0,New York Islanders,Vancouver Canucks,21.0,54.0,69.0,20.0,57.0,67.0
 /zapas/2527095,0.0,0.0,New York Islanders,Edmonton Oilers,22.0,55.0,68.0,21.0,61.0,72.0
 /zapas/2527114,1.0,0.0,New York Islanders,Calgary Flames,20.0,49.0,67.0,28.0,58.0,66.0
+/zapas/2527138,0.0,1.0,New York Islanders,Washington Capitals,22.0,52.0,66.0,31.0,59.0,64.0
+/zapas/2527146,0.0,0.0,New York Islanders,Washington Capitals,19.0,53.0,72.0,31.0,61.0,64.0
 /zapas/2527165,0.0,1.0,New York Islanders,Carolina Hurricanes,19.0,55.0,74.0,21.0,49.0,67.0
+/zapas/2527175,1.0,1.0,New York Islanders,Pittsburgh Penguins,19.0,58.0,73.0,39.0,81.0,63.0
+/zapas/2527190,0.0,1.0,New York Islanders,Tampa Bay Lightning,19.0,58.0,71.0,37.0,75.0,65.0
 /zapas/2527212,0.0,1.0,New York Islanders,Chicago Blackhawks,18.0,60.0,73.0,17.0,54.0,78.0
 /zapas/2527223,0.0,1.0,New York Islanders,Florida Panthers,18.0,58.0,72.0,41.0,69.0,52.0
 /zapas/2527232,1.0,0.0,New York Islanders,Ottawa Senators,16.0,51.0,69.0,20.0,57.0,72.0
+/zapas/2527254,0.0,1.0,New York Islanders,Toronto Maple Leafs,19.0,53.0,69.0,39.0,73.0,60.0
+/zapas/2527264,0.0,0.0,New York Islanders,New Jersey Devils,19.0,56.0,70.0,31.0,59.0,56.0
+/zapas/2527284,1.0,1.0,New York Islanders,Philadelphia Flyers,16.0,56.0,74.0,31.0,60.0,63.0
 /zapas/2527296,1.0,1.0,New York Islanders,New York Rangers,16.0,58.0,78.0,23.0,57.0,70.0
 /zapas/2527315,1.0,0.0,New York Islanders,Detroit Red Wings,19.0,57.0,74.0,15.0,52.0,70.0
-/zapas/2749194,0.0,1.0,New York Islanders,Carolina Hurricanes,30.0,65.0,65.0,29.0,65.0,64.0
-/zapas/2749195,0.0,1.0,New York Islanders,Carolina Hurricanes,30.0,62.0,62.0,31.0,62.0,58.0
-/zapas/2749196,0.0,0.0,New York Islanders,Carolina Hurricanes,29.0,62.0,62.0,34.0,62.0,55.0
-/zapas/2749207,0.0,0.0,New York Islanders,Carolina Hurricanes,26.0,59.0,65.0,34.0,63.0,54.0
-/zapas/2890994,1.0,1.0,New York Islanders,Florida Panthers,26.0,58.0,63.0,28.0,70.0,69.0
-/zapas/2890995,1.0,1.0,New York Islanders,Florida Panthers,29.0,57.0,58.0,27.0,66.0,65.0
-/zapas/2890996,0.0,0.0,New York Islanders,Florida Panthers,32.0,58.0,56.0,26.0,65.0,65.0
-/zapas/2890997,1.0,0.0,New York Islanders,Florida Panthers,29.0,56.0,58.0,29.0,66.0,64.0
-/zapas/2891075,1.0,0.0,New York Islanders,Washington Capitals,32.0,55.0,52.0,35.0,65.0,51.0
-/zapas/2891076,1.0,0.0,New York Islanders,Washington Capitals,35.0,58.0,51.0,33.0,65.0,54.0
-/zapas/2891077,1.0,1.0,New York Islanders,Washington Capitals,38.0,63.0,50.0,30.0,63.0,57.0
-/zapas/2891078,0.0,1.0,New York Islanders,Washington Capitals,37.0,61.0,48.0,28.0,58.0,57.0
-/zapas/2891079,1.0,0.0,New York Islanders,Washington Capitals,37.0,59.0,46.0,31.0,59.0,55.0
-/zapas/2891139,1.0,0.0,New York Islanders,Philadelphia Flyers,40.0,60.0,42.0,22.0,46.0,68.0
-/zapas/2891140,0.0,0.0,New York Islanders,Philadelphia Flyers,40.0,59.0,38.0,19.0,43.0,70.0
-/zapas/2891141,1.0,1.0,New York Islanders,Philadelphia Flyers,38.0,60.0,41.0,21.0,45.0,68.0
-/zapas/2891142,1.0,1.0,New York Islanders,Philadelphia Flyers,39.0,59.0,39.0,21.0,40.0,64.0
-/zapas/2891143,0.0,0.0,New York Islanders,Philadelphia Flyers,40.0,58.0,38.0,19.0,40.0,66.0
-/zapas/2891144,0.0,1.0,New York Islanders,Philadelphia Flyers,38.0,58.0,41.0,21.0,43.0,66.0
-/zapas/2891145,1.0,0.0,New York Islanders,Philadelphia Flyers,36.0,58.0,45.0,20.0,45.0,69.0
-/zapas/2892203,0.0,0.0,New York Islanders,Tampa Bay Lightning,36.0,59.0,44.0,29.0,54.0,60.0
-/zapas/2892210,0.0,0.0,New York Islanders,Tampa Bay Lightning,35.0,61.0,51.0,32.0,60.0,56.0
-/zapas/2892211,1.0,1.0,New York Islanders,Tampa Bay Lightning,35.0,61.0,51.0,32.0,58.0,55.0
-/zapas/2892212,0.0,1.0,New York Islanders,Tampa Bay Lightning,38.0,64.0,49.0,29.0,57.0,58.0
-/zapas/2892213,1.0,0.0,New York Islanders,Tampa Bay Lightning,38.0,63.0,48.0,29.0,58.0,57.0
-/zapas/2892214,0.0,1.0,New York Islanders,Tampa Bay Lightning,37.0,63.0,48.0,30.0,59.0,56.0
-/zapas/2894343,1.0,0.0,New York Islanders,Pittsburgh Penguins,35.0,60.0,48.0,24.0,56.0,58.0
-/zapas/2894344,0.0,0.0,New York Islanders,Pittsburgh Penguins,37.0,62.0,48.0,22.0,52.0,62.0
-/zapas/2894345,0.0,1.0,New York Islanders,Pittsburgh Penguins,34.0,58.0,49.0,25.0,53.0,58.0
-/zapas/2894346,1.0,1.0,New York Islanders,Pittsburgh Penguins,31.0,58.0,52.0,25.0,53.0,61.0
-/zapas/2894347,1.0,0.0,New York Islanders,Pittsburgh Penguins,31.0,57.0,51.0,22.0,49.0,65.0
-/zapas/2894348,1.0,1.0,New York Islanders,Pittsburgh Penguins,31.0,58.0,52.0,23.0,49.0,64.0
-/zapas/2894894,0.0,0.0,New York Islanders,Boston Bruins,34.0,61.0,52.0,33.0,57.0,53.0
-/zapas/2894895,1.0,0.0,New York Islanders,Boston Bruins,31.0,59.0,57.0,33.0,55.0,53.0
-/zapas/2894898,0.0,1.0,New York Islanders,Boston Bruins,30.0,59.0,60.0,34.0,56.0,53.0
-/zapas/2894899,1.0,1.0,New York Islanders,Boston Bruins,30.0,57.0,58.0,36.0,57.0,52.0
-/zapas/2894900,1.0,0.0,New York Islanders,Boston Bruins,30.0,58.0,58.0,33.0,53.0,55.0
-/zapas/2894901,1.0,1.0,New York Islanders,Boston Bruins,30.0,60.0,60.0,33.0,56.0,56.0
-/zapas/2896400,1.0,0.0,New York Islanders,Tampa Bay Lightning,32.0,63.0,58.0,44.0,63.0,45.0
-/zapas/2896401,0.0,0.0,New York Islanders,Tampa Bay Lightning,34.0,61.0,54.0,41.0,60.0,46.0
-/zapas/2896402,0.0,1.0,New York Islanders,Tampa Bay Lightning,31.0,59.0,58.0,43.0,63.0,46.0
-/zapas/2896403,1.0,1.0,New York Islanders,Tampa Bay Lightning,31.0,58.0,52.0,44.0,63.0,46.0
-/zapas/2896404,0.0,0.0,New York Islanders,Tampa Bay Lightning,34.0,60.0,52.0,44.0,64.0,45.0
-/zapas/2896405,1.0,1.0,New York Islanders,Tampa Bay Lightning,31.0,55.0,57.0,44.0,69.0,43.0
-/zapas/2896406,0.0,0.0,New York Islanders,Tampa Bay Lightning,33.0,57.0,55.0,42.0,66.0,44.0
-/zapas/2897021,1.0,0.0,New York Islanders,Chicago Blackhawks,28.0,54.0,61.0,21.0,59.0,77.0
-/zapas/2897042,0.0,0.0,New York Islanders,Columbus Blue Jackets,31.0,57.0,60.0,19.0,50.0,68.0
-/zapas/2897047,1.0,0.0,New York Islanders,Arizona Coyotes,32.0,55.0,58.0,16.0,51.0,76.0
-/zapas/2897060,1.0,0.0,New York Islanders,Vegas Golden Knights,32.0,54.0,57.0,28.0,55.0,59.0
-/zapas/2897134,1.0,0.0,New York Islanders,Montreal Canadiens,31.0,50.0,55.0,19.0,41.0,58.0
-/zapas/2897146,1.0,0.0,New York Islanders,Winnipeg Jets,34.0,54.0,52.0,29.0,59.0,62.0
-/zapas/2897185,0.0,0.0,New York Islanders,New Jersey Devils,34.0,53.0,52.0,32.0,60.0,61.0
-/zapas/2897340,0.0,1.0,New York Islanders,San Jose Sharks,19.0,35.0,63.0,29.0,51.0,57.0
-/zapas/2897353,0.0,0.0,New York Islanders,Detroit Red Wings,20.0,36.0,57.0,27.0,54.0,63.0
-/zapas/2897361,0.0,1.0,New York Islanders,Chicago Blackhawks,19.0,36.0,59.0,21.0,44.0,60.0
+/zapas/2647206,1.0,0.0,New York Islanders,Carolina Hurricanes,20.0,58.0,73.0,27.0,64.0,67.0
+/zapas/2647220,0.0,1.0,New York Islanders,Nashville Predators,22.0,59.0,72.0,41.0,64.0,51.0
+/zapas/2647231,1.0,1.0,New York Islanders,San Jose Sharks,22.0,61.0,73.0,33.0,70.0,58.0
+/zapas/2647264,0.0,0.0,New York Islanders,Nashville Predators,25.0,62.0,67.0,40.0,61.0,51.0
+/zapas/2647287,0.0,0.0,New York Islanders,Anaheim Ducks,24.0,62.0,69.0,40.0,60.0,43.0
+/zapas/2647295,1.0,0.0,New York Islanders,Los Angeles Kings,23.0,60.0,69.0,32.0,54.0,46.0
+/zapas/2647312,0.0,0.0,New York Islanders,San Jose Sharks,25.0,66.0,69.0,31.0,71.0,60.0
+/zapas/2647329,0.0,1.0,New York Islanders,Florida Panthers,22.0,62.0,71.0,33.0,61.0,60.0
+/zapas/2647347,1.0,0.0,New York Islanders,Philadelphia Flyers,23.0,61.0,67.0,31.0,70.0,71.0
+/zapas/2647359,1.0,0.0,New York Islanders,Carolina Hurricanes,26.0,64.0,62.0,31.0,67.0,60.0
+/zapas/2647366,1.0,0.0,New York Islanders,Pittsburgh Penguins,29.0,63.0,59.0,37.0,80.0,61.0
+/zapas/2647379,1.0,1.0,New York Islanders,Pittsburgh Penguins,29.0,65.0,61.0,34.0,78.0,64.0
+/zapas/2647396,1.0,1.0,New York Islanders,New Jersey Devils,31.0,62.0,56.0,37.0,65.0,61.0
+/zapas/2647409,0.0,1.0,New York Islanders,Montreal Canadiens,34.0,64.0,53.0,29.0,62.0,64.0
+/zapas/2647430,0.0,0.0,New York Islanders,Tampa Bay Lightning,35.0,67.0,54.0,42.0,76.0,55.0
+/zapas/2647446,0.0,0.0,New York Islanders,Florida Panthers,32.0,65.0,55.0,29.0,60.0,64.0
+/zapas/2647464,1.0,1.0,New York Islanders,Vancouver Canucks,32.0,63.0,54.0,29.0,63.0,67.0
+/zapas/2647475,1.0,1.0,New York Islanders,New York Rangers,35.0,65.0,52.0,24.0,53.0,62.0
+/zapas/2647501,0.0,1.0,New York Islanders,Dallas Stars,35.0,67.0,53.0,33.0,56.0,52.0
+/zapas/2647518,0.0,0.0,New York Islanders,New York Rangers,32.0,67.0,58.0,30.0,61.0,62.0
+/zapas/2647534,1.0,0.0,New York Islanders,New Jersey Devils,30.0,63.0,60.0,29.0,60.0,63.0
+/zapas/2647551,1.0,1.0,New York Islanders,Carolina Hurricanes,30.0,65.0,62.0,29.0,58.0,59.0
+/zapas/2647562,0.0,1.0,New York Islanders,Washington Capitals,33.0,66.0,59.0,31.0,62.0,64.0
+/zapas/2647580,0.0,0.0,New York Islanders,Boston Bruins,30.0,63.0,63.0,32.0,53.0,48.0
+/zapas/2647600,1.0,1.0,New York Islanders,Columbus Blue Jackets,31.0,62.0,60.0,37.0,72.0,61.0
+/zapas/2647616,0.0,1.0,New York Islanders,Winnipeg Jets,34.0,64.0,58.0,37.0,76.0,61.0
+/zapas/2647630,0.0,0.0,New York Islanders,Pittsburgh Penguins,31.0,58.0,59.0,26.0,69.0,67.0
+/zapas/2647646,1.0,0.0,New York Islanders,Detroit Red Wings,31.0,59.0,61.0,32.0,66.0,58.0
+/zapas/2647659,0.0,1.0,New York Islanders,Pittsburgh Penguins,33.0,60.0,60.0,25.0,61.0,65.0
+/zapas/2647673,0.0,1.0,New York Islanders,Vegas Golden Knights,31.0,55.0,61.0,35.0,69.0,57.0
+/zapas/2647696,1.0,1.0,New York Islanders,Detroit Red Wings,28.0,55.0,63.0,26.0,61.0,62.0
+/zapas/2647714,1.0,0.0,New York Islanders,Colorado Avalanche,27.0,53.0,63.0,36.0,75.0,69.0
+/zapas/2647723,1.0,0.0,New York Islanders,Arizona Coyotes,28.0,54.0,62.0,22.0,46.0,65.0
+/zapas/2647738,0.0,0.0,New York Islanders,Vegas Golden Knights,28.0,54.0,63.0,35.0,68.0,57.0
+/zapas/2647764,1.0,0.0,New York Islanders,Dallas Stars,27.0,53.0,63.0,26.0,52.0,56.0
+/zapas/2647779,1.0,1.0,New York Islanders,Ottawa Senators,30.0,54.0,60.0,23.0,57.0,73.0
+/zapas/2647786,1.0,0.0,New York Islanders,Toronto Maple Leafs,33.0,58.0,59.0,41.0,81.0,58.0
+/zapas/2647800,1.0,0.0,New York Islanders,Buffalo Sabres,33.0,57.0,57.0,29.0,57.0,58.0
+/zapas/2647822,1.0,1.0,New York Islanders,Chicago Blackhawks,33.0,53.0,53.0,20.0,63.0,79.0
+/zapas/2647840,1.0,0.0,New York Islanders,St. Louis Blues,35.0,54.0,49.0,26.0,51.0,68.0
+/zapas/2647857,0.0,1.0,New York Islanders,Carolina Hurricanes,38.0,58.0,47.0,29.0,50.0,57.0
+/zapas/2647871,1.0,0.0,New York Islanders,New York Rangers,36.0,57.0,48.0,19.0,48.0,80.0
+/zapas/2647886,0.0,1.0,New York Islanders,New York Rangers,36.0,57.0,50.0,19.0,51.0,80.0
+/zapas/2647901,1.0,1.0,New York Islanders,Tampa Bay Lightning,36.0,57.0,48.0,50.0,95.0,57.0
+/zapas/2647909,1.0,1.0,New York Islanders,St. Louis Blues,38.0,61.0,47.0,33.0,52.0,56.0
+/zapas/2647925,1.0,1.0,New York Islanders,New Jersey Devils,37.0,60.0,46.0,27.0,62.0,66.0
+/zapas/2647933,1.0,0.0,New York Islanders,Washington Capitals,40.0,63.0,44.0,36.0,62.0,56.0
+/zapas/2647950,1.0,1.0,New York Islanders,Anaheim Ducks,43.0,63.0,38.0,23.0,49.0,62.0
+/zapas/2647960,0.0,0.0,New York Islanders,Chicago Blackhawks,43.0,63.0,36.0,27.0,71.0,76.0
+/zapas/2647981,0.0,1.0,New York Islanders,Tampa Bay Lightning,43.0,64.0,37.0,43.0,84.0,57.0
+/zapas/2647993,1.0,1.0,New York Islanders,Los Angeles Kings,44.0,62.0,35.0,27.0,47.0,59.0
+/zapas/2648007,0.0,0.0,New York Islanders,Boston Bruins,45.0,62.0,34.0,35.0,61.0,51.0
+/zapas/2648023,1.0,0.0,New York Islanders,New Jersey Devils,42.0,59.0,36.0,25.0,57.0,60.0
+/zapas/2648039,1.0,1.0,New York Islanders,Colorado Avalanche,41.0,58.0,36.0,15.0,55.0,75.0
+/zapas/2648055,1.0,1.0,New York Islanders,Minnesota Wild,43.0,60.0,35.0,31.0,52.0,61.0
+/zapas/2648062,0.0,0.0,New York Islanders,Buffalo Sabres,43.0,59.0,35.0,21.0,55.0,67.0
+/zapas/2648076,1.0,0.0,New York Islanders,Columbus Blue Jackets,40.0,54.0,35.0,32.0,66.0,58.0
+/zapas/2648096,1.0,1.0,New York Islanders,Edmonton Oilers,40.0,53.0,35.0,18.0,57.0,75.0
+/zapas/2648125,0.0,0.0,New York Islanders,Calgary Flames,40.0,55.0,36.0,40.0,84.0,69.0
+/zapas/2648136,0.0,0.0,New York Islanders,Edmonton Oilers,38.0,54.0,38.0,19.0,54.0,72.0
+/zapas/2648152,1.0,0.0,New York Islanders,Vancouver Canucks,36.0,53.0,39.0,22.0,48.0,62.0
+/zapas/2648167,0.0,1.0,New York Islanders,Calgary Flames,39.0,54.0,35.0,43.0,75.0,59.0
+/zapas/2648183,1.0,1.0,New York Islanders,Toronto Maple Leafs,36.0,51.0,35.0,34.0,71.0,59.0
+/zapas/2648191,0.0,1.0,New York Islanders,Washington Capitals,39.0,56.0,34.0,27.0,66.0,77.0
+/zapas/2648208,0.0,1.0,New York Islanders,Philadelphia Flyers,36.0,52.0,36.0,43.0,74.0,58.0
+/zapas/2648219,1.0,1.0,New York Islanders,Ottawa Senators,34.0,51.0,39.0,17.0,52.0,68.0
+/zapas/2648233,1.0,0.0,New York Islanders,Ottawa Senators,33.0,52.0,42.0,15.0,51.0,71.0
+/zapas/2648251,0.0,1.0,New York Islanders,Philadelphia Flyers,33.0,54.0,44.0,40.0,70.0,57.0
+/zapas/2648264,1.0,1.0,New York Islanders,Columbus Blue Jackets,30.0,53.0,49.0,28.0,55.0,56.0
+/zapas/2648282,1.0,1.0,New York Islanders,Montreal Canadiens,32.0,53.0,46.0,31.0,59.0,60.0
+/zapas/2648298,0.0,0.0,New York Islanders,Detroit Red Wings,34.0,55.0,46.0,16.0,48.0,74.0
+/zapas/2648311,1.0,0.0,New York Islanders,Minnesota Wild,31.0,52.0,46.0,27.0,51.0,62.0
+/zapas/2648321,0.0,1.0,New York Islanders,Boston Bruins,33.0,54.0,45.0,41.0,67.0,50.0
+/zapas/2648337,0.0,0.0,New York Islanders,Montreal Canadiens,31.0,52.0,49.0,28.0,55.0,58.0
+/zapas/2648349,1.0,0.0,New York Islanders,Philadelphia Flyers,29.0,48.0,50.0,34.0,71.0,65.0
+/zapas/2648363,1.0,1.0,New York Islanders,Arizona Coyotes,29.0,50.0,51.0,35.0,54.0,49.0
+/zapas/2648377,0.0,0.0,New York Islanders,Columbus Blue Jackets,32.0,51.0,48.0,26.0,48.0,51.0
+/zapas/2648391,1.0,0.0,New York Islanders,Winnipeg Jets,29.0,48.0,52.0,31.0,62.0,63.0
+/zapas/2648407,1.0,1.0,New York Islanders,Buffalo Sabres,29.0,48.0,54.0,10.0,44.0,79.0
+/zapas/2648421,0.0,1.0,New York Islanders,Toronto Maple Leafs,32.0,51.0,51.0,31.0,71.0,73.0
+/zapas/2648442,1.0,0.0,New York Islanders,Florida Panthers,31.0,49.0,49.0,30.0,73.0,70.0
+/zapas/2648463,1.0,0.0,New York Islanders,Washington Capitals,30.0,47.0,50.0,41.0,73.0,53.0
+/zapas/2806390,0.0,1.0,New York Islanders,Washington Capitals,33.0,49.0,47.0,41.0,68.0,48.0
+/zapas/2806409,1.0,1.0,New York Islanders,Winnipeg Jets,30.0,44.0,48.0,29.0,64.0,63.0
+/zapas/2806413,0.0,1.0,New York Islanders,Edmonton Oilers,33.0,47.0,46.0,30.0,62.0,68.0
+/zapas/2806436,0.0,0.0,New York Islanders,Carolina Hurricanes,33.0,48.0,47.0,37.0,63.0,54.0
+/zapas/2806444,1.0,1.0,New York Islanders,Florida Panthers,31.0,45.0,48.0,29.0,69.0,70.0
+/zapas/2806457,1.0,1.0,New York Islanders,St. Louis Blues,30.0,44.0,48.0,37.0,68.0,56.0
+/zapas/2806478,1.0,0.0,New York Islanders,Winnipeg Jets,32.0,45.0,45.0,28.0,57.0,64.0
+/zapas/2806496,1.0,0.0,New York Islanders,Columbus Blue Jackets,32.0,46.0,46.0,36.0,65.0,51.0
+/zapas/2806522,1.0,1.0,New York Islanders,Arizona Coyotes,31.0,47.0,47.0,30.0,50.0,42.0
+/zapas/2806534,1.0,0.0,New York Islanders,Ottawa Senators,34.0,50.0,47.0,21.0,57.0,72.0
+/zapas/2806550,1.0,1.0,New York Islanders,Philadelphia Flyers,35.0,51.0,47.0,23.0,56.0,67.0
+/zapas/2806573,1.0,1.0,New York Islanders,Tampa Bay Lightning,38.0,56.0,45.0,33.0,75.0,69.0
+/zapas/2806584,1.0,0.0,New York Islanders,Buffalo Sabres,41.0,61.0,43.0,33.0,64.0,59.0
+/zapas/2806601,1.0,1.0,New York Islanders,Ottawa Senators,41.0,58.0,41.0,22.0,57.0,68.0
+/zapas/2806615,0.0,1.0,New York Islanders,Pittsburgh Penguins,41.0,60.0,42.0,31.0,63.0,52.0
+/zapas/2806628,1.0,1.0,New York Islanders,Florida Panthers,42.0,63.0,42.0,34.0,73.0,68.0
+/zapas/2806658,1.0,1.0,New York Islanders,Toronto Maple Leafs,42.0,60.0,39.0,29.0,69.0,68.0
+/zapas/2806683,1.0,0.0,New York Islanders,Philadelphia Flyers,42.0,60.0,42.0,29.0,61.0,60.0
+/zapas/2806697,1.0,0.0,New York Islanders,Pittsburgh Penguins,44.0,63.0,43.0,32.0,67.0,50.0
+/zapas/2806711,1.0,1.0,New York Islanders,Pittsburgh Penguins,44.0,66.0,46.0,33.0,70.0,52.0
+/zapas/2806737,0.0,0.0,New York Islanders,San Jose Sharks,43.0,67.0,49.0,31.0,64.0,67.0
+/zapas/2806748,0.0,0.0,New York Islanders,Anaheim Ducks,44.0,67.0,49.0,23.0,56.0,70.0
+/zapas/2806764,0.0,0.0,New York Islanders,Los Angeles Kings,41.0,63.0,51.0,21.0,45.0,62.0
+/zapas/2806786,1.0,1.0,New York Islanders,Columbus Blue Jackets,41.0,62.0,50.0,28.0,55.0,60.0
+/zapas/2806797,1.0,0.0,New York Islanders,Detroit Red Wings,44.0,62.0,45.0,14.0,41.0,82.0
+/zapas/2806801,0.0,0.0,New York Islanders,Montreal Canadiens,45.0,63.0,44.0,26.0,63.0,72.0
+/zapas/2806817,1.0,1.0,New York Islanders,Vegas Golden Knights,43.0,62.0,46.0,28.0,57.0,58.0
+/zapas/2806837,0.0,0.0,New York Islanders,Dallas Stars,42.0,62.0,47.0,41.0,58.0,44.0
+/zapas/2806844,1.0,0.0,New York Islanders,Tampa Bay Lightning,40.0,60.0,48.0,30.0,75.0,66.0
+/zapas/2806865,1.0,0.0,New York Islanders,Florida Panthers,40.0,61.0,47.0,30.0,71.0,62.0
+/zapas/2806878,1.0,1.0,New York Islanders,Buffalo Sabres,40.0,60.0,46.0,24.0,61.0,67.0
+/zapas/2806903,0.0,1.0,New York Islanders,Nashville Predators,39.0,58.0,45.0,24.0,59.0,69.0
+/zapas/2806914,1.0,0.0,New York Islanders,Boston Bruins,36.0,56.0,51.0,33.0,62.0,54.0
+/zapas/2806929,0.0,1.0,New York Islanders,Anaheim Ducks,35.0,58.0,53.0,17.0,48.0,68.0
+/zapas/2806949,0.0,1.0,New York Islanders,Columbus Blue Jackets,33.0,59.0,58.0,31.0,57.0,50.0
+/zapas/2806965,0.0,0.0,New York Islanders,Chicago Blackhawks,32.0,58.0,57.0,24.0,55.0,69.0
+/zapas/2806981,1.0,0.0,New York Islanders,Minnesota Wild,29.0,58.0,61.0,39.0,74.0,65.0
+/zapas/2806990,1.0,0.0,New York Islanders,Washington Capitals,29.0,56.0,58.0,37.0,64.0,58.0
+/zapas/2807006,0.0,1.0,New York Islanders,New Jersey Devils,30.0,56.0,58.0,21.0,52.0,69.0
+/zapas/2807022,0.0,0.0,New York Islanders,Toronto Maple Leafs,28.0,52.0,56.0,41.0,81.0,58.0
+/zapas/2807037,1.0,1.0,New York Islanders,Colorado Avalanche,26.0,48.0,56.0,38.0,78.0,60.0
+/zapas/2807041,1.0,0.0,New York Islanders,New Jersey Devils,28.0,48.0,54.0,24.0,54.0,66.0
+/zapas/2807070,0.0,1.0,New York Islanders,Boston Bruins,30.0,52.0,54.0,32.0,58.0,55.0
+/zapas/2807086,0.0,0.0,New York Islanders,New York Rangers,31.0,53.0,53.0,27.0,67.0,66.0
+/zapas/2807093,1.0,1.0,New York Islanders,Detroit Red Wings,28.0,53.0,59.0,14.0,41.0,77.0
+/zapas/2807106,0.0,1.0,New York Islanders,New York Rangers,28.0,57.0,60.0,27.0,69.0,68.0
+/zapas/2807119,0.0,1.0,New York Islanders,Washington Capitals,28.0,57.0,59.0,37.0,67.0,57.0
+/zapas/2807132,0.0,0.0,New York Islanders,Carolina Hurricanes,26.0,58.0,63.0,33.0,65.0,52.0
+/zapas/2807138,1.0,0.0,New York Islanders,New York Rangers,27.0,58.0,62.0,27.0,69.0,66.0
+/zapas/2807169,0.0,1.0,New York Islanders,Vancouver Canucks,27.0,57.0,63.0,40.0,66.0,57.0
+/zapas/2807192,1.0,1.0,New York Islanders,Dallas Stars,25.0,57.0,66.0,32.0,55.0,56.0
+/zapas/2807207,1.0,1.0,New York Islanders,Los Angeles Kings,25.0,58.0,67.0,17.0,47.0,62.0
+/zapas/2807223,0.0,0.0,New York Islanders,Tampa Bay Lightning,28.0,60.0,62.0,51.0,78.0,39.0
+/zapas/2807238,1.0,0.0,New York Islanders,Washington Capitals,26.0,58.0,63.0,34.0,74.0,67.0
+/zapas/2807245,1.0,1.0,New York Islanders,Philadelphia Flyers,28.0,58.0,60.0,32.0,65.0,60.0
+/zapas/2807262,0.0,0.0,New York Islanders,Nashville Predators,31.0,61.0,60.0,26.0,55.0,69.0
+/zapas/2807281,0.0,0.0,New York Islanders,Vegas Golden Knights,31.0,59.0,60.0,27.0,69.0,72.0
+/zapas/2807293,0.0,0.0,New York Islanders,Arizona Coyotes,28.0,56.0,60.0,28.0,55.0,59.0
+/zapas/2807307,0.0,0.0,New York Islanders,Colorado Avalanche,25.0,53.0,59.0,34.0,68.0,55.0
+/zapas/2807317,1.0,1.0,New York Islanders,Detroit Red Wings,25.0,53.0,60.0,14.0,37.0,71.0
+/zapas/2807338,1.0,1.0,New York Islanders,San Jose Sharks,28.0,57.0,58.0,27.0,49.0,60.0
+/zapas/2807347,0.0,1.0,New York Islanders,New York Rangers,28.0,60.0,59.0,41.0,70.0,50.0
+/zapas/2807366,0.0,0.0,New York Islanders,St. Louis Blues,27.0,59.0,60.0,32.0,68.0,58.0
+/zapas/2807375,0.0,1.0,New York Islanders,Boston Bruins,27.0,59.0,60.0,40.0,63.0,50.0
+/zapas/2807396,0.0,1.0,New York Islanders,Montreal Canadiens,27.0,57.0,58.0,26.0,58.0,59.0
+/zapas/2807414,0.0,0.0,New York Islanders,Ottawa Senators,24.0,51.0,62.0,23.0,56.0,70.0
+/zapas/2807425,0.0,1.0,New York Islanders,Carolina Hurricanes,24.0,52.0,63.0,24.0,58.0,64.0
+/zapas/2807453,0.0,0.0,New York Islanders,Vancouver Canucks,25.0,50.0,60.0,27.0,65.0,65.0
+/zapas/2893220,1.0,0.0,New York Islanders,New York Rangers,25.0,53.0,63.0,34.0,71.0,61.0
+/zapas/2893236,0.0,0.0,New York Islanders,New York Rangers,25.0,53.0,61.0,34.0,68.0,60.0
+/zapas/2893248,1.0,1.0,New York Islanders,Boston Bruins,24.0,50.0,62.0,42.0,60.0,42.0
+/zapas/2893269,1.0,1.0,New York Islanders,New Jersey Devils,25.0,47.0,59.0,37.0,56.0,47.0
+/zapas/2893296,0.0,0.0,New York Islanders,New Jersey Devils,25.0,46.0,57.0,34.0,52.0,51.0
+/zapas/2893311,0.0,0.0,New York Islanders,Washington Capitals,25.0,45.0,56.0,28.0,63.0,69.0
+/zapas/2893325,0.0,0.0,New York Islanders,Washington Capitals,22.0,42.0,56.0,31.0,63.0,66.0
+/zapas/2893337,0.0,0.0,New York Islanders,Philadelphia Flyers,19.0,40.0,59.0,45.0,76.0,52.0
+/zapas/2893348,0.0,0.0,New York Islanders,Philadelphia Flyers,20.0,42.0,57.0,44.0,73.0,52.0
+/zapas/2893392,1.0,1.0,New York Islanders,Pittsburgh Penguins,21.0,45.0,60.0,21.0,58.0,75.0
+/zapas/2893405,1.0,0.0,New York Islanders,New York Rangers,24.0,48.0,61.0,27.0,63.0,64.0
+/zapas/2893429,0.0,1.0,New York Islanders,Pittsburgh Penguins,27.0,49.0,58.0,21.0,59.0,74.0
+/zapas/2893443,1.0,1.0,New York Islanders,Boston Bruins,25.0,48.0,61.0,41.0,59.0,41.0
+/zapas/2893456,1.0,0.0,New York Islanders,Buffalo Sabres,25.0,48.0,62.0,20.0,54.0,66.0
+/zapas/2893462,1.0,0.0,New York Islanders,Buffalo Sabres,27.0,48.0,59.0,20.0,51.0,62.0
+/zapas/2893478,0.0,0.0,New York Islanders,Pittsburgh Penguins,29.0,49.0,56.0,26.0,64.0,73.0
+/zapas/2893494,0.0,0.0,New York Islanders,Pittsburgh Penguins,29.0,50.0,56.0,29.0,68.0,69.0
+/zapas/2893363,1.0,1.0,New York Islanders,Buffalo Sabres,29.0,50.0,53.0,17.0,46.0,64.0
+/zapas/2893522,1.0,1.0,New York Islanders,Boston Bruins,32.0,50.0,51.0,38.0,60.0,43.0
+/zapas/2893542,0.0,1.0,New York Islanders,Pittsburgh Penguins,34.0,55.0,50.0,28.0,63.0,68.0
+/zapas/2893552,1.0,1.0,New York Islanders,Pittsburgh Penguins,34.0,54.0,49.0,30.0,65.0,65.0
+/zapas/2893509,1.0,0.0,New York Islanders,New Jersey Devils,34.0,52.0,49.0,27.0,57.0,63.0
+/zapas/2893375,1.0,1.0,New York Islanders,Buffalo Sabres,37.0,54.0,45.0,19.0,46.0,60.0
+/zapas/2893586,1.0,1.0,New York Islanders,Buffalo Sabres,37.0,58.0,47.0,19.0,44.0,59.0
+/zapas/2893601,1.0,1.0,New York Islanders,Buffalo Sabres,37.0,59.0,48.0,19.0,45.0,62.0
+/zapas/2893610,1.0,1.0,New York Islanders,Boston Bruins,40.0,64.0,48.0,34.0,61.0,50.0
+/zapas/2893627,1.0,1.0,New York Islanders,New Jersey Devils,42.0,64.0,46.0,22.0,51.0,67.0
+/zapas/2893642,1.0,0.0,New York Islanders,New Jersey Devils,45.0,66.0,43.0,19.0,50.0,69.0
+/zapas/2893978,1.0,0.0,New York Islanders,New Jersey Devils,47.0,67.0,42.0,19.0,51.0,68.0
+/zapas/2893666,0.0,0.0,New York Islanders,Washington Capitals,48.0,67.0,40.0,37.0,69.0,61.0
+/zapas/2893679,0.0,1.0,New York Islanders,Philadelphia Flyers,45.0,64.0,40.0,28.0,63.0,71.0
+/zapas/2893694,1.0,1.0,New York Islanders,Philadelphia Flyers,42.0,65.0,44.0,28.0,64.0,73.0
+/zapas/2893963,1.0,0.0,New York Islanders,Philadelphia Flyers,44.0,68.0,41.0,26.0,62.0,77.0
+/zapas/2893727,1.0,0.0,New York Islanders,Boston Bruins,43.0,66.0,40.0,33.0,52.0,49.0
+/zapas/2893771,0.0,0.0,New York Islanders,Pittsburgh Penguins,42.0,67.0,42.0,41.0,65.0,40.0
+/zapas/2893760,0.0,0.0,New York Islanders,Pittsburgh Penguins,39.0,67.0,48.0,41.0,67.0,42.0
+/zapas/2893783,1.0,1.0,New York Islanders,Washington Capitals,39.0,67.0,46.0,44.0,68.0,51.0
+/zapas/2893798,1.0,1.0,New York Islanders,Philadelphia Flyers,42.0,73.0,47.0,25.0,56.0,78.0
+/zapas/2893822,1.0,1.0,New York Islanders,Washington Capitals,41.0,73.0,47.0,45.0,72.0,54.0
+/zapas/2893836,1.0,1.0,New York Islanders,Philadelphia Flyers,41.0,67.0,45.0,19.0,53.0,84.0
+/zapas/2893845,0.0,1.0,New York Islanders,New York Rangers,42.0,67.0,43.0,34.0,77.0,56.0
+/zapas/2893860,1.0,1.0,New York Islanders,New York Rangers,39.0,66.0,47.0,34.0,78.0,55.0
+/zapas/2893874,0.0,0.0,New York Islanders,Boston Bruins,38.0,67.0,48.0,31.0,52.0,54.0
+/zapas/2893895,0.0,0.0,New York Islanders,Boston Bruins,35.0,63.0,50.0,31.0,51.0,54.0
+/zapas/2893912,1.0,0.0,New York Islanders,Philadelphia Flyers,32.0,58.0,51.0,20.0,49.0,83.0
+/zapas/2893929,1.0,1.0,New York Islanders,New York Rangers,31.0,54.0,49.0,41.0,83.0,47.0
+/zapas/2893940,0.0,1.0,New York Islanders,Washington Capitals,32.0,58.0,49.0,38.0,74.0,58.0
+/zapas/2893955,0.0,1.0,New York Islanders,Washington Capitals,30.0,53.0,47.0,37.0,70.0,54.0
+/zapas/2893657,0.0,0.0,New York Islanders,Washington Capitals,27.0,53.0,51.0,37.0,70.0,57.0
+/zapas/2893995,1.0,0.0,New York Islanders,New York Rangers,25.0,50.0,50.0,40.0,78.0,53.0
+/zapas/2894010,1.0,1.0,New York Islanders,New York Rangers,28.0,53.0,47.0,37.0,73.0,54.0
+/zapas/2894022,0.0,0.0,New York Islanders,Buffalo Sabres,31.0,53.0,43.0,23.0,60.0,70.0
+/zapas/2894032,0.0,0.0,New York Islanders,Buffalo Sabres,28.0,49.0,46.0,26.0,62.0,69.0
+/zapas/2894048,0.0,1.0,New York Islanders,New Jersey Devils,27.0,50.0,49.0,17.0,61.0,83.0
+/zapas/2894067,1.0,1.0,New York Islanders,New Jersey Devils,25.0,47.0,48.0,19.0,59.0,79.0
+/zapas/2893742,0.0,0.0,New York Islanders,Boston Bruins,28.0,49.0,43.0,40.0,68.0,46.0
+/zapas/2896996,0.0,0.0,New York Islanders,Carolina Hurricanes,29.0,50.0,44.0,40.0,60.0,44.0
+/zapas/2897011,0.0,0.0,New York Islanders,Florida Panthers,26.0,45.0,46.0,38.0,72.0,56.0
+/zapas/2897021,1.0,0.0,New York Islanders,Chicago Blackhawks,24.0,43.0,49.0,21.0,59.0,77.0
+/zapas/2897042,0.0,0.0,New York Islanders,Columbus Blue Jackets,24.0,46.0,50.0,19.0,50.0,68.0
+/zapas/2897047,1.0,0.0,New York Islanders,Arizona Coyotes,23.0,45.0,51.0,16.0,51.0,76.0
+/zapas/2897060,1.0,0.0,New York Islanders,Vegas Golden Knights,26.0,47.0,47.0,38.0,73.0,49.0
+/zapas/2897104,0.0,0.0,New York Islanders,Nashville Predators,27.0,46.0,45.0,32.0,64.0,53.0
+/zapas/2897134,1.0,0.0,New York Islanders,Montreal Canadiens,28.0,47.0,44.0,18.0,45.0,66.0
+/zapas/2897146,1.0,0.0,New York Islanders,Winnipeg Jets,31.0,53.0,43.0,28.0,60.0,59.0
+/zapas/2897158,0.0,0.0,New York Islanders,Minnesota Wild,32.0,54.0,43.0,31.0,68.0,74.0
+/zapas/2897185,0.0,0.0,New York Islanders,New Jersey Devils,29.0,50.0,47.0,32.0,60.0,61.0
+/zapas/2897211,0.0,0.0,New York Islanders,Tampa Bay Lightning,28.0,50.0,50.0,31.0,53.0,57.0
+/zapas/2897220,0.0,0.0,New York Islanders,Florida Panthers,28.0,48.0,48.0,43.0,79.0,53.0
+/zapas/2897253,0.0,1.0,New York Islanders,Calgary Flames,28.0,49.0,53.0,36.0,68.0,45.0
+/zapas/2897260,0.0,1.0,New York Islanders,Toronto Maple Leafs,25.0,47.0,58.0,34.0,50.0,49.0
+/zapas/2897281,0.0,1.0,New York Islanders,New York Rangers,22.0,44.0,61.0,37.0,56.0,59.0
+/zapas/2897294,0.0,1.0,New York Islanders,Pittsburgh Penguins,22.0,43.0,61.0,32.0,59.0,53.0
+/zapas/2897340,0.0,1.0,New York Islanders,San Jose Sharks,21.0,40.0,58.0,29.0,51.0,57.0
+/zapas/2897353,0.0,0.0,New York Islanders,Detroit Red Wings,22.0,40.0,58.0,27.0,54.0,63.0
+/zapas/2897361,0.0,1.0,New York Islanders,Chicago Blackhawks,20.0,38.0,61.0,21.0,44.0,60.0
 /zapas/2897377,1.0,0.0,New York Islanders,Ottawa Senators,20.0,38.0,61.0,14.0,53.0,81.0
+/zapas/2897391,0.0,1.0,New York Islanders,Nashville Predators,23.0,40.0,58.0,36.0,61.0,53.0
 /zapas/2897410,1.0,1.0,New York Islanders,New Jersey Devils,23.0,42.0,57.0,25.0,58.0,67.0
 /zapas/2897427,0.0,0.0,New York Islanders,Detroit Red Wings,23.0,42.0,58.0,23.0,53.0,70.0
+/zapas/2897444,1.0,1.0,New York Islanders,Boston Bruins,22.0,41.0,57.0,34.0,55.0,51.0
 /zapas/2897467,0.0,1.0,New York Islanders,Vegas Golden Knights,22.0,41.0,58.0,41.0,81.0,60.0
 /zapas/2897537,1.0,1.0,New York Islanders,Buffalo Sabres,20.0,42.0,62.0,17.0,52.0,77.0
+/zapas/2897554,1.0,1.0,New York Islanders,Edmonton Oilers,22.0,44.0,60.0,27.0,61.0,68.0
 /zapas/2897640,1.0,1.0,New York Islanders,New Jersey Devils,21.0,41.0,60.0,18.0,57.0,77.0
+/zapas/2897658,0.0,1.0,New York Islanders,Washington Capitals,21.0,42.0,62.0,32.0,67.0,65.0
 /zapas/2897671,1.0,1.0,New York Islanders,Philadelphia Flyers,21.0,40.0,59.0,17.0,51.0,77.0
 /zapas/2897326,1.0,0.0,New York Islanders,Philadelphia Flyers,24.0,44.0,56.0,16.0,51.0,79.0
 /zapas/2897699,1.0,1.0,New York Islanders,Arizona Coyotes,26.0,47.0,55.0,21.0,54.0,73.0
+/zapas/2898195,0.0,1.0,New York Islanders,Toronto Maple Leafs,29.0,50.0,49.0,40.0,80.0,57.0
 /zapas/2897730,1.0,1.0,New York Islanders,Philadelphia Flyers,29.0,49.0,47.0,17.0,52.0,72.0
+/zapas/2897745,0.0,1.0,New York Islanders,Los Angeles Kings,32.0,53.0,47.0,34.0,57.0,55.0
+/zapas/2897768,0.0,1.0,New York Islanders,Minnesota Wild,32.0,54.0,46.0,41.0,85.0,56.0
 /zapas/2897784,1.0,1.0,New York Islanders,Ottawa Senators,32.0,57.0,49.0,30.0,63.0,59.0
 /zapas/2897761,0.0,1.0,New York Islanders,Seattle Kraken,34.0,60.0,48.0,15.0,45.0,69.0
 /zapas/2897577,1.0,0.0,New York Islanders,Vancouver Canucks,33.0,57.0,47.0,35.0,54.0,46.0
+/zapas/2897600,0.0,0.0,New York Islanders,Edmonton Oilers,35.0,61.0,47.0,22.0,56.0,72.0
+/zapas/2897621,0.0,0.0,New York Islanders,Calgary Flames,32.0,57.0,47.0,30.0,68.0,58.0
 /zapas/2897513,0.0,0.0,New York Islanders,Buffalo Sabres,32.0,56.0,48.0,24.0,52.0,67.0
+/zapas/2897991,1.0,1.0,New York Islanders,Boston Bruins,29.0,55.0,52.0,37.0,61.0,60.0
 /zapas/2897474,0.0,1.0,New York Islanders,Montreal Canadiens,32.0,58.0,51.0,11.0,47.0,91.0
 /zapas/2897569,1.0,0.0,New York Islanders,Seattle Kraken,30.0,57.0,53.0,16.0,45.0,68.0
 /zapas/2897797,0.0,0.0,New York Islanders,San Jose Sharks,32.0,59.0,51.0,22.0,56.0,73.0
+/zapas/2897811,0.0,0.0,New York Islanders,Los Angeles Kings,30.0,58.0,54.0,40.0,69.0,58.0
 /zapas/2897820,1.0,0.0,New York Islanders,Anaheim Ducks,28.0,57.0,57.0,24.0,56.0,71.0
+/zapas/2897834,0.0,0.0,New York Islanders,Colorado Avalanche,28.0,58.0,55.0,48.0,70.0,41.0
 /zapas/2897851,0.0,1.0,New York Islanders,Vancouver Canucks,28.0,61.0,58.0,32.0,63.0,58.0
+/zapas/2897867,1.0,1.0,New York Islanders,St. Louis Blues,25.0,60.0,61.0,40.0,75.0,55.0
+/zapas/2897881,0.0,1.0,New York Islanders,Colorado Avalanche,26.0,58.0,59.0,45.0,66.0,44.0
 /zapas/2897679,1.0,1.0,New York Islanders,Columbus Blue Jackets,23.0,58.0,64.0,30.0,72.0,78.0
 /zapas/2897910,1.0,1.0,New York Islanders,Winnipeg Jets,26.0,63.0,61.0,30.0,65.0,65.0
 /zapas/2897929,1.0,1.0,New York Islanders,Anaheim Ducks,26.0,64.0,60.0,25.0,57.0,73.0
+/zapas/2897944,0.0,0.0,New York Islanders,Washington Capitals,29.0,66.0,60.0,28.0,64.0,58.0
+/zapas/2897312,1.0,0.0,New York Islanders,New York Rangers,30.0,66.0,60.0,34.0,65.0,58.0
+/zapas/2897973,1.0,1.0,New York Islanders,Dallas Stars,30.0,64.0,60.0,32.0,59.0,56.0
 /zapas/2897978,0.0,0.0,New York Islanders,Philadelphia Flyers,33.0,68.0,59.0,20.0,52.0,72.0
 /zapas/2898007,1.0,1.0,New York Islanders,Ottawa Senators,30.0,63.0,58.0,18.0,44.0,64.0
 /zapas/2897531,1.0,1.0,New York Islanders,Detroit Red Wings,33.0,65.0,55.0,21.0,66.0,88.0
+/zapas/2898022,0.0,0.0,New York Islanders,Boston Bruins,36.0,68.0,52.0,39.0,61.0,47.0
+/zapas/2898032,0.0,1.0,New York Islanders,Tampa Bay Lightning,36.0,68.0,52.0,32.0,59.0,56.0
 /zapas/2898048,1.0,0.0,New York Islanders,Columbus Blue Jackets,33.0,65.0,55.0,29.0,69.0,79.0
 /zapas/2898062,1.0,1.0,New York Islanders,Columbus Blue Jackets,35.0,67.0,55.0,29.0,70.0,77.0
+/zapas/2898070,1.0,0.0,New York Islanders,New York Rangers,35.0,67.0,55.0,37.0,64.0,55.0
 /zapas/2898087,1.0,0.0,New York Islanders,New Jersey Devils,37.0,67.0,51.0,19.0,69.0,82.0
+/zapas/2898096,0.0,0.0,New York Islanders,Dallas Stars,40.0,69.0,49.0,32.0,59.0,62.0
+/zapas/2898122,1.0,0.0,New York Islanders,Carolina Hurricanes,37.0,67.0,52.0,33.0,57.0,50.0
+/zapas/2898127,0.0,0.0,New York Islanders,St. Louis Blues,40.0,66.0,48.0,33.0,74.0,65.0
+/zapas/2897907,1.0,1.0,New York Islanders,Pittsburgh Penguins,40.0,64.0,50.0,29.0,68.0,59.0
+/zapas/2898172,0.0,0.0,New York Islanders,Pittsburgh Penguins,39.0,67.0,53.0,27.0,69.0,62.0
 /zapas/2898175,1.0,0.0,New York Islanders,Montreal Canadiens,39.0,66.0,54.0,22.0,66.0,78.0
+/zapas/2897709,0.0,0.0,New York Islanders,Toronto Maple Leafs,39.0,63.0,54.0,42.0,89.0,70.0
+/zapas/2898207,0.0,1.0,New York Islanders,Florida Panthers,36.0,60.0,56.0,47.0,90.0,55.0
+/zapas/2898222,0.0,1.0,New York Islanders,New York Rangers,34.0,58.0,56.0,40.0,67.0,47.0
 /zapas/2898235,0.0,0.0,New York Islanders,Buffalo Sabres,33.0,58.0,58.0,33.0,67.0,70.0
+/zapas/2898247,0.0,1.0,New York Islanders,Carolina Hurricanes,30.0,59.0,62.0,32.0,65.0,55.0
+/zapas/2898266,1.0,0.0,New York Islanders,Washington Capitals,27.0,57.0,65.0,37.0,78.0,67.0
+/zapas/2897501,1.0,1.0,New York Islanders,Washington Capitals,30.0,60.0,64.0,35.0,75.0,68.0
+/zapas/2898276,0.0,1.0,New York Islanders,Tampa Bay Lightning,30.0,62.0,65.0,32.0,76.0,55.0

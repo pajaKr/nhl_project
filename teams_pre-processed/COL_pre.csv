@@ -1,61 +1,373 @@
 game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
-/zapas/2553155,Nashville Predators,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2553169,Nashville Predators,Colorado Avalanche,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2553170,Colorado Avalanche,Nashville Predators,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2553171,Colorado Avalanche,Nashville Predators,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2553172,Nashville Predators,Colorado Avalanche,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2553173,Colorado Avalanche,Nashville Predators,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2732192,Calgary Flames,Colorado Avalanche,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Calgary Flames,Colorado Avalanche,2021
-/zapas/2732193,Calgary Flames,Colorado Avalanche,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Calgary Flames,Colorado Avalanche,2021
-/zapas/2732194,Colorado Avalanche,Calgary Flames,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Calgary Flames,Colorado Avalanche,2021
-/zapas/2732195,Colorado Avalanche,Calgary Flames,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Calgary Flames,Colorado Avalanche,2021
-/zapas/2732196,Calgary Flames,Colorado Avalanche,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Calgary Flames,Colorado Avalanche,2021
-/zapas/2749211,San Jose Sharks,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,San Jose Sharks,Colorado Avalanche,2021
-/zapas/2749212,San Jose Sharks,Colorado Avalanche,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,San Jose Sharks,Colorado Avalanche,2021
-/zapas/2749213,Colorado Avalanche,San Jose Sharks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,San Jose Sharks,Colorado Avalanche,2021
-/zapas/2749214,Colorado Avalanche,San Jose Sharks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,San Jose Sharks,Colorado Avalanche,2021
-/zapas/2749215,San Jose Sharks,Colorado Avalanche,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,San Jose Sharks,Colorado Avalanche,2021
-/zapas/2749216,Colorado Avalanche,San Jose Sharks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,San Jose Sharks,Colorado Avalanche,2021
-/zapas/2749217,San Jose Sharks,Colorado Avalanche,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,San Jose Sharks,Colorado Avalanche,2021
-/zapas/2891082,Colorado Avalanche,Arizona Coyotes,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Arizona Coyotes,Colorado Avalanche,2021
-/zapas/2891083,Colorado Avalanche,Arizona Coyotes,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Arizona Coyotes,Colorado Avalanche,2021
-/zapas/2891084,Arizona Coyotes,Colorado Avalanche,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Arizona Coyotes,Colorado Avalanche,2021
-/zapas/2891085,Arizona Coyotes,Colorado Avalanche,1,7,0,0.0,3.0,0.0,3.0,7.0,1.0,1.0,Arizona Coyotes,Colorado Avalanche,2021
-/zapas/2891086,Colorado Avalanche,Arizona Coyotes,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Arizona Coyotes,Colorado Avalanche,2021
-/zapas/2891118,Colorado Avalanche,Dallas Stars,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Dallas Stars,Colorado Avalanche,2021
-/zapas/2891119,Colorado Avalanche,Dallas Stars,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Dallas Stars,Colorado Avalanche,2021
-/zapas/2891120,Dallas Stars,Colorado Avalanche,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Dallas Stars,Colorado Avalanche,2021
-/zapas/2891121,Dallas Stars,Colorado Avalanche,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Dallas Stars,Colorado Avalanche,2021
-/zapas/2891122,Colorado Avalanche,Dallas Stars,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Dallas Stars,Colorado Avalanche,2021
-/zapas/2891123,Dallas Stars,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Dallas Stars,Colorado Avalanche,2021
-/zapas/2891124,Colorado Avalanche,Dallas Stars,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Dallas Stars,Colorado Avalanche,2021
-/zapas/2894364,Colorado Avalanche,St. Louis Blues,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2894365,Colorado Avalanche,St. Louis Blues,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2894366,St. Louis Blues,Colorado Avalanche,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2894367,St. Louis Blues,Colorado Avalanche,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2894897,Colorado Avalanche,Vegas Golden Knights,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,2021
-/zapas/2894909,Colorado Avalanche,Vegas Golden Knights,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vegas Golden Knights,Colorado Avalanche,2021
-/zapas/2894910,Vegas Golden Knights,Colorado Avalanche,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vegas Golden Knights,Colorado Avalanche,2021
-/zapas/2894911,Vegas Golden Knights,Colorado Avalanche,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Vegas Golden Knights,Colorado Avalanche,2021
-/zapas/2894912,Colorado Avalanche,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Colorado Avalanche,2021
-/zapas/2894913,Vegas Golden Knights,Colorado Avalanche,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Vegas Golden Knights,Colorado Avalanche,2021
-/zapas/2900324,Colorado Avalanche,Nashville Predators,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2900325,Colorado Avalanche,Nashville Predators,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2900326,Nashville Predators,Colorado Avalanche,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2900327,Nashville Predators,Colorado Avalanche,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Nashville Predators,Colorado Avalanche,2021
-/zapas/2900380,Colorado Avalanche,St. Louis Blues,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2900381,Colorado Avalanche,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2900382,St. Louis Blues,Colorado Avalanche,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2900383,St. Louis Blues,Colorado Avalanche,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2900384,Colorado Avalanche,St. Louis Blues,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2900385,St. Louis Blues,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,St. Louis Blues,Colorado Avalanche,2021
-/zapas/2900409,Colorado Avalanche,Edmonton Oilers,8,6,0,3.0,0.0,1.0,3.0,8.0,6.0,1.0,Edmonton Oilers,Colorado Avalanche,2021
-/zapas/2900410,Colorado Avalanche,Edmonton Oilers,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Edmonton Oilers,Colorado Avalanche,2021
-/zapas/2900411,Edmonton Oilers,Colorado Avalanche,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Colorado Avalanche,2021
-/zapas/2900412,Edmonton Oilers,Colorado Avalanche,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Edmonton Oilers,Colorado Avalanche,2021
-/zapas/2900585,Colorado Avalanche,Tampa Bay Lightning,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Tampa Bay Lightning,Colorado Avalanche,2021
-/zapas/2900586,Colorado Avalanche,Tampa Bay Lightning,7,0,0,3.0,0.0,1.0,3.0,7.0,0.0,1.0,Tampa Bay Lightning,Colorado Avalanche,2021
-/zapas/2900587,Tampa Bay Lightning,Colorado Avalanche,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Tampa Bay Lightning,Colorado Avalanche,2021
-/zapas/2900588,Tampa Bay Lightning,Colorado Avalanche,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Tampa Bay Lightning,Colorado Avalanche,2021
-/zapas/2900589,Colorado Avalanche,Tampa Bay Lightning,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Tampa Bay Lightning,Colorado Avalanche,2021
-/zapas/2900590,Tampa Bay Lightning,Colorado Avalanche,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Tampa Bay Lightning,Colorado Avalanche,2021
+/zapas/2526061,New York Rangers,Colorado Avalanche,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,New York Rangers,Colorado Avalanche,2017
+/zapas/2526076,New Jersey Devils,Colorado Avalanche,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New Jersey Devils,Colorado Avalanche,2017
+/zapas/2526086,Boston Bruins,Colorado Avalanche,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Boston Bruins,Colorado Avalanche,2017
+/zapas/2526102,Colorado Avalanche,Boston Bruins,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Boston Bruins,Colorado Avalanche,2017
+/zapas/2526114,Colorado Avalanche,Anaheim Ducks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Anaheim Ducks,Colorado Avalanche,2017
+/zapas/2526123,Dallas Stars,Colorado Avalanche,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Dallas Stars,Colorado Avalanche,2017
+/zapas/2526140,Nashville Predators,Colorado Avalanche,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Nashville Predators,Colorado Avalanche,2017
+/zapas/2526156,Colorado Avalanche,St. Louis Blues,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,St. Louis Blues,Colorado Avalanche,2017
+/zapas/2526188,Colorado Avalanche,Dallas Stars,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Dallas Stars,Colorado Avalanche,2017
+/zapas/2526203,Vegas Golden Knights,Colorado Avalanche,7,0,0,3.0,0.0,0.0,0.0,0.0,7.0,0.0,Vegas Golden Knights,Colorado Avalanche,2017
+/zapas/2526219,Colorado Avalanche,Chicago Blackhawks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Chicago Blackhawks,Colorado Avalanche,2017
+/zapas/2526248,Colorado Avalanche,Carolina Hurricanes,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Carolina Hurricanes,Colorado Avalanche,2017
+/zapas/2526260,Philadelphia Flyers,Colorado Avalanche,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Philadelphia Flyers,Colorado Avalanche,2017
+/zapas/2526268,New York Islanders,Colorado Avalanche,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,New York Islanders,Colorado Avalanche,2017
+/zapas/2526301,Colorado Avalanche,Ottawa Senators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Ottawa Senators,Colorado Avalanche,2017
+/zapas/2526306,Ottawa Senators,Colorado Avalanche,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Ottawa Senators,Colorado Avalanche,2017
+/zapas/2526339,Colorado Avalanche,Washington Capitals,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Washington Capitals,Colorado Avalanche,2017
+/zapas/2526356,Nashville Predators,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Nashville Predators,Colorado Avalanche,2017
+/zapas/2526360,Detroit Red Wings,Colorado Avalanche,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Detroit Red Wings,Colorado Avalanche,2017
+/zapas/2526384,Colorado Avalanche,Dallas Stars,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Dallas Stars,Colorado Avalanche,2017
+/zapas/2526390,Minnesota Wild,Colorado Avalanche,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Minnesota Wild,Colorado Avalanche,2017
+/zapas/2526411,Colorado Avalanche,Calgary Flames,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Calgary Flames,Colorado Avalanche,2017
+/zapas/2526434,Colorado Avalanche,Winnipeg Jets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Winnipeg Jets,Colorado Avalanche,2017
+/zapas/2526449,Colorado Avalanche,New Jersey Devils,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,New Jersey Devils,Colorado Avalanche,2017
+/zapas/2526465,Colorado Avalanche,Dallas Stars,2,7,0,0.0,3.0,1.0,0.0,2.0,7.0,0.0,Dallas Stars,Colorado Avalanche,2017
+/zapas/2526476,Colorado Avalanche,Buffalo Sabres,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Buffalo Sabres,Colorado Avalanche,2017
+/zapas/2526487,Tampa Bay Lightning,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Tampa Bay Lightning,Colorado Avalanche,2017
+/zapas/2526502,Florida Panthers,Colorado Avalanche,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Florida Panthers,Colorado Avalanche,2017
+/zapas/2526516,Pittsburgh Penguins,Colorado Avalanche,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Pittsburgh Penguins,Colorado Avalanche,2017
+/zapas/2526523,Washington Capitals,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Washington Capitals,Colorado Avalanche,2017
+/zapas/2526540,Colorado Avalanche,Florida Panthers,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Florida Panthers,Colorado Avalanche,2017
+/zapas/2526559,Colorado Avalanche,Tampa Bay Lightning,5,6,0,0.0,3.0,1.0,0.0,5.0,6.0,0.0,Tampa Bay Lightning,Colorado Avalanche,2017
+/zapas/2526568,Colorado Avalanche,Pittsburgh Penguins,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Pittsburgh Penguins,Colorado Avalanche,2017
+/zapas/2526591,Los Angeles Kings,Colorado Avalanche,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Los Angeles Kings,Colorado Avalanche,2017
+/zapas/2526608,Arizona Coyotes,Colorado Avalanche,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Arizona Coyotes,Colorado Avalanche,2017
+/zapas/2526621,Colorado Avalanche,Arizona Coyotes,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Arizona Coyotes,Colorado Avalanche,2017
+/zapas/2526638,Colorado Avalanche,Toronto Maple Leafs,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Toronto Maple Leafs,Colorado Avalanche,2017
+/zapas/2526652,Colorado Avalanche,New York Islanders,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,New York Islanders,Colorado Avalanche,2017
+/zapas/2526665,Colorado Avalanche,Winnipeg Jets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Winnipeg Jets,Colorado Avalanche,2017
+/zapas/2526681,Colorado Avalanche,Columbus Blue Jackets,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Columbus Blue Jackets,Colorado Avalanche,2017
+/zapas/2526688,Colorado Avalanche,Minnesota Wild,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Minnesota Wild,Colorado Avalanche,2017
+/zapas/2526729,Dallas Stars,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Dallas Stars,Colorado Avalanche,2017
+/zapas/2526738,Colorado Avalanche,Anaheim Ducks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Anaheim Ducks,Colorado Avalanche,2017
+/zapas/2526757,Colorado Avalanche,San Jose Sharks,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,San Jose Sharks,Colorado Avalanche,2017
+/zapas/2526764,Colorado Avalanche,New York Rangers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New York Rangers,Colorado Avalanche,2017
+/zapas/2526781,Toronto Maple Leafs,Colorado Avalanche,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Toronto Maple Leafs,Colorado Avalanche,2017
+/zapas/2526789,Montreal Canadiens,Colorado Avalanche,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Montreal Canadiens,Colorado Avalanche,2017
+/zapas/2526807,St. Louis Blues,Colorado Avalanche,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,St. Louis Blues,Colorado Avalanche,2017
+/zapas/2526826,Vancouver Canucks,Colorado Avalanche,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Vancouver Canucks,Colorado Avalanche,2017
+/zapas/2526839,Edmonton Oilers,Colorado Avalanche,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Edmonton Oilers,Colorado Avalanche,2017
+/zapas/2526848,Winnipeg Jets,Colorado Avalanche,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Winnipeg Jets,Colorado Avalanche,2017
+/zapas/2526876,Colorado Avalanche,San Jose Sharks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,San Jose Sharks,Colorado Avalanche,2017
+/zapas/2526885,St. Louis Blues,Colorado Avalanche,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,St. Louis Blues,Colorado Avalanche,2017
+/zapas/2526901,Carolina Hurricanes,Colorado Avalanche,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Colorado Avalanche,2017
+/zapas/2526910,Buffalo Sabres,Colorado Avalanche,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Buffalo Sabres,Colorado Avalanche,2017
+/zapas/2526931,Colorado Avalanche,Montreal Canadiens,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Montreal Canadiens,Colorado Avalanche,2017
+/zapas/2526946,Winnipeg Jets,Colorado Avalanche,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Winnipeg Jets,Colorado Avalanche,2017
+/zapas/2526960,Colorado Avalanche,Edmonton Oilers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Edmonton Oilers,Colorado Avalanche,2017
+/zapas/2526980,Vancouver Canucks,Colorado Avalanche,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Vancouver Canucks,Colorado Avalanche,2017
+/zapas/2526992,Edmonton Oilers,Colorado Avalanche,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Edmonton Oilers,Colorado Avalanche,2017
+/zapas/2527001,Calgary Flames,Colorado Avalanche,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Calgary Flames,Colorado Avalanche,2017
+/zapas/2527021,Colorado Avalanche,Vancouver Canucks,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Vancouver Canucks,Colorado Avalanche,2017
+/zapas/2527035,Colorado Avalanche,Calgary Flames,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Calgary Flames,Colorado Avalanche,2017
+/zapas/2527049,Colorado Avalanche,Minnesota Wild,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Minnesota Wild,Colorado Avalanche,2017
+/zapas/2527062,Colorado Avalanche,Nashville Predators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Nashville Predators,Colorado Avalanche,2017
+/zapas/2527081,Chicago Blackhawks,Colorado Avalanche,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Chicago Blackhawks,Colorado Avalanche,2017
+/zapas/2527088,Columbus Blue Jackets,Colorado Avalanche,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Columbus Blue Jackets,Colorado Avalanche,2017
+/zapas/2527106,Colorado Avalanche,Arizona Coyotes,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Colorado Avalanche,2017
+/zapas/2527129,Minnesota Wild,Colorado Avalanche,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Minnesota Wild,Colorado Avalanche,2017
+/zapas/2527142,St. Louis Blues,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,St. Louis Blues,Colorado Avalanche,2017
+/zapas/2527148,Colorado Avalanche,Nashville Predators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Nashville Predators,Colorado Avalanche,2017
+/zapas/2527162,Colorado Avalanche,Detroit Red Wings,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Detroit Red Wings,Colorado Avalanche,2017
+/zapas/2527183,Chicago Blackhawks,Colorado Avalanche,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Chicago Blackhawks,Colorado Avalanche,2017
+/zapas/2527198,Colorado Avalanche,Los Angeles Kings,1,7,0,0.0,3.0,1.0,0.0,1.0,7.0,0.0,Los Angeles Kings,Colorado Avalanche,2017
+/zapas/2527205,Colorado Avalanche,Vegas Golden Knights,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,2017
+/zapas/2527229,Vegas Golden Knights,Colorado Avalanche,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vegas Golden Knights,Colorado Avalanche,2017
+/zapas/2527243,Colorado Avalanche,Philadelphia Flyers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Philadelphia Flyers,Colorado Avalanche,2017
+/zapas/2527257,Colorado Avalanche,Chicago Blackhawks,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Chicago Blackhawks,Colorado Avalanche,2017
+/zapas/2527276,Anaheim Ducks,Colorado Avalanche,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Anaheim Ducks,Colorado Avalanche,2017
+/zapas/2527282,Los Angeles Kings,Colorado Avalanche,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Los Angeles Kings,Colorado Avalanche,2017
+/zapas/2527306,San Jose Sharks,Colorado Avalanche,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,San Jose Sharks,Colorado Avalanche,2017
+/zapas/2527321,Colorado Avalanche,St. Louis Blues,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,St. Louis Blues,Colorado Avalanche,2017
+/zapas/2647211,Colorado Avalanche,Minnesota Wild,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Minnesota Wild,Colorado Avalanche,2018
+/zapas/2647225,Colorado Avalanche,Philadelphia Flyers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Philadelphia Flyers,Colorado Avalanche,2018
+/zapas/2647236,Columbus Blue Jackets,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Columbus Blue Jackets,Colorado Avalanche,2018
+/zapas/2647244,Buffalo Sabres,Colorado Avalanche,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Buffalo Sabres,Colorado Avalanche,2018
+/zapas/2647268,Colorado Avalanche,Calgary Flames,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Calgary Flames,Colorado Avalanche,2018
+/zapas/2647277,New York Rangers,Colorado Avalanche,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Rangers,Colorado Avalanche,2018
+/zapas/2647289,New Jersey Devils,Colorado Avalanche,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New Jersey Devils,Colorado Avalanche,2018
+/zapas/2647301,Carolina Hurricanes,Colorado Avalanche,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Carolina Hurricanes,Colorado Avalanche,2018
+/zapas/2647316,Philadelphia Flyers,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Philadelphia Flyers,Colorado Avalanche,2018
+/zapas/2647330,Colorado Avalanche,Tampa Bay Lightning,0,1,0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,Tampa Bay Lightning,Colorado Avalanche,2018
+/zapas/2647345,Colorado Avalanche,Ottawa Senators,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Ottawa Senators,Colorado Avalanche,2018
+/zapas/2647354,Minnesota Wild,Colorado Avalanche,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Minnesota Wild,Colorado Avalanche,2018
+/zapas/2647385,Calgary Flames,Colorado Avalanche,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Calgary Flames,Colorado Avalanche,2018
+/zapas/2647391,Vancouver Canucks,Colorado Avalanche,7,6,1,2.0,1.0,0.0,1.0,6.0,7.0,0.0,Vancouver Canucks,Colorado Avalanche,2018
+/zapas/2647423,Colorado Avalanche,Nashville Predators,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Nashville Predators,Colorado Avalanche,2018
+/zapas/2647438,Winnipeg Jets,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Winnipeg Jets,Colorado Avalanche,2018
+/zapas/2647457,Edmonton Oilers,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Edmonton Oilers,Colorado Avalanche,2018
+/zapas/2647473,Colorado Avalanche,Boston Bruins,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Boston Bruins,Colorado Avalanche,2018
+/zapas/2647487,Colorado Avalanche,Washington Capitals,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Washington Capitals,Colorado Avalanche,2018
+/zapas/2647504,Anaheim Ducks,Colorado Avalanche,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Colorado Avalanche,2018
+/zapas/2647529,Los Angeles Kings,Colorado Avalanche,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Los Angeles Kings,Colorado Avalanche,2018
+/zapas/2647541,Arizona Coyotes,Colorado Avalanche,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Arizona Coyotes,Colorado Avalanche,2018
+/zapas/2647553,Colorado Avalanche,Dallas Stars,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Dallas Stars,Colorado Avalanche,2018
+/zapas/2647569,Nashville Predators,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Nashville Predators,Colorado Avalanche,2018
+/zapas/2647579,Colorado Avalanche,Pittsburgh Penguins,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Pittsburgh Penguins,Colorado Avalanche,2018
+/zapas/2647591,Colorado Avalanche,St. Louis Blues,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,St. Louis Blues,Colorado Avalanche,2018
+/zapas/2647609,Detroit Red Wings,Colorado Avalanche,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Detroit Red Wings,Colorado Avalanche,2018
+/zapas/2647617,Pittsburgh Penguins,Colorado Avalanche,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Pittsburgh Penguins,Colorado Avalanche,2018
+/zapas/2647628,Florida Panthers,Colorado Avalanche,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Florida Panthers,Colorado Avalanche,2018
+/zapas/2647647,Tampa Bay Lightning,Colorado Avalanche,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Tampa Bay Lightning,Colorado Avalanche,2018
+/zapas/2647672,Colorado Avalanche,Edmonton Oilers,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Edmonton Oilers,Colorado Avalanche,2018
+/zapas/2647690,St. Louis Blues,Colorado Avalanche,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,St. Louis Blues,Colorado Avalanche,2018
+/zapas/2647701,Colorado Avalanche,Dallas Stars,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Dallas Stars,Colorado Avalanche,2018
+/zapas/2647714,Colorado Avalanche,New York Islanders,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,New York Islanders,Colorado Avalanche,2018
+/zapas/2647727,Colorado Avalanche,Montreal Canadiens,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Montreal Canadiens,Colorado Avalanche,2018
+/zapas/2647742,Colorado Avalanche,Chicago Blackhawks,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Chicago Blackhawks,Colorado Avalanche,2018
+/zapas/2647749,Arizona Coyotes,Colorado Avalanche,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Arizona Coyotes,Colorado Avalanche,2018
+/zapas/2647775,Vegas Golden Knights,Colorado Avalanche,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Vegas Golden Knights,Colorado Avalanche,2018
+/zapas/2647793,Colorado Avalanche,Chicago Blackhawks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Chicago Blackhawks,Colorado Avalanche,2018
+/zapas/2647805,Colorado Avalanche,Los Angeles Kings,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Los Angeles Kings,Colorado Avalanche,2018
+/zapas/2647817,Colorado Avalanche,San Jose Sharks,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,San Jose Sharks,Colorado Avalanche,2018
+/zapas/2647831,Colorado Avalanche,New York Rangers,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,New York Rangers,Colorado Avalanche,2018
+/zapas/2647863,Winnipeg Jets,Colorado Avalanche,7,4,0,3.0,0.0,0.0,0.0,4.0,7.0,0.0,Winnipeg Jets,Colorado Avalanche,2018
+/zapas/2647867,Calgary Flames,Colorado Avalanche,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Calgary Flames,Colorado Avalanche,2018
+/zapas/2647889,Montreal Canadiens,Colorado Avalanche,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Montreal Canadiens,Colorado Avalanche,2018
+/zapas/2647904,Toronto Maple Leafs,Colorado Avalanche,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Toronto Maple Leafs,Colorado Avalanche,2018
+/zapas/2647919,Ottawa Senators,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Ottawa Senators,Colorado Avalanche,2018
+/zapas/2647939,Colorado Avalanche,Los Angeles Kings,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Los Angeles Kings,Colorado Avalanche,2018
+/zapas/2647954,Colorado Avalanche,Nashville Predators,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Nashville Predators,Colorado Avalanche,2018
+/zapas/2647965,Colorado Avalanche,Minnesota Wild,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Minnesota Wild,Colorado Avalanche,2018
+/zapas/2647998,Colorado Avalanche,Vancouver Canucks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Vancouver Canucks,Colorado Avalanche,2018
+/zapas/2648017,Colorado Avalanche,Columbus Blue Jackets,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Columbus Blue Jackets,Colorado Avalanche,2018
+/zapas/2648025,Washington Capitals,Colorado Avalanche,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Washington Capitals,Colorado Avalanche,2018
+/zapas/2648039,New York Islanders,Colorado Avalanche,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Islanders,Colorado Avalanche,2018
+/zapas/2648052,Boston Bruins,Colorado Avalanche,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Boston Bruins,Colorado Avalanche,2018
+/zapas/2648071,Colorado Avalanche,Toronto Maple Leafs,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Toronto Maple Leafs,Colorado Avalanche,2018
+/zapas/2648080,Winnipeg Jets,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Colorado Avalanche,2018
+/zapas/2648092,Colorado Avalanche,St. Louis Blues,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,St. Louis Blues,Colorado Avalanche,2018
+/zapas/2648111,Colorado Avalanche,Vegas Golden Knights,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vegas Golden Knights,Colorado Avalanche,2018
+/zapas/2648124,Colorado Avalanche,Winnipeg Jets,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Winnipeg Jets,Colorado Avalanche,2018
+/zapas/2648139,Chicago Blackhawks,Colorado Avalanche,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Chicago Blackhawks,Colorado Avalanche,2018
+/zapas/2648149,Nashville Predators,Colorado Avalanche,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Nashville Predators,Colorado Avalanche,2018
+/zapas/2648164,Colorado Avalanche,Florida Panthers,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Florida Panthers,Colorado Avalanche,2018
+/zapas/2648180,Colorado Avalanche,Vancouver Canucks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Vancouver Canucks,Colorado Avalanche,2018
+/zapas/2648196,San Jose Sharks,Colorado Avalanche,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,San Jose Sharks,Colorado Avalanche,2018
+/zapas/2648210,Anaheim Ducks,Colorado Avalanche,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Anaheim Ducks,Colorado Avalanche,2018
+/zapas/2648224,Colorado Avalanche,Detroit Red Wings,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Detroit Red Wings,Colorado Avalanche,2018
+/zapas/2648237,Dallas Stars,Colorado Avalanche,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Dallas Stars,Colorado Avalanche,2018
+/zapas/2648246,Colorado Avalanche,Buffalo Sabres,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Buffalo Sabres,Colorado Avalanche,2018
+/zapas/2648268,Colorado Avalanche,Carolina Hurricanes,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Carolina Hurricanes,Colorado Avalanche,2018
+/zapas/2648294,Colorado Avalanche,Anaheim Ducks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Anaheim Ducks,Colorado Avalanche,2018
+/zapas/2648309,Colorado Avalanche,New Jersey Devils,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,New Jersey Devils,Colorado Avalanche,2018
+/zapas/2648327,Minnesota Wild,Colorado Avalanche,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Minnesota Wild,Colorado Avalanche,2018
+/zapas/2648341,Dallas Stars,Colorado Avalanche,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Dallas Stars,Colorado Avalanche,2018
+/zapas/2648350,Colorado Avalanche,Chicago Blackhawks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Chicago Blackhawks,Colorado Avalanche,2018
+/zapas/2648365,Chicago Blackhawks,Colorado Avalanche,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Chicago Blackhawks,Colorado Avalanche,2018
+/zapas/2648386,Colorado Avalanche,Vegas Golden Knights,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Vegas Golden Knights,Colorado Avalanche,2018
+/zapas/2648398,Colorado Avalanche,Arizona Coyotes,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Colorado Avalanche,2018
+/zapas/2648423,St. Louis Blues,Colorado Avalanche,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,St. Louis Blues,Colorado Avalanche,2018
+/zapas/2648434,Colorado Avalanche,Edmonton Oilers,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Edmonton Oilers,Colorado Avalanche,2018
+/zapas/2648449,Colorado Avalanche,Winnipeg Jets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Winnipeg Jets,Colorado Avalanche,2018
+/zapas/2648469,San Jose Sharks,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,San Jose Sharks,Colorado Avalanche,2018
+/zapas/2806387,Colorado Avalanche,Calgary Flames,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Calgary Flames,Colorado Avalanche,2019
+/zapas/2806403,Colorado Avalanche,Minnesota Wild,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Minnesota Wild,Colorado Avalanche,2019
+/zapas/2806432,Colorado Avalanche,Boston Bruins,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Boston Bruins,Colorado Avalanche,2019
+/zapas/2806448,Colorado Avalanche,Arizona Coyotes,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Colorado Avalanche,2019
+/zapas/2806459,Washington Capitals,Colorado Avalanche,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Washington Capitals,Colorado Avalanche,2019
+/zapas/2806468,Pittsburgh Penguins,Colorado Avalanche,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Pittsburgh Penguins,Colorado Avalanche,2019
+/zapas/2806483,Florida Panthers,Colorado Avalanche,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Florida Panthers,Colorado Avalanche,2019
+/zapas/2806493,Tampa Bay Lightning,Colorado Avalanche,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Tampa Bay Lightning,Colorado Avalanche,2019
+/zapas/2806507,St. Louis Blues,Colorado Avalanche,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,St. Louis Blues,Colorado Avalanche,2019
+/zapas/2806531,Vegas Golden Knights,Colorado Avalanche,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,2019
+/zapas/2806544,Colorado Avalanche,Anaheim Ducks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Anaheim Ducks,Colorado Avalanche,2019
+/zapas/2806568,Colorado Avalanche,Florida Panthers,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Florida Panthers,Colorado Avalanche,2019
+/zapas/2806577,Colorado Avalanche,Dallas Stars,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Dallas Stars,Colorado Avalanche,2019
+/zapas/2806590,Arizona Coyotes,Colorado Avalanche,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Arizona Coyotes,Colorado Avalanche,2019
+/zapas/2806606,Dallas Stars,Colorado Avalanche,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Dallas Stars,Colorado Avalanche,2019
+/zapas/2806620,Colorado Avalanche,Nashville Predators,9,4,0,3.0,0.0,1.0,3.0,9.0,4.0,1.0,Nashville Predators,Colorado Avalanche,2019
+/zapas/2806636,Colorado Avalanche,Columbus Blue Jackets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Columbus Blue Jackets,Colorado Avalanche,2019
+/zapas/2806652,Winnipeg Jets,Colorado Avalanche,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Winnipeg Jets,Colorado Avalanche,2019
+/zapas/2806666,Edmonton Oilers,Colorado Avalanche,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Edmonton Oilers,Colorado Avalanche,2019
+/zapas/2806687,Vancouver Canucks,Colorado Avalanche,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Vancouver Canucks,Colorado Avalanche,2019
+/zapas/2806704,Calgary Flames,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Calgary Flames,Colorado Avalanche,2019
+/zapas/2806716,Minnesota Wild,Colorado Avalanche,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Minnesota Wild,Colorado Avalanche,2019
+/zapas/2806727,Colorado Avalanche,Toronto Maple Leafs,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Toronto Maple Leafs,Colorado Avalanche,2019
+/zapas/2806763,Colorado Avalanche,Edmonton Oilers,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Edmonton Oilers,Colorado Avalanche,2019
+/zapas/2806770,Chicago Blackhawks,Colorado Avalanche,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Colorado Avalanche,2019
+/zapas/2806789,Colorado Avalanche,Chicago Blackhawks,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Chicago Blackhawks,Colorado Avalanche,2019
+/zapas/2806810,Toronto Maple Leafs,Colorado Avalanche,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Toronto Maple Leafs,Colorado Avalanche,2019
+/zapas/2806815,Montreal Canadiens,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Montreal Canadiens,Colorado Avalanche,2019
+/zapas/2806831,Boston Bruins,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Boston Bruins,Colorado Avalanche,2019
+/zapas/2806847,Colorado Avalanche,Calgary Flames,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Calgary Flames,Colorado Avalanche,2019
+/zapas/2806862,Colorado Avalanche,Philadelphia Flyers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Philadelphia Flyers,Colorado Avalanche,2019
+/zapas/2806876,Colorado Avalanche,New Jersey Devils,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New Jersey Devils,Colorado Avalanche,2019
+/zapas/2806898,St. Louis Blues,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,St. Louis Blues,Colorado Avalanche,2019
+/zapas/2806912,Chicago Blackhawks,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Chicago Blackhawks,Colorado Avalanche,2019
+/zapas/2806920,Colorado Avalanche,Carolina Hurricanes,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Carolina Hurricanes,Colorado Avalanche,2019
+/zapas/2806938,Colorado Avalanche,Chicago Blackhawks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Chicago Blackhawks,Colorado Avalanche,2019
+/zapas/2806956,Vegas Golden Knights,Colorado Avalanche,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Vegas Golden Knights,Colorado Avalanche,2019
+/zapas/2806962,Colorado Avalanche,Minnesota Wild,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Minnesota Wild,Colorado Avalanche,2019
+/zapas/2806969,Dallas Stars,Colorado Avalanche,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Dallas Stars,Colorado Avalanche,2019
+/zapas/2806997,Colorado Avalanche,Winnipeg Jets,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Winnipeg Jets,Colorado Avalanche,2019
+/zapas/2807010,Colorado Avalanche,St. Louis Blues,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,St. Louis Blues,Colorado Avalanche,2019
+/zapas/2807025,New Jersey Devils,Colorado Avalanche,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New Jersey Devils,Colorado Avalanche,2019
+/zapas/2807037,New York Islanders,Colorado Avalanche,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,New York Islanders,Colorado Avalanche,2019
+/zapas/2807042,New York Rangers,Colorado Avalanche,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Rangers,Colorado Avalanche,2019
+/zapas/2807067,Colorado Avalanche,Pittsburgh Penguins,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Pittsburgh Penguins,Colorado Avalanche,2019
+/zapas/2807098,Colorado Avalanche,Dallas Stars,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Dallas Stars,Colorado Avalanche,2019
+/zapas/2807114,Colorado Avalanche,San Jose Sharks,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,San Jose Sharks,Colorado Avalanche,2019
+/zapas/2807120,Colorado Avalanche,St. Louis Blues,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,St. Louis Blues,Colorado Avalanche,2019
+/zapas/2807135,Colorado Avalanche,Detroit Red Wings,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Detroit Red Wings,Colorado Avalanche,2019
+/zapas/2807175,Philadelphia Flyers,Colorado Avalanche,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Philadelphia Flyers,Colorado Avalanche,2019
+/zapas/2807189,Buffalo Sabres,Colorado Avalanche,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Buffalo Sabres,Colorado Avalanche,2019
+/zapas/2807209,Ottawa Senators,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Ottawa Senators,Colorado Avalanche,2019
+/zapas/2807227,Columbus Blue Jackets,Colorado Avalanche,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Columbus Blue Jackets,Colorado Avalanche,2019
+/zapas/2807235,Minnesota Wild,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Minnesota Wild,Colorado Avalanche,2019
+/zapas/2807250,Colorado Avalanche,Ottawa Senators,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Ottawa Senators,Colorado Avalanche,2019
+/zapas/2807264,Colorado Avalanche,Washington Capitals,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Washington Capitals,Colorado Avalanche,2019
+/zapas/2807278,Colorado Avalanche,Los Angeles Kings,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Los Angeles Kings,Colorado Avalanche,2019
+/zapas/2807295,Colorado Avalanche,Tampa Bay Lightning,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Tampa Bay Lightning,Colorado Avalanche,2019
+/zapas/2807307,Colorado Avalanche,New York Islanders,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New York Islanders,Colorado Avalanche,2019
+/zapas/2807323,Anaheim Ducks,Colorado Avalanche,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Anaheim Ducks,Colorado Avalanche,2019
+/zapas/2807334,Los Angeles Kings,Colorado Avalanche,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Los Angeles Kings,Colorado Avalanche,2019
+/zapas/2807357,Colorado Avalanche,Buffalo Sabres,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Buffalo Sabres,Colorado Avalanche,2019
+/zapas/2807372,Carolina Hurricanes,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Carolina Hurricanes,Colorado Avalanche,2019
+/zapas/2807384,Nashville Predators,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Nashville Predators,Colorado Avalanche,2019
+/zapas/2807393,Detroit Red Wings,Colorado Avalanche,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Detroit Red Wings,Colorado Avalanche,2019
+/zapas/2807407,Colorado Avalanche,Anaheim Ducks,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Anaheim Ducks,Colorado Avalanche,2019
+/zapas/2807423,Vancouver Canucks,Colorado Avalanche,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Vancouver Canucks,Colorado Avalanche,2019
+/zapas/2807441,San Jose Sharks,Colorado Avalanche,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,San Jose Sharks,Colorado Avalanche,2019
+/zapas/2807445,Los Angeles Kings,Colorado Avalanche,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Los Angeles Kings,Colorado Avalanche,2019
+/zapas/2807457,Colorado Avalanche,New York Rangers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Rangers,Colorado Avalanche,2019
+/zapas/2893210,Colorado Avalanche,St. Louis Blues,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,St. Louis Blues,Colorado Avalanche,2020
+/zapas/2893225,Colorado Avalanche,St. Louis Blues,8,0,0,3.0,0.0,1.0,3.0,8.0,0.0,1.0,St. Louis Blues,Colorado Avalanche,2020
+/zapas/2893262,Los Angeles Kings,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Colorado Avalanche,2020
+/zapas/2893274,Los Angeles Kings,Colorado Avalanche,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Los Angeles Kings,Colorado Avalanche,2020
+/zapas/2893282,Anaheim Ducks,Colorado Avalanche,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Anaheim Ducks,Colorado Avalanche,2020
+/zapas/2893299,Anaheim Ducks,Colorado Avalanche,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Colorado Avalanche,2020
+/zapas/2893306,Colorado Avalanche,San Jose Sharks,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,San Jose Sharks,Colorado Avalanche,2020
+/zapas/2893320,Colorado Avalanche,San Jose Sharks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,San Jose Sharks,Colorado Avalanche,2020
+/zapas/2893333,Minnesota Wild,Colorado Avalanche,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Minnesota Wild,Colorado Avalanche,2020
+/zapas/2893345,Minnesota Wild,Colorado Avalanche,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Minnesota Wild,Colorado Avalanche,2020
+/zapas/2893362,Colorado Avalanche,Minnesota Wild,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Minnesota Wild,Colorado Avalanche,2020
+/zapas/2893451,Vegas Golden Knights,Colorado Avalanche,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Vegas Golden Knights,Colorado Avalanche,2020
+/zapas/2893467,Vegas Golden Knights,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vegas Golden Knights,Colorado Avalanche,2020
+/zapas/2893489,Colorado Avalanche,Vegas Golden Knights,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Vegas Golden Knights,Colorado Avalanche,2020
+/zapas/2893504,Colorado Avalanche,Vegas Golden Knights,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Vegas Golden Knights,Colorado Avalanche,2020
+/zapas/2893374,Colorado Avalanche,Minnesota Wild,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Minnesota Wild,Colorado Avalanche,2020
+/zapas/2893521,Arizona Coyotes,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Arizona Coyotes,Colorado Avalanche,2020
+/zapas/2893540,Arizona Coyotes,Colorado Avalanche,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Arizona Coyotes,Colorado Avalanche,2020
+/zapas/2893561,San Jose Sharks,Colorado Avalanche,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,San Jose Sharks,Colorado Avalanche,2020
+/zapas/2893571,San Jose Sharks,Colorado Avalanche,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,San Jose Sharks,Colorado Avalanche,2020
+/zapas/2893582,Colorado Avalanche,Anaheim Ducks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Anaheim Ducks,Colorado Avalanche,2020
+/zapas/2893592,Colorado Avalanche,Anaheim Ducks,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Anaheim Ducks,Colorado Avalanche,2020
+/zapas/2893606,Colorado Avalanche,Arizona Coyotes,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Arizona Coyotes,Colorado Avalanche,2020
+/zapas/2893620,Colorado Avalanche,Arizona Coyotes,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Arizona Coyotes,Colorado Avalanche,2020
+/zapas/2893636,Colorado Avalanche,Los Angeles Kings,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Los Angeles Kings,Colorado Avalanche,2020
+/zapas/2893653,Colorado Avalanche,Los Angeles Kings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Los Angeles Kings,Colorado Avalanche,2020
+/zapas/2893775,Colorado Avalanche,Anaheim Ducks,8,4,0,3.0,0.0,1.0,3.0,8.0,4.0,1.0,Anaheim Ducks,Colorado Avalanche,2020
+/zapas/2893677,Colorado Avalanche,Minnesota Wild,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Minnesota Wild,Colorado Avalanche,2020
+/zapas/2893692,Colorado Avalanche,Minnesota Wild,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,Minnesota Wild,Colorado Avalanche,2020
+/zapas/2893710,Arizona Coyotes,Colorado Avalanche,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Arizona Coyotes,Colorado Avalanche,2020
+/zapas/2893716,Arizona Coyotes,Colorado Avalanche,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Arizona Coyotes,Colorado Avalanche,2020
+/zapas/2893726,Colorado Avalanche,Vegas Golden Knights,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,2020
+/zapas/2893741,Colorado Avalanche,Vegas Golden Knights,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vegas Golden Knights,Colorado Avalanche,2020
+/zapas/2893758,Colorado Avalanche,Anaheim Ducks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Anaheim Ducks,Colorado Avalanche,2020
+/zapas/2893413,Colorado Avalanche,Arizona Coyotes,9,3,0,3.0,0.0,1.0,3.0,9.0,3.0,1.0,Arizona Coyotes,Colorado Avalanche,2020
+/zapas/2893925,Colorado Avalanche,St. Louis Blues,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,St. Louis Blues,Colorado Avalanche,2020
+/zapas/2893795,Colorado Avalanche,St. Louis Blues,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,St. Louis Blues,Colorado Avalanche,2020
+/zapas/2893814,Minnesota Wild,Colorado Avalanche,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Minnesota Wild,Colorado Avalanche,2020
+/zapas/2893829,Minnesota Wild,Colorado Avalanche,8,3,0,3.0,0.0,0.0,0.0,3.0,8.0,0.0,Minnesota Wild,Colorado Avalanche,2020
+/zapas/2893848,Anaheim Ducks,Colorado Avalanche,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Anaheim Ducks,Colorado Avalanche,2020
+/zapas/2893864,Anaheim Ducks,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Colorado Avalanche,2020
+/zapas/2893427,Colorado Avalanche,Arizona Coyotes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Colorado Avalanche,2020
+/zapas/2893387,St. Louis Blues,Colorado Avalanche,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,St. Louis Blues,Colorado Avalanche,2020
+/zapas/2893937,St. Louis Blues,Colorado Avalanche,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,St. Louis Blues,Colorado Avalanche,2020
+/zapas/2893952,St. Louis Blues,Colorado Avalanche,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,St. Louis Blues,Colorado Avalanche,2020
+/zapas/2893396,St. Louis Blues,Colorado Avalanche,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,St. Louis Blues,Colorado Avalanche,2020
+/zapas/2893987,Vegas Golden Knights,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vegas Golden Knights,Colorado Avalanche,2020
+/zapas/2893999,Colorado Avalanche,San Jose Sharks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,San Jose Sharks,Colorado Avalanche,2020
+/zapas/2894008,Colorado Avalanche,San Jose Sharks,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,San Jose Sharks,Colorado Avalanche,2020
+/zapas/2894031,San Jose Sharks,Colorado Avalanche,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,San Jose Sharks,Colorado Avalanche,2020
+/zapas/2894045,San Jose Sharks,Colorado Avalanche,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,San Jose Sharks,Colorado Avalanche,2020
+/zapas/2894060,Los Angeles Kings,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Colorado Avalanche,2020
+/zapas/2894075,Los Angeles Kings,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Colorado Avalanche,2020
+/zapas/2893972,Vegas Golden Knights,Colorado Avalanche,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,2020
+/zapas/2893894,Colorado Avalanche,Los Angeles Kings,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,Los Angeles Kings,Colorado Avalanche,2020
+/zapas/2893909,Colorado Avalanche,Los Angeles Kings,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Los Angeles Kings,Colorado Avalanche,2020
+/zapas/2896984,Colorado Avalanche,Chicago Blackhawks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Chicago Blackhawks,Colorado Avalanche,2021
+/zapas/2897003,Colorado Avalanche,St. Louis Blues,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,St. Louis Blues,Colorado Avalanche,2021
+/zapas/2897030,Washington Capitals,Colorado Avalanche,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Washington Capitals,Colorado Avalanche,2021
+/zapas/2897040,Florida Panthers,Colorado Avalanche,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Florida Panthers,Colorado Avalanche,2021
+/zapas/2897054,Tampa Bay Lightning,Colorado Avalanche,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Tampa Bay Lightning,Colorado Avalanche,2021
+/zapas/2897074,Colorado Avalanche,Vegas Golden Knights,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Vegas Golden Knights,Colorado Avalanche,2021
+/zapas/2897088,St. Louis Blues,Colorado Avalanche,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,St. Louis Blues,Colorado Avalanche,2021
+/zapas/2897101,Colorado Avalanche,Minnesota Wild,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Minnesota Wild,Colorado Avalanche,2021
+/zapas/2897126,Colorado Avalanche,Columbus Blue Jackets,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Columbus Blue Jackets,Colorado Avalanche,2021
+/zapas/2897154,Columbus Blue Jackets,Colorado Avalanche,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Columbus Blue Jackets,Colorado Avalanche,2021
+/zapas/2897178,Colorado Avalanche,Vancouver Canucks,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Vancouver Canucks,Colorado Avalanche,2021
+/zapas/2897194,Colorado Avalanche,San Jose Sharks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,San Jose Sharks,Colorado Avalanche,2021
+/zapas/2897225,Vancouver Canucks,Colorado Avalanche,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Vancouver Canucks,Colorado Avalanche,2021
+/zapas/2897241,Seattle Kraken,Colorado Avalanche,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Seattle Kraken,Colorado Avalanche,2021
+/zapas/2897263,Colorado Avalanche,Ottawa Senators,7,5,0,3.0,0.0,1.0,3.0,7.0,5.0,1.0,Ottawa Senators,Colorado Avalanche,2021
+/zapas/2897274,Colorado Avalanche,Anaheim Ducks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Anaheim Ducks,Colorado Avalanche,2021
+/zapas/2897289,Dallas Stars,Colorado Avalanche,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Dallas Stars,Colorado Avalanche,2021
+/zapas/2897300,Colorado Avalanche,Nashville Predators,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Nashville Predators,Colorado Avalanche,2021
+/zapas/2897329,Toronto Maple Leafs,Colorado Avalanche,8,3,0,3.0,0.0,0.0,0.0,3.0,8.0,0.0,Toronto Maple Leafs,Colorado Avalanche,2021
+/zapas/2897337,Montreal Canadiens,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Montreal Canadiens,Colorado Avalanche,2021
+/zapas/2897352,Ottawa Senators,Colorado Avalanche,6,5,1,2.0,1.0,0.0,1.0,5.0,6.0,0.0,Ottawa Senators,Colorado Avalanche,2021
+/zapas/2897367,Philadelphia Flyers,Colorado Avalanche,5,7,0,0.0,3.0,0.0,3.0,7.0,5.0,1.0,Philadelphia Flyers,Colorado Avalanche,2021
+/zapas/2897382,New York Rangers,Colorado Avalanche,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,New York Rangers,Colorado Avalanche,2021
+/zapas/2897395,Colorado Avalanche,Detroit Red Wings,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Detroit Red Wings,Colorado Avalanche,2021
+/zapas/2897414,Colorado Avalanche,Florida Panthers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Florida Panthers,Colorado Avalanche,2021
+/zapas/2897420,Colorado Avalanche,New York Rangers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New York Rangers,Colorado Avalanche,2021
+/zapas/2897438,Nashville Predators,Colorado Avalanche,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Nashville Predators,Colorado Avalanche,2021
+/zapas/2897557,Colorado Avalanche,Anaheim Ducks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Anaheim Ducks,Colorado Avalanche,2021
+/zapas/2897571,Chicago Blackhawks,Colorado Avalanche,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Colorado Avalanche,2021
+/zapas/2897584,Colorado Avalanche,Winnipeg Jets,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Winnipeg Jets,Colorado Avalanche,2021
+/zapas/2897599,Colorado Avalanche,Toronto Maple Leafs,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Toronto Maple Leafs,Colorado Avalanche,2021
+/zapas/2897612,Colorado Avalanche,Seattle Kraken,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Seattle Kraken,Colorado Avalanche,2021
+/zapas/2897622,Nashville Predators,Colorado Avalanche,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Nashville Predators,Colorado Avalanche,2021
+/zapas/2897642,Colorado Avalanche,Arizona Coyotes,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Arizona Coyotes,Colorado Avalanche,2021
+/zapas/2897649,Arizona Coyotes,Colorado Avalanche,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Arizona Coyotes,Colorado Avalanche,2021
+/zapas/2897666,Colorado Avalanche,Minnesota Wild,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Minnesota Wild,Colorado Avalanche,2021
+/zapas/2897682,Anaheim Ducks,Colorado Avalanche,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Anaheim Ducks,Colorado Avalanche,2021
+/zapas/2897686,Los Angeles Kings,Colorado Avalanche,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Los Angeles Kings,Colorado Avalanche,2021
+/zapas/2897703,Colorado Avalanche,Montreal Canadiens,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Colorado Avalanche,2021
+/zapas/2897718,Colorado Avalanche,Chicago Blackhawks,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Chicago Blackhawks,Colorado Avalanche,2021
+/zapas/2897733,Colorado Avalanche,Boston Bruins,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Boston Bruins,Colorado Avalanche,2021
+/zapas/2897749,Chicago Blackhawks,Colorado Avalanche,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Chicago Blackhawks,Colorado Avalanche,2021
+/zapas/2897764,Colorado Avalanche,Buffalo Sabres,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Buffalo Sabres,Colorado Avalanche,2021
+/zapas/2897777,Colorado Avalanche,Arizona Coyotes,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Arizona Coyotes,Colorado Avalanche,2021
+/zapas/2897454,Colorado Avalanche,Tampa Bay Lightning,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Tampa Bay Lightning,Colorado Avalanche,2021
+/zapas/2897542,Dallas Stars,Colorado Avalanche,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Dallas Stars,Colorado Avalanche,2021
+/zapas/2897524,Colorado Avalanche,Dallas Stars,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Dallas Stars,Colorado Avalanche,2021
+/zapas/2897505,Vegas Golden Knights,Colorado Avalanche,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Vegas Golden Knights,Colorado Avalanche,2021
+/zapas/2897487,Buffalo Sabres,Colorado Avalanche,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Buffalo Sabres,Colorado Avalanche,2021
+/zapas/2897496,Boston Bruins,Colorado Avalanche,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Boston Bruins,Colorado Avalanche,2021
+/zapas/2897473,Detroit Red Wings,Colorado Avalanche,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Detroit Red Wings,Colorado Avalanche,2021
+/zapas/2897805,Colorado Avalanche,Winnipeg Jets,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Winnipeg Jets,Colorado Avalanche,2021
+/zapas/2897810,Vegas Golden Knights,Colorado Avalanche,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Vegas Golden Knights,Colorado Avalanche,2021
+/zapas/2897834,Colorado Avalanche,New York Islanders,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,New York Islanders,Colorado Avalanche,2021
+/zapas/2897847,Arizona Coyotes,Colorado Avalanche,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Arizona Coyotes,Colorado Avalanche,2021
+/zapas/2897862,Colorado Avalanche,Calgary Flames,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Calgary Flames,Colorado Avalanche,2021
+/zapas/2897881,New York Islanders,Colorado Avalanche,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,New York Islanders,Colorado Avalanche,2021
+/zapas/2897891,New Jersey Devils,Colorado Avalanche,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New Jersey Devils,Colorado Avalanche,2021
+/zapas/2897908,Carolina Hurricanes,Colorado Avalanche,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Carolina Hurricanes,Colorado Avalanche,2021
+/zapas/2897925,Colorado Avalanche,Calgary Flames,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Calgary Flames,Colorado Avalanche,2021
+/zapas/2897935,Los Angeles Kings,Colorado Avalanche,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Los Angeles Kings,Colorado Avalanche,2021
+/zapas/2897959,San Jose Sharks,Colorado Avalanche,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,San Jose Sharks,Colorado Avalanche,2021
+/zapas/2897982,Colorado Avalanche,Edmonton Oilers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Edmonton Oilers,Colorado Avalanche,2021
+/zapas/2897997,Colorado Avalanche,Vancouver Canucks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Vancouver Canucks,Colorado Avalanche,2021
+/zapas/2898010,Colorado Avalanche,Philadelphia Flyers,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Philadelphia Flyers,Colorado Avalanche,2021
+/zapas/2898028,Minnesota Wild,Colorado Avalanche,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Minnesota Wild,Colorado Avalanche,2021
+/zapas/2898041,Calgary Flames,Colorado Avalanche,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Calgary Flames,Colorado Avalanche,2021
+/zapas/2898056,Colorado Avalanche,San Jose Sharks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,San Jose Sharks,Colorado Avalanche,2021
+/zapas/2898072,Colorado Avalanche,Pittsburgh Penguins,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Pittsburgh Penguins,Colorado Avalanche,2021
+/zapas/2898103,Pittsburgh Penguins,Colorado Avalanche,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Pittsburgh Penguins,Colorado Avalanche,2021
+/zapas/2898119,Winnipeg Jets,Colorado Avalanche,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Winnipeg Jets,Colorado Avalanche,2021
+/zapas/2898126,Edmonton Oilers,Colorado Avalanche,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Edmonton Oilers,Colorado Avalanche,2021
+/zapas/2898158,Colorado Avalanche,Los Angeles Kings,9,3,0,3.0,0.0,1.0,3.0,9.0,3.0,1.0,Los Angeles Kings,Colorado Avalanche,2021
+/zapas/2898163,Colorado Avalanche,New Jersey Devils,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,New Jersey Devils,Colorado Avalanche,2021
+/zapas/2898179,Colorado Avalanche,Carolina Hurricanes,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Carolina Hurricanes,Colorado Avalanche,2021
+/zapas/2898200,Colorado Avalanche,Washington Capitals,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Washington Capitals,Colorado Avalanche,2021
+/zapas/2898211,Seattle Kraken,Colorado Avalanche,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Seattle Kraken,Colorado Avalanche,2021
+/zapas/2898226,Edmonton Oilers,Colorado Avalanche,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Edmonton Oilers,Colorado Avalanche,2021
+/zapas/2898244,Winnipeg Jets,Colorado Avalanche,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Colorado Avalanche,2021
+/zapas/2898255,Colorado Avalanche,St. Louis Blues,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,St. Louis Blues,Colorado Avalanche,2021
+/zapas/2898271,Colorado Avalanche,Nashville Predators,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Nashville Predators,Colorado Avalanche,2021
+/zapas/2898284,Minnesota Wild,Colorado Avalanche,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Minnesota Wild,Colorado Avalanche,2021

@@ -1,68 +1,340 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
-/zapas/2891068,1.0,1.0,Vegas Golden Knights,Chicago Blackhawks,32.0,61.0,60.0,36.0,66.0,57.0
-/zapas/2891069,1.0,1.0,Vegas Golden Knights,Chicago Blackhawks,35.0,65.0,57.0,34.0,62.0,57.0
-/zapas/2891070,1.0,0.0,Vegas Golden Knights,Chicago Blackhawks,34.0,64.0,57.0,32.0,63.0,60.0
-/zapas/2891071,0.0,0.0,Vegas Golden Knights,Chicago Blackhawks,34.0,63.0,58.0,29.0,57.0,61.0
-/zapas/2891072,1.0,1.0,Vegas Golden Knights,Chicago Blackhawks,34.0,62.0,57.0,29.0,55.0,58.0
-/zapas/2891132,1.0,1.0,Vegas Golden Knights,Vancouver Canucks,34.0,63.0,59.0,34.0,63.0,57.0
-/zapas/2891133,0.0,1.0,Vegas Golden Knights,Vancouver Canucks,34.0,64.0,57.0,32.0,60.0,60.0
-/zapas/2891134,1.0,0.0,Vegas Golden Knights,Vancouver Canucks,31.0,63.0,60.0,32.0,58.0,58.0
-/zapas/2891135,1.0,0.0,Vegas Golden Knights,Vancouver Canucks,31.0,64.0,59.0,32.0,57.0,58.0
-/zapas/2891136,0.0,1.0,Vegas Golden Knights,Vancouver Canucks,31.0,63.0,58.0,32.0,60.0,58.0
-/zapas/2891137,0.0,0.0,Vegas Golden Knights,Vancouver Canucks,31.0,62.0,57.0,35.0,58.0,54.0
-/zapas/2891138,1.0,1.0,Vegas Golden Knights,Vancouver Canucks,31.0,61.0,58.0,36.0,59.0,52.0
-/zapas/2892202,0.0,1.0,Vegas Golden Knights,Dallas Stars,34.0,62.0,52.0,32.0,66.0,64.0
-/zapas/2892204,1.0,1.0,Vegas Golden Knights,Dallas Stars,34.0,59.0,49.0,35.0,65.0,61.0
-/zapas/2892205,0.0,0.0,Vegas Golden Knights,Dallas Stars,37.0,60.0,44.0,32.0,61.0,62.0
-/zapas/2892206,0.0,0.0,Vegas Golden Knights,Dallas Stars,35.0,57.0,44.0,34.0,61.0,60.0
-/zapas/2892207,0.0,1.0,Vegas Golden Knights,Dallas Stars,32.0,52.0,43.0,34.0,59.0,59.0
-/zapas/2894385,0.0,1.0,Vegas Golden Knights,Minnesota Wild,30.0,49.0,46.0,20.0,39.0,58.0
-/zapas/2894386,1.0,1.0,Vegas Golden Knights,Minnesota Wild,31.0,47.0,42.0,21.0,36.0,53.0
-/zapas/2894387,1.0,0.0,Vegas Golden Knights,Minnesota Wild,33.0,49.0,41.0,18.0,34.0,56.0
-/zapas/2894388,1.0,0.0,Vegas Golden Knights,Minnesota Wild,35.0,50.0,38.0,18.0,34.0,55.0
-/zapas/2894389,0.0,1.0,Vegas Golden Knights,Minnesota Wild,35.0,50.0,37.0,18.0,34.0,56.0
-/zapas/2894390,0.0,0.0,Vegas Golden Knights,Minnesota Wild,33.0,48.0,38.0,21.0,37.0,54.0
-/zapas/2894391,1.0,1.0,Vegas Golden Knights,Minnesota Wild,30.0,46.0,40.0,21.0,35.0,52.0
-/zapas/2894897,0.0,0.0,Vegas Golden Knights,Colorado Avalanche,33.0,51.0,39.0,39.0,81.0,51.0
-/zapas/2894909,0.0,0.0,Vegas Golden Knights,Colorado Avalanche,30.0,48.0,43.0,39.0,85.0,52.0
-/zapas/2894910,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,28.0,45.0,46.0,41.0,87.0,52.0
-/zapas/2894911,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,31.0,46.0,43.0,39.0,85.0,52.0
-/zapas/2894912,1.0,0.0,Vegas Golden Knights,Colorado Avalanche,31.0,48.0,44.0,39.0,84.0,54.0
-/zapas/2894913,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,30.0,46.0,43.0,37.0,83.0,57.0
-/zapas/2896407,1.0,1.0,Vegas Golden Knights,Montreal Canadiens,33.0,51.0,44.0,33.0,48.0,41.0
-/zapas/2896408,0.0,1.0,Vegas Golden Knights,Montreal Canadiens,36.0,55.0,41.0,33.0,48.0,42.0
-/zapas/2896409,0.0,0.0,Vegas Golden Knights,Montreal Canadiens,33.0,54.0,44.0,33.0,47.0,41.0
-/zapas/2896410,1.0,0.0,Vegas Golden Knights,Montreal Canadiens,34.0,56.0,46.0,32.0,48.0,43.0
-/zapas/2896411,0.0,1.0,Vegas Golden Knights,Montreal Canadiens,33.0,55.0,47.0,33.0,48.0,43.0
-/zapas/2896412,0.0,0.0,Vegas Golden Knights,Montreal Canadiens,32.0,54.0,48.0,33.0,47.0,44.0
-/zapas/2897060,0.0,1.0,Vegas Golden Knights,New York Islanders,28.0,55.0,59.0,32.0,54.0,57.0
-/zapas/2897092,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,30.0,55.0,57.0,17.0,48.0,69.0
-/zapas/2897135,1.0,0.0,Vegas Golden Knights,Ottawa Senators,29.0,53.0,56.0,34.0,59.0,56.0
-/zapas/2897149,1.0,0.0,Vegas Golden Knights,Montreal Canadiens,31.0,56.0,54.0,17.0,40.0,62.0
-/zapas/2897159,0.0,0.0,Vegas Golden Knights,Detroit Red Wings,31.0,58.0,54.0,26.0,54.0,60.0
-/zapas/2897192,1.0,1.0,Vegas Golden Knights,Vancouver Canucks,29.0,53.0,57.0,22.0,52.0,67.0
-/zapas/2897228,1.0,1.0,Vegas Golden Knights,Detroit Red Wings,29.0,56.0,61.0,27.0,60.0,67.0
-/zapas/2897242,1.0,1.0,Vegas Golden Knights,Columbus Blue Jackets,31.0,59.0,60.0,31.0,64.0,61.0
+/zapas/2526401,1.0,1.0,Vegas Golden Knights,San Jose Sharks,37.0,72.0,60.0,33.0,50.0,45.0
+/zapas/2526408,1.0,0.0,Vegas Golden Knights,Arizona Coyotes,36.0,75.0,63.0,16.0,51.0,69.0
+/zapas/2526430,0.0,1.0,Vegas Golden Knights,Dallas Stars,37.0,77.0,64.0,33.0,60.0,61.0
+/zapas/2526438,0.0,0.0,Vegas Golden Knights,Minnesota Wild,34.0,72.0,65.0,30.0,57.0,58.0
+/zapas/2526448,0.0,0.0,Vegas Golden Knights,Winnipeg Jets,34.0,71.0,63.0,39.0,66.0,49.0
+/zapas/2526464,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,31.0,72.0,69.0,20.0,50.0,62.0
+/zapas/2526478,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,31.0,70.0,67.0,26.0,54.0,63.0
+/zapas/2526495,1.0,0.0,Vegas Golden Knights,Nashville Predators,31.0,71.0,68.0,40.0,71.0,59.0
+/zapas/2526506,1.0,0.0,Vegas Golden Knights,Dallas Stars,30.0,71.0,69.0,31.0,60.0,58.0
+/zapas/2526528,0.0,1.0,Vegas Golden Knights,Carolina Hurricanes,30.0,69.0,72.0,25.0,55.0,65.0
+/zapas/2526544,1.0,1.0,Vegas Golden Knights,Pittsburgh Penguins,31.0,68.0,69.0,26.0,59.0,61.0
+/zapas/2526564,1.0,1.0,Vegas Golden Knights,Florida Panthers,34.0,66.0,64.0,25.0,50.0,59.0
+/zapas/2526579,1.0,1.0,Vegas Golden Knights,Tampa Bay Lightning,37.0,70.0,64.0,43.0,78.0,49.0
+/zapas/2526607,1.0,1.0,Vegas Golden Knights,Washington Capitals,37.0,69.0,63.0,40.0,67.0,53.0
+/zapas/2526622,1.0,0.0,Vegas Golden Knights,Anaheim Ducks,39.0,69.0,59.0,30.0,53.0,58.0
+/zapas/2526628,1.0,0.0,Vegas Golden Knights,Los Angeles Kings,42.0,71.0,57.0,31.0,54.0,44.0
+/zapas/2526647,1.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,41.0,69.0,57.0,33.0,60.0,49.0
+/zapas/2526666,1.0,1.0,Vegas Golden Knights,Nashville Predators,44.0,73.0,52.0,40.0,68.0,49.0
+/zapas/2526676,0.0,0.0,Vegas Golden Knights,St. Louis Blues,44.0,71.0,50.0,26.0,44.0,46.0
+/zapas/2526686,1.0,0.0,Vegas Golden Knights,Chicago Blackhawks,41.0,68.0,50.0,31.0,58.0,56.0
+/zapas/2526705,1.0,1.0,Vegas Golden Knights,New York Rangers,41.0,69.0,52.0,33.0,61.0,48.0
+/zapas/2526730,0.0,1.0,Vegas Golden Knights,Edmonton Oilers,42.0,66.0,49.0,27.0,56.0,64.0
+/zapas/2526745,0.0,0.0,Vegas Golden Knights,Nashville Predators,40.0,64.0,50.0,36.0,61.0,52.0
+/zapas/2526755,1.0,0.0,Vegas Golden Knights,Tampa Bay Lightning,40.0,64.0,48.0,41.0,73.0,50.0
+/zapas/2526760,0.0,0.0,Vegas Golden Knights,Florida Panthers,43.0,66.0,45.0,30.0,55.0,62.0
+/zapas/2526776,1.0,0.0,Vegas Golden Knights,Carolina Hurricanes,44.0,65.0,42.0,31.0,57.0,61.0
+/zapas/2526796,1.0,1.0,Vegas Golden Knights,Columbus Blue Jackets,45.0,67.0,41.0,25.0,47.0,64.0
+/zapas/2526811,0.0,1.0,Vegas Golden Knights,New York Islanders,46.0,69.0,41.0,22.0,65.0,80.0
+/zapas/2526825,1.0,0.0,Vegas Golden Knights,Calgary Flames,44.0,66.0,40.0,34.0,53.0,43.0
+/zapas/2526837,1.0,0.0,Vegas Golden Knights,Winnipeg Jets,44.0,65.0,39.0,37.0,60.0,50.0
+/zapas/2526845,0.0,0.0,Vegas Golden Knights,Minnesota Wild,45.0,66.0,38.0,34.0,58.0,54.0
+/zapas/2526859,1.0,0.0,Vegas Golden Knights,Washington Capitals,42.0,66.0,42.0,35.0,64.0,57.0
+/zapas/2526867,0.0,0.0,Vegas Golden Knights,Pittsburgh Penguins,42.0,65.0,43.0,33.0,65.0,54.0
+/zapas/2526888,1.0,0.0,Vegas Golden Knights,San Jose Sharks,39.0,65.0,45.0,31.0,60.0,61.0
+/zapas/2526913,0.0,1.0,Vegas Golden Knights,Philadelphia Flyers,39.0,67.0,48.0,33.0,63.0,60.0
+/zapas/2526928,1.0,1.0,Vegas Golden Knights,Chicago Blackhawks,36.0,64.0,51.0,23.0,53.0,62.0
+/zapas/2526942,1.0,1.0,Vegas Golden Knights,Edmonton Oilers,37.0,66.0,51.0,20.0,53.0,72.0
+/zapas/2526952,1.0,1.0,Vegas Golden Knights,Montreal Canadiens,37.0,64.0,49.0,20.0,47.0,62.0
+/zapas/2526971,0.0,1.0,Vegas Golden Knights,Anaheim Ducks,37.0,67.0,52.0,33.0,58.0,55.0
+/zapas/2526983,1.0,1.0,Vegas Golden Knights,Calgary Flames,37.0,66.0,52.0,33.0,57.0,58.0
+/zapas/2526999,1.0,1.0,Vegas Golden Knights,Vancouver Canucks,37.0,68.0,51.0,21.0,55.0,62.0
+/zapas/2527022,0.0,0.0,Vegas Golden Knights,Los Angeles Kings,37.0,72.0,53.0,26.0,51.0,56.0
+/zapas/2527030,0.0,1.0,Vegas Golden Knights,Los Angeles Kings,37.0,72.0,53.0,28.0,52.0,54.0
+/zapas/2527052,0.0,1.0,Vegas Golden Knights,Ottawa Senators,37.0,73.0,56.0,15.0,51.0,70.0
+/zapas/2527065,1.0,0.0,Vegas Golden Knights,New Jersey Devils,34.0,73.0,60.0,25.0,49.0,59.0
+/zapas/2527077,0.0,0.0,Vegas Golden Knights,Columbus Blue Jackets,36.0,73.0,58.0,25.0,52.0,57.0
+/zapas/2527090,1.0,0.0,Vegas Golden Knights,Detroit Red Wings,33.0,69.0,61.0,22.0,52.0,61.0
+/zapas/2527103,1.0,0.0,Vegas Golden Knights,Buffalo Sabres,33.0,67.0,58.0,26.0,54.0,59.0
+/zapas/2527118,1.0,0.0,Vegas Golden Knights,Philadelphia Flyers,35.0,68.0,57.0,31.0,62.0,61.0
+/zapas/2527135,0.0,1.0,Vegas Golden Knights,New Jersey Devils,35.0,67.0,57.0,27.0,57.0,61.0
+/zapas/2527151,0.0,1.0,Vegas Golden Knights,Minnesota Wild,33.0,67.0,63.0,37.0,70.0,61.0
+/zapas/2527163,1.0,1.0,Vegas Golden Knights,Calgary Flames,33.0,67.0,62.0,29.0,55.0,64.0
+/zapas/2527184,1.0,1.0,Vegas Golden Knights,Vancouver Canucks,33.0,67.0,59.0,14.0,49.0,68.0
+/zapas/2527199,0.0,0.0,Vegas Golden Knights,San Jose Sharks,36.0,67.0,55.0,38.0,72.0,56.0
+/zapas/2527205,0.0,0.0,Vegas Golden Knights,Colorado Avalanche,34.0,63.0,54.0,36.0,68.0,58.0
+/zapas/2527229,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,35.0,63.0,52.0,35.0,65.0,55.0
+/zapas/2527242,0.0,1.0,Vegas Golden Knights,Arizona Coyotes,35.0,62.0,51.0,36.0,55.0,48.0
+/zapas/2527259,1.0,1.0,Vegas Golden Knights,St. Louis Blues,32.0,60.0,53.0,28.0,51.0,57.0
+/zapas/2527271,1.0,1.0,Vegas Golden Knights,San Jose Sharks,31.0,58.0,53.0,38.0,71.0,55.0
+/zapas/2527290,1.0,0.0,Vegas Golden Knights,Vancouver Canucks,34.0,61.0,53.0,22.0,51.0,64.0
+/zapas/2527303,0.0,0.0,Vegas Golden Knights,Edmonton Oilers,33.0,59.0,54.0,26.0,60.0,62.0
+/zapas/2527322,0.0,0.0,Vegas Golden Knights,Calgary Flames,30.0,56.0,55.0,19.0,39.0,65.0
+/zapas/2647212,0.0,1.0,Vegas Golden Knights,Philadelphia Flyers,29.0,55.0,59.0,29.0,63.0,65.0
+/zapas/2647223,1.0,0.0,Vegas Golden Knights,Minnesota Wild,29.0,56.0,60.0,31.0,58.0,59.0
+/zapas/2647232,0.0,0.0,Vegas Golden Knights,Buffalo Sabres,31.0,54.0,56.0,18.0,49.0,78.0
+/zapas/2647241,0.0,0.0,Vegas Golden Knights,Washington Capitals,28.0,53.0,58.0,41.0,74.0,55.0
+/zapas/2647248,0.0,0.0,Vegas Golden Knights,Pittsburgh Penguins,28.0,54.0,59.0,32.0,72.0,71.0
+/zapas/2647256,1.0,0.0,Vegas Golden Knights,Philadelphia Flyers,25.0,52.0,63.0,32.0,70.0,69.0
+/zapas/2647283,1.0,1.0,Vegas Golden Knights,Buffalo Sabres,26.0,51.0,62.0,21.0,50.0,74.0
+/zapas/2647310,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,26.0,52.0,61.0,43.0,63.0,42.0
+/zapas/2647331,0.0,1.0,Vegas Golden Knights,Vancouver Canucks,29.0,52.0,54.0,31.0,62.0,62.0
+/zapas/2647342,0.0,1.0,Vegas Golden Knights,Tampa Bay Lightning,30.0,52.0,53.0,37.0,68.0,56.0
+/zapas/2647361,1.0,1.0,Vegas Golden Knights,Ottawa Senators,27.0,50.0,56.0,17.0,56.0,82.0
+/zapas/2647371,0.0,0.0,Vegas Golden Knights,Nashville Predators,26.0,50.0,58.0,38.0,67.0,56.0
+/zapas/2647384,0.0,0.0,Vegas Golden Knights,St. Louis Blues,25.0,50.0,60.0,26.0,61.0,68.0
+/zapas/2647401,1.0,1.0,Vegas Golden Knights,Carolina Hurricanes,24.0,52.0,63.0,26.0,59.0,55.0
+/zapas/2647413,0.0,0.0,Vegas Golden Knights,Toronto Maple Leafs,24.0,51.0,62.0,37.0,68.0,55.0
+/zapas/2647429,1.0,0.0,Vegas Golden Knights,Ottawa Senators,24.0,50.0,62.0,23.0,63.0,81.0
+/zapas/2647444,0.0,0.0,Vegas Golden Knights,Montreal Canadiens,25.0,51.0,62.0,29.0,64.0,65.0
+/zapas/2647455,0.0,0.0,Vegas Golden Knights,Boston Bruins,22.0,52.0,65.0,31.0,58.0,53.0
+/zapas/2647474,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,20.0,48.0,65.0,27.0,47.0,54.0
+/zapas/2647488,0.0,1.0,Vegas Golden Knights,St. Louis Blues,23.0,50.0,61.0,24.0,63.0,66.0
+/zapas/2647505,1.0,0.0,Vegas Golden Knights,Edmonton Oilers,23.0,50.0,58.0,27.0,57.0,62.0
+/zapas/2647513,0.0,0.0,Vegas Golden Knights,Calgary Flames,26.0,54.0,56.0,32.0,62.0,61.0
+/zapas/2647526,1.0,0.0,Vegas Golden Knights,Arizona Coyotes,24.0,54.0,62.0,26.0,49.0,51.0
+/zapas/2647536,1.0,1.0,Vegas Golden Knights,Calgary Flames,26.0,55.0,60.0,35.0,66.0,57.0
+/zapas/2647554,1.0,1.0,Vegas Golden Knights,San Jose Sharks,29.0,55.0,55.0,35.0,70.0,57.0
+/zapas/2647572,1.0,0.0,Vegas Golden Knights,Chicago Blackhawks,32.0,59.0,51.0,22.0,47.0,64.0
+/zapas/2647587,1.0,0.0,Vegas Golden Knights,Vancouver Canucks,32.0,66.0,54.0,21.0,55.0,73.0
+/zapas/2647604,0.0,0.0,Vegas Golden Knights,Edmonton Oilers,32.0,66.0,56.0,26.0,55.0,62.0
+/zapas/2647622,1.0,1.0,Vegas Golden Knights,Washington Capitals,29.0,64.0,57.0,35.0,71.0,61.0
+/zapas/2647636,1.0,1.0,Vegas Golden Knights,Chicago Blackhawks,31.0,67.0,57.0,14.0,46.0,75.0
+/zapas/2647643,0.0,0.0,Vegas Golden Knights,Los Angeles Kings,34.0,69.0,57.0,22.0,45.0,58.0
+/zapas/2647657,1.0,1.0,Vegas Golden Knights,Dallas Stars,32.0,66.0,59.0,33.0,53.0,49.0
+/zapas/2647673,1.0,0.0,Vegas Golden Knights,New York Islanders,35.0,69.0,57.0,31.0,55.0,61.0
+/zapas/2647685,0.0,0.0,Vegas Golden Knights,New Jersey Devils,38.0,69.0,54.0,20.0,57.0,77.0
+/zapas/2647703,1.0,0.0,Vegas Golden Knights,New York Rangers,36.0,70.0,59.0,32.0,63.0,64.0
+/zapas/2647711,0.0,0.0,Vegas Golden Knights,Columbus Blue Jackets,38.0,73.0,59.0,32.0,64.0,61.0
+/zapas/2647738,1.0,1.0,Vegas Golden Knights,New York Islanders,35.0,68.0,57.0,28.0,54.0,63.0
+/zapas/2647746,0.0,1.0,Vegas Golden Knights,Montreal Canadiens,38.0,68.0,54.0,32.0,58.0,63.0
+/zapas/2647762,0.0,1.0,Vegas Golden Knights,Los Angeles Kings,39.0,70.0,54.0,23.0,49.0,59.0
+/zapas/2647775,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,37.0,68.0,58.0,35.0,70.0,65.0
+/zapas/2647783,1.0,0.0,Vegas Golden Knights,Los Angeles Kings,40.0,69.0,55.0,26.0,52.0,57.0
+/zapas/2647796,1.0,0.0,Vegas Golden Knights,Arizona Coyotes,40.0,67.0,53.0,22.0,51.0,61.0
+/zapas/2647812,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,43.0,70.0,47.0,25.0,51.0,58.0
+/zapas/2647833,1.0,0.0,Vegas Golden Knights,Anaheim Ducks,44.0,69.0,45.0,32.0,57.0,59.0
+/zapas/2647844,1.0,1.0,Vegas Golden Knights,New Jersey Devils,44.0,70.0,47.0,24.0,60.0,71.0
+/zapas/2647864,1.0,1.0,Vegas Golden Knights,New York Rangers,44.0,67.0,49.0,22.0,51.0,76.0
+/zapas/2647879,0.0,1.0,Vegas Golden Knights,San Jose Sharks,44.0,63.0,48.0,41.0,83.0,61.0
+/zapas/2647892,1.0,0.0,Vegas Golden Knights,Chicago Blackhawks,41.0,61.0,48.0,23.0,61.0,71.0
+/zapas/2647916,0.0,0.0,Vegas Golden Knights,Winnipeg Jets,43.0,64.0,49.0,37.0,69.0,54.0
+/zapas/2647947,1.0,1.0,Vegas Golden Knights,Pittsburgh Penguins,40.0,60.0,50.0,40.0,71.0,50.0
+/zapas/2647956,0.0,1.0,Vegas Golden Knights,Minnesota Wild,40.0,63.0,50.0,27.0,47.0,58.0
+/zapas/2647966,0.0,1.0,Vegas Golden Knights,Nashville Predators,40.0,64.0,49.0,27.0,61.0,56.0
+/zapas/2647985,0.0,0.0,Vegas Golden Knights,Carolina Hurricanes,37.0,61.0,49.0,35.0,64.0,62.0
+/zapas/2647992,0.0,0.0,Vegas Golden Knights,Florida Panthers,34.0,60.0,52.0,27.0,57.0,69.0
+/zapas/2648014,1.0,0.0,Vegas Golden Knights,Tampa Bay Lightning,33.0,57.0,50.0,42.0,75.0,55.0
+/zapas/2648028,1.0,0.0,Vegas Golden Knights,Detroit Red Wings,33.0,56.0,49.0,22.0,55.0,63.0
+/zapas/2648049,0.0,1.0,Vegas Golden Knights,Columbus Blue Jackets,36.0,60.0,51.0,32.0,65.0,59.0
+/zapas/2648072,0.0,1.0,Vegas Golden Knights,Arizona Coyotes,33.0,59.0,53.0,27.0,56.0,63.0
+/zapas/2648083,0.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,32.0,58.0,54.0,32.0,65.0,60.0
+/zapas/2648099,1.0,1.0,Vegas Golden Knights,Nashville Predators,31.0,58.0,56.0,34.0,65.0,51.0
+/zapas/2648111,0.0,0.0,Vegas Golden Knights,Colorado Avalanche,31.0,61.0,56.0,17.0,56.0,75.0
+/zapas/2648126,0.0,1.0,Vegas Golden Knights,Boston Bruins,28.0,57.0,58.0,40.0,67.0,50.0
+/zapas/2648142,0.0,1.0,Vegas Golden Knights,Winnipeg Jets,26.0,54.0,60.0,33.0,69.0,63.0
+/zapas/2648176,1.0,1.0,Vegas Golden Knights,Dallas Stars,23.0,55.0,66.0,28.0,42.0,51.0
+/zapas/2648187,1.0,1.0,Vegas Golden Knights,Florida Panthers,23.0,56.0,65.0,30.0,63.0,60.0
+/zapas/2648195,1.0,0.0,Vegas Golden Knights,Anaheim Ducks,22.0,59.0,68.0,16.0,37.0,70.0
+/zapas/2648209,1.0,1.0,Vegas Golden Knights,Vancouver Canucks,22.0,58.0,66.0,24.0,52.0,60.0
+/zapas/2648230,1.0,1.0,Vegas Golden Knights,Calgary Flames,25.0,59.0,63.0,38.0,68.0,60.0
+/zapas/2648257,1.0,0.0,Vegas Golden Knights,Vancouver Canucks,26.0,57.0,61.0,21.0,47.0,60.0
+/zapas/2648261,0.0,0.0,Vegas Golden Knights,Calgary Flames,29.0,62.0,59.0,34.0,59.0,59.0
+/zapas/2648293,1.0,0.0,Vegas Golden Knights,Dallas Stars,26.0,58.0,62.0,36.0,51.0,45.0
+/zapas/2648315,1.0,1.0,Vegas Golden Knights,Edmonton Oilers,29.0,58.0,59.0,27.0,53.0,63.0
+/zapas/2648319,1.0,0.0,Vegas Golden Knights,San Jose Sharks,32.0,63.0,60.0,40.0,71.0,55.0
+/zapas/2648344,1.0,1.0,Vegas Golden Knights,Winnipeg Jets,35.0,68.0,58.0,31.0,62.0,64.0
+/zapas/2648360,0.0,1.0,Vegas Golden Knights,Detroit Red Wings,38.0,72.0,55.0,17.0,47.0,76.0
+/zapas/2648371,0.0,0.0,Vegas Golden Knights,St. Louis Blues,37.0,71.0,56.0,37.0,60.0,43.0
+/zapas/2648386,0.0,0.0,Vegas Golden Knights,Colorado Avalanche,34.0,68.0,56.0,36.0,58.0,41.0
+/zapas/2648400,0.0,1.0,Vegas Golden Knights,Minnesota Wild,34.0,68.0,56.0,27.0,43.0,57.0
+/zapas/2648409,0.0,0.0,Vegas Golden Knights,San Jose Sharks,34.0,68.0,54.0,28.0,62.0,68.0
+/zapas/2648425,1.0,1.0,Vegas Golden Knights,Edmonton Oilers,35.0,68.0,52.0,31.0,61.0,66.0
+/zapas/2648451,0.0,1.0,Vegas Golden Knights,Arizona Coyotes,35.0,66.0,52.0,34.0,50.0,44.0
+/zapas/2648468,0.0,0.0,Vegas Golden Knights,Los Angeles Kings,35.0,67.0,53.0,22.0,52.0,71.0
+/zapas/2806380,1.0,1.0,Vegas Golden Knights,San Jose Sharks,34.0,67.0,55.0,29.0,66.0,67.0
+/zapas/2806393,1.0,0.0,Vegas Golden Knights,San Jose Sharks,37.0,68.0,50.0,26.0,62.0,68.0
+/zapas/2806419,0.0,1.0,Vegas Golden Knights,Boston Bruins,37.0,69.0,50.0,37.0,69.0,55.0
+/zapas/2806433,0.0,0.0,Vegas Golden Knights,Arizona Coyotes,35.0,66.0,49.0,27.0,41.0,44.0
+/zapas/2806450,1.0,1.0,Vegas Golden Knights,Calgary Flames,32.0,64.0,53.0,33.0,67.0,46.0
+/zapas/2806452,1.0,0.0,Vegas Golden Knights,Los Angeles Kings,32.0,67.0,55.0,25.0,61.0,74.0
+/zapas/2806466,0.0,1.0,Vegas Golden Knights,Nashville Predators,32.0,70.0,56.0,38.0,64.0,57.0
+/zapas/2806481,1.0,1.0,Vegas Golden Knights,Ottawa Senators,29.0,66.0,59.0,20.0,55.0,70.0
+/zapas/2806495,1.0,0.0,Vegas Golden Knights,Pittsburgh Penguins,31.0,66.0,55.0,37.0,63.0,48.0
+/zapas/2806506,0.0,0.0,Vegas Golden Knights,Philadelphia Flyers,31.0,67.0,54.0,17.0,50.0,74.0
+/zapas/2806517,1.0,0.0,Vegas Golden Knights,Chicago Blackhawks,28.0,63.0,57.0,28.0,61.0,57.0
+/zapas/2806531,0.0,1.0,Vegas Golden Knights,Colorado Avalanche,27.0,58.0,55.0,44.0,70.0,47.0
+/zapas/2806552,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,24.0,54.0,61.0,36.0,56.0,50.0
+/zapas/2806571,0.0,1.0,Vegas Golden Knights,Montreal Canadiens,26.0,57.0,60.0,34.0,76.0,60.0
+/zapas/2806591,0.0,1.0,Vegas Golden Knights,Winnipeg Jets,27.0,60.0,62.0,23.0,55.0,67.0
+/zapas/2806603,1.0,0.0,Vegas Golden Knights,Columbus Blue Jackets,28.0,60.0,62.0,29.0,60.0,64.0
+/zapas/2806613,0.0,0.0,Vegas Golden Knights,Toronto Maple Leafs,31.0,60.0,60.0,29.0,65.0,67.0
+/zapas/2806634,0.0,0.0,Vegas Golden Knights,Washington Capitals,31.0,58.0,58.0,38.0,74.0,62.0
+/zapas/2806642,0.0,0.0,Vegas Golden Knights,Detroit Red Wings,28.0,57.0,62.0,16.0,41.0,81.0
+/zapas/2806661,0.0,1.0,Vegas Golden Knights,Chicago Blackhawks,28.0,58.0,61.0,25.0,57.0,62.0
+/zapas/2806688,0.0,0.0,Vegas Golden Knights,Los Angeles Kings,28.0,59.0,61.0,22.0,54.0,71.0
+/zapas/2806691,1.0,1.0,Vegas Golden Knights,Calgary Flames,25.0,58.0,64.0,26.0,54.0,59.0
+/zapas/2806705,1.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,25.0,59.0,63.0,22.0,62.0,73.0
+/zapas/2806720,0.0,1.0,Vegas Golden Knights,San Jose Sharks,28.0,60.0,61.0,29.0,63.0,69.0
+/zapas/2806736,0.0,1.0,Vegas Golden Knights,Edmonton Oilers,29.0,60.0,59.0,31.0,59.0,56.0
+/zapas/2806747,0.0,0.0,Vegas Golden Knights,Dallas Stars,26.0,56.0,61.0,39.0,58.0,45.0
+/zapas/2806761,1.0,0.0,Vegas Golden Knights,Nashville Predators,23.0,53.0,63.0,28.0,68.0,69.0
+/zapas/2806775,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,25.0,55.0,61.0,32.0,59.0,50.0
+/zapas/2806796,1.0,0.0,Vegas Golden Knights,New York Rangers,25.0,54.0,60.0,34.0,68.0,64.0
+/zapas/2806803,1.0,0.0,Vegas Golden Knights,New Jersey Devils,25.0,55.0,61.0,27.0,53.0,68.0
+/zapas/2806817,0.0,0.0,Vegas Golden Knights,New York Islanders,28.0,57.0,58.0,43.0,62.0,46.0
+/zapas/2806841,0.0,1.0,Vegas Golden Knights,New York Rangers,27.0,57.0,60.0,33.0,63.0,64.0
+/zapas/2806858,1.0,1.0,Vegas Golden Knights,Chicago Blackhawks,27.0,56.0,59.0,28.0,58.0,62.0
+/zapas/2806868,0.0,0.0,Vegas Golden Knights,St. Louis Blues,27.0,56.0,58.0,35.0,57.0,49.0
+/zapas/2806875,1.0,0.0,Vegas Golden Knights,Dallas Stars,26.0,54.0,57.0,41.0,59.0,43.0
+/zapas/2806894,1.0,1.0,Vegas Golden Knights,Vancouver Canucks,27.0,54.0,55.0,23.0,59.0,67.0
+/zapas/2806909,1.0,1.0,Vegas Golden Knights,Minnesota Wild,27.0,58.0,57.0,39.0,72.0,63.0
+/zapas/2806923,0.0,0.0,Vegas Golden Knights,Vancouver Canucks,29.0,60.0,57.0,19.0,57.0,72.0
+/zapas/2806944,1.0,0.0,Vegas Golden Knights,San Jose Sharks,30.0,62.0,57.0,26.0,54.0,67.0
+/zapas/2806956,0.0,1.0,Vegas Golden Knights,Colorado Avalanche,33.0,63.0,55.0,39.0,69.0,53.0
+/zapas/2806967,0.0,0.0,Vegas Golden Knights,Anaheim Ducks,33.0,63.0,57.0,18.0,51.0,71.0
+/zapas/2806976,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,33.0,63.0,57.0,30.0,56.0,53.0
+/zapas/2806991,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,33.0,61.0,58.0,21.0,51.0,66.0
+/zapas/2807014,1.0,1.0,Vegas Golden Knights,Philadelphia Flyers,33.0,62.0,58.0,34.0,66.0,58.0
+/zapas/2807020,1.0,1.0,Vegas Golden Knights,St. Louis Blues,35.0,66.0,60.0,39.0,66.0,52.0
+/zapas/2807049,0.0,1.0,Vegas Golden Knights,Pittsburgh Penguins,37.0,69.0,60.0,39.0,68.0,54.0
+/zapas/2807062,0.0,1.0,Vegas Golden Knights,Los Angeles Kings,37.0,70.0,60.0,21.0,46.0,58.0
+/zapas/2807076,0.0,1.0,Vegas Golden Knights,Columbus Blue Jackets,35.0,68.0,62.0,32.0,52.0,46.0
+/zapas/2807090,0.0,0.0,Vegas Golden Knights,Buffalo Sabres,33.0,66.0,64.0,25.0,59.0,67.0
+/zapas/2807110,1.0,0.0,Vegas Golden Knights,Ottawa Senators,30.0,64.0,67.0,20.0,55.0,76.0
+/zapas/2807124,0.0,0.0,Vegas Golden Knights,Montreal Canadiens,30.0,64.0,66.0,25.0,55.0,52.0
+/zapas/2807137,0.0,0.0,Vegas Golden Knights,Boston Bruins,30.0,66.0,68.0,29.0,61.0,60.0
+/zapas/2807164,1.0,0.0,Vegas Golden Knights,Carolina Hurricanes,30.0,68.0,66.0,33.0,62.0,50.0
+/zapas/2807177,1.0,0.0,Vegas Golden Knights,Nashville Predators,30.0,67.0,68.0,30.0,68.0,71.0
+/zapas/2807190,0.0,0.0,Vegas Golden Knights,Tampa Bay Lightning,33.0,68.0,64.0,46.0,74.0,42.0
+/zapas/2807206,1.0,0.0,Vegas Golden Knights,Florida Panthers,31.0,67.0,66.0,43.0,79.0,63.0
+/zapas/2807230,0.0,1.0,Vegas Golden Knights,Carolina Hurricanes,31.0,68.0,65.0,28.0,61.0,59.0
+/zapas/2807247,0.0,0.0,Vegas Golden Knights,Minnesota Wild,29.0,70.0,69.0,29.0,62.0,66.0
+/zapas/2807265,1.0,1.0,Vegas Golden Knights,St. Louis Blues,28.0,66.0,68.0,31.0,69.0,64.0
+/zapas/2807281,1.0,1.0,Vegas Golden Knights,New York Islanders,27.0,69.0,72.0,31.0,59.0,60.0
+/zapas/2807294,1.0,1.0,Vegas Golden Knights,Washington Capitals,30.0,67.0,65.0,31.0,69.0,66.0
+/zapas/2807315,1.0,1.0,Vegas Golden Knights,Tampa Bay Lightning,33.0,67.0,63.0,48.0,71.0,35.0
+/zapas/2807333,1.0,1.0,Vegas Golden Knights,Florida Panthers,33.0,68.0,65.0,34.0,67.0,67.0
+/zapas/2807341,1.0,0.0,Vegas Golden Knights,Anaheim Ducks,33.0,68.0,66.0,23.0,51.0,63.0
+/zapas/2807358,1.0,1.0,Vegas Golden Knights,Edmonton Oilers,32.0,69.0,67.0,38.0,74.0,59.0
+/zapas/2807373,1.0,1.0,Vegas Golden Knights,Buffalo Sabres,33.0,67.0,63.0,29.0,57.0,61.0
+/zapas/2807392,0.0,1.0,Vegas Golden Knights,Los Angeles Kings,36.0,68.0,61.0,21.0,47.0,63.0
+/zapas/2807403,1.0,1.0,Vegas Golden Knights,New Jersey Devils,36.0,67.0,60.0,30.0,57.0,60.0
+/zapas/2807421,0.0,0.0,Vegas Golden Knights,Winnipeg Jets,39.0,70.0,57.0,29.0,58.0,52.0
+/zapas/2807437,1.0,0.0,Vegas Golden Knights,Calgary Flames,39.0,68.0,57.0,30.0,74.0,68.0
+/zapas/2807444,1.0,0.0,Vegas Golden Knights,Edmonton Oilers,39.0,69.0,58.0,34.0,66.0,57.0
+/zapas/2893223,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,40.0,68.0,55.0,28.0,56.0,66.0
+/zapas/2893239,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,43.0,71.0,54.0,25.0,55.0,70.0
+/zapas/2893252,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,42.0,69.0,52.0,28.0,55.0,52.0
+/zapas/2893266,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,42.0,70.0,54.0,27.0,55.0,53.0
+/zapas/2893278,0.0,0.0,Vegas Golden Knights,Arizona Coyotes,45.0,73.0,52.0,26.0,55.0,55.0
+/zapas/2893295,1.0,0.0,Vegas Golden Knights,Arizona Coyotes,42.0,68.0,55.0,26.0,57.0,57.0
+/zapas/2893314,0.0,1.0,Vegas Golden Knights,St. Louis Blues,44.0,64.0,49.0,38.0,59.0,50.0
+/zapas/2893385,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,45.0,68.0,50.0,34.0,59.0,54.0
+/zapas/2893402,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,46.0,67.0,47.0,34.0,58.0,53.0
+/zapas/2893418,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,46.0,70.0,50.0,26.0,44.0,58.0
+/zapas/2893434,0.0,1.0,Vegas Golden Knights,Anaheim Ducks,46.0,72.0,52.0,26.0,48.0,60.0
+/zapas/2893357,1.0,0.0,Vegas Golden Knights,San Jose Sharks,43.0,67.0,50.0,21.0,57.0,69.0
+/zapas/2893451,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,43.0,65.0,48.0,39.0,63.0,49.0
+/zapas/2893467,0.0,1.0,Vegas Golden Knights,Colorado Avalanche,44.0,60.0,43.0,36.0,60.0,48.0
+/zapas/2893489,0.0,0.0,Vegas Golden Knights,Colorado Avalanche,41.0,59.0,46.0,36.0,60.0,48.0
+/zapas/2893504,1.0,0.0,Vegas Golden Knights,Colorado Avalanche,38.0,57.0,47.0,36.0,60.0,48.0
+/zapas/2893546,1.0,0.0,Vegas Golden Knights,Anaheim Ducks,41.0,59.0,43.0,21.0,40.0,58.0
+/zapas/2893559,1.0,1.0,Vegas Golden Knights,Minnesota Wild,40.0,59.0,45.0,34.0,65.0,55.0
+/zapas/2893569,1.0,1.0,Vegas Golden Knights,Minnesota Wild,42.0,64.0,45.0,35.0,66.0,53.0
+/zapas/2893588,1.0,0.0,Vegas Golden Knights,San Jose Sharks,42.0,64.0,43.0,22.0,59.0,77.0
+/zapas/2893597,1.0,0.0,Vegas Golden Knights,San Jose Sharks,42.0,66.0,45.0,21.0,59.0,79.0
+/zapas/2893604,0.0,0.0,Vegas Golden Knights,Minnesota Wild,42.0,65.0,43.0,32.0,61.0,54.0
+/zapas/2893618,0.0,0.0,Vegas Golden Knights,Minnesota Wild,40.0,63.0,44.0,35.0,63.0,53.0
+/zapas/2893633,1.0,0.0,Vegas Golden Knights,St. Louis Blues,37.0,62.0,46.0,32.0,66.0,59.0
+/zapas/2893638,1.0,0.0,Vegas Golden Knights,St. Louis Blues,36.0,62.0,48.0,31.0,65.0,60.0
+/zapas/2893663,1.0,1.0,Vegas Golden Knights,San Jose Sharks,39.0,65.0,44.0,27.0,61.0,71.0
+/zapas/2893674,1.0,1.0,Vegas Golden Knights,San Jose Sharks,39.0,66.0,45.0,24.0,57.0,70.0
+/zapas/2893689,1.0,0.0,Vegas Golden Knights,Los Angeles Kings,41.0,67.0,44.0,29.0,58.0,53.0
+/zapas/2893703,0.0,0.0,Vegas Golden Knights,Los Angeles Kings,41.0,66.0,44.0,29.0,59.0,54.0
+/zapas/2893330,1.0,1.0,Vegas Golden Knights,St. Louis Blues,38.0,63.0,44.0,27.0,57.0,63.0
+/zapas/2893726,0.0,0.0,Vegas Golden Knights,Colorado Avalanche,38.0,63.0,41.0,39.0,68.0,47.0
+/zapas/2893741,1.0,0.0,Vegas Golden Knights,Colorado Avalanche,38.0,64.0,45.0,42.0,73.0,47.0
+/zapas/2893762,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,37.0,64.0,46.0,31.0,57.0,48.0
+/zapas/2893777,0.0,1.0,Vegas Golden Knights,Los Angeles Kings,37.0,67.0,47.0,28.0,52.0,50.0
+/zapas/2893787,0.0,1.0,Vegas Golden Knights,Minnesota Wild,37.0,67.0,48.0,40.0,61.0,50.0
+/zapas/2893803,0.0,1.0,Vegas Golden Knights,Minnesota Wild,38.0,67.0,48.0,39.0,58.0,50.0
+/zapas/2893813,1.0,0.0,Vegas Golden Knights,St. Louis Blues,35.0,65.0,50.0,20.0,48.0,67.0
+/zapas/2893828,0.0,0.0,Vegas Golden Knights,St. Louis Blues,36.0,68.0,49.0,20.0,45.0,68.0
+/zapas/2893847,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,34.0,64.0,48.0,30.0,56.0,64.0
+/zapas/2893863,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,34.0,66.0,51.0,30.0,58.0,65.0
+/zapas/2893871,1.0,0.0,Vegas Golden Knights,Los Angeles Kings,35.0,62.0,47.0,22.0,50.0,61.0
+/zapas/2893882,1.0,0.0,Vegas Golden Knights,Los Angeles Kings,35.0,62.0,49.0,22.0,50.0,62.0
+/zapas/2893897,1.0,0.0,Vegas Golden Knights,Anaheim Ducks,38.0,68.0,49.0,21.0,51.0,66.0
+/zapas/2893913,1.0,0.0,Vegas Golden Knights,Anaheim Ducks,41.0,69.0,45.0,19.0,46.0,66.0
+/zapas/2893921,1.0,1.0,Vegas Golden Knights,San Jose Sharks,42.0,69.0,43.0,24.0,46.0,61.0
+/zapas/2893936,1.0,1.0,Vegas Golden Knights,San Jose Sharks,41.0,67.0,44.0,22.0,45.0,63.0
+/zapas/2893533,1.0,0.0,Vegas Golden Knights,Anaheim Ducks,41.0,70.0,45.0,17.0,42.0,65.0
+/zapas/2893987,1.0,1.0,Vegas Golden Knights,Colorado Avalanche,41.0,70.0,42.0,47.0,84.0,52.0
+/zapas/2894002,0.0,0.0,Vegas Golden Knights,Arizona Coyotes,41.0,71.0,42.0,25.0,62.0,69.0
+/zapas/2894017,1.0,0.0,Vegas Golden Knights,Arizona Coyotes,41.0,70.0,42.0,25.0,60.0,68.0
+/zapas/2894021,0.0,0.0,Vegas Golden Knights,Minnesota Wild,40.0,68.0,43.0,40.0,73.0,59.0
+/zapas/2894039,1.0,0.0,Vegas Golden Knights,Minnesota Wild,40.0,72.0,44.0,40.0,76.0,62.0
+/zapas/2894059,1.0,1.0,Vegas Golden Knights,St. Louis Blues,40.0,72.0,44.0,25.0,56.0,59.0
+/zapas/2894074,1.0,1.0,Vegas Golden Knights,St. Louis Blues,39.0,72.0,46.0,26.0,58.0,58.0
+/zapas/2893972,0.0,1.0,Vegas Golden Knights,Colorado Avalanche,42.0,74.0,43.0,44.0,71.0,56.0
+/zapas/2893370,1.0,0.0,Vegas Golden Knights,San Jose Sharks,41.0,73.0,42.0,21.0,52.0,73.0
+/zapas/2896989,0.0,0.0,Vegas Golden Knights,Los Angeles Kings,44.0,76.0,42.0,22.0,45.0,68.0
+/zapas/2897031,0.0,1.0,Vegas Golden Knights,St. Louis Blues,44.0,77.0,45.0,39.0,77.0,53.0
+/zapas/2897043,0.0,1.0,Vegas Golden Knights,Edmonton Oilers,41.0,71.0,44.0,42.0,71.0,50.0
+/zapas/2897060,0.0,1.0,Vegas Golden Knights,New York Islanders,38.0,73.0,49.0,26.0,47.0,47.0
+/zapas/2897074,1.0,0.0,Vegas Golden Knights,Colorado Avalanche,35.0,69.0,49.0,37.0,66.0,57.0
+/zapas/2897080,1.0,0.0,Vegas Golden Knights,Dallas Stars,35.0,66.0,48.0,25.0,53.0,61.0
+/zapas/2897092,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,34.0,65.0,50.0,17.0,48.0,69.0
+/zapas/2897122,0.0,0.0,Vegas Golden Knights,Toronto Maple Leafs,33.0,65.0,52.0,35.0,61.0,57.0
+/zapas/2897135,1.0,0.0,Vegas Golden Knights,Ottawa Senators,31.0,62.0,54.0,34.0,59.0,56.0
+/zapas/2897149,1.0,0.0,Vegas Golden Knights,Montreal Canadiens,31.0,62.0,53.0,18.0,46.0,68.0
+/zapas/2897159,0.0,0.0,Vegas Golden Knights,Detroit Red Wings,31.0,62.0,54.0,26.0,54.0,60.0
+/zapas/2897176,1.0,1.0,Vegas Golden Knights,Minnesota Wild,31.0,63.0,56.0,34.0,69.0,71.0
+/zapas/2897192,1.0,1.0,Vegas Golden Knights,Vancouver Canucks,32.0,63.0,56.0,22.0,52.0,67.0
+/zapas/2897213,0.0,1.0,Vegas Golden Knights,Carolina Hurricanes,35.0,65.0,54.0,44.0,63.0,42.0
+/zapas/2897228,1.0,1.0,Vegas Golden Knights,Detroit Red Wings,33.0,64.0,56.0,27.0,60.0,67.0
+/zapas/2897242,1.0,1.0,Vegas Golden Knights,Columbus Blue Jackets,34.0,65.0,55.0,31.0,64.0,61.0
+/zapas/2897264,0.0,0.0,Vegas Golden Knights,St. Louis Blues,34.0,64.0,56.0,36.0,69.0,51.0
+/zapas/2897276,1.0,0.0,Vegas Golden Knights,Nashville Predators,34.0,65.0,59.0,34.0,58.0,51.0
+/zapas/2897298,0.0,1.0,Vegas Golden Knights,Edmonton Oilers,34.0,64.0,61.0,39.0,75.0,61.0
 /zapas/2897327,0.0,0.0,Vegas Golden Knights,Anaheim Ducks,31.0,62.0,61.0,30.0,67.0,60.0
 /zapas/2897345,1.0,0.0,Vegas Golden Knights,Arizona Coyotes,31.0,65.0,61.0,14.0,35.0,65.0
+/zapas/2897358,1.0,1.0,Vegas Golden Knights,Calgary Flames,34.0,71.0,59.0,41.0,68.0,37.0
+/zapas/2897380,1.0,1.0,Vegas Golden Knights,Dallas Stars,37.0,71.0,56.0,35.0,60.0,54.0
 /zapas/2897394,0.0,1.0,Vegas Golden Knights,Philadelphia Flyers,40.0,76.0,58.0,20.0,38.0,69.0
+/zapas/2897413,1.0,1.0,Vegas Golden Knights,Minnesota Wild,37.0,76.0,61.0,39.0,81.0,54.0
+/zapas/2897426,1.0,0.0,Vegas Golden Knights,Boston Bruins,38.0,79.0,63.0,34.0,55.0,51.0
 /zapas/2897443,1.0,0.0,Vegas Golden Knights,New Jersey Devils,39.0,78.0,60.0,21.0,54.0,71.0
+/zapas/2897450,1.0,0.0,Vegas Golden Knights,New York Rangers,42.0,83.0,59.0,40.0,62.0,55.0
 /zapas/2897467,1.0,0.0,Vegas Golden Knights,New York Islanders,41.0,81.0,60.0,22.0,41.0,58.0
+/zapas/2897475,0.0,1.0,Vegas Golden Knights,Tampa Bay Lightning,40.0,80.0,61.0,40.0,65.0,47.0
+/zapas/2897518,1.0,0.0,Vegas Golden Knights,Los Angeles Kings,40.0,81.0,60.0,32.0,53.0,50.0
 /zapas/2897540,1.0,1.0,Vegas Golden Knights,Anaheim Ducks,40.0,83.0,61.0,32.0,62.0,54.0
 /zapas/2897556,0.0,1.0,Vegas Golden Knights,Winnipeg Jets,40.0,83.0,60.0,26.0,53.0,57.0
+/zapas/2897567,0.0,1.0,Vegas Golden Knights,Nashville Predators,38.0,80.0,61.0,37.0,65.0,54.0
+/zapas/2897580,1.0,1.0,Vegas Golden Knights,New York Rangers,38.0,80.0,60.0,41.0,63.0,45.0
 /zapas/2897596,0.0,1.0,Vegas Golden Knights,Chicago Blackhawks,38.0,80.0,59.0,23.0,50.0,68.0
+/zapas/2897618,0.0,1.0,Vegas Golden Knights,Toronto Maple Leafs,35.0,78.0,59.0,46.0,79.0,46.0
+/zapas/2897663,0.0,1.0,Vegas Golden Knights,Pittsburgh Penguins,36.0,79.0,58.0,44.0,69.0,46.0
 /zapas/2897685,1.0,1.0,Vegas Golden Knights,Montreal Canadiens,33.0,77.0,61.0,14.0,45.0,78.0
+/zapas/2897724,1.0,0.0,Vegas Golden Knights,Washington Capitals,35.0,79.0,61.0,27.0,61.0,65.0
+/zapas/2897732,0.0,0.0,Vegas Golden Knights,Carolina Hurricanes,38.0,75.0,55.0,39.0,78.0,55.0
+/zapas/2897744,0.0,0.0,Vegas Golden Knights,Florida Panthers,36.0,71.0,58.0,38.0,86.0,61.0
+/zapas/2897759,1.0,0.0,Vegas Golden Knights,Tampa Bay Lightning,33.0,69.0,60.0,41.0,71.0,60.0
 /zapas/2897776,1.0,1.0,Vegas Golden Knights,Buffalo Sabres,32.0,67.0,58.0,21.0,45.0,62.0
+/zapas/2897643,1.0,0.0,Vegas Golden Knights,Edmonton Oilers,35.0,69.0,56.0,22.0,57.0,73.0
+/zapas/2897648,0.0,0.0,Vegas Golden Knights,Calgary Flames,35.0,67.0,52.0,29.0,64.0,61.0
+/zapas/2897505,0.0,1.0,Vegas Golden Knights,Colorado Avalanche,32.0,63.0,57.0,47.0,76.0,44.0
+/zapas/2897490,0.0,1.0,Vegas Golden Knights,Los Angeles Kings,29.0,58.0,56.0,34.0,62.0,63.0
 /zapas/2898136,1.0,0.0,Vegas Golden Knights,San Jose Sharks,28.0,58.0,58.0,21.0,55.0,73.0
 /zapas/2897806,0.0,0.0,Vegas Golden Knights,Arizona Coyotes,29.0,58.0,56.0,21.0,52.0,69.0
+/zapas/2897810,0.0,1.0,Vegas Golden Knights,Colorado Avalanche,29.0,56.0,55.0,46.0,71.0,44.0
 /zapas/2897832,1.0,1.0,Vegas Golden Knights,San Jose Sharks,26.0,52.0,55.0,23.0,48.0,63.0
+/zapas/2897845,0.0,1.0,Vegas Golden Knights,Boston Bruins,26.0,52.0,55.0,32.0,54.0,59.0
 /zapas/2897854,1.0,0.0,Vegas Golden Knights,Anaheim Ducks,25.0,50.0,55.0,24.0,54.0,73.0
 /zapas/2897871,1.0,1.0,Vegas Golden Knights,Ottawa Senators,28.0,53.0,56.0,25.0,46.0,53.0
 /zapas/2897892,0.0,0.0,Vegas Golden Knights,Philadelphia Flyers,28.0,50.0,56.0,14.0,49.0,73.0
 /zapas/2897901,0.0,0.0,Vegas Golden Knights,Buffalo Sabres,28.0,50.0,56.0,22.0,56.0,76.0
+/zapas/2897911,0.0,0.0,Vegas Golden Knights,Pittsburgh Penguins,27.0,48.0,55.0,35.0,63.0,56.0
 /zapas/2897932,0.0,0.0,Vegas Golden Knights,Columbus Blue Jackets,27.0,47.0,55.0,32.0,72.0,79.0
 /zapas/2897940,0.0,0.0,Vegas Golden Knights,Winnipeg Jets,25.0,47.0,58.0,32.0,67.0,63.0
+/zapas/2897950,1.0,1.0,Vegas Golden Knights,Florida Panthers,22.0,49.0,65.0,39.0,83.0,59.0
+/zapas/2897966,1.0,1.0,Vegas Golden Knights,Los Angeles Kings,24.0,51.0,64.0,37.0,60.0,58.0
+/zapas/2897983,0.0,0.0,Vegas Golden Knights,Minnesota Wild,27.0,55.0,61.0,27.0,69.0,76.0
 /zapas/2897988,0.0,0.0,Vegas Golden Knights,Winnipeg Jets,25.0,52.0,62.0,32.0,75.0,70.0
+/zapas/2898000,1.0,1.0,Vegas Golden Knights,Nashville Predators,22.0,47.0,64.0,30.0,73.0,64.0
 /zapas/2898015,1.0,1.0,Vegas Golden Knights,Chicago Blackhawks,22.0,49.0,65.0,24.0,63.0,73.0
 /zapas/2898051,1.0,0.0,Vegas Golden Knights,Seattle Kraken,24.0,54.0,63.0,19.0,55.0,74.0
 /zapas/2898065,1.0,0.0,Vegas Golden Knights,Seattle Kraken,27.0,57.0,61.0,19.0,53.0,72.0
@@ -70,6 +342,11 @@ game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,T
 /zapas/2898104,0.0,1.0,Vegas Golden Knights,Vancouver Canucks,28.0,58.0,60.0,31.0,67.0,63.0
 /zapas/2898124,1.0,1.0,Vegas Golden Knights,Arizona Coyotes,28.0,58.0,62.0,26.0,62.0,70.0
 /zapas/2898145,0.0,0.0,Vegas Golden Knights,Vancouver Canucks,31.0,62.0,60.0,34.0,65.0,57.0
+/zapas/2898164,1.0,0.0,Vegas Golden Knights,Calgary Flames,29.0,63.0,64.0,40.0,72.0,51.0
+/zapas/2898174,0.0,0.0,Vegas Golden Knights,Edmonton Oilers,32.0,67.0,60.0,37.0,78.0,60.0
 /zapas/2898199,0.0,1.0,Vegas Golden Knights,New Jersey Devils,29.0,62.0,60.0,20.0,63.0,78.0
+/zapas/2898210,1.0,1.0,Vegas Golden Knights,Washington Capitals,26.0,62.0,62.0,39.0,83.0,69.0
 /zapas/2898241,0.0,1.0,Vegas Golden Knights,San Jose Sharks,28.0,65.0,63.0,20.0,49.0,65.0
+/zapas/2898257,0.0,0.0,Vegas Golden Knights,Dallas Stars,29.0,68.0,65.0,33.0,54.0,62.0
 /zapas/2898268,0.0,0.0,Vegas Golden Knights,Chicago Blackhawks,30.0,68.0,63.0,15.0,52.0,77.0
+/zapas/2898282,1.0,0.0,Vegas Golden Knights,St. Louis Blues,31.0,67.0,61.0,44.0,90.0,62.0

@@ -1,140 +1,351 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2526370,1.0,0.0,Vancouver Canucks,Philadelphia Flyers,30.0,51.0,57.0,27.0,56.0,56.0
+/zapas/2526378,1.0,0.0,Vancouver Canucks,Pittsburgh Penguins,30.0,53.0,57.0,31.0,54.0,60.0
+/zapas/2526394,0.0,0.0,Vancouver Canucks,New Jersey Devils,32.0,56.0,56.0,33.0,65.0,65.0
 /zapas/2526414,0.0,0.0,Vancouver Canucks,New York Rangers,32.0,56.0,55.0,32.0,65.0,57.0
 /zapas/2526422,0.0,0.0,Vancouver Canucks,New York Islanders,33.0,57.0,54.0,37.0,76.0,63.0
+/zapas/2526437,1.0,0.0,Vancouver Canucks,Nashville Predators,30.0,56.0,59.0,39.0,63.0,54.0
+/zapas/2526452,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,33.0,58.0,56.0,31.0,64.0,60.0
 /zapas/2526477,1.0,1.0,Vancouver Canucks,Carolina Hurricanes,33.0,56.0,55.0,26.0,58.0,65.0
+/zapas/2526490,0.0,1.0,Vancouver Canucks,Philadelphia Flyers,33.0,55.0,54.0,22.0,51.0,67.0
 /zapas/2526508,0.0,0.0,Vancouver Canucks,Calgary Flames,30.0,55.0,58.0,28.0,61.0,67.0
+/zapas/2526518,0.0,0.0,Vancouver Canucks,Winnipeg Jets,27.0,51.0,60.0,38.0,71.0,55.0
+/zapas/2526532,0.0,1.0,Vancouver Canucks,Nashville Predators,26.0,51.0,63.0,40.0,72.0,60.0
+/zapas/2526549,1.0,1.0,Vancouver Canucks,San Jose Sharks,26.0,52.0,68.0,37.0,55.0,45.0
 /zapas/2526563,0.0,1.0,Vancouver Canucks,Calgary Flames,25.0,52.0,69.0,27.0,61.0,67.0
 /zapas/2526578,0.0,1.0,Vancouver Canucks,Montreal Canadiens,25.0,51.0,72.0,30.0,53.0,52.0
+/zapas/2526592,0.0,0.0,Vancouver Canucks,San Jose Sharks,22.0,51.0,76.0,32.0,54.0,51.0
 /zapas/2526610,0.0,1.0,Vancouver Canucks,St. Louis Blues,23.0,54.0,77.0,26.0,54.0,54.0
 /zapas/2526627,1.0,1.0,Vancouver Canucks,Chicago Blackhawks,23.0,55.0,75.0,30.0,60.0,58.0
+/zapas/2526646,0.0,1.0,Vancouver Canucks,Los Angeles Kings,23.0,57.0,75.0,32.0,54.0,44.0
+/zapas/2526667,0.0,1.0,Vancouver Canucks,Anaheim Ducks,23.0,58.0,74.0,28.0,51.0,59.0
+/zapas/2526692,0.0,0.0,Vancouver Canucks,Toronto Maple Leafs,22.0,55.0,75.0,30.0,58.0,55.0
 /zapas/2526703,0.0,0.0,Vancouver Canucks,Montreal Canadiens,20.0,52.0,76.0,27.0,52.0,53.0
+/zapas/2526707,0.0,0.0,Vancouver Canucks,Washington Capitals,17.0,49.0,79.0,42.0,70.0,50.0
+/zapas/2526719,1.0,0.0,Vancouver Canucks,Columbus Blue Jackets,17.0,48.0,79.0,26.0,50.0,64.0
+/zapas/2526736,1.0,0.0,Vancouver Canucks,Minnesota Wild,19.0,50.0,77.0,33.0,55.0,52.0
 /zapas/2526774,0.0,0.0,Vancouver Canucks,Edmonton Oilers,21.0,51.0,74.0,29.0,55.0,60.0
+/zapas/2526777,0.0,0.0,Vancouver Canucks,Winnipeg Jets,18.0,48.0,76.0,32.0,61.0,57.0
+/zapas/2526795,1.0,1.0,Vancouver Canucks,Los Angeles Kings,15.0,46.0,76.0,26.0,53.0,54.0
 /zapas/2526812,0.0,1.0,Vancouver Canucks,Buffalo Sabres,15.0,49.0,78.0,21.0,50.0,67.0
+/zapas/2526826,1.0,1.0,Vancouver Canucks,Colorado Avalanche,15.0,48.0,78.0,41.0,67.0,45.0
 /zapas/2526841,1.0,1.0,Vancouver Canucks,Chicago Blackhawks,17.0,50.0,77.0,30.0,58.0,55.0
+/zapas/2526856,0.0,1.0,Vancouver Canucks,Tampa Bay Lightning,20.0,53.0,74.0,35.0,66.0,57.0
 /zapas/2526872,0.0,0.0,Vancouver Canucks,Florida Panthers,20.0,54.0,71.0,31.0,53.0,58.0
+/zapas/2526884,0.0,0.0,Vancouver Canucks,Tampa Bay Lightning,18.0,51.0,71.0,35.0,63.0,56.0
 /zapas/2526893,0.0,0.0,Vancouver Canucks,Carolina Hurricanes,18.0,52.0,70.0,29.0,49.0,57.0
 /zapas/2526909,1.0,0.0,Vancouver Canucks,Dallas Stars,18.0,48.0,67.0,40.0,69.0,42.0
 /zapas/2526932,0.0,1.0,Vancouver Canucks,Florida Panthers,20.0,50.0,62.0,36.0,59.0,57.0
+/zapas/2526943,0.0,0.0,Vancouver Canucks,San Jose Sharks,20.0,52.0,63.0,28.0,64.0,65.0
+/zapas/2526957,1.0,1.0,Vancouver Canucks,Boston Bruins,17.0,48.0,65.0,47.0,79.0,43.0
+/zapas/2526980,0.0,1.0,Vancouver Canucks,Colorado Avalanche,20.0,51.0,62.0,35.0,56.0,53.0
+/zapas/2526999,0.0,0.0,Vancouver Canucks,Vegas Golden Knights,21.0,55.0,62.0,37.0,68.0,51.0
 /zapas/2527017,1.0,0.0,Vancouver Canucks,Arizona Coyotes,20.0,56.0,65.0,29.0,53.0,56.0
+/zapas/2527021,0.0,0.0,Vancouver Canucks,Colorado Avalanche,23.0,57.0,61.0,30.0,52.0,61.0
 /zapas/2527036,0.0,1.0,Vancouver Canucks,New York Rangers,23.0,57.0,61.0,16.0,47.0,77.0
+/zapas/2527051,0.0,1.0,Vancouver Canucks,Nashville Predators,21.0,57.0,65.0,41.0,74.0,48.0
 /zapas/2527073,1.0,1.0,Vancouver Canucks,New York Islanders,20.0,57.0,67.0,21.0,54.0,69.0
 /zapas/2527085,0.0,1.0,Vancouver Canucks,Arizona Coyotes,22.0,59.0,65.0,32.0,53.0,53.0
+/zapas/2527101,0.0,1.0,Vancouver Canucks,Minnesota Wild,22.0,60.0,66.0,39.0,72.0,59.0
 /zapas/2527116,0.0,0.0,Vancouver Canucks,Arizona Coyotes,19.0,56.0,69.0,33.0,53.0,53.0
+/zapas/2527123,0.0,0.0,Vancouver Canucks,Los Angeles Kings,19.0,56.0,66.0,34.0,60.0,53.0
+/zapas/2527136,0.0,0.0,Vancouver Canucks,Anaheim Ducks,17.0,52.0,66.0,31.0,54.0,52.0
+/zapas/2527161,0.0,1.0,Vancouver Canucks,San Jose Sharks,14.0,48.0,67.0,35.0,65.0,55.0
+/zapas/2527184,0.0,0.0,Vancouver Canucks,Vegas Golden Knights,14.0,49.0,68.0,33.0,67.0,59.0
 /zapas/2527197,1.0,0.0,Vancouver Canucks,Chicago Blackhawks,14.0,49.0,69.0,17.0,52.0,76.0
 /zapas/2527202,0.0,0.0,Vancouver Canucks,St. Louis Blues,17.0,52.0,66.0,26.0,51.0,60.0
 /zapas/2527218,1.0,0.0,Vancouver Canucks,Dallas Stars,17.0,52.0,66.0,20.0,43.0,62.0
+/zapas/2527239,1.0,1.0,Vancouver Canucks,Anaheim Ducks,17.0,50.0,67.0,37.0,59.0,43.0
 /zapas/2527252,1.0,1.0,Vancouver Canucks,Edmonton Oilers,20.0,51.0,64.0,31.0,66.0,61.0
+/zapas/2527262,1.0,1.0,Vancouver Canucks,Columbus Blue Jackets,23.0,52.0,61.0,43.0,72.0,48.0
+/zapas/2527290,0.0,1.0,Vancouver Canucks,Vegas Golden Knights,22.0,51.0,64.0,34.0,61.0,53.0
 /zapas/2527304,1.0,1.0,Vancouver Canucks,Arizona Coyotes,22.0,51.0,64.0,36.0,60.0,47.0
 /zapas/2527323,0.0,0.0,Vancouver Canucks,Edmonton Oilers,24.0,52.0,61.0,26.0,60.0,62.0
+/zapas/2647201,1.0,1.0,Vancouver Canucks,Calgary Flames,22.0,51.0,63.0,19.0,41.0,64.0
+/zapas/2647226,0.0,0.0,Vancouver Canucks,Calgary Flames,25.0,55.0,62.0,16.0,38.0,68.0
+/zapas/2647235,0.0,0.0,Vancouver Canucks,Carolina Hurricanes,24.0,54.0,63.0,27.0,66.0,69.0
+/zapas/2647251,1.0,0.0,Vancouver Canucks,Tampa Bay Lightning,23.0,54.0,64.0,33.0,71.0,67.0
 /zapas/2647262,1.0,0.0,Vancouver Canucks,Florida Panthers,24.0,54.0,62.0,37.0,60.0,49.0
+/zapas/2647279,1.0,0.0,Vancouver Canucks,Pittsburgh Penguins,27.0,56.0,62.0,34.0,72.0,67.0
+/zapas/2647292,0.0,0.0,Vancouver Canucks,Winnipeg Jets,29.0,57.0,59.0,39.0,65.0,55.0
+/zapas/2647309,1.0,1.0,Vancouver Canucks,Boston Bruins,29.0,58.0,62.0,34.0,64.0,56.0
+/zapas/2647319,0.0,1.0,Vancouver Canucks,Washington Capitals,31.0,60.0,60.0,39.0,79.0,65.0
+/zapas/2647331,1.0,0.0,Vancouver Canucks,Vegas Golden Knights,31.0,62.0,62.0,29.0,52.0,54.0
 /zapas/2647341,0.0,0.0,Vancouver Canucks,Arizona Coyotes,33.0,62.0,59.0,27.0,54.0,49.0
+/zapas/2647356,0.0,1.0,Vancouver Canucks,Pittsburgh Penguins,33.0,62.0,59.0,35.0,78.0,65.0
+/zapas/2647364,1.0,1.0,Vancouver Canucks,Minnesota Wild,30.0,57.0,62.0,34.0,58.0,53.0
 /zapas/2647376,1.0,1.0,Vancouver Canucks,Chicago Blackhawks,33.0,61.0,60.0,28.0,61.0,71.0
+/zapas/2647391,1.0,1.0,Vancouver Canucks,Colorado Avalanche,33.0,61.0,61.0,30.0,64.0,52.0
 /zapas/2647417,0.0,0.0,Vancouver Canucks,Detroit Red Wings,32.0,64.0,66.0,24.0,60.0,71.0
+/zapas/2647425,1.0,0.0,Vancouver Canucks,Boston Bruins,30.0,64.0,68.0,32.0,56.0,49.0
 /zapas/2647440,0.0,0.0,Vancouver Canucks,Buffalo Sabres,31.0,67.0,69.0,25.0,61.0,69.0
 /zapas/2647458,0.0,0.0,Vancouver Canucks,New York Rangers,31.0,66.0,68.0,21.0,53.0,66.0
-/zapas/2647480,0.0,0.0,Vancouver Canucks,Minnesota Wild,28.0,63.0,69.0,33.0,56.0,56.0
+/zapas/2647464,0.0,0.0,Vancouver Canucks,New York Islanders,29.0,63.0,67.0,32.0,63.0,54.0
+/zapas/2647480,0.0,0.0,Vancouver Canucks,Minnesota Wild,28.0,63.0,69.0,37.0,66.0,57.0
 /zapas/2647493,0.0,1.0,Vancouver Canucks,Montreal Canadiens,25.0,60.0,73.0,31.0,65.0,67.0
+/zapas/2647514,0.0,1.0,Vancouver Canucks,Winnipeg Jets,25.0,58.0,69.0,40.0,61.0,47.0
 /zapas/2647527,0.0,0.0,Vancouver Canucks,Anaheim Ducks,25.0,58.0,70.0,20.0,42.0,63.0
+/zapas/2647544,0.0,0.0,Vancouver Canucks,San Jose Sharks,22.0,57.0,73.0,32.0,66.0,61.0
 /zapas/2647555,1.0,0.0,Vancouver Canucks,Los Angeles Kings,19.0,54.0,75.0,20.0,42.0,65.0
 /zapas/2647574,0.0,1.0,Vancouver Canucks,Los Angeles Kings,20.0,55.0,75.0,20.0,44.0,67.0
+/zapas/2647587,0.0,1.0,Vancouver Canucks,Vegas Golden Knights,21.0,55.0,73.0,32.0,66.0,54.0
+/zapas/2647594,0.0,1.0,Vancouver Canucks,Dallas Stars,19.0,56.0,76.0,30.0,54.0,52.0
 /zapas/2647621,0.0,1.0,Vancouver Canucks,Minnesota Wild,19.0,55.0,73.0,35.0,69.0,57.0
+/zapas/2647635,1.0,1.0,Vancouver Canucks,Nashville Predators,17.0,54.0,74.0,35.0,63.0,52.0
+/zapas/2647652,1.0,0.0,Vancouver Canucks,St. Louis Blues,20.0,58.0,73.0,25.0,56.0,64.0
+/zapas/2647667,1.0,0.0,Vancouver Canucks,Columbus Blue Jackets,23.0,64.0,69.0,33.0,69.0,65.0
+/zapas/2647681,0.0,0.0,Vancouver Canucks,Nashville Predators,23.0,62.0,69.0,36.0,60.0,50.0
 /zapas/2647702,1.0,1.0,Vancouver Canucks,Philadelphia Flyers,21.0,61.0,71.0,27.0,61.0,71.0
 /zapas/2647709,1.0,1.0,Vancouver Canucks,Edmonton Oilers,22.0,59.0,66.0,29.0,56.0,60.0
+/zapas/2647724,0.0,1.0,Vancouver Canucks,Tampa Bay Lightning,24.0,61.0,65.0,43.0,88.0,59.0
+/zapas/2647737,1.0,1.0,Vancouver Canucks,St. Louis Blues,21.0,55.0,65.0,26.0,50.0,61.0
+/zapas/2647755,0.0,1.0,Vancouver Canucks,Winnipeg Jets,23.0,57.0,62.0,38.0,81.0,61.0
 /zapas/2647774,1.0,0.0,Vancouver Canucks,Edmonton Oilers,23.0,56.0,61.0,29.0,57.0,61.0
+/zapas/2647795,1.0,0.0,Vancouver Canucks,Calgary Flames,26.0,58.0,58.0,40.0,75.0,48.0
 /zapas/2647798,0.0,0.0,Vancouver Canucks,New Jersey Devils,28.0,59.0,54.0,23.0,57.0,71.0
 /zapas/2647813,1.0,0.0,Vancouver Canucks,Ottawa Senators,28.0,57.0,55.0,17.0,56.0,78.0
 /zapas/2647824,0.0,0.0,Vancouver Canucks,Montreal Canadiens,30.0,58.0,52.0,30.0,62.0,63.0
+/zapas/2647837,0.0,0.0,Vancouver Canucks,Toronto Maple Leafs,30.0,55.0,50.0,36.0,77.0,62.0
 /zapas/2647878,0.0,1.0,Vancouver Canucks,Arizona Coyotes,30.0,55.0,51.0,25.0,55.0,56.0
 /zapas/2647900,1.0,1.0,Vancouver Canucks,Florida Panthers,28.0,54.0,53.0,25.0,62.0,71.0
 /zapas/2647922,0.0,1.0,Vancouver Canucks,Edmonton Oilers,30.0,58.0,52.0,26.0,63.0,67.0
 /zapas/2647937,1.0,1.0,Vancouver Canucks,Buffalo Sabres,31.0,57.0,51.0,22.0,52.0,64.0
 /zapas/2647951,1.0,1.0,Vancouver Canucks,Detroit Red Wings,34.0,60.0,52.0,17.0,54.0,70.0
+/zapas/2647968,0.0,1.0,Vancouver Canucks,Carolina Hurricanes,37.0,61.0,51.0,32.0,63.0,66.0
+/zapas/2647998,1.0,0.0,Vancouver Canucks,Colorado Avalanche,34.0,58.0,53.0,18.0,61.0,74.0
 /zapas/2648005,0.0,0.0,Vancouver Canucks,Philadelphia Flyers,34.0,57.0,53.0,29.0,55.0,58.0
+/zapas/2648012,0.0,0.0,Vancouver Canucks,Washington Capitals,31.0,55.0,53.0,27.0,53.0,66.0
 /zapas/2648032,0.0,0.0,Vancouver Canucks,Chicago Blackhawks,30.0,54.0,52.0,33.0,77.0,70.0
+/zapas/2648048,1.0,1.0,Vancouver Canucks,Calgary Flames,28.0,52.0,55.0,37.0,77.0,64.0
+/zapas/2648060,0.0,1.0,Vancouver Canucks,San Jose Sharks,27.0,52.0,56.0,41.0,84.0,67.0
 /zapas/2648074,0.0,0.0,Vancouver Canucks,Anaheim Ducks,27.0,52.0,58.0,10.0,33.0,79.0
 /zapas/2648084,1.0,0.0,Vancouver Canucks,Los Angeles Kings,24.0,47.0,58.0,28.0,54.0,62.0
+/zapas/2648100,0.0,0.0,Vancouver Canucks,San Jose Sharks,26.0,51.0,60.0,42.0,87.0,67.0
 /zapas/2648137,0.0,1.0,Vancouver Canucks,Arizona Coyotes,23.0,49.0,61.0,31.0,56.0,59.0
+/zapas/2648152,0.0,1.0,Vancouver Canucks,New York Islanders,22.0,48.0,62.0,36.0,53.0,39.0
 /zapas/2648165,1.0,1.0,Vancouver Canucks,Anaheim Ducks,22.0,48.0,62.0,17.0,35.0,68.0
+/zapas/2648180,0.0,0.0,Vancouver Canucks,Colorado Avalanche,23.0,48.0,59.0,25.0,61.0,64.0
 /zapas/2648186,0.0,0.0,Vancouver Canucks,Arizona Coyotes,24.0,50.0,60.0,32.0,56.0,59.0
+/zapas/2648209,0.0,0.0,Vancouver Canucks,Vegas Golden Knights,24.0,52.0,60.0,22.0,58.0,66.0
+/zapas/2648228,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,23.0,49.0,59.0,37.0,74.0,58.0
 /zapas/2648238,0.0,0.0,Vancouver Canucks,Edmonton Oilers,22.0,47.0,60.0,23.0,54.0,70.0
+/zapas/2648257,0.0,1.0,Vancouver Canucks,Vegas Golden Knights,21.0,47.0,60.0,26.0,57.0,61.0
 /zapas/2648280,1.0,1.0,Vancouver Canucks,New York Rangers,18.0,45.0,63.0,26.0,59.0,62.0
 /zapas/2648296,0.0,1.0,Vancouver Canucks,New Jersey Devils,18.0,46.0,62.0,19.0,49.0,71.0
+/zapas/2648312,1.0,0.0,Vancouver Canucks,Dallas Stars,19.0,46.0,60.0,33.0,49.0,46.0
 /zapas/2648317,1.0,0.0,Vancouver Canucks,Chicago Blackhawks,18.0,44.0,61.0,38.0,85.0,70.0
 /zapas/2648332,1.0,1.0,Vancouver Canucks,Ottawa Senators,20.0,46.0,61.0,18.0,54.0,69.0
+/zapas/2648359,0.0,1.0,Vancouver Canucks,Calgary Flames,23.0,51.0,62.0,38.0,66.0,52.0
+/zapas/2648366,0.0,1.0,Vancouver Canucks,Columbus Blue Jackets,22.0,49.0,61.0,26.0,46.0,51.0
 /zapas/2648381,0.0,1.0,Vancouver Canucks,Anaheim Ducks,20.0,45.0,63.0,27.0,52.0,55.0
 /zapas/2648393,1.0,1.0,Vancouver Canucks,Los Angeles Kings,20.0,47.0,61.0,17.0,49.0,72.0
-/zapas/2891024,0.0,1.0,Vancouver Canucks,Minnesota Wild,25.0,53.0,59.0,26.0,40.0,54.0
-/zapas/2891025,1.0,1.0,Vancouver Canucks,Minnesota Wild,22.0,49.0,62.0,27.0,41.0,53.0
-/zapas/2891026,1.0,0.0,Vancouver Canucks,Minnesota Wild,24.0,51.0,62.0,24.0,41.0,55.0
-/zapas/2891027,1.0,0.0,Vancouver Canucks,Minnesota Wild,27.0,52.0,57.0,21.0,37.0,56.0
-/zapas/2891096,1.0,0.0,Vancouver Canucks,St. Louis Blues,30.0,57.0,58.0,35.0,59.0,54.0
-/zapas/2891097,1.0,0.0,Vancouver Canucks,St. Louis Blues,31.0,59.0,58.0,32.0,58.0,57.0
-/zapas/2891098,0.0,1.0,Vancouver Canucks,St. Louis Blues,33.0,61.0,58.0,33.0,59.0,57.0
-/zapas/2891099,0.0,1.0,Vancouver Canucks,St. Louis Blues,34.0,61.0,55.0,32.0,58.0,56.0
-/zapas/2891100,1.0,0.0,Vancouver Canucks,St. Louis Blues,31.0,58.0,57.0,35.0,59.0,53.0
-/zapas/2891101,1.0,1.0,Vancouver Canucks,St. Louis Blues,33.0,60.0,57.0,35.0,61.0,55.0
-/zapas/2891132,0.0,0.0,Vancouver Canucks,Vegas Golden Knights,34.0,63.0,57.0,34.0,63.0,59.0
-/zapas/2891133,1.0,0.0,Vancouver Canucks,Vegas Golden Knights,32.0,60.0,60.0,34.0,64.0,57.0
-/zapas/2891134,0.0,1.0,Vancouver Canucks,Vegas Golden Knights,32.0,58.0,58.0,31.0,63.0,60.0
-/zapas/2891135,0.0,1.0,Vancouver Canucks,Vegas Golden Knights,32.0,57.0,58.0,31.0,64.0,59.0
-/zapas/2891136,1.0,0.0,Vancouver Canucks,Vegas Golden Knights,32.0,60.0,58.0,31.0,63.0,58.0
-/zapas/2891137,1.0,1.0,Vancouver Canucks,Vegas Golden Knights,35.0,58.0,54.0,31.0,62.0,57.0
-/zapas/2891138,0.0,0.0,Vancouver Canucks,Vegas Golden Knights,36.0,59.0,52.0,31.0,61.0,58.0
-/zapas/2893232,0.0,0.0,Vancouver Canucks,Calgary Flames,34.0,57.0,56.0,28.0,59.0,57.0
-/zapas/2893246,0.0,0.0,Vancouver Canucks,Calgary Flames,33.0,55.0,56.0,28.0,59.0,55.0
-/zapas/2893300,1.0,1.0,Vancouver Canucks,Ottawa Senators,26.0,56.0,68.0,23.0,58.0,72.0
-/zapas/2893316,1.0,1.0,Vancouver Canucks,Ottawa Senators,26.0,58.0,67.0,20.0,56.0,77.0
-/zapas/2893329,1.0,1.0,Vancouver Canucks,Ottawa Senators,27.0,59.0,65.0,20.0,55.0,78.0
-/zapas/2893433,0.0,1.0,Vancouver Canucks,Calgary Flames,23.0,59.0,72.0,31.0,63.0,56.0
-/zapas/2893447,1.0,1.0,Vancouver Canucks,Calgary Flames,23.0,57.0,70.0,31.0,60.0,55.0
-/zapas/2893459,0.0,1.0,Vancouver Canucks,Calgary Flames,23.0,58.0,70.0,28.0,57.0,58.0
-/zapas/2893469,1.0,0.0,Vancouver Canucks,Calgary Flames,21.0,57.0,74.0,27.0,58.0,59.0
+/zapas/2648410,1.0,1.0,Vancouver Canucks,Dallas Stars,22.0,50.0,62.0,35.0,53.0,42.0
+/zapas/2648435,1.0,1.0,Vancouver Canucks,San Jose Sharks,22.0,49.0,61.0,27.0,65.0,69.0
+/zapas/2648447,0.0,0.0,Vancouver Canucks,Nashville Predators,25.0,51.0,60.0,31.0,47.0,55.0
+/zapas/2648456,0.0,0.0,Vancouver Canucks,St. Louis Blues,24.0,51.0,60.0,35.0,63.0,51.0
+/zapas/2806379,0.0,0.0,Vancouver Canucks,Edmonton Oilers,25.0,53.0,59.0,27.0,59.0,69.0
+/zapas/2806405,0.0,0.0,Vancouver Canucks,Calgary Flames,22.0,51.0,62.0,30.0,64.0,51.0
+/zapas/2806422,1.0,1.0,Vancouver Canucks,Los Angeles Kings,21.0,49.0,62.0,25.0,59.0,68.0
+/zapas/2806449,1.0,1.0,Vancouver Canucks,Philadelphia Flyers,24.0,55.0,59.0,25.0,61.0,69.0
+/zapas/2806465,1.0,1.0,Vancouver Canucks,Detroit Red Wings,26.0,58.0,58.0,31.0,58.0,64.0
+/zapas/2806477,1.0,0.0,Vancouver Canucks,St. Louis Blues,27.0,60.0,57.0,37.0,68.0,56.0
+/zapas/2806489,0.0,0.0,Vancouver Canucks,New Jersey Devils,29.0,62.0,57.0,22.0,49.0,74.0
+/zapas/2806500,1.0,0.0,Vancouver Canucks,New York Rangers,29.0,60.0,52.0,21.0,50.0,69.0
+/zapas/2806513,1.0,0.0,Vancouver Canucks,Detroit Red Wings,29.0,59.0,53.0,31.0,57.0,64.0
+/zapas/2806536,0.0,1.0,Vancouver Canucks,Washington Capitals,31.0,62.0,52.0,38.0,66.0,56.0
+/zapas/2806554,1.0,1.0,Vancouver Canucks,Florida Panthers,30.0,64.0,56.0,31.0,72.0,75.0
+/zapas/2806569,1.0,0.0,Vancouver Canucks,Los Angeles Kings,31.0,68.0,56.0,23.0,55.0,77.0
+/zapas/2806578,0.0,0.0,Vancouver Canucks,Anaheim Ducks,31.0,66.0,55.0,37.0,61.0,53.0
+/zapas/2806592,1.0,0.0,Vancouver Canucks,San Jose Sharks,32.0,66.0,54.0,21.0,55.0,72.0
+/zapas/2806608,0.0,1.0,Vancouver Canucks,St. Louis Blues,35.0,71.0,51.0,37.0,66.0,60.0
+/zapas/2806619,0.0,0.0,Vancouver Canucks,Chicago Blackhawks,36.0,68.0,48.0,23.0,55.0,64.0
+/zapas/2806626,0.0,0.0,Vancouver Canucks,Winnipeg Jets,34.0,67.0,51.0,26.0,55.0,64.0
+/zapas/2806641,0.0,1.0,Vancouver Canucks,New Jersey Devils,32.0,65.0,53.0,22.0,51.0,75.0
+/zapas/2806653,1.0,1.0,Vancouver Canucks,Nashville Predators,29.0,62.0,53.0,38.0,76.0,60.0
+/zapas/2806667,0.0,1.0,Vancouver Canucks,Dallas Stars,32.0,65.0,53.0,31.0,49.0,46.0
+/zapas/2806687,0.0,1.0,Vancouver Canucks,Colorado Avalanche,31.0,65.0,54.0,33.0,70.0,60.0
+/zapas/2806703,0.0,0.0,Vancouver Canucks,Dallas Stars,32.0,67.0,56.0,33.0,54.0,50.0
+/zapas/2806715,1.0,0.0,Vancouver Canucks,Nashville Predators,32.0,68.0,59.0,29.0,71.0,68.0
+/zapas/2806724,1.0,0.0,Vancouver Canucks,Washington Capitals,32.0,66.0,60.0,39.0,80.0,63.0
+/zapas/2806743,0.0,0.0,Vancouver Canucks,Philadelphia Flyers,32.0,65.0,59.0,27.0,60.0,65.0
+/zapas/2806758,0.0,0.0,Vancouver Canucks,Pittsburgh Penguins,29.0,61.0,60.0,33.0,70.0,52.0
+/zapas/2806791,1.0,0.0,Vancouver Canucks,Edmonton Oilers,27.0,63.0,65.0,30.0,57.0,58.0
+/zapas/2806794,0.0,1.0,Vancouver Canucks,Edmonton Oilers,30.0,68.0,66.0,27.0,57.0,62.0
+/zapas/2806808,1.0,1.0,Vancouver Canucks,Ottawa Senators,27.0,67.0,67.0,28.0,53.0,57.0
+/zapas/2806829,1.0,1.0,Vancouver Canucks,Buffalo Sabres,27.0,67.0,67.0,21.0,54.0,66.0
+/zapas/2806857,0.0,1.0,Vancouver Canucks,Toronto Maple Leafs,28.0,68.0,66.0,26.0,60.0,64.0
+/zapas/2806872,1.0,1.0,Vancouver Canucks,Carolina Hurricanes,25.0,62.0,68.0,33.0,66.0,56.0
+/zapas/2806890,0.0,0.0,Vancouver Canucks,San Jose Sharks,24.0,58.0,65.0,29.0,58.0,69.0
+/zapas/2806894,0.0,0.0,Vancouver Canucks,Vegas Golden Knights,23.0,59.0,67.0,27.0,54.0,55.0
+/zapas/2806908,0.0,1.0,Vancouver Canucks,Montreal Canadiens,20.0,57.0,71.0,26.0,55.0,66.0
+/zapas/2806923,1.0,1.0,Vancouver Canucks,Vegas Golden Knights,19.0,57.0,72.0,29.0,60.0,57.0
+/zapas/2806939,1.0,1.0,Vancouver Canucks,Pittsburgh Penguins,21.0,60.0,71.0,37.0,68.0,53.0
+/zapas/2806955,1.0,1.0,Vancouver Canucks,Edmonton Oilers,24.0,63.0,68.0,25.0,57.0,72.0
+/zapas/2806975,1.0,1.0,Vancouver Canucks,Los Angeles Kings,27.0,66.0,68.0,25.0,49.0,54.0
+/zapas/2806987,1.0,0.0,Vancouver Canucks,Calgary Flames,27.0,64.0,67.0,29.0,50.0,59.0
+/zapas/2807013,1.0,1.0,Vancouver Canucks,Chicago Blackhawks,30.0,67.0,65.0,26.0,55.0,69.0
+/zapas/2807027,1.0,1.0,Vancouver Canucks,New York Rangers,32.0,70.0,65.0,30.0,67.0,65.0
+/zapas/2807039,0.0,0.0,Vancouver Canucks,Tampa Bay Lightning,35.0,71.0,60.0,36.0,67.0,57.0
+/zapas/2807057,0.0,0.0,Vancouver Canucks,Florida Panthers,32.0,67.0,66.0,30.0,67.0,62.0
+/zapas/2807068,1.0,0.0,Vancouver Canucks,Buffalo Sabres,30.0,67.0,70.0,26.0,59.0,67.0
+/zapas/2807080,1.0,0.0,Vancouver Canucks,Minnesota Wild,33.0,72.0,71.0,33.0,68.0,66.0
+/zapas/2807097,0.0,0.0,Vancouver Canucks,Winnipeg Jets,36.0,70.0,64.0,26.0,65.0,66.0
+/zapas/2807115,1.0,1.0,Vancouver Canucks,Arizona Coyotes,33.0,65.0,66.0,30.0,60.0,59.0
+/zapas/2807130,1.0,1.0,Vancouver Canucks,San Jose Sharks,36.0,66.0,64.0,20.0,45.0,67.0
+/zapas/2807148,1.0,1.0,Vancouver Canucks,St. Louis Blues,36.0,65.0,63.0,37.0,68.0,59.0
+/zapas/2807157,1.0,0.0,Vancouver Canucks,San Jose Sharks,37.0,62.0,59.0,22.0,47.0,63.0
+/zapas/2807169,1.0,0.0,Vancouver Canucks,New York Islanders,40.0,66.0,57.0,27.0,57.0,63.0
+/zapas/2807184,0.0,0.0,Vancouver Canucks,Carolina Hurricanes,40.0,69.0,60.0,30.0,59.0,51.0
+/zapas/2807188,0.0,0.0,Vancouver Canucks,Boston Bruins,41.0,70.0,60.0,38.0,66.0,53.0
+/zapas/2807211,0.0,0.0,Vancouver Canucks,Minnesota Wild,41.0,67.0,58.0,26.0,62.0,68.0
+/zapas/2807229,0.0,1.0,Vancouver Canucks,Calgary Flames,41.0,68.0,59.0,26.0,54.0,65.0
+/zapas/2807240,1.0,1.0,Vancouver Canucks,Nashville Predators,39.0,65.0,61.0,28.0,57.0,66.0
+/zapas/2807255,1.0,1.0,Vancouver Canucks,Chicago Blackhawks,39.0,67.0,62.0,32.0,67.0,63.0
+/zapas/2807285,0.0,1.0,Vancouver Canucks,Anaheim Ducks,39.0,66.0,60.0,24.0,50.0,65.0
+/zapas/2807308,0.0,1.0,Vancouver Canucks,Minnesota Wild,36.0,64.0,63.0,27.0,58.0,61.0
+/zapas/2807332,1.0,1.0,Vancouver Canucks,Boston Bruins,34.0,62.0,65.0,43.0,66.0,43.0
+/zapas/2807345,1.0,0.0,Vancouver Canucks,Montreal Canadiens,34.0,64.0,63.0,28.0,55.0,52.0
+/zapas/2807364,0.0,0.0,Vancouver Canucks,Ottawa Senators,33.0,66.0,65.0,20.0,49.0,67.0
+/zapas/2807379,0.0,0.0,Vancouver Canucks,Toronto Maple Leafs,33.0,66.0,61.0,29.0,67.0,71.0
+/zapas/2807389,0.0,0.0,Vancouver Canucks,Columbus Blue Jackets,33.0,66.0,60.0,31.0,49.0,52.0
+/zapas/2807408,0.0,1.0,Vancouver Canucks,Arizona Coyotes,30.0,63.0,62.0,25.0,54.0,57.0
+/zapas/2807423,1.0,1.0,Vancouver Canucks,Colorado Avalanche,27.0,61.0,65.0,46.0,62.0,40.0
+/zapas/2807440,0.0,1.0,Vancouver Canucks,Columbus Blue Jackets,30.0,67.0,64.0,26.0,46.0,60.0
+/zapas/2807453,1.0,1.0,Vancouver Canucks,New York Islanders,27.0,65.0,65.0,25.0,50.0,60.0
+/zapas/2893209,1.0,0.0,Vancouver Canucks,Edmonton Oilers,26.0,66.0,68.0,31.0,63.0,58.0
+/zapas/2893216,0.0,0.0,Vancouver Canucks,Edmonton Oilers,26.0,68.0,70.0,28.0,58.0,60.0
+/zapas/2893232,0.0,0.0,Vancouver Canucks,Calgary Flames,23.0,65.0,73.0,30.0,74.0,67.0
+/zapas/2893246,0.0,0.0,Vancouver Canucks,Calgary Flames,21.0,61.0,73.0,31.0,73.0,64.0
+/zapas/2893265,1.0,1.0,Vancouver Canucks,Montreal Canadiens,20.0,60.0,74.0,25.0,57.0,62.0
+/zapas/2893273,0.0,1.0,Vancouver Canucks,Montreal Canadiens,22.0,66.0,75.0,24.0,57.0,64.0
+/zapas/2893288,0.0,1.0,Vancouver Canucks,Montreal Canadiens,22.0,67.0,78.0,25.0,61.0,65.0
+/zapas/2893300,1.0,1.0,Vancouver Canucks,Ottawa Senators,22.0,67.0,77.0,23.0,58.0,72.0
+/zapas/2893316,1.0,1.0,Vancouver Canucks,Ottawa Senators,22.0,68.0,76.0,20.0,56.0,77.0
+/zapas/2893329,1.0,1.0,Vancouver Canucks,Ottawa Senators,22.0,70.0,77.0,20.0,55.0,78.0
+/zapas/2893332,1.0,0.0,Vancouver Canucks,Winnipeg Jets,25.0,73.0,73.0,38.0,70.0,48.0
+/zapas/2893356,0.0,0.0,Vancouver Canucks,Montreal Canadiens,27.0,74.0,70.0,29.0,65.0,63.0
+/zapas/2893366,0.0,0.0,Vancouver Canucks,Montreal Canadiens,24.0,67.0,73.0,32.0,70.0,61.0
+/zapas/2893381,0.0,0.0,Vancouver Canucks,Toronto Maple Leafs,22.0,66.0,75.0,37.0,60.0,57.0
+/zapas/2893394,0.0,0.0,Vancouver Canucks,Toronto Maple Leafs,22.0,67.0,77.0,40.0,65.0,55.0
+/zapas/2893408,0.0,0.0,Vancouver Canucks,Toronto Maple Leafs,22.0,66.0,78.0,40.0,66.0,56.0
+/zapas/2893433,0.0,1.0,Vancouver Canucks,Calgary Flames,22.0,64.0,76.0,33.0,63.0,54.0
+/zapas/2893447,1.0,1.0,Vancouver Canucks,Calgary Flames,22.0,63.0,75.0,33.0,62.0,53.0
+/zapas/2893459,0.0,1.0,Vancouver Canucks,Calgary Flames,22.0,60.0,73.0,30.0,58.0,54.0
+/zapas/2893469,1.0,0.0,Vancouver Canucks,Calgary Flames,23.0,62.0,75.0,31.0,59.0,53.0
+/zapas/2893485,0.0,1.0,Vancouver Canucks,Winnipeg Jets,24.0,62.0,72.0,38.0,70.0,51.0
+/zapas/2893502,0.0,1.0,Vancouver Canucks,Winnipeg Jets,21.0,57.0,71.0,38.0,69.0,50.0
+/zapas/2893515,0.0,1.0,Vancouver Canucks,Edmonton Oilers,22.0,58.0,70.0,35.0,72.0,62.0
+/zapas/2893529,0.0,1.0,Vancouver Canucks,Edmonton Oilers,22.0,61.0,71.0,38.0,73.0,60.0
+/zapas/2893550,1.0,0.0,Vancouver Canucks,Winnipeg Jets,22.0,59.0,69.0,36.0,69.0,53.0
+/zapas/2893562,0.0,0.0,Vancouver Canucks,Winnipeg Jets,23.0,57.0,64.0,34.0,65.0,54.0
+/zapas/2893580,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,23.0,56.0,62.0,46.0,73.0,44.0
+/zapas/2893595,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,26.0,57.0,58.0,46.0,73.0,44.0
+/zapas/2893607,1.0,1.0,Vancouver Canucks,Montreal Canadiens,26.0,54.0,59.0,32.0,66.0,59.0
+/zapas/2893621,0.0,1.0,Vancouver Canucks,Montreal Canadiens,25.0,51.0,59.0,32.0,62.0,55.0
+/zapas/2893648,1.0,1.0,Vancouver Canucks,Edmonton Oilers,22.0,48.0,63.0,44.0,73.0,52.0
 /zapas/2893662,1.0,0.0,Vancouver Canucks,Ottawa Senators,22.0,46.0,63.0,20.0,56.0,74.0
 /zapas/2893673,1.0,0.0,Vancouver Canucks,Ottawa Senators,24.0,47.0,59.0,21.0,57.0,75.0
+/zapas/2893687,1.0,0.0,Vancouver Canucks,Montreal Canadiens,26.0,47.0,56.0,27.0,54.0,56.0
+/zapas/2893699,0.0,0.0,Vancouver Canucks,Montreal Canadiens,28.0,47.0,51.0,25.0,51.0,56.0
+/zapas/2893709,0.0,1.0,Vancouver Canucks,Winnipeg Jets,29.0,50.0,51.0,30.0,61.0,59.0
+/zapas/2893721,0.0,1.0,Vancouver Canucks,Winnipeg Jets,29.0,49.0,52.0,33.0,63.0,56.0
+/zapas/2893907,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,29.0,49.0,54.0,28.0,58.0,61.0
+/zapas/2893919,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,28.0,49.0,55.0,29.0,59.0,61.0
 /zapas/2893945,0.0,1.0,Vancouver Canucks,Ottawa Senators,30.0,52.0,54.0,26.0,56.0,64.0
 /zapas/2893959,1.0,1.0,Vancouver Canucks,Ottawa Senators,27.0,47.0,56.0,27.0,55.0,61.0
 /zapas/2893971,0.0,0.0,Vancouver Canucks,Ottawa Senators,30.0,51.0,56.0,27.0,55.0,62.0
 /zapas/2893986,0.0,0.0,Vancouver Canucks,Ottawa Senators,29.0,49.0,54.0,30.0,56.0,56.0
+/zapas/2894001,0.0,0.0,Vancouver Canucks,Toronto Maple Leafs,29.0,49.0,56.0,36.0,64.0,56.0
+/zapas/2894016,0.0,0.0,Vancouver Canucks,Toronto Maple Leafs,29.0,50.0,57.0,39.0,65.0,53.0
+/zapas/2894037,0.0,1.0,Vancouver Canucks,Edmonton Oilers,26.0,47.0,62.0,37.0,59.0,46.0
+/zapas/2894051,0.0,1.0,Vancouver Canucks,Edmonton Oilers,26.0,48.0,62.0,40.0,63.0,47.0
+/zapas/2893794,1.0,0.0,Vancouver Canucks,Edmonton Oilers,23.0,46.0,65.0,43.0,64.0,44.0
+/zapas/2893866,0.0,0.0,Vancouver Canucks,Edmonton Oilers,23.0,48.0,66.0,40.0,60.0,47.0
+/zapas/2893806,1.0,0.0,Vancouver Canucks,Winnipeg Jets,21.0,49.0,69.0,25.0,51.0,57.0
+/zapas/2893820,0.0,0.0,Vancouver Canucks,Winnipeg Jets,24.0,51.0,65.0,22.0,49.0,58.0
 /zapas/2893852,0.0,0.0,Vancouver Canucks,Calgary Flames,21.0,49.0,69.0,23.0,51.0,52.0
+/zapas/2893879,1.0,0.0,Vancouver Canucks,Edmonton Oilers,19.0,47.0,71.0,40.0,63.0,49.0
 /zapas/2893776,0.0,1.0,Vancouver Canucks,Calgary Flames,20.0,48.0,70.0,26.0,54.0,51.0
 /zapas/2894073,1.0,1.0,Vancouver Canucks,Calgary Flames,19.0,50.0,74.0,28.0,59.0,53.0
 /zapas/2893834,0.0,0.0,Vancouver Canucks,Calgary Flames,21.0,50.0,71.0,28.0,59.0,54.0
+/zapas/2896985,0.0,0.0,Vancouver Canucks,Edmonton Oilers,21.0,52.0,73.0,38.0,61.0,51.0
 /zapas/2897000,1.0,0.0,Vancouver Canucks,Philadelphia Flyers,22.0,53.0,71.0,24.0,54.0,69.0
 /zapas/2897010,0.0,0.0,Vancouver Canucks,Detroit Red Wings,22.0,55.0,73.0,26.0,53.0,59.0
 /zapas/2897024,0.0,0.0,Vancouver Canucks,Buffalo Sabres,19.0,50.0,73.0,23.0,58.0,70.0
 /zapas/2897034,1.0,0.0,Vancouver Canucks,Chicago Blackhawks,19.0,52.0,75.0,18.0,56.0,79.0
+/zapas/2897071,0.0,1.0,Vancouver Canucks,Minnesota Wild,22.0,55.0,74.0,39.0,74.0,65.0
 /zapas/2897083,0.0,1.0,Vancouver Canucks,Philadelphia Flyers,22.0,54.0,71.0,28.0,64.0,69.0
+/zapas/2897098,0.0,1.0,Vancouver Canucks,Edmonton Oilers,22.0,54.0,69.0,42.0,76.0,52.0
+/zapas/2897116,1.0,1.0,Vancouver Canucks,New York Rangers,22.0,54.0,66.0,30.0,48.0,58.0
+/zapas/2897138,0.0,1.0,Vancouver Canucks,Nashville Predators,24.0,54.0,63.0,33.0,63.0,53.0
+/zapas/2897155,1.0,1.0,Vancouver Canucks,Dallas Stars,24.0,55.0,62.0,21.0,47.0,63.0
 /zapas/2897163,0.0,1.0,Vancouver Canucks,Anaheim Ducks,24.0,55.0,62.0,30.0,62.0,56.0
-/zapas/2897192,0.0,0.0,Vancouver Canucks,Vegas Golden Knights,22.0,52.0,67.0,29.0,53.0,57.0
+/zapas/2897178,0.0,0.0,Vancouver Canucks,Colorado Avalanche,25.0,54.0,61.0,35.0,65.0,57.0
+/zapas/2897192,0.0,0.0,Vancouver Canucks,Vegas Golden Knights,22.0,52.0,67.0,32.0,63.0,56.0
 /zapas/2897205,0.0,0.0,Vancouver Canucks,Anaheim Ducks,22.0,56.0,69.0,32.0,68.0,58.0
-/zapas/2897240,1.0,1.0,Vancouver Canucks,Winnipeg Jets,19.0,54.0,73.0,30.0,58.0,56.0
+/zapas/2897225,0.0,1.0,Vancouver Canucks,Colorado Avalanche,22.0,56.0,70.0,38.0,73.0,55.0
+/zapas/2897240,1.0,1.0,Vancouver Canucks,Winnipeg Jets,19.0,54.0,73.0,35.0,64.0,51.0
 /zapas/2897255,0.0,1.0,Vancouver Canucks,Chicago Blackhawks,21.0,52.0,69.0,21.0,49.0,66.0
+/zapas/2897282,0.0,0.0,Vancouver Canucks,Pittsburgh Penguins,18.0,48.0,68.0,32.0,63.0,56.0
 /zapas/2897297,0.0,0.0,Vancouver Canucks,Columbus Blue Jackets,18.0,47.0,66.0,33.0,71.0,62.0
+/zapas/2897310,0.0,0.0,Vancouver Canucks,Boston Bruins,17.0,47.0,67.0,31.0,61.0,58.0
 /zapas/2897317,1.0,0.0,Vancouver Canucks,Montreal Canadiens,15.0,44.0,66.0,20.0,51.0,73.0
 /zapas/2897330,1.0,0.0,Vancouver Canucks,Ottawa Senators,18.0,45.0,64.0,15.0,50.0,76.0
+/zapas/2897348,0.0,1.0,Vancouver Canucks,Pittsburgh Penguins,21.0,49.0,61.0,26.0,50.0,57.0
+/zapas/2897364,1.0,1.0,Vancouver Canucks,Los Angeles Kings,18.0,46.0,64.0,28.0,55.0,56.0
+/zapas/2897379,1.0,1.0,Vancouver Canucks,Boston Bruins,18.0,46.0,62.0,33.0,58.0,55.0
 /zapas/2897393,1.0,1.0,Vancouver Canucks,Winnipeg Jets,20.0,46.0,60.0,31.0,55.0,50.0
+/zapas/2897412,1.0,1.0,Vancouver Canucks,Carolina Hurricanes,22.0,49.0,61.0,38.0,59.0,48.0
 /zapas/2897418,1.0,1.0,Vancouver Canucks,Columbus Blue Jackets,25.0,50.0,60.0,27.0,67.0,71.0
 /zapas/2897435,1.0,0.0,Vancouver Canucks,San Jose Sharks,26.0,51.0,61.0,26.0,49.0,58.0
 /zapas/2897522,1.0,0.0,Vancouver Canucks,Anaheim Ducks,29.0,54.0,60.0,34.0,65.0,53.0
+/zapas/2897533,0.0,0.0,Vancouver Canucks,Los Angeles Kings,28.0,50.0,58.0,30.0,53.0,54.0
 /zapas/2897548,1.0,0.0,Vancouver Canucks,Seattle Kraken,28.0,49.0,57.0,21.0,56.0,77.0
+/zapas/2897624,0.0,0.0,Vancouver Canucks,Florida Panthers,31.0,53.0,52.0,38.0,81.0,65.0
+/zapas/2897639,0.0,0.0,Vancouver Canucks,Tampa Bay Lightning,31.0,51.0,50.0,38.0,69.0,58.0
+/zapas/2897660,0.0,0.0,Vancouver Canucks,Carolina Hurricanes,31.0,52.0,49.0,37.0,66.0,52.0
+/zapas/2897662,1.0,0.0,Vancouver Canucks,Washington Capitals,31.0,51.0,49.0,32.0,65.0,65.0
+/zapas/2897675,1.0,0.0,Vancouver Canucks,Nashville Predators,31.0,52.0,49.0,38.0,68.0,55.0
+/zapas/2897694,0.0,1.0,Vancouver Canucks,Florida Panthers,34.0,55.0,49.0,39.0,89.0,64.0
+/zapas/2897713,0.0,1.0,Vancouver Canucks,St. Louis Blues,35.0,55.0,47.0,42.0,78.0,52.0
+/zapas/2897725,0.0,1.0,Vancouver Canucks,Edmonton Oilers,35.0,54.0,46.0,20.0,54.0,76.0
 /zapas/2897740,1.0,0.0,Vancouver Canucks,Winnipeg Jets,36.0,54.0,46.0,26.0,59.0,68.0
+/zapas/2897753,0.0,0.0,Vancouver Canucks,Calgary Flames,36.0,57.0,46.0,26.0,64.0,63.0
 /zapas/2897772,1.0,0.0,Vancouver Canucks,Chicago Blackhawks,34.0,51.0,45.0,24.0,57.0,73.0
+/zapas/2897778,0.0,0.0,Vancouver Canucks,Nashville Predators,37.0,53.0,42.0,40.0,67.0,53.0
 /zapas/2897462,1.0,1.0,Vancouver Canucks,Arizona Coyotes,34.0,51.0,46.0,18.0,55.0,76.0
 /zapas/2897577,0.0,1.0,Vancouver Canucks,New York Islanders,35.0,54.0,46.0,33.0,57.0,47.0
+/zapas/2897452,1.0,1.0,Vancouver Canucks,Toronto Maple Leafs,33.0,53.0,49.0,38.0,85.0,68.0
 /zapas/2897476,1.0,0.0,Vancouver Canucks,San Jose Sharks,33.0,54.0,50.0,23.0,53.0,69.0
 /zapas/2897489,0.0,1.0,Vancouver Canucks,Anaheim Ducks,32.0,55.0,51.0,21.0,51.0,71.0
 /zapas/2897504,1.0,1.0,Vancouver Canucks,Seattle Kraken,29.0,54.0,56.0,16.0,47.0,69.0
+/zapas/2897796,1.0,1.0,Vancouver Canucks,Calgary Flames,30.0,57.0,57.0,41.0,76.0,48.0
+/zapas/2897825,1.0,0.0,Vancouver Canucks,New York Rangers,32.0,63.0,56.0,38.0,62.0,45.0
 /zapas/2897829,0.0,0.0,Vancouver Canucks,New Jersey Devils,32.0,63.0,56.0,17.0,65.0,78.0
 /zapas/2897851,1.0,0.0,Vancouver Canucks,New York Islanders,32.0,63.0,58.0,28.0,61.0,58.0
+/zapas/2897865,1.0,0.0,Vancouver Canucks,Toronto Maple Leafs,35.0,65.0,57.0,35.0,82.0,71.0
 /zapas/2897894,1.0,1.0,Vancouver Canucks,Montreal Canadiens,38.0,70.0,57.0,23.0,61.0,81.0
+/zapas/2897909,0.0,1.0,Vancouver Canucks,Washington Capitals,38.0,71.0,58.0,28.0,64.0,58.0
+/zapas/2897923,0.0,1.0,Vancouver Canucks,Tampa Bay Lightning,36.0,71.0,61.0,39.0,70.0,60.0
 /zapas/2897934,1.0,1.0,Vancouver Canucks,New Jersey Devils,35.0,71.0,61.0,19.0,64.0,71.0
 /zapas/2897949,0.0,1.0,Vancouver Canucks,Detroit Red Wings,38.0,76.0,61.0,16.0,67.0,98.0
+/zapas/2897964,0.0,1.0,Vancouver Canucks,Calgary Flames,37.0,74.0,59.0,46.0,78.0,45.0
 /zapas/2897975,0.0,1.0,Vancouver Canucks,Buffalo Sabres,34.0,71.0,63.0,24.0,53.0,71.0
+/zapas/2897997,1.0,0.0,Vancouver Canucks,Colorado Avalanche,34.0,73.0,65.0,40.0,63.0,49.0
+/zapas/2898004,0.0,0.0,Vancouver Canucks,Minnesota Wild,34.0,73.0,65.0,27.0,67.0,76.0
+/zapas/2898020,1.0,0.0,Vancouver Canucks,Dallas Stars,35.0,73.0,64.0,34.0,59.0,57.0
+/zapas/2898038,0.0,0.0,Vancouver Canucks,St. Louis Blues,35.0,72.0,64.0,31.0,73.0,66.0
+/zapas/2898049,0.0,1.0,Vancouver Canucks,St. Louis Blues,35.0,70.0,62.0,34.0,73.0,60.0
 /zapas/2898081,0.0,1.0,Vancouver Canucks,Vegas Golden Knights,32.0,70.0,64.0,29.0,59.0,59.0
 /zapas/2898104,1.0,0.0,Vancouver Canucks,Vegas Golden Knights,31.0,67.0,63.0,28.0,58.0,60.0
 /zapas/2898109,1.0,0.0,Vancouver Canucks,Arizona Coyotes,34.0,68.0,57.0,26.0,63.0,68.0
 /zapas/2898123,1.0,1.0,Vancouver Canucks,San Jose Sharks,34.0,68.0,56.0,22.0,50.0,66.0
 /zapas/2898145,1.0,1.0,Vancouver Canucks,Vegas Golden Knights,34.0,65.0,57.0,31.0,62.0,60.0
 /zapas/2898162,1.0,1.0,Vancouver Canucks,Arizona Coyotes,33.0,65.0,59.0,23.0,59.0,76.0
+/zapas/2898197,1.0,1.0,Vancouver Canucks,Dallas Stars,36.0,70.0,53.0,32.0,54.0,61.0
 /zapas/2897595,0.0,1.0,Vancouver Canucks,Ottawa Senators,36.0,72.0,52.0,25.0,59.0,68.0
+/zapas/2898217,0.0,0.0,Vancouver Canucks,Minnesota Wild,34.0,69.0,52.0,41.0,69.0,51.0
+/zapas/2898232,0.0,0.0,Vancouver Canucks,Calgary Flames,31.0,67.0,55.0,39.0,75.0,55.0
 /zapas/2898253,1.0,1.0,Vancouver Canucks,Seattle Kraken,30.0,67.0,57.0,26.0,57.0,64.0
+/zapas/2898279,1.0,1.0,Vancouver Canucks,Los Angeles Kings,33.0,71.0,57.0,34.0,59.0,60.0
+/zapas/2898181,0.0,0.0,Vancouver Canucks,Edmonton Oilers,32.0,68.0,56.0,40.0,81.0,57.0

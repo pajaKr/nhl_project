@@ -1,69 +1,352 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
-/zapas/2891047,1.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,29.0,53.0,65.0,31.0,56.0,56.0
-/zapas/2891048,0.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,28.0,51.0,64.0,30.0,53.0,55.0
-/zapas/2891049,1.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,28.0,50.0,62.0,32.0,54.0,53.0
-/zapas/2891050,1.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,28.0,50.0,63.0,32.0,55.0,52.0
-/zapas/2891051,1.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,28.0,49.0,63.0,31.0,53.0,50.0
-/zapas/2891125,0.0,1.0,Tampa Bay Lightning,Boston Bruins,30.0,52.0,61.0,42.0,66.0,40.0
-/zapas/2891126,1.0,1.0,Tampa Bay Lightning,Boston Bruins,27.0,50.0,62.0,45.0,68.0,40.0
-/zapas/2891127,1.0,0.0,Tampa Bay Lightning,Boston Bruins,26.0,50.0,64.0,43.0,67.0,43.0
-/zapas/2891128,1.0,0.0,Tampa Bay Lightning,Boston Bruins,27.0,53.0,62.0,40.0,64.0,47.0
-/zapas/2891129,1.0,1.0,Tampa Bay Lightning,Boston Bruins,27.0,53.0,62.0,37.0,62.0,50.0
-/zapas/2892203,1.0,1.0,Tampa Bay Lightning,New York Islanders,29.0,54.0,60.0,36.0,59.0,44.0
-/zapas/2892210,1.0,1.0,Tampa Bay Lightning,New York Islanders,32.0,60.0,56.0,35.0,61.0,51.0
-/zapas/2892211,0.0,0.0,Tampa Bay Lightning,New York Islanders,32.0,58.0,55.0,35.0,61.0,51.0
-/zapas/2892212,1.0,0.0,Tampa Bay Lightning,New York Islanders,29.0,57.0,58.0,38.0,64.0,49.0
-/zapas/2892213,0.0,1.0,Tampa Bay Lightning,New York Islanders,29.0,58.0,57.0,38.0,63.0,48.0
-/zapas/2892214,1.0,0.0,Tampa Bay Lightning,New York Islanders,30.0,59.0,56.0,37.0,63.0,48.0
-/zapas/2892642,0.0,1.0,Tampa Bay Lightning,Dallas Stars,32.0,61.0,53.0,33.0,60.0,60.0
-/zapas/2892643,1.0,1.0,Tampa Bay Lightning,Dallas Stars,32.0,59.0,53.0,36.0,63.0,57.0
-/zapas/2892644,1.0,0.0,Tampa Bay Lightning,Dallas Stars,35.0,61.0,50.0,35.0,64.0,58.0
-/zapas/2892645,1.0,0.0,Tampa Bay Lightning,Dallas Stars,38.0,65.0,49.0,35.0,64.0,60.0
-/zapas/2892646,0.0,1.0,Tampa Bay Lightning,Dallas Stars,40.0,67.0,46.0,33.0,63.0,61.0
-/zapas/2892647,1.0,0.0,Tampa Bay Lightning,Dallas Stars,39.0,66.0,47.0,35.0,66.0,61.0
-/zapas/2894357,1.0,0.0,Tampa Bay Lightning,Florida Panthers,42.0,67.0,44.0,28.0,65.0,66.0
-/zapas/2894358,1.0,0.0,Tampa Bay Lightning,Florida Panthers,42.0,69.0,46.0,28.0,66.0,67.0
-/zapas/2894359,0.0,1.0,Tampa Bay Lightning,Florida Panthers,42.0,70.0,46.0,25.0,61.0,68.0
-/zapas/2894360,1.0,1.0,Tampa Bay Lightning,Florida Panthers,41.0,70.0,48.0,24.0,61.0,72.0
-/zapas/2894361,0.0,0.0,Tampa Bay Lightning,Florida Panthers,44.0,74.0,47.0,21.0,59.0,76.0
-/zapas/2894362,1.0,1.0,Tampa Bay Lightning,Florida Panthers,42.0,71.0,48.0,21.0,59.0,74.0
-/zapas/2894896,1.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,42.0,68.0,47.0,31.0,59.0,56.0
-/zapas/2894903,1.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,42.0,67.0,47.0,28.0,55.0,56.0
-/zapas/2894904,0.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,43.0,66.0,46.0,25.0,51.0,56.0
-/zapas/2894905,1.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,41.0,60.0,47.0,27.0,52.0,53.0
-/zapas/2894906,1.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,41.0,64.0,50.0,27.0,54.0,53.0
-/zapas/2896400,0.0,1.0,Tampa Bay Lightning,New York Islanders,44.0,63.0,45.0,32.0,63.0,58.0
-/zapas/2896401,1.0,1.0,Tampa Bay Lightning,New York Islanders,41.0,60.0,46.0,34.0,61.0,54.0
-/zapas/2896402,1.0,0.0,Tampa Bay Lightning,New York Islanders,43.0,63.0,46.0,31.0,59.0,58.0
-/zapas/2896403,0.0,0.0,Tampa Bay Lightning,New York Islanders,44.0,63.0,46.0,31.0,58.0,52.0
-/zapas/2896404,1.0,1.0,Tampa Bay Lightning,New York Islanders,44.0,64.0,45.0,34.0,60.0,52.0
-/zapas/2896405,0.0,0.0,Tampa Bay Lightning,New York Islanders,44.0,69.0,43.0,31.0,55.0,57.0
-/zapas/2896406,1.0,1.0,Tampa Bay Lightning,New York Islanders,42.0,66.0,44.0,33.0,57.0,55.0
-/zapas/2896460,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,43.0,62.0,40.0,35.0,50.0,45.0
-/zapas/2896461,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,45.0,65.0,38.0,35.0,51.0,48.0
-/zapas/2896462,1.0,0.0,Tampa Bay Lightning,Montreal Canadiens,45.0,66.0,39.0,32.0,47.0,48.0
-/zapas/2896463,0.0,0.0,Tampa Bay Lightning,Montreal Canadiens,45.0,67.0,38.0,32.0,48.0,51.0
-/zapas/2896464,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,43.0,66.0,40.0,31.0,49.0,52.0
-/zapas/2900289,0.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,45.0,62.0,34.0,26.0,49.0,56.0
-/zapas/2900290,1.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,42.0,56.0,37.0,29.0,50.0,49.0
-/zapas/2900291,0.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,45.0,60.0,36.0,26.0,49.0,53.0
-/zapas/2900292,1.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,42.0,58.0,41.0,29.0,53.0,51.0
-/zapas/2900293,0.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,42.0,63.0,43.0,26.0,53.0,56.0
-/zapas/2900294,1.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,39.0,64.0,46.0,29.0,53.0,53.0
-/zapas/2900295,1.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,40.0,66.0,46.0,27.0,54.0,56.0
-/zapas/2900366,1.0,0.0,Tampa Bay Lightning,Florida Panthers,40.0,62.0,43.0,25.0,57.0,66.0
-/zapas/2900367,1.0,0.0,Tampa Bay Lightning,Florida Panthers,40.0,64.0,44.0,22.0,54.0,69.0
-/zapas/2900368,1.0,1.0,Tampa Bay Lightning,Florida Panthers,43.0,65.0,43.0,19.0,50.0,68.0
-/zapas/2900369,1.0,1.0,Tampa Bay Lightning,Florida Panthers,43.0,66.0,42.0,18.0,50.0,71.0
-/zapas/2900402,0.0,0.0,Tampa Bay Lightning,New York Rangers,43.0,66.0,41.0,28.0,58.0,67.0
-/zapas/2900403,0.0,0.0,Tampa Bay Lightning,New York Rangers,43.0,66.0,44.0,31.0,64.0,65.0
-/zapas/2900404,1.0,1.0,Tampa Bay Lightning,New York Rangers,40.0,60.0,47.0,34.0,67.0,64.0
-/zapas/2900405,1.0,1.0,Tampa Bay Lightning,New York Rangers,42.0,61.0,46.0,34.0,66.0,61.0
-/zapas/2900406,1.0,0.0,Tampa Bay Lightning,New York Rangers,42.0,64.0,47.0,34.0,65.0,61.0
-/zapas/2900407,1.0,1.0,Tampa Bay Lightning,New York Rangers,42.0,62.0,47.0,34.0,66.0,60.0
-/zapas/2900585,0.0,0.0,Tampa Bay Lightning,Colorado Avalanche,42.0,61.0,47.0,40.0,83.0,60.0
-/zapas/2900586,0.0,0.0,Tampa Bay Lightning,Colorado Avalanche,40.0,58.0,48.0,39.0,80.0,62.0
-/zapas/2900587,1.0,1.0,Tampa Bay Lightning,Colorado Avalanche,39.0,56.0,52.0,40.0,84.0,60.0
-/zapas/2900588,0.0,1.0,Tampa Bay Lightning,Colorado Avalanche,39.0,61.0,54.0,40.0,84.0,63.0
-/zapas/2900589,1.0,0.0,Tampa Bay Lightning,Colorado Avalanche,40.0,63.0,52.0,42.0,86.0,60.0
-/zapas/2900590,0.0,1.0,Tampa Bay Lightning,Colorado Avalanche,40.0,61.0,51.0,41.0,86.0,60.0
+/zapas/2526382,1.0,1.0,Tampa Bay Lightning,Chicago Blackhawks,45.0,80.0,52.0,30.0,61.0,53.0
+/zapas/2526392,0.0,0.0,Tampa Bay Lightning,Washington Capitals,44.0,78.0,51.0,27.0,53.0,63.0
+/zapas/2526407,0.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,44.0,75.0,49.0,25.0,52.0,67.0
+/zapas/2526421,1.0,0.0,Tampa Bay Lightning,Buffalo Sabres,42.0,73.0,51.0,20.0,46.0,65.0
+/zapas/2526431,0.0,0.0,Tampa Bay Lightning,Boston Bruins,42.0,70.0,47.0,30.0,56.0,59.0
+/zapas/2526454,1.0,1.0,Tampa Bay Lightning,San Jose Sharks,39.0,70.0,49.0,40.0,55.0,38.0
+/zapas/2526474,1.0,1.0,Tampa Bay Lightning,New York Islanders,39.0,72.0,49.0,39.0,84.0,68.0
+/zapas/2526487,1.0,1.0,Tampa Bay Lightning,Colorado Avalanche,41.0,74.0,46.0,23.0,62.0,73.0
+/zapas/2526501,1.0,1.0,Tampa Bay Lightning,Winnipeg Jets,41.0,77.0,48.0,40.0,75.0,52.0
+/zapas/2526525,1.0,0.0,Tampa Bay Lightning,St. Louis Blues,40.0,74.0,50.0,37.0,68.0,51.0
+/zapas/2526543,1.0,0.0,Tampa Bay Lightning,Arizona Coyotes,40.0,72.0,49.0,19.0,42.0,58.0
+/zapas/2526559,1.0,0.0,Tampa Bay Lightning,Colorado Avalanche,40.0,73.0,48.0,26.0,62.0,67.0
+/zapas/2526579,0.0,0.0,Tampa Bay Lightning,Vegas Golden Knights,43.0,78.0,49.0,37.0,70.0,64.0
+/zapas/2526587,1.0,1.0,Tampa Bay Lightning,Ottawa Senators,40.0,73.0,48.0,19.0,45.0,68.0
+/zapas/2526600,1.0,1.0,Tampa Bay Lightning,Minnesota Wild,41.0,76.0,49.0,32.0,57.0,59.0
+/zapas/2526624,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,42.0,74.0,45.0,28.0,55.0,57.0
+/zapas/2526633,0.0,1.0,Tampa Bay Lightning,Philadelphia Flyers,42.0,72.0,45.0,26.0,51.0,61.0
+/zapas/2526649,1.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,39.0,70.0,48.0,32.0,56.0,58.0
+/zapas/2526658,1.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,39.0,73.0,47.0,31.0,62.0,55.0
+/zapas/2526674,0.0,0.0,Tampa Bay Lightning,Montreal Canadiens,39.0,69.0,46.0,25.0,50.0,58.0
+/zapas/2526691,0.0,0.0,Tampa Bay Lightning,Ottawa Senators,40.0,67.0,43.0,17.0,43.0,73.0
+/zapas/2526702,1.0,0.0,Tampa Bay Lightning,Detroit Red Wings,38.0,67.0,47.0,24.0,50.0,68.0
+/zapas/2526709,1.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,41.0,71.0,46.0,30.0,53.0,62.0
+/zapas/2526718,0.0,1.0,Tampa Bay Lightning,Calgary Flames,44.0,74.0,45.0,30.0,52.0,51.0
+/zapas/2526755,0.0,1.0,Tampa Bay Lightning,Vegas Golden Knights,41.0,73.0,50.0,40.0,64.0,48.0
+/zapas/2526773,0.0,0.0,Tampa Bay Lightning,Minnesota Wild,41.0,72.0,51.0,32.0,55.0,54.0
+/zapas/2526783,1.0,0.0,Tampa Bay Lightning,Chicago Blackhawks,38.0,69.0,54.0,28.0,58.0,60.0
+/zapas/2526791,1.0,0.0,Tampa Bay Lightning,Nashville Predators,38.0,65.0,52.0,40.0,60.0,46.0
+/zapas/2526800,1.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,37.0,64.0,53.0,39.0,61.0,51.0
+/zapas/2526822,0.0,0.0,Tampa Bay Lightning,Winnipeg Jets,38.0,65.0,51.0,37.0,62.0,50.0
+/zapas/2526838,1.0,0.0,Tampa Bay Lightning,Calgary Flames,35.0,63.0,54.0,31.0,51.0,45.0
+/zapas/2526856,1.0,0.0,Tampa Bay Lightning,Vancouver Canucks,35.0,66.0,57.0,20.0,53.0,74.0
+/zapas/2526865,0.0,0.0,Tampa Bay Lightning,Edmonton Oilers,35.0,64.0,54.0,29.0,52.0,62.0
+/zapas/2526884,1.0,1.0,Tampa Bay Lightning,Vancouver Canucks,35.0,63.0,56.0,18.0,51.0,71.0
+/zapas/2526900,1.0,1.0,Tampa Bay Lightning,Los Angeles Kings,36.0,64.0,55.0,29.0,53.0,48.0
+/zapas/2526915,0.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,36.0,65.0,58.0,33.0,66.0,55.0
+/zapas/2526919,0.0,0.0,Tampa Bay Lightning,Buffalo Sabres,33.0,65.0,61.0,22.0,54.0,65.0
+/zapas/2526937,1.0,1.0,Tampa Bay Lightning,Detroit Red Wings,33.0,65.0,61.0,28.0,53.0,53.0
+/zapas/2526953,0.0,1.0,Tampa Bay Lightning,New Jersey Devils,33.0,64.0,62.0,21.0,54.0,68.0
+/zapas/2526975,1.0,0.0,Tampa Bay Lightning,Washington Capitals,30.0,65.0,66.0,35.0,67.0,65.0
+/zapas/2526988,1.0,0.0,Tampa Bay Lightning,Ottawa Senators,32.0,68.0,66.0,21.0,55.0,72.0
+/zapas/2527004,1.0,0.0,Tampa Bay Lightning,Montreal Canadiens,35.0,69.0,63.0,24.0,53.0,63.0
+/zapas/2527020,1.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,34.0,68.0,64.0,41.0,70.0,51.0
+/zapas/2527033,0.0,1.0,Tampa Bay Lightning,Buffalo Sabres,33.0,67.0,63.0,27.0,55.0,56.0
+/zapas/2527040,1.0,0.0,Tampa Bay Lightning,Dallas Stars,34.0,67.0,60.0,35.0,54.0,46.0
+/zapas/2527054,1.0,1.0,Tampa Bay Lightning,Philadelphia Flyers,36.0,71.0,60.0,36.0,61.0,52.0
+/zapas/2527078,1.0,1.0,Tampa Bay Lightning,Florida Panthers,38.0,76.0,61.0,40.0,67.0,58.0
+/zapas/2527091,1.0,1.0,Tampa Bay Lightning,New York Rangers,37.0,79.0,65.0,18.0,47.0,76.0
+/zapas/2527104,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,38.0,80.0,65.0,23.0,51.0,63.0
+/zapas/2527127,0.0,1.0,Tampa Bay Lightning,Ottawa Senators,37.0,78.0,66.0,24.0,61.0,68.0
+/zapas/2527156,0.0,1.0,Tampa Bay Lightning,Boston Bruins,37.0,81.0,70.0,38.0,72.0,59.0
+/zapas/2527164,1.0,1.0,Tampa Bay Lightning,Edmonton Oilers,34.0,74.0,69.0,21.0,56.0,65.0
+/zapas/2527181,1.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,34.0,73.0,68.0,41.0,76.0,58.0
+/zapas/2527190,1.0,0.0,Tampa Bay Lightning,New York Islanders,37.0,75.0,65.0,19.0,58.0,71.0
+/zapas/2527211,0.0,0.0,Tampa Bay Lightning,New Jersey Devils,37.0,77.0,69.0,29.0,63.0,59.0
+/zapas/2527227,0.0,1.0,Tampa Bay Lightning,Arizona Coyotes,34.0,74.0,68.0,36.0,57.0,48.0
+/zapas/2527244,0.0,0.0,Tampa Bay Lightning,Boston Bruins,34.0,72.0,68.0,34.0,64.0,61.0
+/zapas/2527255,1.0,0.0,Tampa Bay Lightning,New York Rangers,34.0,71.0,67.0,20.0,57.0,73.0
+/zapas/2527273,0.0,1.0,Tampa Bay Lightning,Nashville Predators,34.0,74.0,69.0,44.0,72.0,51.0
+/zapas/2527287,1.0,1.0,Tampa Bay Lightning,Boston Bruins,34.0,72.0,69.0,36.0,70.0,59.0
+/zapas/2527308,1.0,1.0,Tampa Bay Lightning,Buffalo Sabres,34.0,72.0,67.0,22.0,48.0,71.0
+/zapas/2527318,0.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,34.0,75.0,69.0,25.0,62.0,68.0
+/zapas/2647219,1.0,1.0,Tampa Bay Lightning,Florida Panthers,33.0,73.0,69.0,40.0,63.0,48.0
+/zapas/2647251,0.0,1.0,Tampa Bay Lightning,Vancouver Canucks,33.0,71.0,67.0,23.0,54.0,64.0
+/zapas/2647261,1.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,32.0,71.0,69.0,43.0,80.0,55.0
+/zapas/2647280,1.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,33.0,74.0,67.0,29.0,70.0,68.0
+/zapas/2647291,1.0,1.0,Tampa Bay Lightning,Detroit Red Wings,34.0,71.0,63.0,15.0,54.0,79.0
+/zapas/2647308,0.0,0.0,Tampa Bay Lightning,Minnesota Wild,35.0,69.0,60.0,32.0,54.0,54.0
+/zapas/2647313,1.0,0.0,Tampa Bay Lightning,Chicago Blackhawks,33.0,68.0,62.0,25.0,60.0,76.0
+/zapas/2647330,1.0,0.0,Tampa Bay Lightning,Colorado Avalanche,34.0,71.0,63.0,35.0,64.0,49.0
+/zapas/2647342,1.0,0.0,Tampa Bay Lightning,Vegas Golden Knights,37.0,68.0,56.0,30.0,52.0,53.0
+/zapas/2647355,0.0,0.0,Tampa Bay Lightning,Arizona Coyotes,40.0,71.0,55.0,30.0,57.0,47.0
+/zapas/2647370,1.0,1.0,Tampa Bay Lightning,New Jersey Devils,37.0,69.0,61.0,40.0,64.0,53.0
+/zapas/2647383,0.0,1.0,Tampa Bay Lightning,Nashville Predators,37.0,73.0,61.0,41.0,70.0,53.0
+/zapas/2647394,1.0,0.0,Tampa Bay Lightning,Montreal Canadiens,34.0,67.0,59.0,32.0,64.0,60.0
+/zapas/2647405,1.0,0.0,Tampa Bay Lightning,Ottawa Senators,37.0,70.0,58.0,21.0,59.0,80.0
+/zapas/2647418,1.0,1.0,Tampa Bay Lightning,Edmonton Oilers,39.0,73.0,57.0,27.0,55.0,61.0
+/zapas/2647430,1.0,1.0,Tampa Bay Lightning,New York Islanders,42.0,76.0,55.0,35.0,67.0,54.0
+/zapas/2647445,0.0,1.0,Tampa Bay Lightning,Ottawa Senators,42.0,73.0,54.0,23.0,66.0,84.0
+/zapas/2647462,0.0,0.0,Tampa Bay Lightning,Buffalo Sabres,42.0,76.0,56.0,27.0,63.0,67.0
+/zapas/2647477,1.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,39.0,73.0,58.0,30.0,68.0,60.0
+/zapas/2647491,1.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,39.0,70.0,56.0,29.0,63.0,65.0
+/zapas/2647512,0.0,0.0,Tampa Bay Lightning,Nashville Predators,40.0,74.0,58.0,41.0,67.0,47.0
+/zapas/2647523,1.0,1.0,Tampa Bay Lightning,Florida Panthers,38.0,74.0,60.0,31.0,69.0,67.0
+/zapas/2647539,1.0,1.0,Tampa Bay Lightning,Chicago Blackhawks,41.0,80.0,59.0,22.0,49.0,67.0
+/zapas/2647557,1.0,1.0,Tampa Bay Lightning,New Jersey Devils,41.0,76.0,59.0,27.0,58.0,65.0
+/zapas/2647568,0.0,1.0,Tampa Bay Lightning,Anaheim Ducks,41.0,77.0,59.0,22.0,42.0,62.0
+/zapas/2647583,1.0,1.0,Tampa Bay Lightning,Buffalo Sabres,38.0,75.0,61.0,37.0,68.0,55.0
+/zapas/2647598,1.0,0.0,Tampa Bay Lightning,Florida Panthers,40.0,76.0,60.0,28.0,66.0,70.0
+/zapas/2647611,1.0,0.0,Tampa Bay Lightning,New Jersey Devils,39.0,75.0,61.0,20.0,54.0,77.0
+/zapas/2647620,1.0,0.0,Tampa Bay Lightning,Detroit Red Wings,39.0,79.0,62.0,31.0,61.0,54.0
+/zapas/2647632,1.0,1.0,Tampa Bay Lightning,Boston Bruins,38.0,82.0,65.0,30.0,45.0,48.0
+/zapas/2647647,1.0,1.0,Tampa Bay Lightning,Colorado Avalanche,41.0,84.0,60.0,35.0,74.0,61.0
+/zapas/2647661,1.0,1.0,Tampa Bay Lightning,New York Rangers,41.0,83.0,58.0,31.0,61.0,62.0
+/zapas/2647680,1.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,44.0,88.0,57.0,38.0,72.0,51.0
+/zapas/2647708,0.0,0.0,Tampa Bay Lightning,Winnipeg Jets,44.0,88.0,57.0,39.0,81.0,58.0
+/zapas/2647724,1.0,0.0,Tampa Bay Lightning,Vancouver Canucks,43.0,88.0,59.0,24.0,61.0,65.0
+/zapas/2647735,1.0,0.0,Tampa Bay Lightning,Calgary Flames,43.0,88.0,59.0,39.0,70.0,45.0
+/zapas/2647756,1.0,0.0,Tampa Bay Lightning,Edmonton Oilers,42.0,89.0,61.0,29.0,55.0,59.0
+/zapas/2647769,1.0,1.0,Tampa Bay Lightning,Philadelphia Flyers,45.0,91.0,58.0,25.0,56.0,69.0
+/zapas/2647788,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,47.0,96.0,61.0,34.0,60.0,59.0
+/zapas/2647809,1.0,0.0,Tampa Bay Lightning,Anaheim Ducks,47.0,98.0,63.0,32.0,57.0,59.0
+/zapas/2647826,1.0,0.0,Tampa Bay Lightning,Los Angeles Kings,47.0,94.0,59.0,25.0,48.0,53.0
+/zapas/2647842,0.0,0.0,Tampa Bay Lightning,San Jose Sharks,50.0,98.0,58.0,36.0,74.0,65.0
+/zapas/2647861,1.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,47.0,93.0,60.0,34.0,64.0,59.0
+/zapas/2647874,1.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,47.0,93.0,58.0,29.0,50.0,59.0
+/zapas/2647887,1.0,0.0,Tampa Bay Lightning,Buffalo Sabres,47.0,91.0,57.0,23.0,52.0,59.0
+/zapas/2647901,0.0,0.0,Tampa Bay Lightning,New York Islanders,50.0,95.0,57.0,36.0,57.0,48.0
+/zapas/2647917,1.0,0.0,Tampa Bay Lightning,Dallas Stars,47.0,91.0,58.0,29.0,49.0,52.0
+/zapas/2647927,0.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,48.0,88.0,54.0,33.0,73.0,64.0
+/zapas/2647944,1.0,1.0,Tampa Bay Lightning,San Jose Sharks,45.0,85.0,57.0,44.0,85.0,59.0
+/zapas/2647974,0.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,46.0,85.0,55.0,37.0,74.0,60.0
+/zapas/2647981,1.0,0.0,Tampa Bay Lightning,New York Islanders,43.0,84.0,57.0,43.0,64.0,37.0
+/zapas/2647994,1.0,0.0,Tampa Bay Lightning,New York Rangers,42.0,78.0,56.0,28.0,55.0,70.0
+/zapas/2648014,0.0,1.0,Tampa Bay Lightning,Vegas Golden Knights,42.0,75.0,55.0,33.0,57.0,50.0
+/zapas/2648029,0.0,1.0,Tampa Bay Lightning,St. Louis Blues,40.0,73.0,57.0,37.0,58.0,46.0
+/zapas/2648046,1.0,1.0,Tampa Bay Lightning,Pittsburgh Penguins,40.0,69.0,53.0,36.0,71.0,58.0
+/zapas/2648056,1.0,0.0,Tampa Bay Lightning,Florida Panthers,40.0,69.0,55.0,29.0,59.0,63.0
+/zapas/2648066,1.0,1.0,Tampa Bay Lightning,Calgary Flames,41.0,69.0,53.0,38.0,80.0,66.0
+/zapas/2648078,1.0,1.0,Tampa Bay Lightning,Dallas Stars,41.0,69.0,53.0,34.0,47.0,41.0
+/zapas/2648095,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,42.0,69.0,48.0,35.0,58.0,48.0
+/zapas/2648109,1.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,42.0,66.0,43.0,30.0,64.0,60.0
+/zapas/2648116,1.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,43.0,69.0,43.0,38.0,65.0,56.0
+/zapas/2648133,1.0,1.0,Tampa Bay Lightning,Buffalo Sabres,43.0,68.0,43.0,20.0,56.0,73.0
+/zapas/2648162,1.0,1.0,Tampa Bay Lightning,Los Angeles Kings,45.0,68.0,39.0,22.0,53.0,69.0
+/zapas/2648179,1.0,0.0,Tampa Bay Lightning,New York Rangers,44.0,68.0,42.0,31.0,67.0,62.0
+/zapas/2648182,0.0,0.0,Tampa Bay Lightning,Boston Bruins,43.0,69.0,44.0,37.0,63.0,50.0
+/zapas/2648202,1.0,1.0,Tampa Bay Lightning,Ottawa Senators,40.0,65.0,45.0,17.0,53.0,66.0
+/zapas/2648221,1.0,1.0,Tampa Bay Lightning,Winnipeg Jets,43.0,69.0,41.0,31.0,66.0,65.0
+/zapas/2648235,0.0,1.0,Tampa Bay Lightning,Minnesota Wild,43.0,72.0,43.0,31.0,55.0,59.0
+/zapas/2648250,1.0,1.0,Tampa Bay Lightning,Detroit Red Wings,43.0,70.0,42.0,22.0,52.0,69.0
+/zapas/2648263,1.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,43.0,67.0,41.0,41.0,76.0,56.0
+/zapas/2648285,1.0,0.0,Tampa Bay Lightning,Detroit Red Wings,46.0,71.0,39.0,19.0,47.0,71.0
+/zapas/2648304,1.0,1.0,Tampa Bay Lightning,Washington Capitals,47.0,75.0,43.0,40.0,70.0,54.0
+/zapas/2648316,1.0,1.0,Tampa Bay Lightning,Arizona Coyotes,47.0,78.0,44.0,37.0,57.0,50.0
+/zapas/2648331,1.0,0.0,Tampa Bay Lightning,Washington Capitals,49.0,80.0,42.0,40.0,74.0,58.0
+/zapas/2648336,1.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,50.0,85.0,45.0,43.0,67.0,43.0
+/zapas/2648357,0.0,0.0,Tampa Bay Lightning,St. Louis Blues,50.0,86.0,44.0,37.0,64.0,43.0
+/zapas/2648370,1.0,1.0,Tampa Bay Lightning,Boston Bruins,47.0,84.0,46.0,44.0,73.0,45.0
+/zapas/2648405,0.0,1.0,Tampa Bay Lightning,Washington Capitals,47.0,83.0,47.0,41.0,70.0,53.0
+/zapas/2648422,1.0,0.0,Tampa Bay Lightning,Ottawa Senators,44.0,80.0,53.0,18.0,53.0,74.0
+/zapas/2648430,0.0,0.0,Tampa Bay Lightning,Montreal Canadiens,44.0,82.0,55.0,34.0,62.0,53.0
+/zapas/2648441,1.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,41.0,79.0,58.0,33.0,70.0,72.0
+/zapas/2648455,1.0,0.0,Tampa Bay Lightning,Boston Bruins,41.0,77.0,57.0,38.0,72.0,52.0
+/zapas/2806381,1.0,1.0,Tampa Bay Lightning,Florida Panthers,42.0,81.0,59.0,28.0,70.0,69.0
+/zapas/2806397,0.0,0.0,Tampa Bay Lightning,Florida Panthers,43.0,82.0,58.0,27.0,67.0,68.0
+/zapas/2806407,0.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,41.0,81.0,59.0,35.0,60.0,55.0
+/zapas/2806423,1.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,42.0,83.0,59.0,26.0,63.0,76.0
+/zapas/2806438,0.0,0.0,Tampa Bay Lightning,Ottawa Senators,42.0,85.0,61.0,21.0,58.0,73.0
+/zapas/2806462,1.0,0.0,Tampa Bay Lightning,Montreal Canadiens,39.0,82.0,63.0,31.0,67.0,63.0
+/zapas/2806474,1.0,0.0,Tampa Bay Lightning,Boston Bruins,42.0,85.0,61.0,35.0,70.0,56.0
+/zapas/2806493,0.0,1.0,Tampa Bay Lightning,Colorado Avalanche,41.0,86.0,62.0,41.0,66.0,50.0
+/zapas/2806520,1.0,1.0,Tampa Bay Lightning,Pittsburgh Penguins,38.0,82.0,66.0,34.0,59.0,50.0
+/zapas/2806540,0.0,1.0,Tampa Bay Lightning,Nashville Predators,38.0,80.0,64.0,41.0,67.0,53.0
+/zapas/2806557,0.0,0.0,Tampa Bay Lightning,New York Rangers,36.0,76.0,64.0,21.0,56.0,70.0
+/zapas/2806564,1.0,0.0,Tampa Bay Lightning,New Jersey Devils,33.0,73.0,67.0,22.0,43.0,67.0
+/zapas/2806573,0.0,0.0,Tampa Bay Lightning,New York Islanders,33.0,75.0,69.0,38.0,56.0,45.0
+/zapas/2806624,1.0,0.0,Tampa Bay Lightning,Buffalo Sabres,30.0,71.0,71.0,32.0,60.0,55.0
+/zapas/2806629,1.0,1.0,Tampa Bay Lightning,Buffalo Sabres,33.0,71.0,69.0,32.0,61.0,53.0
+/zapas/2806663,1.0,1.0,Tampa Bay Lightning,New York Rangers,33.0,71.0,68.0,28.0,63.0,67.0
+/zapas/2806678,0.0,1.0,Tampa Bay Lightning,Winnipeg Jets,36.0,77.0,65.0,28.0,55.0,61.0
+/zapas/2806700,0.0,0.0,Tampa Bay Lightning,St. Louis Blues,33.0,75.0,67.0,35.0,60.0,59.0
+/zapas/2806717,1.0,0.0,Tampa Bay Lightning,Chicago Blackhawks,33.0,74.0,66.0,29.0,60.0,59.0
+/zapas/2806731,1.0,1.0,Tampa Bay Lightning,Anaheim Ducks,33.0,75.0,67.0,23.0,55.0,66.0
+/zapas/2806741,1.0,1.0,Tampa Bay Lightning,Buffalo Sabres,33.0,75.0,66.0,26.0,54.0,61.0
+/zapas/2806756,0.0,1.0,Tampa Bay Lightning,St. Louis Blues,33.0,75.0,66.0,33.0,57.0,52.0
+/zapas/2806774,0.0,0.0,Tampa Bay Lightning,Washington Capitals,33.0,75.0,66.0,40.0,76.0,61.0
+/zapas/2806784,0.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,33.0,75.0,66.0,29.0,61.0,58.0
+/zapas/2806806,1.0,0.0,Tampa Bay Lightning,Nashville Predators,30.0,70.0,66.0,26.0,59.0,62.0
+/zapas/2806816,0.0,1.0,Tampa Bay Lightning,Minnesota Wild,32.0,71.0,64.0,36.0,65.0,56.0
+/zapas/2806833,1.0,1.0,Tampa Bay Lightning,San Jose Sharks,29.0,72.0,68.0,29.0,58.0,65.0
+/zapas/2806844,0.0,1.0,Tampa Bay Lightning,New York Islanders,30.0,75.0,66.0,40.0,60.0,48.0
+/zapas/2806849,1.0,0.0,Tampa Bay Lightning,Florida Panthers,30.0,74.0,65.0,31.0,75.0,66.0
+/zapas/2806864,1.0,1.0,Tampa Bay Lightning,Boston Bruins,30.0,73.0,64.0,35.0,68.0,56.0
+/zapas/2806885,0.0,1.0,Tampa Bay Lightning,Washington Capitals,32.0,74.0,63.0,42.0,70.0,52.0
+/zapas/2806902,1.0,1.0,Tampa Bay Lightning,Ottawa Senators,32.0,75.0,64.0,28.0,53.0,61.0
+/zapas/2806915,0.0,1.0,Tampa Bay Lightning,Dallas Stars,32.0,72.0,61.0,39.0,58.0,42.0
+/zapas/2806935,0.0,0.0,Tampa Bay Lightning,Washington Capitals,33.0,73.0,60.0,40.0,67.0,54.0
+/zapas/2806948,1.0,1.0,Tampa Bay Lightning,Florida Panthers,30.0,71.0,61.0,30.0,71.0,59.0
+/zapas/2806971,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,30.0,72.0,59.0,27.0,60.0,63.0
+/zapas/2806983,1.0,1.0,Tampa Bay Lightning,Detroit Red Wings,30.0,68.0,60.0,10.0,44.0,83.0
+/zapas/2806993,1.0,0.0,Tampa Bay Lightning,Buffalo Sabres,33.0,67.0,57.0,24.0,58.0,66.0
+/zapas/2807005,1.0,0.0,Tampa Bay Lightning,Montreal Canadiens,36.0,72.0,58.0,21.0,59.0,69.0
+/zapas/2807024,1.0,0.0,Tampa Bay Lightning,Ottawa Senators,36.0,70.0,57.0,22.0,55.0,69.0
+/zapas/2807031,1.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,36.0,69.0,58.0,33.0,65.0,55.0
+/zapas/2807039,1.0,1.0,Tampa Bay Lightning,Vancouver Canucks,36.0,67.0,57.0,35.0,71.0,60.0
+/zapas/2807056,1.0,1.0,Tampa Bay Lightning,Arizona Coyotes,39.0,73.0,55.0,32.0,62.0,56.0
+/zapas/2807071,1.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,41.0,74.0,51.0,31.0,68.0,64.0
+/zapas/2807084,0.0,0.0,Tampa Bay Lightning,New Jersey Devils,44.0,73.0,48.0,22.0,52.0,69.0
+/zapas/2807092,1.0,1.0,Tampa Bay Lightning,Los Angeles Kings,42.0,71.0,49.0,21.0,48.0,57.0
+/zapas/2807112,0.0,0.0,Tampa Bay Lightning,Minnesota Wild,44.0,71.0,47.0,27.0,62.0,73.0
+/zapas/2807118,1.0,0.0,Tampa Bay Lightning,Winnipeg Jets,41.0,66.0,49.0,29.0,68.0,64.0
+/zapas/2807147,0.0,0.0,Tampa Bay Lightning,Dallas Stars,44.0,72.0,45.0,33.0,50.0,52.0
+/zapas/2807155,1.0,0.0,Tampa Bay Lightning,Los Angeles Kings,42.0,72.0,47.0,22.0,51.0,60.0
+/zapas/2807167,1.0,0.0,Tampa Bay Lightning,Anaheim Ducks,42.0,73.0,47.0,20.0,49.0,66.0
+/zapas/2807181,1.0,0.0,Tampa Bay Lightning,San Jose Sharks,45.0,75.0,45.0,22.0,48.0,63.0
+/zapas/2807190,1.0,1.0,Tampa Bay Lightning,Vegas Golden Knights,46.0,74.0,42.0,33.0,68.0,64.0
+/zapas/2807205,1.0,1.0,Tampa Bay Lightning,Pittsburgh Penguins,48.0,75.0,40.0,40.0,71.0,57.0
+/zapas/2807223,1.0,1.0,Tampa Bay Lightning,New York Islanders,51.0,78.0,39.0,28.0,60.0,62.0
+/zapas/2807239,1.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,51.0,75.0,39.0,43.0,52.0,33.0
+/zapas/2807246,1.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,50.0,72.0,36.0,38.0,67.0,58.0
+/zapas/2807258,1.0,1.0,Tampa Bay Lightning,Edmonton Oilers,49.0,72.0,36.0,35.0,73.0,66.0
+/zapas/2807273,1.0,1.0,Tampa Bay Lightning,Philadelphia Flyers,49.0,69.0,33.0,32.0,68.0,60.0
+/zapas/2807295,1.0,0.0,Tampa Bay Lightning,Colorado Avalanche,49.0,72.0,35.0,33.0,69.0,57.0
+/zapas/2807315,0.0,0.0,Tampa Bay Lightning,Vegas Golden Knights,48.0,71.0,35.0,33.0,67.0,63.0
+/zapas/2807330,0.0,0.0,Tampa Bay Lightning,Arizona Coyotes,45.0,71.0,39.0,22.0,46.0,59.0
+/zapas/2807346,0.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,42.0,65.0,44.0,24.0,65.0,75.0
+/zapas/2807362,0.0,1.0,Tampa Bay Lightning,Chicago Blackhawks,39.0,64.0,48.0,23.0,60.0,62.0
+/zapas/2807377,1.0,1.0,Tampa Bay Lightning,Calgary Flames,36.0,65.0,53.0,30.0,70.0,67.0
+/zapas/2807395,0.0,1.0,Tampa Bay Lightning,Boston Bruins,39.0,68.0,53.0,41.0,64.0,48.0
+/zapas/2807410,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,37.0,65.0,52.0,29.0,63.0,57.0
+/zapas/2807430,1.0,0.0,Tampa Bay Lightning,Boston Bruins,40.0,67.0,49.0,45.0,63.0,41.0
+/zapas/2807436,0.0,0.0,Tampa Bay Lightning,Detroit Red Wings,40.0,65.0,51.0,12.0,34.0,69.0
+/zapas/2807446,0.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,40.0,67.0,53.0,29.0,60.0,61.0
+/zapas/2893212,1.0,1.0,Tampa Bay Lightning,Chicago Blackhawks,37.0,64.0,53.0,23.0,60.0,61.0
+/zapas/2893228,1.0,1.0,Tampa Bay Lightning,Chicago Blackhawks,37.0,65.0,51.0,23.0,58.0,62.0
+/zapas/2893271,1.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,37.0,67.0,53.0,21.0,44.0,65.0
+/zapas/2893287,0.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,36.0,66.0,53.0,19.0,44.0,68.0
+/zapas/2893326,0.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,33.0,64.0,56.0,32.0,69.0,63.0
+/zapas/2893340,1.0,1.0,Tampa Bay Lightning,Nashville Predators,31.0,61.0,56.0,33.0,49.0,54.0
+/zapas/2893355,1.0,1.0,Tampa Bay Lightning,Nashville Predators,32.0,63.0,58.0,30.0,48.0,55.0
+/zapas/2893368,1.0,1.0,Tampa Bay Lightning,Detroit Red Wings,33.0,66.0,59.0,16.0,42.0,73.0
+/zapas/2893383,1.0,1.0,Tampa Bay Lightning,Detroit Red Wings,33.0,68.0,59.0,13.0,39.0,75.0
+/zapas/2893403,1.0,0.0,Tampa Bay Lightning,Nashville Predators,33.0,66.0,57.0,28.0,53.0,60.0
+/zapas/2893409,1.0,0.0,Tampa Bay Lightning,Nashville Predators,34.0,66.0,55.0,26.0,50.0,61.0
+/zapas/2893431,0.0,0.0,Tampa Bay Lightning,Florida Panthers,37.0,69.0,51.0,34.0,57.0,55.0
+/zapas/2893445,1.0,0.0,Tampa Bay Lightning,Florida Panthers,37.0,68.0,49.0,34.0,58.0,56.0
+/zapas/2893465,0.0,1.0,Tampa Bay Lightning,Florida Panthers,40.0,71.0,46.0,34.0,55.0,57.0
+/zapas/2893753,0.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,40.0,73.0,47.0,39.0,76.0,57.0
+/zapas/2893312,1.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,37.0,69.0,48.0,41.0,77.0,53.0
+/zapas/2893507,1.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,40.0,72.0,48.0,41.0,78.0,53.0
+/zapas/2893524,1.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,40.0,71.0,48.0,39.0,75.0,54.0
+/zapas/2893543,1.0,1.0,Tampa Bay Lightning,Dallas Stars,40.0,69.0,46.0,23.0,52.0,53.0
+/zapas/2893474,1.0,0.0,Tampa Bay Lightning,Dallas Stars,42.0,70.0,41.0,22.0,49.0,54.0
+/zapas/2893572,1.0,0.0,Tampa Bay Lightning,Chicago Blackhawks,45.0,71.0,39.0,35.0,68.0,53.0
+/zapas/2893581,0.0,0.0,Tampa Bay Lightning,Chicago Blackhawks,44.0,69.0,40.0,35.0,66.0,51.0
+/zapas/2893598,1.0,0.0,Tampa Bay Lightning,Chicago Blackhawks,42.0,67.0,42.0,34.0,66.0,53.0
+/zapas/2893616,1.0,0.0,Tampa Bay Lightning,Detroit Red Wings,43.0,70.0,43.0,18.0,42.0,67.0
+/zapas/2893631,0.0,0.0,Tampa Bay Lightning,Detroit Red Wings,45.0,72.0,41.0,18.0,44.0,69.0
+/zapas/2893644,1.0,1.0,Tampa Bay Lightning,Nashville Predators,44.0,76.0,46.0,20.0,47.0,70.0
+/zapas/2893658,0.0,1.0,Tampa Bay Lightning,Nashville Predators,44.0,78.0,46.0,20.0,47.0,72.0
+/zapas/2893487,1.0,0.0,Tampa Bay Lightning,Dallas Stars,41.0,74.0,48.0,20.0,50.0,58.0
+/zapas/2893681,1.0,1.0,Tampa Bay Lightning,Chicago Blackhawks,40.0,73.0,50.0,29.0,66.0,67.0
+/zapas/2893696,1.0,1.0,Tampa Bay Lightning,Chicago Blackhawks,40.0,74.0,51.0,28.0,65.0,67.0
+/zapas/2894036,1.0,1.0,Tampa Bay Lightning,Florida Panthers,40.0,74.0,51.0,39.0,70.0,55.0
+/zapas/2893714,1.0,0.0,Tampa Bay Lightning,Dallas Stars,40.0,73.0,53.0,21.0,48.0,54.0
+/zapas/2893725,0.0,0.0,Tampa Bay Lightning,Dallas Stars,43.0,73.0,49.0,20.0,48.0,54.0
+/zapas/2893744,0.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,40.0,70.0,52.0,38.0,65.0,48.0
+/zapas/2893769,0.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,40.0,69.0,50.0,19.0,44.0,64.0
+/zapas/2893784,1.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,40.0,70.0,49.0,22.0,44.0,58.0
+/zapas/2893800,1.0,1.0,Tampa Bay Lightning,Detroit Red Wings,40.0,69.0,49.0,26.0,47.0,66.0
+/zapas/2893809,0.0,1.0,Tampa Bay Lightning,Detroit Red Wings,40.0,68.0,50.0,26.0,46.0,61.0
+/zapas/2893826,0.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,37.0,66.0,54.0,18.0,38.0,59.0
+/zapas/2893840,1.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,34.0,63.0,58.0,21.0,42.0,59.0
+/zapas/2893850,1.0,0.0,Tampa Bay Lightning,Nashville Predators,34.0,67.0,62.0,33.0,60.0,52.0
+/zapas/2893865,0.0,0.0,Tampa Bay Lightning,Nashville Predators,35.0,67.0,60.0,35.0,57.0,48.0
+/zapas/2893888,1.0,1.0,Tampa Bay Lightning,Florida Panthers,34.0,66.0,63.0,32.0,58.0,51.0
+/zapas/2893905,0.0,1.0,Tampa Bay Lightning,Florida Panthers,33.0,63.0,62.0,33.0,58.0,50.0
+/zapas/2893917,1.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,31.0,62.0,64.0,40.0,59.0,42.0
+/zapas/2893930,0.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,33.0,61.0,60.0,38.0,57.0,43.0
+/zapas/2893941,1.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,30.0,56.0,61.0,15.0,42.0,69.0
+/zapas/2893964,1.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,33.0,58.0,58.0,13.0,39.0,69.0
+/zapas/2893975,1.0,0.0,Tampa Bay Lightning,Chicago Blackhawks,33.0,58.0,58.0,22.0,48.0,63.0
+/zapas/2893556,1.0,1.0,Tampa Bay Lightning,Dallas Stars,33.0,61.0,60.0,34.0,59.0,52.0
+/zapas/2894014,0.0,0.0,Tampa Bay Lightning,Detroit Red Wings,33.0,60.0,59.0,25.0,45.0,58.0
+/zapas/2894019,1.0,0.0,Tampa Bay Lightning,Detroit Red Wings,31.0,55.0,57.0,27.0,46.0,56.0
+/zapas/2893241,1.0,1.0,Tampa Bay Lightning,Dallas Stars,31.0,55.0,57.0,32.0,55.0,50.0
+/zapas/2893257,0.0,1.0,Tampa Bay Lightning,Dallas Stars,34.0,58.0,55.0,31.0,55.0,53.0
+/zapas/2894069,0.0,0.0,Tampa Bay Lightning,Florida Panthers,34.0,57.0,56.0,38.0,69.0,55.0
+/zapas/2894049,0.0,0.0,Tampa Bay Lightning,Florida Panthers,34.0,57.0,58.0,38.0,70.0,55.0
+/zapas/2896983,0.0,1.0,Tampa Bay Lightning,Pittsburgh Penguins,31.0,54.0,60.0,42.0,79.0,62.0
+/zapas/2896993,1.0,0.0,Tampa Bay Lightning,Detroit Red Wings,28.0,54.0,65.0,25.0,48.0,56.0
+/zapas/2897013,1.0,0.0,Tampa Bay Lightning,Washington Capitals,30.0,60.0,66.0,38.0,69.0,51.0
+/zapas/2897027,0.0,1.0,Tampa Bay Lightning,Florida Panthers,32.0,60.0,63.0,38.0,72.0,55.0
+/zapas/2897054,0.0,1.0,Tampa Bay Lightning,Colorado Avalanche,29.0,55.0,63.0,38.0,66.0,55.0
+/zapas/2897065,0.0,0.0,Tampa Bay Lightning,Buffalo Sabres,27.0,55.0,67.0,24.0,54.0,65.0
+/zapas/2897077,1.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,27.0,54.0,65.0,44.0,78.0,52.0
+/zapas/2897089,1.0,1.0,Tampa Bay Lightning,Arizona Coyotes,28.0,56.0,64.0,16.0,50.0,76.0
+/zapas/2897115,1.0,1.0,Tampa Bay Lightning,Washington Capitals,31.0,58.0,60.0,41.0,67.0,50.0
+/zapas/2897133,0.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,32.0,58.0,60.0,38.0,62.0,51.0
+/zapas/2897150,1.0,0.0,Tampa Bay Lightning,Ottawa Senators,33.0,58.0,58.0,31.0,56.0,59.0
+/zapas/2897171,0.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,33.0,60.0,60.0,44.0,68.0,46.0
+/zapas/2897201,1.0,1.0,Tampa Bay Lightning,Florida Panthers,32.0,57.0,59.0,45.0,84.0,54.0
+/zapas/2897211,1.0,1.0,Tampa Bay Lightning,New York Islanders,31.0,53.0,57.0,28.0,50.0,50.0
+/zapas/2897239,1.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,31.0,54.0,58.0,35.0,58.0,54.0
+/zapas/2897251,0.0,1.0,Tampa Bay Lightning,New Jersey Devils,32.0,58.0,60.0,26.0,52.0,62.0
+/zapas/2897259,1.0,1.0,Tampa Bay Lightning,Minnesota Wild,29.0,59.0,64.0,31.0,67.0,68.0
+/zapas/2897270,1.0,1.0,Tampa Bay Lightning,Philadelphia Flyers,28.0,58.0,66.0,33.0,55.0,57.0
+/zapas/2897309,0.0,0.0,Tampa Bay Lightning,Minnesota Wild,34.0,62.0,56.0,35.0,74.0,62.0
+/zapas/2897319,0.0,0.0,Tampa Bay Lightning,St. Louis Blues,34.0,64.0,56.0,32.0,66.0,56.0
+/zapas/2897338,1.0,1.0,Tampa Bay Lightning,St. Louis Blues,35.0,65.0,54.0,31.0,63.0,55.0
+/zapas/2897351,1.0,0.0,Tampa Bay Lightning,Boston Bruins,36.0,62.0,50.0,35.0,59.0,53.0
+/zapas/2897362,1.0,0.0,Tampa Bay Lightning,Philadelphia Flyers,36.0,63.0,51.0,26.0,46.0,60.0
+/zapas/2897376,1.0,0.0,Tampa Bay Lightning,Montreal Canadiens,39.0,69.0,48.0,18.0,49.0,73.0
+/zapas/2897389,1.0,0.0,Tampa Bay Lightning,Toronto Maple Leafs,41.0,69.0,46.0,46.0,72.0,43.0
+/zapas/2897409,0.0,0.0,Tampa Bay Lightning,Ottawa Senators,44.0,73.0,44.0,14.0,55.0,84.0
+/zapas/2897428,1.0,1.0,Tampa Bay Lightning,Los Angeles Kings,41.0,68.0,47.0,33.0,56.0,48.0
+/zapas/2897441,1.0,1.0,Tampa Bay Lightning,Ottawa Senators,40.0,66.0,48.0,20.0,60.0,76.0
+/zapas/2897475,1.0,0.0,Tampa Bay Lightning,Vegas Golden Knights,40.0,65.0,47.0,40.0,80.0,61.0
+/zapas/2897521,1.0,1.0,Tampa Bay Lightning,Montreal Canadiens,42.0,68.0,48.0,14.0,45.0,75.0
+/zapas/2897536,0.0,0.0,Tampa Bay Lightning,Florida Panthers,41.0,68.0,49.0,31.0,67.0,68.0
+/zapas/2897545,0.0,1.0,Tampa Bay Lightning,New York Rangers,40.0,70.0,56.0,39.0,60.0,53.0
+/zapas/2897561,0.0,0.0,Tampa Bay Lightning,New York Rangers,39.0,70.0,58.0,41.0,64.0,50.0
+/zapas/2897576,1.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,36.0,66.0,61.0,22.0,67.0,77.0
+/zapas/2897590,1.0,1.0,Tampa Bay Lightning,Calgary Flames,37.0,69.0,60.0,31.0,60.0,51.0
+/zapas/2897606,0.0,1.0,Tampa Bay Lightning,Boston Bruins,40.0,70.0,56.0,34.0,59.0,51.0
+/zapas/2897623,1.0,0.0,Tampa Bay Lightning,Buffalo Sabres,38.0,67.0,57.0,15.0,48.0,76.0
+/zapas/2897639,1.0,1.0,Tampa Bay Lightning,Vancouver Canucks,38.0,69.0,58.0,31.0,51.0,50.0
+/zapas/2897656,1.0,1.0,Tampa Bay Lightning,Dallas Stars,38.0,70.0,60.0,34.0,61.0,60.0
+/zapas/2897672,1.0,0.0,Tampa Bay Lightning,Los Angeles Kings,41.0,71.0,57.0,37.0,62.0,51.0
+/zapas/2897695,0.0,0.0,Tampa Bay Lightning,Anaheim Ducks,43.0,74.0,57.0,24.0,50.0,61.0
+/zapas/2897702,1.0,0.0,Tampa Bay Lightning,San Jose Sharks,40.0,71.0,60.0,26.0,59.0,66.0
+/zapas/2897743,1.0,1.0,Tampa Bay Lightning,New Jersey Devils,41.0,75.0,59.0,17.0,57.0,77.0
+/zapas/2897759,0.0,1.0,Tampa Bay Lightning,Vegas Golden Knights,41.0,71.0,60.0,33.0,69.0,60.0
+/zapas/2897782,1.0,1.0,Tampa Bay Lightning,San Jose Sharks,39.0,70.0,61.0,25.0,58.0,71.0
+/zapas/2897454,0.0,0.0,Tampa Bay Lightning,Colorado Avalanche,38.0,68.0,60.0,47.0,77.0,47.0
+/zapas/2897493,1.0,0.0,Tampa Bay Lightning,Arizona Coyotes,38.0,70.0,59.0,21.0,57.0,75.0
+/zapas/2897616,1.0,0.0,Tampa Bay Lightning,New Jersey Devils,39.0,71.0,60.0,19.0,63.0,74.0
+/zapas/2897795,1.0,1.0,Tampa Bay Lightning,Edmonton Oilers,39.0,75.0,62.0,31.0,65.0,67.0
+/zapas/2897814,1.0,0.0,Tampa Bay Lightning,Nashville Predators,39.0,76.0,62.0,33.0,66.0,60.0
+/zapas/2897838,1.0,1.0,Tampa Bay Lightning,Ottawa Senators,40.0,74.0,60.0,26.0,46.0,49.0
+/zapas/2897849,0.0,1.0,Tampa Bay Lightning,Pittsburgh Penguins,43.0,76.0,53.0,36.0,62.0,58.0
+/zapas/2897857,1.0,1.0,Tampa Bay Lightning,Detroit Red Wings,42.0,74.0,54.0,22.0,64.0,80.0
+/zapas/2897873,1.0,0.0,Tampa Bay Lightning,Chicago Blackhawks,45.0,77.0,51.0,22.0,54.0,71.0
+/zapas/2897888,0.0,0.0,Tampa Bay Lightning,Winnipeg Jets,45.0,76.0,52.0,25.0,60.0,66.0
+/zapas/2897897,0.0,0.0,Tampa Bay Lightning,Calgary Flames,42.0,76.0,58.0,47.0,84.0,46.0
+/zapas/2897915,0.0,0.0,Tampa Bay Lightning,Edmonton Oilers,42.0,75.0,57.0,33.0,64.0,58.0
+/zapas/2897923,1.0,0.0,Tampa Bay Lightning,Vancouver Canucks,39.0,70.0,60.0,36.0,71.0,61.0
+/zapas/2897945,1.0,0.0,Tampa Bay Lightning,Seattle Kraken,39.0,68.0,59.0,15.0,49.0,72.0
+/zapas/2897972,0.0,1.0,Tampa Bay Lightning,New York Rangers,39.0,69.0,59.0,34.0,63.0,54.0
+/zapas/2897994,0.0,0.0,Tampa Bay Lightning,Carolina Hurricanes,36.0,64.0,57.0,32.0,56.0,50.0
+/zapas/2898005,0.0,0.0,Tampa Bay Lightning,Boston Bruins,36.0,65.0,55.0,36.0,60.0,49.0
+/zapas/2898025,1.0,0.0,Tampa Bay Lightning,Detroit Red Wings,33.0,60.0,57.0,19.0,65.0,91.0
+/zapas/2898032,1.0,0.0,Tampa Bay Lightning,New York Islanders,32.0,59.0,56.0,36.0,68.0,52.0
+/zapas/2898045,1.0,1.0,Tampa Bay Lightning,Carolina Hurricanes,34.0,61.0,54.0,38.0,61.0,48.0
+/zapas/2898069,1.0,1.0,Tampa Bay Lightning,Chicago Blackhawks,34.0,62.0,55.0,22.0,67.0,77.0
+/zapas/2898077,0.0,1.0,Tampa Bay Lightning,Montreal Canadiens,37.0,65.0,54.0,30.0,67.0,67.0
+/zapas/2898092,0.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,35.0,65.0,56.0,38.0,84.0,75.0
+/zapas/2898108,0.0,0.0,Tampa Bay Lightning,Washington Capitals,32.0,61.0,59.0,30.0,65.0,65.0
+/zapas/2898120,0.0,1.0,Tampa Bay Lightning,Boston Bruins,29.0,59.0,60.0,41.0,78.0,51.0
+/zapas/2898139,1.0,1.0,Tampa Bay Lightning,Buffalo Sabres,27.0,57.0,60.0,30.0,62.0,68.0
+/zapas/2898150,0.0,0.0,Tampa Bay Lightning,Dallas Stars,27.0,57.0,58.0,33.0,63.0,66.0
+/zapas/2898171,1.0,1.0,Tampa Bay Lightning,Anaheim Ducks,27.0,56.0,54.0,15.0,49.0,76.0
+/zapas/2898189,1.0,1.0,Tampa Bay Lightning,Winnipeg Jets,26.0,57.0,56.0,30.0,65.0,68.0
+/zapas/2898206,0.0,1.0,Tampa Bay Lightning,Detroit Red Wings,26.0,58.0,57.0,19.0,51.0,88.0
+/zapas/2898219,1.0,1.0,Tampa Bay Lightning,Toronto Maple Leafs,26.0,57.0,54.0,42.0,87.0,66.0
+/zapas/2898238,1.0,1.0,Tampa Bay Lightning,Nashville Predators,29.0,64.0,51.0,32.0,67.0,70.0
+/zapas/2898245,1.0,0.0,Tampa Bay Lightning,Florida Panthers,32.0,69.0,49.0,45.0,85.0,54.0
+/zapas/2898263,1.0,1.0,Tampa Bay Lightning,Columbus Blue Jackets,32.0,75.0,52.0,24.0,60.0,71.0
+/zapas/2898293,0.0,0.0,Tampa Bay Lightning,Columbus Blue Jackets,32.0,75.0,52.0,21.0,55.0,71.0
+/zapas/2898276,1.0,0.0,Tampa Bay Lightning,New York Islanders,32.0,76.0,55.0,30.0,62.0,65.0

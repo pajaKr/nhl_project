@@ -1,166 +1,373 @@
 game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
-/zapas/2526057,Edmonton Oilers,Calgary Flames,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2526083,Calgary Flames,Winnipeg Jets,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2526092,Anaheim Ducks,Calgary Flames,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Anaheim Ducks,Calgary Flames,2021
-/zapas/2526104,Los Angeles Kings,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Calgary Flames,2021
-/zapas/2526115,Calgary Flames,Ottawa Senators,0,6,0,0.0,3.0,1.0,0.0,0.0,6.0,0.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2526127,Vancouver Canucks,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2526155,Calgary Flames,Carolina Hurricanes,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Carolina Hurricanes,Calgary Flames,2021
-/zapas/2526174,Calgary Flames,Minnesota Wild,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Minnesota Wild,Calgary Flames,2021
-/zapas/2526186,Nashville Predators,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Nashville Predators,Calgary Flames,2021
-/zapas/2526190,St. Louis Blues,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,St. Louis Blues,Calgary Flames,2021
-/zapas/2526208,Calgary Flames,Dallas Stars,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2526223,Calgary Flames,Washington Capitals,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Washington Capitals,Calgary Flames,2021
-/zapas/2526249,Calgary Flames,Pittsburgh Penguins,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Pittsburgh Penguins,Calgary Flames,2021
-/zapas/2526270,Calgary Flames,New Jersey Devils,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,New Jersey Devils,Calgary Flames,2021
-/zapas/2526284,Calgary Flames,Vancouver Canucks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2526293,Calgary Flames,Detroit Red Wings,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Detroit Red Wings,Calgary Flames,2021
-/zapas/2526320,Calgary Flames,St. Louis Blues,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,St. Louis Blues,Calgary Flames,2021
-/zapas/2526329,Detroit Red Wings,Calgary Flames,8,2,0,3.0,0.0,0.0,0.0,2.0,8.0,0.0,Detroit Red Wings,Calgary Flames,2021
-/zapas/2526346,Philadelphia Flyers,Calgary Flames,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Philadelphia Flyers,Calgary Flames,2021
-/zapas/2526366,Washington Capitals,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Washington Capitals,Calgary Flames,2021
-/zapas/2526381,Columbus Blue Jackets,Calgary Flames,1,0,1,2.0,1.0,0.0,1.0,0.0,1.0,0.0,Columbus Blue Jackets,Calgary Flames,2021
-/zapas/2526400,Dallas Stars,Calgary Flames,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2526411,Colorado Avalanche,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Colorado Avalanche,Calgary Flames,2021
-/zapas/2526428,Calgary Flames,Toronto Maple Leafs,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2526440,Calgary Flames,Arizona Coyotes,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Arizona Coyotes,Calgary Flames,2021
-/zapas/2526461,Calgary Flames,Edmonton Oilers,5,7,0,0.0,3.0,1.0,0.0,5.0,7.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2526469,Calgary Flames,Philadelphia Flyers,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Philadelphia Flyers,Calgary Flames,2021
-/zapas/2526480,Toronto Maple Leafs,Calgary Flames,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2526486,Montreal Canadiens,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2526508,Calgary Flames,Vancouver Canucks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2526526,Minnesota Wild,Calgary Flames,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Minnesota Wild,Calgary Flames,2021
-/zapas/2526541,Calgary Flames,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Calgary Flames,2021
-/zapas/2526560,Calgary Flames,Nashville Predators,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Nashville Predators,Calgary Flames,2021
-/zapas/2526563,Vancouver Canucks,Calgary Flames,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2526582,Calgary Flames,St. Louis Blues,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,St. Louis Blues,Calgary Flames,2021
-/zapas/2526595,Calgary Flames,Montreal Canadiens,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2526629,San Jose Sharks,Calgary Flames,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,San Jose Sharks,Calgary Flames,2021
-/zapas/2526640,Anaheim Ducks,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Anaheim Ducks,Calgary Flames,2021
-/zapas/2526654,Calgary Flames,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Calgary Flames,2021
-/zapas/2526680,Calgary Flames,Los Angeles Kings,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Los Angeles Kings,Calgary Flames,2021
-/zapas/2526694,Calgary Flames,Anaheim Ducks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Calgary Flames,2021
-/zapas/2526712,Minnesota Wild,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Minnesota Wild,Calgary Flames,2021
-/zapas/2526718,Tampa Bay Lightning,Calgary Flames,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Tampa Bay Lightning,Calgary Flames,2021
-/zapas/2526721,Florida Panthers,Calgary Flames,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Florida Panthers,Calgary Flames,2021
-/zapas/2526734,Carolina Hurricanes,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Carolina Hurricanes,Calgary Flames,2021
-/zapas/2526765,Calgary Flames,Winnipeg Jets,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2526785,Calgary Flames,Buffalo Sabres,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Buffalo Sabres,Calgary Flames,2021
-/zapas/2526799,Calgary Flames,Los Angeles Kings,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Los Angeles Kings,Calgary Flames,2021
-/zapas/2526809,Edmonton Oilers,Calgary Flames,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2526825,Calgary Flames,Vegas Golden Knights,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Calgary Flames,2021
-/zapas/2526838,Calgary Flames,Tampa Bay Lightning,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Tampa Bay Lightning,Calgary Flames,2021
-/zapas/2526857,Calgary Flames,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Calgary Flames,2021
-/zapas/2526875,Chicago Blackhawks,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Chicago Blackhawks,Calgary Flames,2021
-/zapas/2526881,New Jersey Devils,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New Jersey Devils,Calgary Flames,2021
-/zapas/2526890,New York Rangers,Calgary Flames,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,New York Rangers,Calgary Flames,2021
-/zapas/2526912,New York Islanders,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Islanders,Calgary Flames,2021
-/zapas/2526918,Boston Bruins,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Boston Bruins,Calgary Flames,2021
-/zapas/2526938,Nashville Predators,Calgary Flames,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Nashville Predators,Calgary Flames,2021
-/zapas/2526958,Calgary Flames,Florida Panthers,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Florida Panthers,Calgary Flames,2021
-/zapas/2526968,Calgary Flames,Boston Bruins,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Boston Bruins,Calgary Flames,2021
-/zapas/2526983,Vegas Golden Knights,Calgary Flames,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Vegas Golden Knights,Calgary Flames,2021
-/zapas/2526993,Arizona Coyotes,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Calgary Flames,2021
-/zapas/2527001,Calgary Flames,Colorado Avalanche,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Colorado Avalanche,Calgary Flames,2021
-/zapas/2527029,Dallas Stars,Calgary Flames,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2527035,Colorado Avalanche,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Colorado Avalanche,Calgary Flames,2021
-/zapas/2527050,Calgary Flames,New York Rangers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Rangers,Calgary Flames,2021
-/zapas/2527070,Pittsburgh Penguins,Calgary Flames,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Pittsburgh Penguins,Calgary Flames,2021
-/zapas/2527083,Buffalo Sabres,Calgary Flames,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Buffalo Sabres,Calgary Flames,2021
-/zapas/2527099,Ottawa Senators,Calgary Flames,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2527114,Calgary Flames,New York Islanders,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,New York Islanders,Calgary Flames,2021
-/zapas/2527130,Calgary Flames,Edmonton Oilers,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2527149,Calgary Flames,San Jose Sharks,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,San Jose Sharks,Calgary Flames,2021
-/zapas/2527163,Vegas Golden Knights,Calgary Flames,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Vegas Golden Knights,Calgary Flames,2021
-/zapas/2527174,Arizona Coyotes,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Calgary Flames,2021
-/zapas/2527189,Calgary Flames,Anaheim Ducks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Anaheim Ducks,Calgary Flames,2021
-/zapas/2527206,San Jose Sharks,Calgary Flames,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,San Jose Sharks,Calgary Flames,2021
-/zapas/2527230,Los Angeles Kings,Calgary Flames,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Los Angeles Kings,Calgary Flames,2021
-/zapas/2527251,Calgary Flames,Columbus Blue Jackets,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Columbus Blue Jackets,Calgary Flames,2021
-/zapas/2527270,Calgary Flames,Edmonton Oilers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2527289,Calgary Flames,Arizona Coyotes,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Arizona Coyotes,Calgary Flames,2021
-/zapas/2527302,Winnipeg Jets,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2527322,Calgary Flames,Vegas Golden Knights,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Vegas Golden Knights,Calgary Flames,2021
-/zapas/2732192,Calgary Flames,Colorado Avalanche,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Colorado Avalanche,Calgary Flames,2021
-/zapas/2732193,Calgary Flames,Colorado Avalanche,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Calgary Flames,2021
-/zapas/2732194,Colorado Avalanche,Calgary Flames,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Colorado Avalanche,Calgary Flames,2021
-/zapas/2732195,Colorado Avalanche,Calgary Flames,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Colorado Avalanche,Calgary Flames,2021
-/zapas/2732196,Calgary Flames,Colorado Avalanche,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Colorado Avalanche,Calgary Flames,2021
-/zapas/2891014,Calgary Flames,Winnipeg Jets,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2891015,Calgary Flames,Winnipeg Jets,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2891016,Winnipeg Jets,Calgary Flames,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2891017,Winnipeg Jets,Calgary Flames,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2891054,Dallas Stars,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Dallas Stars,Calgary Flames,2021
-/zapas/2891055,Dallas Stars,Calgary Flames,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2891056,Calgary Flames,Dallas Stars,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Dallas Stars,Calgary Flames,2021
-/zapas/2891057,Calgary Flames,Dallas Stars,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2891058,Dallas Stars,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2891059,Calgary Flames,Dallas Stars,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2893215,Winnipeg Jets,Calgary Flames,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2893232,Calgary Flames,Vancouver Canucks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2893246,Calgary Flames,Vancouver Canucks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2893294,Calgary Flames,Toronto Maple Leafs,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2893305,Calgary Flames,Toronto Maple Leafs,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2893328,Montreal Canadiens,Calgary Flames,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2893342,Montreal Canadiens,Calgary Flames,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2893352,Winnipeg Jets,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2893360,Winnipeg Jets,Calgary Flames,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2893373,Winnipeg Jets,Calgary Flames,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2893389,Calgary Flames,Edmonton Oilers,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2893412,Calgary Flames,Winnipeg Jets,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2893433,Vancouver Canucks,Calgary Flames,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2893447,Vancouver Canucks,Calgary Flames,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2893459,Vancouver Canucks,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2893469,Calgary Flames,Vancouver Canucks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2893482,Calgary Flames,Edmonton Oilers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2893488,Edmonton Oilers,Calgary Flames,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2893508,Toronto Maple Leafs,Calgary Flames,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2893519,Toronto Maple Leafs,Calgary Flames,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2893528,Ottawa Senators,Calgary Flames,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2893545,Ottawa Senators,Calgary Flames,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2893558,Ottawa Senators,Calgary Flames,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2893575,Calgary Flames,Ottawa Senators,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2893591,Edmonton Oilers,Calgary Flames,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2893599,Calgary Flames,Ottawa Senators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2893624,Calgary Flames,Montreal Canadiens,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2893639,Calgary Flames,Montreal Canadiens,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2893655,Calgary Flames,Edmonton Oilers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2893671,Calgary Flames,Edmonton Oilers,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2893688,Toronto Maple Leafs,Calgary Flames,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2893700,Toronto Maple Leafs,Calgary Flames,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2893708,Ottawa Senators,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2893720,Ottawa Senators,Calgary Flames,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2893733,Calgary Flames,Winnipeg Jets,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2893740,Calgary Flames,Winnipeg Jets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2893757,Calgary Flames,Winnipeg Jets,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2893789,Edmonton Oilers,Calgary Flames,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2893811,Calgary Flames,Toronto Maple Leafs,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2893815,Calgary Flames,Toronto Maple Leafs,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2894055,Calgary Flames,Edmonton Oilers,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2893878,Toronto Maple Leafs,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Toronto Maple Leafs,Calgary Flames,2021
-/zapas/2893880,Montreal Canadiens,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2893896,Montreal Canadiens,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2893915,Calgary Flames,Ottawa Senators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2893938,Calgary Flames,Montreal Canadiens,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2893954,Calgary Flames,Montreal Canadiens,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2893970,Calgary Flames,Montreal Canadiens,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Montreal Canadiens,Calgary Flames,2021
-/zapas/2893992,Edmonton Oilers,Calgary Flames,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2894007,Edmonton Oilers,Calgary Flames,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2894040,Calgary Flames,Winnipeg Jets,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Winnipeg Jets,Calgary Flames,2021
-/zapas/2893923,Calgary Flames,Ottawa Senators,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Ottawa Senators,Calgary Flames,2021
-/zapas/2893852,Calgary Flames,Vancouver Canucks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2893776,Vancouver Canucks,Calgary Flames,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2894073,Vancouver Canucks,Calgary Flames,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2893834,Calgary Flames,Vancouver Canucks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2021
-/zapas/2900331,Calgary Flames,Dallas Stars,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Dallas Stars,Calgary Flames,2021
-/zapas/2900332,Calgary Flames,Dallas Stars,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2900333,Dallas Stars,Calgary Flames,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2900334,Dallas Stars,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Dallas Stars,Calgary Flames,2021
-/zapas/2900335,Calgary Flames,Dallas Stars,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Dallas Stars,Calgary Flames,2021
-/zapas/2900336,Dallas Stars,Calgary Flames,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Dallas Stars,Calgary Flames,2021
-/zapas/2900337,Calgary Flames,Dallas Stars,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Dallas Stars,Calgary Flames,2021
-/zapas/2900387,Calgary Flames,Edmonton Oilers,9,6,0,3.0,0.0,1.0,3.0,9.0,6.0,1.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2900388,Calgary Flames,Edmonton Oilers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2900389,Edmonton Oilers,Calgary Flames,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2900390,Edmonton Oilers,Calgary Flames,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Edmonton Oilers,Calgary Flames,2021
-/zapas/2900391,Calgary Flames,Edmonton Oilers,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Edmonton Oilers,Calgary Flames,2021
+/zapas/2526057,Edmonton Oilers,Calgary Flames,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Edmonton Oilers,Calgary Flames,2017
+/zapas/2526083,Calgary Flames,Winnipeg Jets,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Winnipeg Jets,Calgary Flames,2017
+/zapas/2526092,Anaheim Ducks,Calgary Flames,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Anaheim Ducks,Calgary Flames,2017
+/zapas/2526104,Los Angeles Kings,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Calgary Flames,2017
+/zapas/2526115,Calgary Flames,Ottawa Senators,0,6,0,0.0,3.0,1.0,0.0,0.0,6.0,0.0,Ottawa Senators,Calgary Flames,2017
+/zapas/2526127,Vancouver Canucks,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2017
+/zapas/2526155,Calgary Flames,Carolina Hurricanes,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Carolina Hurricanes,Calgary Flames,2017
+/zapas/2526174,Calgary Flames,Minnesota Wild,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Minnesota Wild,Calgary Flames,2017
+/zapas/2526186,Nashville Predators,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Nashville Predators,Calgary Flames,2017
+/zapas/2526190,St. Louis Blues,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,St. Louis Blues,Calgary Flames,2017
+/zapas/2526208,Calgary Flames,Dallas Stars,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Dallas Stars,Calgary Flames,2017
+/zapas/2526223,Calgary Flames,Washington Capitals,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Washington Capitals,Calgary Flames,2017
+/zapas/2526249,Calgary Flames,Pittsburgh Penguins,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Pittsburgh Penguins,Calgary Flames,2017
+/zapas/2526270,Calgary Flames,New Jersey Devils,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,New Jersey Devils,Calgary Flames,2017
+/zapas/2526284,Calgary Flames,Vancouver Canucks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Vancouver Canucks,Calgary Flames,2017
+/zapas/2526293,Calgary Flames,Detroit Red Wings,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Detroit Red Wings,Calgary Flames,2017
+/zapas/2526320,Calgary Flames,St. Louis Blues,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,St. Louis Blues,Calgary Flames,2017
+/zapas/2526329,Detroit Red Wings,Calgary Flames,8,2,0,3.0,0.0,0.0,0.0,2.0,8.0,0.0,Detroit Red Wings,Calgary Flames,2017
+/zapas/2526346,Philadelphia Flyers,Calgary Flames,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Philadelphia Flyers,Calgary Flames,2017
+/zapas/2526366,Washington Capitals,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Washington Capitals,Calgary Flames,2017
+/zapas/2526381,Columbus Blue Jackets,Calgary Flames,1,0,1,2.0,1.0,0.0,1.0,0.0,1.0,0.0,Columbus Blue Jackets,Calgary Flames,2017
+/zapas/2526400,Dallas Stars,Calgary Flames,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Dallas Stars,Calgary Flames,2017
+/zapas/2526411,Colorado Avalanche,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Colorado Avalanche,Calgary Flames,2017
+/zapas/2526428,Calgary Flames,Toronto Maple Leafs,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Calgary Flames,2017
+/zapas/2526440,Calgary Flames,Arizona Coyotes,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Arizona Coyotes,Calgary Flames,2017
+/zapas/2526461,Calgary Flames,Edmonton Oilers,5,7,0,0.0,3.0,1.0,0.0,5.0,7.0,0.0,Edmonton Oilers,Calgary Flames,2017
+/zapas/2526469,Calgary Flames,Philadelphia Flyers,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Philadelphia Flyers,Calgary Flames,2017
+/zapas/2526480,Toronto Maple Leafs,Calgary Flames,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Toronto Maple Leafs,Calgary Flames,2017
+/zapas/2526486,Montreal Canadiens,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Calgary Flames,2017
+/zapas/2526508,Calgary Flames,Vancouver Canucks,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2017
+/zapas/2526526,Minnesota Wild,Calgary Flames,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Minnesota Wild,Calgary Flames,2017
+/zapas/2526541,Calgary Flames,San Jose Sharks,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,San Jose Sharks,Calgary Flames,2017
+/zapas/2526560,Calgary Flames,Nashville Predators,0,2,0,0.0,3.0,1.0,0.0,0.0,2.0,0.0,Nashville Predators,Calgary Flames,2017
+/zapas/2526563,Vancouver Canucks,Calgary Flames,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Vancouver Canucks,Calgary Flames,2017
+/zapas/2526582,Calgary Flames,St. Louis Blues,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,St. Louis Blues,Calgary Flames,2017
+/zapas/2526595,Calgary Flames,Montreal Canadiens,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Montreal Canadiens,Calgary Flames,2017
+/zapas/2526629,San Jose Sharks,Calgary Flames,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,San Jose Sharks,Calgary Flames,2017
+/zapas/2526640,Anaheim Ducks,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Anaheim Ducks,Calgary Flames,2017
+/zapas/2526654,Calgary Flames,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Calgary Flames,2017
+/zapas/2526680,Calgary Flames,Los Angeles Kings,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Los Angeles Kings,Calgary Flames,2017
+/zapas/2526694,Calgary Flames,Anaheim Ducks,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Anaheim Ducks,Calgary Flames,2017
+/zapas/2526712,Minnesota Wild,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Minnesota Wild,Calgary Flames,2017
+/zapas/2526718,Tampa Bay Lightning,Calgary Flames,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Tampa Bay Lightning,Calgary Flames,2017
+/zapas/2526721,Florida Panthers,Calgary Flames,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Florida Panthers,Calgary Flames,2017
+/zapas/2526734,Carolina Hurricanes,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Carolina Hurricanes,Calgary Flames,2017
+/zapas/2526765,Calgary Flames,Winnipeg Jets,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Winnipeg Jets,Calgary Flames,2017
+/zapas/2526785,Calgary Flames,Buffalo Sabres,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Buffalo Sabres,Calgary Flames,2017
+/zapas/2526799,Calgary Flames,Los Angeles Kings,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Los Angeles Kings,Calgary Flames,2017
+/zapas/2526809,Edmonton Oilers,Calgary Flames,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Edmonton Oilers,Calgary Flames,2017
+/zapas/2526825,Calgary Flames,Vegas Golden Knights,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Vegas Golden Knights,Calgary Flames,2017
+/zapas/2526838,Calgary Flames,Tampa Bay Lightning,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,Tampa Bay Lightning,Calgary Flames,2017
+/zapas/2526857,Calgary Flames,Chicago Blackhawks,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Chicago Blackhawks,Calgary Flames,2017
+/zapas/2526875,Chicago Blackhawks,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Chicago Blackhawks,Calgary Flames,2017
+/zapas/2526881,New Jersey Devils,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New Jersey Devils,Calgary Flames,2017
+/zapas/2526890,New York Rangers,Calgary Flames,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,New York Rangers,Calgary Flames,2017
+/zapas/2526912,New York Islanders,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New York Islanders,Calgary Flames,2017
+/zapas/2526918,Boston Bruins,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Boston Bruins,Calgary Flames,2017
+/zapas/2526938,Nashville Predators,Calgary Flames,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Nashville Predators,Calgary Flames,2017
+/zapas/2526958,Calgary Flames,Florida Panthers,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Florida Panthers,Calgary Flames,2017
+/zapas/2526968,Calgary Flames,Boston Bruins,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Boston Bruins,Calgary Flames,2017
+/zapas/2526983,Vegas Golden Knights,Calgary Flames,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Vegas Golden Knights,Calgary Flames,2017
+/zapas/2526993,Arizona Coyotes,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Calgary Flames,2017
+/zapas/2527001,Calgary Flames,Colorado Avalanche,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Colorado Avalanche,Calgary Flames,2017
+/zapas/2527029,Dallas Stars,Calgary Flames,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Dallas Stars,Calgary Flames,2017
+/zapas/2527035,Colorado Avalanche,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Colorado Avalanche,Calgary Flames,2017
+/zapas/2527050,Calgary Flames,New York Rangers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Rangers,Calgary Flames,2017
+/zapas/2527070,Pittsburgh Penguins,Calgary Flames,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Pittsburgh Penguins,Calgary Flames,2017
+/zapas/2527083,Buffalo Sabres,Calgary Flames,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Buffalo Sabres,Calgary Flames,2017
+/zapas/2527099,Ottawa Senators,Calgary Flames,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Ottawa Senators,Calgary Flames,2017
+/zapas/2527114,Calgary Flames,New York Islanders,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,New York Islanders,Calgary Flames,2017
+/zapas/2527130,Calgary Flames,Edmonton Oilers,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Edmonton Oilers,Calgary Flames,2017
+/zapas/2527149,Calgary Flames,San Jose Sharks,4,7,0,0.0,3.0,1.0,0.0,4.0,7.0,0.0,San Jose Sharks,Calgary Flames,2017
+/zapas/2527163,Vegas Golden Knights,Calgary Flames,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Vegas Golden Knights,Calgary Flames,2017
+/zapas/2527174,Arizona Coyotes,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Arizona Coyotes,Calgary Flames,2017
+/zapas/2527189,Calgary Flames,Anaheim Ducks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Anaheim Ducks,Calgary Flames,2017
+/zapas/2527206,San Jose Sharks,Calgary Flames,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,San Jose Sharks,Calgary Flames,2017
+/zapas/2527230,Los Angeles Kings,Calgary Flames,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Los Angeles Kings,Calgary Flames,2017
+/zapas/2527251,Calgary Flames,Columbus Blue Jackets,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Columbus Blue Jackets,Calgary Flames,2017
+/zapas/2527270,Calgary Flames,Edmonton Oilers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Edmonton Oilers,Calgary Flames,2017
+/zapas/2527289,Calgary Flames,Arizona Coyotes,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Arizona Coyotes,Calgary Flames,2017
+/zapas/2527302,Winnipeg Jets,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Winnipeg Jets,Calgary Flames,2017
+/zapas/2527322,Calgary Flames,Vegas Golden Knights,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Vegas Golden Knights,Calgary Flames,2017
+/zapas/2647201,Vancouver Canucks,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Calgary Flames,2018
+/zapas/2647226,Calgary Flames,Vancouver Canucks,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Vancouver Canucks,Calgary Flames,2018
+/zapas/2647237,Nashville Predators,Calgary Flames,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Nashville Predators,Calgary Flames,2018
+/zapas/2647252,St. Louis Blues,Calgary Flames,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,St. Louis Blues,Calgary Flames,2018
+/zapas/2647268,Colorado Avalanche,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Calgary Flames,2018
+/zapas/2647286,Calgary Flames,Boston Bruins,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Boston Bruins,Calgary Flames,2018
+/zapas/2647299,Calgary Flames,Nashville Predators,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Nashville Predators,Calgary Flames,2018
+/zapas/2647314,New York Rangers,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,New York Rangers,Calgary Flames,2018
+/zapas/2647322,Montreal Canadiens,Calgary Flames,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Montreal Canadiens,Calgary Flames,2018
+/zapas/2647339,Calgary Flames,Pittsburgh Penguins,1,9,0,0.0,3.0,1.0,0.0,1.0,9.0,0.0,Pittsburgh Penguins,Calgary Flames,2018
+/zapas/2647349,Calgary Flames,Washington Capitals,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Washington Capitals,Calgary Flames,2018
+/zapas/2647363,Toronto Maple Leafs,Calgary Flames,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Toronto Maple Leafs,Calgary Flames,2018
+/zapas/2647365,Buffalo Sabres,Calgary Flames,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Buffalo Sabres,Calgary Flames,2018
+/zapas/2647385,Calgary Flames,Colorado Avalanche,6,5,0,3.0,0.0,1.0,3.0,6.0,5.0,1.0,Colorado Avalanche,Calgary Flames,2018
+/zapas/2647402,Calgary Flames,Chicago Blackhawks,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Chicago Blackhawks,Calgary Flames,2018
+/zapas/2647424,Anaheim Ducks,Calgary Flames,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Anaheim Ducks,Calgary Flames,2018
+/zapas/2647450,Los Angeles Kings,Calgary Flames,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,Los Angeles Kings,Calgary Flames,2018
+/zapas/2647456,San Jose Sharks,Calgary Flames,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,San Jose Sharks,Calgary Flames,2018
+/zapas/2647481,Calgary Flames,Montreal Canadiens,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Montreal Canadiens,Calgary Flames,2018
+/zapas/2647499,Calgary Flames,Edmonton Oilers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Edmonton Oilers,Calgary Flames,2018
+/zapas/2647513,Calgary Flames,Vegas Golden Knights,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Vegas Golden Knights,Calgary Flames,2018
+/zapas/2647528,Calgary Flames,Winnipeg Jets,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Winnipeg Jets,Calgary Flames,2018
+/zapas/2647536,Vegas Golden Knights,Calgary Flames,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Vegas Golden Knights,Calgary Flames,2018
+/zapas/2647556,Arizona Coyotes,Calgary Flames,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Arizona Coyotes,Calgary Flames,2018
+/zapas/2647578,Calgary Flames,Dallas Stars,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Dallas Stars,Calgary Flames,2018
+/zapas/2647592,Calgary Flames,Los Angeles Kings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Los Angeles Kings,Calgary Flames,2018
+/zapas/2647607,Chicago Blackhawks,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Chicago Blackhawks,Calgary Flames,2018
+/zapas/2647618,Columbus Blue Jackets,Calgary Flames,6,9,0,0.0,3.0,0.0,3.0,9.0,6.0,1.0,Columbus Blue Jackets,Calgary Flames,2018
+/zapas/2647633,Calgary Flames,Minnesota Wild,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Minnesota Wild,Calgary Flames,2018
+/zapas/2647651,Calgary Flames,Nashville Predators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Nashville Predators,Calgary Flames,2018
+/zapas/2647658,Edmonton Oilers,Calgary Flames,1,0,0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,Edmonton Oilers,Calgary Flames,2018
+/zapas/2647675,Calgary Flames,Philadelphia Flyers,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Philadelphia Flyers,Calgary Flames,2018
+/zapas/2647693,Minnesota Wild,Calgary Flames,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Minnesota Wild,Calgary Flames,2018
+/zapas/2647705,St. Louis Blues,Calgary Flames,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,St. Louis Blues,Calgary Flames,2018
+/zapas/2647721,Dallas Stars,Calgary Flames,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Dallas Stars,Calgary Flames,2018
+/zapas/2647735,Calgary Flames,Tampa Bay Lightning,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Tampa Bay Lightning,Calgary Flames,2018
+/zapas/2647748,Calgary Flames,St. Louis Blues,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,St. Louis Blues,Calgary Flames,2018
+/zapas/2647772,Winnipeg Jets,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Winnipeg Jets,Calgary Flames,2018
+/zapas/2647795,Calgary Flames,Vancouver Canucks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Calgary Flames,2018
+/zapas/2647807,Calgary Flames,San Jose Sharks,8,5,0,3.0,0.0,1.0,3.0,8.0,5.0,1.0,San Jose Sharks,Calgary Flames,2018
+/zapas/2647814,Detroit Red Wings,Calgary Flames,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Detroit Red Wings,Calgary Flames,2018
+/zapas/2647820,Boston Bruins,Calgary Flames,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Boston Bruins,Calgary Flames,2018
+/zapas/2647834,Philadelphia Flyers,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Philadelphia Flyers,Calgary Flames,2018
+/zapas/2647853,Chicago Blackhawks,Calgary Flames,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Chicago Blackhawks,Calgary Flames,2018
+/zapas/2647867,Calgary Flames,Colorado Avalanche,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Colorado Avalanche,Calgary Flames,2018
+/zapas/2647883,Calgary Flames,Florida Panthers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Florida Panthers,Calgary Flames,2018
+/zapas/2647902,Calgary Flames,Arizona Coyotes,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Arizona Coyotes,Calgary Flames,2018
+/zapas/2647921,Calgary Flames,Buffalo Sabres,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Buffalo Sabres,Calgary Flames,2018
+/zapas/2647935,Calgary Flames,Detroit Red Wings,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Detroit Red Wings,Calgary Flames,2018
+/zapas/2647948,Edmonton Oilers,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Edmonton Oilers,Calgary Flames,2018
+/zapas/2647961,Calgary Flames,Carolina Hurricanes,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Carolina Hurricanes,Calgary Flames,2018
+/zapas/2647983,Washington Capitals,Calgary Flames,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Washington Capitals,Calgary Flames,2018
+/zapas/2648002,Carolina Hurricanes,Calgary Flames,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Carolina Hurricanes,Calgary Flames,2018
+/zapas/2648033,Calgary Flames,San Jose Sharks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,San Jose Sharks,Calgary Flames,2018
+/zapas/2648048,Vancouver Canucks,Calgary Flames,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Vancouver Canucks,Calgary Flames,2018
+/zapas/2648066,Tampa Bay Lightning,Calgary Flames,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Tampa Bay Lightning,Calgary Flames,2018
+/zapas/2648075,Florida Panthers,Calgary Flames,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Florida Panthers,Calgary Flames,2018
+/zapas/2648091,Pittsburgh Penguins,Calgary Flames,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,Pittsburgh Penguins,Calgary Flames,2018
+/zapas/2648108,Calgary Flames,Arizona Coyotes,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Calgary Flames,2018
+/zapas/2648125,Calgary Flames,New York Islanders,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New York Islanders,Calgary Flames,2018
+/zapas/2648141,Calgary Flames,Anaheim Ducks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Calgary Flames,2018
+/zapas/2648158,Ottawa Senators,Calgary Flames,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Ottawa Senators,Calgary Flames,2018
+/zapas/2648167,New York Islanders,Calgary Flames,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,New York Islanders,Calgary Flames,2018
+/zapas/2648178,New Jersey Devils,Calgary Flames,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,New Jersey Devils,Calgary Flames,2018
+/zapas/2648206,Calgary Flames,Minnesota Wild,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Minnesota Wild,Calgary Flames,2018
+/zapas/2648216,Calgary Flames,Toronto Maple Leafs,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Toronto Maple Leafs,Calgary Flames,2018
+/zapas/2648230,Vegas Golden Knights,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Vegas Golden Knights,Calgary Flames,2018
+/zapas/2648239,Arizona Coyotes,Calgary Flames,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Arizona Coyotes,Calgary Flames,2018
+/zapas/2648261,Calgary Flames,Vegas Golden Knights,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Vegas Golden Knights,Calgary Flames,2018
+/zapas/2648276,Calgary Flames,New Jersey Devils,9,4,0,3.0,0.0,1.0,3.0,9.0,4.0,1.0,New Jersey Devils,Calgary Flames,2018
+/zapas/2648295,Calgary Flames,New York Rangers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,New York Rangers,Calgary Flames,2018
+/zapas/2648300,Winnipeg Jets,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Winnipeg Jets,Calgary Flames,2018
+/zapas/2648329,Calgary Flames,Columbus Blue Jackets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Columbus Blue Jackets,Calgary Flames,2018
+/zapas/2648342,Calgary Flames,Ottawa Senators,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Ottawa Senators,Calgary Flames,2018
+/zapas/2648359,Vancouver Canucks,Calgary Flames,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Vancouver Canucks,Calgary Flames,2018
+/zapas/2648374,Calgary Flames,Los Angeles Kings,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Los Angeles Kings,Calgary Flames,2018
+/zapas/2648385,Calgary Flames,Dallas Stars,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Dallas Stars,Calgary Flames,2018
+/zapas/2648399,Calgary Flames,Anaheim Ducks,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Anaheim Ducks,Calgary Flames,2018
+/zapas/2648418,San Jose Sharks,Calgary Flames,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,San Jose Sharks,Calgary Flames,2018
+/zapas/2648426,Los Angeles Kings,Calgary Flames,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,Los Angeles Kings,Calgary Flames,2018
+/zapas/2648439,Anaheim Ducks,Calgary Flames,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Anaheim Ducks,Calgary Flames,2018
+/zapas/2648467,Calgary Flames,Edmonton Oilers,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Edmonton Oilers,Calgary Flames,2018
+/zapas/2806387,Colorado Avalanche,Calgary Flames,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Colorado Avalanche,Calgary Flames,2019
+/zapas/2806405,Calgary Flames,Vancouver Canucks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vancouver Canucks,Calgary Flames,2019
+/zapas/2806418,Calgary Flames,Los Angeles Kings,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Los Angeles Kings,Calgary Flames,2019
+/zapas/2806431,Dallas Stars,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Dallas Stars,Calgary Flames,2019
+/zapas/2806450,Vegas Golden Knights,Calgary Flames,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Vegas Golden Knights,Calgary Flames,2019
+/zapas/2806453,San Jose Sharks,Calgary Flames,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,San Jose Sharks,Calgary Flames,2019
+/zapas/2806464,Calgary Flames,Philadelphia Flyers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Philadelphia Flyers,Calgary Flames,2019
+/zapas/2806479,Calgary Flames,Detroit Red Wings,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Detroit Red Wings,Calgary Flames,2019
+/zapas/2806498,Los Angeles Kings,Calgary Flames,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Los Angeles Kings,Calgary Flames,2019
+/zapas/2806504,Anaheim Ducks,Calgary Flames,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Calgary Flames,2019
+/zapas/2806518,Calgary Flames,Washington Capitals,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Washington Capitals,Calgary Flames,2019
+/zapas/2806529,Calgary Flames,Florida Panthers,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Florida Panthers,Calgary Flames,2019
+/zapas/2806545,Winnipeg Jets,Calgary Flames,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Winnipeg Jets,Calgary Flames,2019
+/zapas/2806559,Carolina Hurricanes,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Carolina Hurricanes,Calgary Flames,2019
+/zapas/2806570,Nashville Predators,Calgary Flames,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Nashville Predators,Calgary Flames,2019
+/zapas/2806588,Columbus Blue Jackets,Calgary Flames,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Columbus Blue Jackets,Calgary Flames,2019
+/zapas/2806594,Washington Capitals,Calgary Flames,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Washington Capitals,Calgary Flames,2019
+/zapas/2806607,Calgary Flames,Arizona Coyotes,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Arizona Coyotes,Calgary Flames,2019
+/zapas/2806621,Calgary Flames,New Jersey Devils,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New Jersey Devils,Calgary Flames,2019
+/zapas/2806637,Calgary Flames,St. Louis Blues,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,St. Louis Blues,Calgary Flames,2019
+/zapas/2806660,Calgary Flames,Dallas Stars,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Dallas Stars,Calgary Flames,2019
+/zapas/2806677,Arizona Coyotes,Calgary Flames,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Arizona Coyotes,Calgary Flames,2019
+/zapas/2806691,Vegas Golden Knights,Calgary Flames,6,0,0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,Vegas Golden Knights,Calgary Flames,2019
+/zapas/2806704,Calgary Flames,Colorado Avalanche,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Calgary Flames,2019
+/zapas/2806714,St. Louis Blues,Calgary Flames,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,St. Louis Blues,Calgary Flames,2019
+/zapas/2806725,Philadelphia Flyers,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Philadelphia Flyers,Calgary Flames,2019
+/zapas/2806744,Pittsburgh Penguins,Calgary Flames,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Pittsburgh Penguins,Calgary Flames,2019
+/zapas/2806753,Buffalo Sabres,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Buffalo Sabres,Calgary Flames,2019
+/zapas/2806781,Calgary Flames,Ottawa Senators,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Ottawa Senators,Calgary Flames,2019
+/zapas/2806822,Calgary Flames,Buffalo Sabres,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Buffalo Sabres,Calgary Flames,2019
+/zapas/2806838,Calgary Flames,Los Angeles Kings,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Los Angeles Kings,Calgary Flames,2019
+/zapas/2806847,Colorado Avalanche,Calgary Flames,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Colorado Avalanche,Calgary Flames,2019
+/zapas/2806856,Arizona Coyotes,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Arizona Coyotes,Calgary Flames,2019
+/zapas/2806870,Calgary Flames,Toronto Maple Leafs,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Toronto Maple Leafs,Calgary Flames,2019
+/zapas/2806880,Calgary Flames,Carolina Hurricanes,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Carolina Hurricanes,Calgary Flames,2019
+/zapas/2806907,Calgary Flames,Pittsburgh Penguins,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Pittsburgh Penguins,Calgary Flames,2019
+/zapas/2806921,Calgary Flames,Montreal Canadiens,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Montreal Canadiens,Calgary Flames,2019
+/zapas/2806942,Dallas Stars,Calgary Flames,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Dallas Stars,Calgary Flames,2019
+/zapas/2806946,Minnesota Wild,Calgary Flames,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Minnesota Wild,Calgary Flames,2019
+/zapas/2806966,Edmonton Oilers,Calgary Flames,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Edmonton Oilers,Calgary Flames,2019
+/zapas/2806987,Calgary Flames,Vancouver Canucks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Calgary Flames,2019
+/zapas/2806999,Calgary Flames,Chicago Blackhawks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Chicago Blackhawks,Calgary Flames,2019
+/zapas/2807011,Calgary Flames,New York Rangers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,New York Rangers,Calgary Flames,2019
+/zapas/2807032,Minnesota Wild,Calgary Flames,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Minnesota Wild,Calgary Flames,2019
+/zapas/2807048,Chicago Blackhawks,Calgary Flames,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Chicago Blackhawks,Calgary Flames,2019
+/zapas/2807061,Calgary Flames,Minnesota Wild,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Minnesota Wild,Calgary Flames,2019
+/zapas/2807077,Calgary Flames,Edmonton Oilers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Calgary Flames,2019
+/zapas/2807085,Montreal Canadiens,Calgary Flames,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Montreal Canadiens,Calgary Flames,2019
+/zapas/2807104,Toronto Maple Leafs,Calgary Flames,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Toronto Maple Leafs,Calgary Flames,2019
+/zapas/2807122,Ottawa Senators,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Ottawa Senators,Calgary Flames,2019
+/zapas/2807151,Calgary Flames,St. Louis Blues,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,St. Louis Blues,Calgary Flames,2019
+/zapas/2807156,Edmonton Oilers,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Edmonton Oilers,Calgary Flames,2019
+/zapas/2807179,Calgary Flames,Edmonton Oilers,3,8,0,0.0,3.0,1.0,0.0,3.0,8.0,0.0,Edmonton Oilers,Calgary Flames,2019
+/zapas/2807199,Calgary Flames,San Jose Sharks,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,San Jose Sharks,Calgary Flames,2019
+/zapas/2807212,Calgary Flames,Nashville Predators,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Nashville Predators,Calgary Flames,2019
+/zapas/2807229,Vancouver Canucks,Calgary Flames,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2019
+/zapas/2807241,San Jose Sharks,Calgary Flames,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,San Jose Sharks,Calgary Flames,2019
+/zapas/2807254,Los Angeles Kings,Calgary Flames,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Los Angeles Kings,Calgary Flames,2019
+/zapas/2807266,Anaheim Ducks,Calgary Flames,0,6,0,0.0,3.0,0.0,3.0,6.0,0.0,1.0,Anaheim Ducks,Calgary Flames,2019
+/zapas/2807279,Calgary Flames,Chicago Blackhawks,4,8,0,0.0,3.0,1.0,0.0,4.0,8.0,0.0,Chicago Blackhawks,Calgary Flames,2019
+/zapas/2807292,Calgary Flames,Anaheim Ducks,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Anaheim Ducks,Calgary Flames,2019
+/zapas/2807321,Calgary Flames,Boston Bruins,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Boston Bruins,Calgary Flames,2019
+/zapas/2807339,Detroit Red Wings,Calgary Flames,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Detroit Red Wings,Calgary Flames,2019
+/zapas/2807344,Boston Bruins,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Boston Bruins,Calgary Flames,2019
+/zapas/2807367,Nashville Predators,Calgary Flames,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Nashville Predators,Calgary Flames,2019
+/zapas/2807377,Tampa Bay Lightning,Calgary Flames,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Tampa Bay Lightning,Calgary Flames,2019
+/zapas/2807388,Florida Panthers,Calgary Flames,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Florida Panthers,Calgary Flames,2019
+/zapas/2807406,Calgary Flames,Columbus Blue Jackets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Columbus Blue Jackets,Calgary Flames,2019
+/zapas/2807422,Calgary Flames,Arizona Coyotes,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Arizona Coyotes,Calgary Flames,2019
+/zapas/2807437,Calgary Flames,Vegas Golden Knights,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Vegas Golden Knights,Calgary Flames,2019
+/zapas/2893215,Winnipeg Jets,Calgary Flames,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Winnipeg Jets,Calgary Flames,2020
+/zapas/2893232,Calgary Flames,Vancouver Canucks,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2893246,Calgary Flames,Vancouver Canucks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2893294,Calgary Flames,Toronto Maple Leafs,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Toronto Maple Leafs,Calgary Flames,2020
+/zapas/2893305,Calgary Flames,Toronto Maple Leafs,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Toronto Maple Leafs,Calgary Flames,2020
+/zapas/2893328,Montreal Canadiens,Calgary Flames,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Montreal Canadiens,Calgary Flames,2020
+/zapas/2893342,Montreal Canadiens,Calgary Flames,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Montreal Canadiens,Calgary Flames,2020
+/zapas/2893352,Winnipeg Jets,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Winnipeg Jets,Calgary Flames,2020
+/zapas/2893360,Winnipeg Jets,Calgary Flames,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Calgary Flames,2020
+/zapas/2893373,Winnipeg Jets,Calgary Flames,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Calgary Flames,2020
+/zapas/2893389,Calgary Flames,Edmonton Oilers,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2893412,Calgary Flames,Winnipeg Jets,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,Winnipeg Jets,Calgary Flames,2020
+/zapas/2893433,Vancouver Canucks,Calgary Flames,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2893447,Vancouver Canucks,Calgary Flames,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2893459,Vancouver Canucks,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2893469,Calgary Flames,Vancouver Canucks,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2893482,Calgary Flames,Edmonton Oilers,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2893488,Edmonton Oilers,Calgary Flames,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2893508,Toronto Maple Leafs,Calgary Flames,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Toronto Maple Leafs,Calgary Flames,2020
+/zapas/2893519,Toronto Maple Leafs,Calgary Flames,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Toronto Maple Leafs,Calgary Flames,2020
+/zapas/2893528,Ottawa Senators,Calgary Flames,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Ottawa Senators,Calgary Flames,2020
+/zapas/2893545,Ottawa Senators,Calgary Flames,3,6,0,0.0,3.0,0.0,3.0,6.0,3.0,1.0,Ottawa Senators,Calgary Flames,2020
+/zapas/2893558,Ottawa Senators,Calgary Flames,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,Ottawa Senators,Calgary Flames,2020
+/zapas/2893575,Calgary Flames,Ottawa Senators,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Ottawa Senators,Calgary Flames,2020
+/zapas/2893591,Edmonton Oilers,Calgary Flames,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2893599,Calgary Flames,Ottawa Senators,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Ottawa Senators,Calgary Flames,2020
+/zapas/2893624,Calgary Flames,Montreal Canadiens,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Montreal Canadiens,Calgary Flames,2020
+/zapas/2893639,Calgary Flames,Montreal Canadiens,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Montreal Canadiens,Calgary Flames,2020
+/zapas/2893655,Calgary Flames,Edmonton Oilers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2893671,Calgary Flames,Edmonton Oilers,3,7,0,0.0,3.0,1.0,0.0,3.0,7.0,0.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2893688,Toronto Maple Leafs,Calgary Flames,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Toronto Maple Leafs,Calgary Flames,2020
+/zapas/2893700,Toronto Maple Leafs,Calgary Flames,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Toronto Maple Leafs,Calgary Flames,2020
+/zapas/2893708,Ottawa Senators,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Ottawa Senators,Calgary Flames,2020
+/zapas/2893720,Ottawa Senators,Calgary Flames,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Ottawa Senators,Calgary Flames,2020
+/zapas/2893733,Calgary Flames,Winnipeg Jets,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,Winnipeg Jets,Calgary Flames,2020
+/zapas/2893740,Calgary Flames,Winnipeg Jets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Winnipeg Jets,Calgary Flames,2020
+/zapas/2893757,Calgary Flames,Winnipeg Jets,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Winnipeg Jets,Calgary Flames,2020
+/zapas/2893789,Edmonton Oilers,Calgary Flames,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2893811,Calgary Flames,Toronto Maple Leafs,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Toronto Maple Leafs,Calgary Flames,2020
+/zapas/2893815,Calgary Flames,Toronto Maple Leafs,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Toronto Maple Leafs,Calgary Flames,2020
+/zapas/2894055,Calgary Flames,Edmonton Oilers,5,0,0,3.0,0.0,1.0,3.0,5.0,0.0,1.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2893878,Toronto Maple Leafs,Calgary Flames,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Toronto Maple Leafs,Calgary Flames,2020
+/zapas/2893880,Montreal Canadiens,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Montreal Canadiens,Calgary Flames,2020
+/zapas/2893896,Montreal Canadiens,Calgary Flames,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Montreal Canadiens,Calgary Flames,2020
+/zapas/2893915,Calgary Flames,Ottawa Senators,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Ottawa Senators,Calgary Flames,2020
+/zapas/2893938,Calgary Flames,Montreal Canadiens,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Montreal Canadiens,Calgary Flames,2020
+/zapas/2893954,Calgary Flames,Montreal Canadiens,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Calgary Flames,2020
+/zapas/2893970,Calgary Flames,Montreal Canadiens,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Montreal Canadiens,Calgary Flames,2020
+/zapas/2893992,Edmonton Oilers,Calgary Flames,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2894007,Edmonton Oilers,Calgary Flames,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Edmonton Oilers,Calgary Flames,2020
+/zapas/2894040,Calgary Flames,Winnipeg Jets,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Winnipeg Jets,Calgary Flames,2020
+/zapas/2893923,Calgary Flames,Ottawa Senators,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Ottawa Senators,Calgary Flames,2020
+/zapas/2893852,Calgary Flames,Vancouver Canucks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2893776,Vancouver Canucks,Calgary Flames,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2894073,Vancouver Canucks,Calgary Flames,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2893834,Calgary Flames,Vancouver Canucks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2020
+/zapas/2897004,Edmonton Oilers,Calgary Flames,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Edmonton Oilers,Calgary Flames,2021
+/zapas/2897017,Calgary Flames,Anaheim Ducks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Anaheim Ducks,Calgary Flames,2021
+/zapas/2897039,Detroit Red Wings,Calgary Flames,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Detroit Red Wings,Calgary Flames,2021
+/zapas/2897058,Washington Capitals,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Washington Capitals,Calgary Flames,2021
+/zapas/2897068,New York Rangers,Calgary Flames,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,New York Rangers,Calgary Flames,2021
+/zapas/2897076,New Jersey Devils,Calgary Flames,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,New Jersey Devils,Calgary Flames,2021
+/zapas/2897090,Pittsburgh Penguins,Calgary Flames,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Pittsburgh Penguins,Calgary Flames,2021
+/zapas/2897102,Calgary Flames,Philadelphia Flyers,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Philadelphia Flyers,Calgary Flames,2021
+/zapas/2897119,Calgary Flames,Nashville Predators,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Nashville Predators,Calgary Flames,2021
+/zapas/2897131,Calgary Flames,Dallas Stars,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Dallas Stars,Calgary Flames,2021
+/zapas/2897145,Calgary Flames,New York Rangers,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,New York Rangers,Calgary Flames,2021
+/zapas/2897165,Calgary Flames,San Jose Sharks,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,San Jose Sharks,Calgary Flames,2021
+/zapas/2897182,Montreal Canadiens,Calgary Flames,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Montreal Canadiens,Calgary Flames,2021
+/zapas/2897189,Toronto Maple Leafs,Calgary Flames,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Toronto Maple Leafs,Calgary Flames,2021
+/zapas/2897208,Ottawa Senators,Calgary Flames,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Ottawa Senators,Calgary Flames,2021
+/zapas/2897223,Philadelphia Flyers,Calgary Flames,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Philadelphia Flyers,Calgary Flames,2021
+/zapas/2897234,Buffalo Sabres,Calgary Flames,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Buffalo Sabres,Calgary Flames,2021
+/zapas/2897253,New York Islanders,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New York Islanders,Calgary Flames,2021
+/zapas/2897258,Boston Bruins,Calgary Flames,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Boston Bruins,Calgary Flames,2021
+/zapas/2897268,Calgary Flames,Chicago Blackhawks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Calgary Flames,2021
+/zapas/2897301,Calgary Flames,Winnipeg Jets,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Winnipeg Jets,Calgary Flames,2021
+/zapas/2897314,Calgary Flames,Pittsburgh Penguins,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Pittsburgh Penguins,Calgary Flames,2021
+/zapas/2897333,Los Angeles Kings,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Calgary Flames,2021
+/zapas/2897343,Anaheim Ducks,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Anaheim Ducks,Calgary Flames,2021
+/zapas/2897358,Vegas Golden Knights,Calgary Flames,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Vegas Golden Knights,Calgary Flames,2021
+/zapas/2897369,San Jose Sharks,Calgary Flames,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,San Jose Sharks,Calgary Flames,2021
+/zapas/2897386,Calgary Flames,Carolina Hurricanes,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Carolina Hurricanes,Calgary Flames,2021
+/zapas/2897403,Calgary Flames,Boston Bruins,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Boston Bruins,Calgary Flames,2021
+/zapas/2897535,Seattle Kraken,Calgary Flames,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,Seattle Kraken,Calgary Flames,2021
+/zapas/2897559,Chicago Blackhawks,Calgary Flames,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Chicago Blackhawks,Calgary Flames,2021
+/zapas/2897575,Florida Panthers,Calgary Flames,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Florida Panthers,Calgary Flames,2021
+/zapas/2897590,Tampa Bay Lightning,Calgary Flames,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Tampa Bay Lightning,Calgary Flames,2021
+/zapas/2897594,Carolina Hurricanes,Calgary Flames,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Carolina Hurricanes,Calgary Flames,2021
+/zapas/2897633,Calgary Flames,Ottawa Senators,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Ottawa Senators,Calgary Flames,2021
+/zapas/2897673,Calgary Flames,Florida Panthers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Florida Panthers,Calgary Flames,2021
+/zapas/2897704,Edmonton Oilers,Calgary Flames,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Edmonton Oilers,Calgary Flames,2021
+/zapas/2897719,Calgary Flames,St. Louis Blues,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,St. Louis Blues,Calgary Flames,2021
+/zapas/2897737,Columbus Blue Jackets,Calgary Flames,0,6,0,0.0,3.0,0.0,3.0,6.0,0.0,1.0,Columbus Blue Jackets,Calgary Flames,2021
+/zapas/2897739,St. Louis Blues,Calgary Flames,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,St. Louis Blues,Calgary Flames,2021
+/zapas/2897753,Calgary Flames,Vancouver Canucks,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,Vancouver Canucks,Calgary Flames,2021
+/zapas/2897779,Dallas Stars,Calgary Flames,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Dallas Stars,Calgary Flames,2021
+/zapas/2897788,Arizona Coyotes,Calgary Flames,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Calgary Flames,2021
+/zapas/2897648,Calgary Flames,Vegas Golden Knights,6,0,0,3.0,0.0,1.0,3.0,6.0,0.0,1.0,Vegas Golden Knights,Calgary Flames,2021
+/zapas/2897436,Calgary Flames,Toronto Maple Leafs,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Toronto Maple Leafs,Calgary Flames,2021
+/zapas/2897621,Calgary Flames,New York Islanders,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New York Islanders,Calgary Flames,2021
+/zapas/2897455,Calgary Flames,Columbus Blue Jackets,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Columbus Blue Jackets,Calgary Flames,2021
+/zapas/2897478,Calgary Flames,Anaheim Ducks,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,Anaheim Ducks,Calgary Flames,2021
+/zapas/2897492,Calgary Flames,Seattle Kraken,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Seattle Kraken,Calgary Flames,2021
+/zapas/2897541,Calgary Flames,Winnipeg Jets,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Calgary Flames,2021
+/zapas/2897796,Vancouver Canucks,Calgary Flames,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Vancouver Canucks,Calgary Flames,2021
+/zapas/2897813,Calgary Flames,Minnesota Wild,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Minnesota Wild,Calgary Flames,2021
+/zapas/2897835,Minnesota Wild,Calgary Flames,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Minnesota Wild,Calgary Flames,2021
+/zapas/2897846,Calgary Flames,Montreal Canadiens,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Montreal Canadiens,Calgary Flames,2021
+/zapas/2897862,Colorado Avalanche,Calgary Flames,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Colorado Avalanche,Calgary Flames,2021
+/zapas/2897507,Calgary Flames,Edmonton Oilers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Edmonton Oilers,Calgary Flames,2021
+/zapas/2897883,Calgary Flames,Washington Capitals,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Washington Capitals,Calgary Flames,2021
+/zapas/2897897,Calgary Flames,Tampa Bay Lightning,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Tampa Bay Lightning,Calgary Flames,2021
+/zapas/2897914,Calgary Flames,Detroit Red Wings,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Detroit Red Wings,Calgary Flames,2021
+/zapas/2897925,Colorado Avalanche,Calgary Flames,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Colorado Avalanche,Calgary Flames,2021
+/zapas/2897946,Calgary Flames,New Jersey Devils,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,New Jersey Devils,Calgary Flames,2021
+/zapas/2897960,Calgary Flames,Buffalo Sabres,0,1,1,1.0,2.0,1.0,1.0,0.0,1.0,0.0,Buffalo Sabres,Calgary Flames,2021
+/zapas/2897964,Vancouver Canucks,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Vancouver Canucks,Calgary Flames,2021
+/zapas/2897986,Calgary Flames,San Jose Sharks,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,San Jose Sharks,Calgary Flames,2021
+/zapas/2898011,Calgary Flames,Arizona Coyotes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Calgary Flames,2021
+/zapas/2898018,Calgary Flames,Edmonton Oilers,9,5,0,3.0,0.0,1.0,3.0,9.0,5.0,1.0,Edmonton Oilers,Calgary Flames,2021
+/zapas/2898041,Calgary Flames,Colorado Avalanche,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Colorado Avalanche,Calgary Flames,2021
+/zapas/2898057,Calgary Flames,Los Angeles Kings,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Los Angeles Kings,Calgary Flames,2021
+/zapas/2898073,Calgary Flames,St. Louis Blues,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,St. Louis Blues,Calgary Flames,2021
+/zapas/2898090,Los Angeles Kings,Calgary Flames,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Los Angeles Kings,Calgary Flames,2021
+/zapas/2898105,Anaheim Ducks,Calgary Flames,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Anaheim Ducks,Calgary Flames,2021
+/zapas/2898111,San Jose Sharks,Calgary Flames,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,San Jose Sharks,Calgary Flames,2021
+/zapas/2898125,Seattle Kraken,Calgary Flames,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Seattle Kraken,Calgary Flames,2021
+/zapas/2898147,Calgary Flames,Seattle Kraken,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Seattle Kraken,Calgary Flames,2021
+/zapas/2898164,Calgary Flames,Vegas Golden Knights,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,Vegas Golden Knights,Calgary Flames,2021
+/zapas/2898180,Calgary Flames,Arizona Coyotes,9,1,0,3.0,0.0,1.0,3.0,9.0,1.0,1.0,Arizona Coyotes,Calgary Flames,2021
+/zapas/2897417,Chicago Blackhawks,Calgary Flames,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Calgary Flames,2021
+/zapas/2897422,Nashville Predators,Calgary Flames,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Nashville Predators,Calgary Flames,2021
+/zapas/2898216,Calgary Flames,Dallas Stars,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Dallas Stars,Calgary Flames,2021
+/zapas/2898232,Calgary Flames,Vancouver Canucks,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Vancouver Canucks,Calgary Flames,2021
+/zapas/2898256,Nashville Predators,Calgary Flames,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Nashville Predators,Calgary Flames,2021
+/zapas/2898273,Minnesota Wild,Calgary Flames,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Minnesota Wild,Calgary Flames,2021
+/zapas/2898285,Winnipeg Jets,Calgary Flames,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,Winnipeg Jets,Calgary Flames,2021

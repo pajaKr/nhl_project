@@ -1,34 +1,372 @@
 game_id,team_home,team_away,goals_home,goals_away,OT,points_home,points_away,TOI_home,TOI_points,TOI_goals_scored,TOI_goals_rec,TOI_result,other_team,TOI,season
-/zapas/2553148,Pittsburgh Penguins,Philadelphia Flyers,7,0,0,3.0,0.0,1.0,3.0,7.0,0.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2021
-/zapas/2553149,Pittsburgh Penguins,Philadelphia Flyers,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2021
-/zapas/2553150,Philadelphia Flyers,Pittsburgh Penguins,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2021
-/zapas/2553151,Philadelphia Flyers,Pittsburgh Penguins,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2021
-/zapas/2553152,Pittsburgh Penguins,Philadelphia Flyers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2021
-/zapas/2553153,Philadelphia Flyers,Pittsburgh Penguins,5,8,0,0.0,3.0,0.0,3.0,8.0,5.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2021
-/zapas/2574521,Washington Capitals,Pittsburgh Penguins,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Washington Capitals,Pittsburgh Penguins,2021
-/zapas/2574522,Washington Capitals,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Washington Capitals,Pittsburgh Penguins,2021
-/zapas/2574523,Pittsburgh Penguins,Washington Capitals,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Washington Capitals,Pittsburgh Penguins,2021
-/zapas/2574524,Pittsburgh Penguins,Washington Capitals,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Washington Capitals,Pittsburgh Penguins,2021
-/zapas/2574538,Washington Capitals,Pittsburgh Penguins,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Washington Capitals,Pittsburgh Penguins,2021
-/zapas/2574539,Pittsburgh Penguins,Washington Capitals,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Washington Capitals,Pittsburgh Penguins,2021
-/zapas/2732141,New York Islanders,Pittsburgh Penguins,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2732142,New York Islanders,Pittsburgh Penguins,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2732143,Pittsburgh Penguins,New York Islanders,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2732144,Pittsburgh Penguins,New York Islanders,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2890999,Pittsburgh Penguins,Montreal Canadiens,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Montreal Canadiens,Pittsburgh Penguins,2021
-/zapas/2891000,Pittsburgh Penguins,Montreal Canadiens,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Montreal Canadiens,Pittsburgh Penguins,2021
-/zapas/2891001,Montreal Canadiens,Pittsburgh Penguins,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Montreal Canadiens,Pittsburgh Penguins,2021
-/zapas/2891002,Montreal Canadiens,Pittsburgh Penguins,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,Montreal Canadiens,Pittsburgh Penguins,2021
-/zapas/2894343,Pittsburgh Penguins,New York Islanders,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2894344,Pittsburgh Penguins,New York Islanders,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2894345,New York Islanders,Pittsburgh Penguins,4,5,0,0.0,3.0,0.0,3.0,5.0,4.0,1.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2894346,New York Islanders,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2894347,Pittsburgh Penguins,New York Islanders,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2894348,New York Islanders,Pittsburgh Penguins,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Islanders,Pittsburgh Penguins,2021
-/zapas/2900310,New York Rangers,Pittsburgh Penguins,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Rangers,Pittsburgh Penguins,2021
-/zapas/2900311,New York Rangers,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,New York Rangers,Pittsburgh Penguins,2021
-/zapas/2900312,Pittsburgh Penguins,New York Rangers,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,New York Rangers,Pittsburgh Penguins,2021
-/zapas/2900313,Pittsburgh Penguins,New York Rangers,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,New York Rangers,Pittsburgh Penguins,2021
-/zapas/2900314,New York Rangers,Pittsburgh Penguins,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,New York Rangers,Pittsburgh Penguins,2021
-/zapas/2900315,Pittsburgh Penguins,New York Rangers,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,New York Rangers,Pittsburgh Penguins,2021
-/zapas/2900316,New York Rangers,Pittsburgh Penguins,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Rangers,Pittsburgh Penguins,2021
+/zapas/2526056,Pittsburgh Penguins,St. Louis Blues,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,St. Louis Blues,Pittsburgh Penguins,2017
+/zapas/2526064,Chicago Blackhawks,Pittsburgh Penguins,10,1,0,3.0,0.0,0.0,0.0,1.0,10.0,0.0,Chicago Blackhawks,Pittsburgh Penguins,2017
+/zapas/2526075,Pittsburgh Penguins,Nashville Predators,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Nashville Predators,Pittsburgh Penguins,2017
+/zapas/2526101,Washington Capitals,Pittsburgh Penguins,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Washington Capitals,Pittsburgh Penguins,2017
+/zapas/2526105,Tampa Bay Lightning,Pittsburgh Penguins,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,2017
+/zapas/2526120,Pittsburgh Penguins,Florida Panthers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Florida Panthers,Pittsburgh Penguins,2017
+/zapas/2526135,New York Rangers,Pittsburgh Penguins,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,New York Rangers,Pittsburgh Penguins,2017
+/zapas/2526160,Florida Panthers,Pittsburgh Penguins,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Florida Panthers,Pittsburgh Penguins,2017
+/zapas/2526166,Tampa Bay Lightning,Pittsburgh Penguins,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,2017
+/zapas/2526181,Pittsburgh Penguins,Edmonton Oilers,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Edmonton Oilers,Pittsburgh Penguins,2017
+/zapas/2526194,Pittsburgh Penguins,Winnipeg Jets,2,1,1,2.0,1.0,1.0,2.0,2.0,1.0,1.0,Winnipeg Jets,Pittsburgh Penguins,2017
+/zapas/2526217,Minnesota Wild,Pittsburgh Penguins,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Minnesota Wild,Pittsburgh Penguins,2017
+/zapas/2526222,Winnipeg Jets,Pittsburgh Penguins,7,1,0,3.0,0.0,0.0,0.0,1.0,7.0,0.0,Winnipeg Jets,Pittsburgh Penguins,2017
+/zapas/2526236,Edmonton Oilers,Pittsburgh Penguins,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Edmonton Oilers,Pittsburgh Penguins,2017
+/zapas/2526249,Calgary Flames,Pittsburgh Penguins,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Calgary Flames,Pittsburgh Penguins,2017
+/zapas/2526264,Vancouver Canucks,Pittsburgh Penguins,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Vancouver Canucks,Pittsburgh Penguins,2017
+/zapas/2526280,Pittsburgh Penguins,Arizona Coyotes,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Arizona Coyotes,Pittsburgh Penguins,2017
+/zapas/2526298,Washington Capitals,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Washington Capitals,Pittsburgh Penguins,2017
+/zapas/2526312,Nashville Predators,Pittsburgh Penguins,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Nashville Predators,Pittsburgh Penguins,2017
+/zapas/2526321,Pittsburgh Penguins,Buffalo Sabres,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2017
+/zapas/2526335,Ottawa Senators,Pittsburgh Penguins,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Ottawa Senators,Pittsburgh Penguins,2017
+/zapas/2526354,Pittsburgh Penguins,Chicago Blackhawks,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Chicago Blackhawks,Pittsburgh Penguins,2017
+/zapas/2526378,Pittsburgh Penguins,Vancouver Canucks,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Vancouver Canucks,Pittsburgh Penguins,2017
+/zapas/2526388,Boston Bruins,Pittsburgh Penguins,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,Boston Bruins,Pittsburgh Penguins,2017
+/zapas/2526407,Pittsburgh Penguins,Tampa Bay Lightning,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Tampa Bay Lightning,Pittsburgh Penguins,2017
+/zapas/2526417,Pittsburgh Penguins,Philadelphia Flyers,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2017
+/zapas/2526442,Buffalo Sabres,Pittsburgh Penguins,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2017
+/zapas/2526455,Pittsburgh Penguins,Buffalo Sabres,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2017
+/zapas/2526470,Pittsburgh Penguins,New York Rangers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,New York Rangers,Pittsburgh Penguins,2017
+/zapas/2526485,Pittsburgh Penguins,New York Islanders,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Islanders,Pittsburgh Penguins,2017
+/zapas/2526504,Pittsburgh Penguins,Toronto Maple Leafs,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Toronto Maple Leafs,Pittsburgh Penguins,2017
+/zapas/2526516,Pittsburgh Penguins,Colorado Avalanche,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Colorado Avalanche,Pittsburgh Penguins,2017
+/zapas/2526544,Vegas Golden Knights,Pittsburgh Penguins,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Vegas Golden Knights,Pittsburgh Penguins,2017
+/zapas/2526557,Arizona Coyotes,Pittsburgh Penguins,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Arizona Coyotes,Pittsburgh Penguins,2017
+/zapas/2526568,Colorado Avalanche,Pittsburgh Penguins,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Colorado Avalanche,Pittsburgh Penguins,2017
+/zapas/2526586,Pittsburgh Penguins,Columbus Blue Jackets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2017
+/zapas/2526604,Pittsburgh Penguins,Anaheim Ducks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Anaheim Ducks,Pittsburgh Penguins,2017
+/zapas/2526616,Pittsburgh Penguins,Columbus Blue Jackets,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2017
+/zapas/2526634,Carolina Hurricanes,Pittsburgh Penguins,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,2017
+/zapas/2526651,Detroit Red Wings,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Detroit Red Wings,Pittsburgh Penguins,2017
+/zapas/2526656,Philadelphia Flyers,Pittsburgh Penguins,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2017
+/zapas/2526671,Pittsburgh Penguins,Carolina Hurricanes,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,2017
+/zapas/2526682,New York Islanders,Pittsburgh Penguins,0,4,0,0.0,3.0,0.0,3.0,4.0,0.0,1.0,New York Islanders,Pittsburgh Penguins,2017
+/zapas/2526704,Pittsburgh Penguins,Boston Bruins,6,5,1,2.0,1.0,1.0,2.0,6.0,5.0,1.0,Boston Bruins,Pittsburgh Penguins,2017
+/zapas/2526725,Pittsburgh Penguins,Detroit Red Wings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Detroit Red Wings,Pittsburgh Penguins,2017
+/zapas/2526733,Pittsburgh Penguins,New York Rangers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,New York Rangers,Pittsburgh Penguins,2017
+/zapas/2526748,Anaheim Ducks,Pittsburgh Penguins,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Anaheim Ducks,Pittsburgh Penguins,2017
+/zapas/2526758,Los Angeles Kings,Pittsburgh Penguins,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Los Angeles Kings,Pittsburgh Penguins,2017
+/zapas/2526769,San Jose Sharks,Pittsburgh Penguins,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,San Jose Sharks,Pittsburgh Penguins,2017
+/zapas/2526787,Pittsburgh Penguins,Carolina Hurricanes,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,2017
+/zapas/2526802,Pittsburgh Penguins,Minnesota Wild,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Minnesota Wild,Pittsburgh Penguins,2017
+/zapas/2526819,Pittsburgh Penguins,San Jose Sharks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,San Jose Sharks,Pittsburgh Penguins,2017
+/zapas/2526842,Pittsburgh Penguins,Washington Capitals,7,4,0,3.0,0.0,1.0,3.0,7.0,4.0,1.0,Washington Capitals,Pittsburgh Penguins,2017
+/zapas/2526852,New Jersey Devils,Pittsburgh Penguins,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New Jersey Devils,Pittsburgh Penguins,2017
+/zapas/2526867,Pittsburgh Penguins,Vegas Golden Knights,5,4,0,3.0,0.0,1.0,3.0,5.0,4.0,1.0,Vegas Golden Knights,Pittsburgh Penguins,2017
+/zapas/2526895,Dallas Stars,Pittsburgh Penguins,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Dallas Stars,Pittsburgh Penguins,2017
+/zapas/2526906,St. Louis Blues,Pittsburgh Penguins,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,St. Louis Blues,Pittsburgh Penguins,2017
+/zapas/2526922,Pittsburgh Penguins,Ottawa Senators,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Ottawa Senators,Pittsburgh Penguins,2017
+/zapas/2526935,Pittsburgh Penguins,Los Angeles Kings,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Los Angeles Kings,Pittsburgh Penguins,2017
+/zapas/2526954,Pittsburgh Penguins,Toronto Maple Leafs,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Toronto Maple Leafs,Pittsburgh Penguins,2017
+/zapas/2526962,Columbus Blue Jackets,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2017
+/zapas/2526996,Carolina Hurricanes,Pittsburgh Penguins,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,2017
+/zapas/2527006,Florida Panthers,Pittsburgh Penguins,6,5,0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,Florida Panthers,Pittsburgh Penguins,2017
+/zapas/2527024,Pittsburgh Penguins,New Jersey Devils,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,New Jersey Devils,Pittsburgh Penguins,2017
+/zapas/2527037,Boston Bruins,Pittsburgh Penguins,8,4,0,3.0,0.0,0.0,0.0,4.0,8.0,0.0,Boston Bruins,Pittsburgh Penguins,2017
+/zapas/2527058,Pittsburgh Penguins,New York Islanders,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,New York Islanders,Pittsburgh Penguins,2017
+/zapas/2527070,Pittsburgh Penguins,Calgary Flames,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Calgary Flames,Pittsburgh Penguins,2017
+/zapas/2527084,Philadelphia Flyers,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2017
+/zapas/2527109,Toronto Maple Leafs,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Toronto Maple Leafs,Pittsburgh Penguins,2017
+/zapas/2527115,Pittsburgh Penguins,Dallas Stars,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Dallas Stars,Pittsburgh Penguins,2017
+/zapas/2527133,New York Rangers,Pittsburgh Penguins,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Rangers,Pittsburgh Penguins,2017
+/zapas/2527140,Montreal Canadiens,Pittsburgh Penguins,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Montreal Canadiens,Pittsburgh Penguins,2017
+/zapas/2527175,New York Islanders,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,New York Islanders,Pittsburgh Penguins,2017
+/zapas/2527187,Pittsburgh Penguins,Montreal Canadiens,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Montreal Canadiens,Pittsburgh Penguins,2017
+/zapas/2527201,Pittsburgh Penguins,New Jersey Devils,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,New Jersey Devils,Pittsburgh Penguins,2017
+/zapas/2527217,Pittsburgh Penguins,Philadelphia Flyers,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2017
+/zapas/2527233,Detroit Red Wings,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Detroit Red Wings,Pittsburgh Penguins,2017
+/zapas/2527246,New Jersey Devils,Pittsburgh Penguins,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New Jersey Devils,Pittsburgh Penguins,2017
+/zapas/2527265,Pittsburgh Penguins,Montreal Canadiens,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Pittsburgh Penguins,2017
+/zapas/2527275,Pittsburgh Penguins,Washington Capitals,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Washington Capitals,Pittsburgh Penguins,2017
+/zapas/2527299,Columbus Blue Jackets,Pittsburgh Penguins,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2017
+/zapas/2527307,Pittsburgh Penguins,Ottawa Senators,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Ottawa Senators,Pittsburgh Penguins,2017
+/zapas/2647205,Pittsburgh Penguins,Washington Capitals,7,6,1,2.0,1.0,1.0,2.0,7.0,6.0,1.0,Washington Capitals,Pittsburgh Penguins,2018
+/zapas/2647221,Pittsburgh Penguins,Montreal Canadiens,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Montreal Canadiens,Pittsburgh Penguins,2018
+/zapas/2647248,Pittsburgh Penguins,Vegas Golden Knights,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Vegas Golden Knights,Pittsburgh Penguins,2018
+/zapas/2647260,Montreal Canadiens,Pittsburgh Penguins,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Montreal Canadiens,Pittsburgh Penguins,2018
+/zapas/2647279,Pittsburgh Penguins,Vancouver Canucks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Vancouver Canucks,Pittsburgh Penguins,2018
+/zapas/2647288,Toronto Maple Leafs,Pittsburgh Penguins,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Toronto Maple Leafs,Pittsburgh Penguins,2018
+/zapas/2647327,Edmonton Oilers,Pittsburgh Penguins,5,6,1,1.0,2.0,0.0,2.0,6.0,5.0,1.0,Edmonton Oilers,Pittsburgh Penguins,2018
+/zapas/2647339,Calgary Flames,Pittsburgh Penguins,1,9,0,0.0,3.0,0.0,3.0,9.0,1.0,1.0,Calgary Flames,Pittsburgh Penguins,2018
+/zapas/2647356,Vancouver Canucks,Pittsburgh Penguins,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Vancouver Canucks,Pittsburgh Penguins,2018
+/zapas/2647366,Pittsburgh Penguins,New York Islanders,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,New York Islanders,Pittsburgh Penguins,2018
+/zapas/2647379,New York Islanders,Pittsburgh Penguins,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Islanders,Pittsburgh Penguins,2018
+/zapas/2647397,Pittsburgh Penguins,Toronto Maple Leafs,0,5,0,0.0,3.0,1.0,0.0,0.0,5.0,0.0,Toronto Maple Leafs,Pittsburgh Penguins,2018
+/zapas/2647410,Pittsburgh Penguins,New Jersey Devils,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,New Jersey Devils,Pittsburgh Penguins,2018
+/zapas/2647422,Washington Capitals,Pittsburgh Penguins,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Washington Capitals,Pittsburgh Penguins,2018
+/zapas/2647447,Pittsburgh Penguins,Arizona Coyotes,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Arizona Coyotes,Pittsburgh Penguins,2018
+/zapas/2647463,New Jersey Devils,Pittsburgh Penguins,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,New Jersey Devils,Pittsburgh Penguins,2018
+/zapas/2647477,Pittsburgh Penguins,Tampa Bay Lightning,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,2018
+/zapas/2647494,Ottawa Senators,Pittsburgh Penguins,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Ottawa Senators,Pittsburgh Penguins,2018
+/zapas/2647508,Pittsburgh Penguins,Buffalo Sabres,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Buffalo Sabres,Pittsburgh Penguins,2018
+/zapas/2647519,Pittsburgh Penguins,Dallas Stars,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Dallas Stars,Pittsburgh Penguins,2018
+/zapas/2647538,Boston Bruins,Pittsburgh Penguins,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Boston Bruins,Pittsburgh Penguins,2018
+/zapas/2647552,Pittsburgh Penguins,Columbus Blue Jackets,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2018
+/zapas/2647571,Winnipeg Jets,Pittsburgh Penguins,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Winnipeg Jets,Pittsburgh Penguins,2018
+/zapas/2647579,Colorado Avalanche,Pittsburgh Penguins,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Colorado Avalanche,Pittsburgh Penguins,2018
+/zapas/2647601,Pittsburgh Penguins,Philadelphia Flyers,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2018
+/zapas/2647617,Pittsburgh Penguins,Colorado Avalanche,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Colorado Avalanche,Pittsburgh Penguins,2018
+/zapas/2647630,Pittsburgh Penguins,New York Islanders,6,2,0,3.0,0.0,1.0,3.0,6.0,2.0,1.0,New York Islanders,Pittsburgh Penguins,2018
+/zapas/2647645,Ottawa Senators,Pittsburgh Penguins,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Ottawa Senators,Pittsburgh Penguins,2018
+/zapas/2647659,New York Islanders,Pittsburgh Penguins,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,New York Islanders,Pittsburgh Penguins,2018
+/zapas/2647674,Chicago Blackhawks,Pittsburgh Penguins,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Chicago Blackhawks,Pittsburgh Penguins,2018
+/zapas/2647687,Pittsburgh Penguins,Boston Bruins,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Boston Bruins,Pittsburgh Penguins,2018
+/zapas/2647697,Pittsburgh Penguins,Los Angeles Kings,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Los Angeles Kings,Pittsburgh Penguins,2018
+/zapas/2647710,Pittsburgh Penguins,Anaheim Ducks,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,Anaheim Ducks,Pittsburgh Penguins,2018
+/zapas/2647726,Washington Capitals,Pittsburgh Penguins,1,2,0,0.0,3.0,0.0,3.0,2.0,1.0,1.0,Washington Capitals,Pittsburgh Penguins,2018
+/zapas/2647731,Pittsburgh Penguins,Minnesota Wild,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Minnesota Wild,Pittsburgh Penguins,2018
+/zapas/2647753,Carolina Hurricanes,Pittsburgh Penguins,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,2018
+/zapas/2647767,Pittsburgh Penguins,Detroit Red Wings,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Detroit Red Wings,Pittsburgh Penguins,2018
+/zapas/2647790,St. Louis Blues,Pittsburgh Penguins,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,St. Louis Blues,Pittsburgh Penguins,2018
+/zapas/2647799,Minnesota Wild,Pittsburgh Penguins,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Minnesota Wild,Pittsburgh Penguins,2018
+/zapas/2647815,New York Rangers,Pittsburgh Penguins,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,New York Rangers,Pittsburgh Penguins,2018
+/zapas/2647827,Pittsburgh Penguins,Winnipeg Jets,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Winnipeg Jets,Pittsburgh Penguins,2018
+/zapas/2647849,Pittsburgh Penguins,Chicago Blackhawks,3,5,0,0.0,3.0,1.0,0.0,3.0,5.0,0.0,Chicago Blackhawks,Pittsburgh Penguins,2018
+/zapas/2647858,Pittsburgh Penguins,Florida Panthers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Florida Panthers,Pittsburgh Penguins,2018
+/zapas/2647884,Anaheim Ducks,Pittsburgh Penguins,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Anaheim Ducks,Pittsburgh Penguins,2018
+/zapas/2647896,Los Angeles Kings,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Los Angeles Kings,Pittsburgh Penguins,2018
+/zapas/2647918,San Jose Sharks,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,San Jose Sharks,Pittsburgh Penguins,2018
+/zapas/2647936,Arizona Coyotes,Pittsburgh Penguins,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Arizona Coyotes,Pittsburgh Penguins,2018
+/zapas/2647947,Vegas Golden Knights,Pittsburgh Penguins,7,3,0,3.0,0.0,0.0,0.0,3.0,7.0,0.0,Vegas Golden Knights,Pittsburgh Penguins,2018
+/zapas/2647970,Pittsburgh Penguins,New Jersey Devils,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,New Jersey Devils,Pittsburgh Penguins,2018
+/zapas/2647974,Pittsburgh Penguins,Tampa Bay Lightning,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Tampa Bay Lightning,Pittsburgh Penguins,2018
+/zapas/2647982,Pittsburgh Penguins,Ottawa Senators,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Ottawa Senators,Pittsburgh Penguins,2018
+/zapas/2647990,Toronto Maple Leafs,Pittsburgh Penguins,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Toronto Maple Leafs,Pittsburgh Penguins,2018
+/zapas/2648011,Pittsburgh Penguins,Carolina Hurricanes,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,2018
+/zapas/2648022,Florida Panthers,Pittsburgh Penguins,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Florida Panthers,Pittsburgh Penguins,2018
+/zapas/2648046,Tampa Bay Lightning,Pittsburgh Penguins,5,4,0,3.0,0.0,0.0,0.0,4.0,5.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,2018
+/zapas/2648058,Philadelphia Flyers,Pittsburgh Penguins,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2018
+/zapas/2648073,Pittsburgh Penguins,Edmonton Oilers,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Edmonton Oilers,Pittsburgh Penguins,2018
+/zapas/2648091,Pittsburgh Penguins,Calgary Flames,4,5,0,0.0,3.0,1.0,0.0,4.0,5.0,0.0,Calgary Flames,Pittsburgh Penguins,2018
+/zapas/2648102,Pittsburgh Penguins,New York Rangers,6,5,0,3.0,0.0,1.0,3.0,6.0,5.0,1.0,New York Rangers,Pittsburgh Penguins,2018
+/zapas/2648115,New Jersey Devils,Pittsburgh Penguins,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,New Jersey Devils,Pittsburgh Penguins,2018
+/zapas/2648131,Pittsburgh Penguins,San Jose Sharks,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,San Jose Sharks,Pittsburgh Penguins,2018
+/zapas/2648151,Philadelphia Flyers,Pittsburgh Penguins,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2018
+/zapas/2648171,Columbus Blue Jackets,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2018
+/zapas/2648189,Buffalo Sabres,Pittsburgh Penguins,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Buffalo Sabres,Pittsburgh Penguins,2018
+/zapas/2648201,Montreal Canadiens,Pittsburgh Penguins,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Montreal Canadiens,Pittsburgh Penguins,2018
+/zapas/2648220,Pittsburgh Penguins,Florida Panthers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Florida Panthers,Pittsburgh Penguins,2018
+/zapas/2648232,Pittsburgh Penguins,Columbus Blue Jackets,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2018
+/zapas/2648253,Columbus Blue Jackets,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,2018
+/zapas/2648260,Pittsburgh Penguins,Boston Bruins,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Boston Bruins,Pittsburgh Penguins,2018
+/zapas/2648271,Pittsburgh Penguins,Washington Capitals,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Washington Capitals,Pittsburgh Penguins,2018
+/zapas/2648281,Buffalo Sabres,Pittsburgh Penguins,0,5,0,0.0,3.0,0.0,3.0,5.0,0.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2018
+/zapas/2648297,Pittsburgh Penguins,St. Louis Blues,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,St. Louis Blues,Pittsburgh Penguins,2018
+/zapas/2648313,Pittsburgh Penguins,Philadelphia Flyers,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2018
+/zapas/2648324,Carolina Hurricanes,Pittsburgh Penguins,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,2018
+/zapas/2648339,Nashville Predators,Pittsburgh Penguins,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Nashville Predators,Pittsburgh Penguins,2018
+/zapas/2648358,Dallas Stars,Pittsburgh Penguins,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Dallas Stars,Pittsburgh Penguins,2018
+/zapas/2648369,New York Rangers,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New York Rangers,Pittsburgh Penguins,2018
+/zapas/2648396,Pittsburgh Penguins,Nashville Predators,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Nashville Predators,Pittsburgh Penguins,2018
+/zapas/2648415,Pittsburgh Penguins,Carolina Hurricanes,3,1,0,3.0,0.0,1.0,3.0,3.0,1.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,2018
+/zapas/2648431,Detroit Red Wings,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Detroit Red Wings,Pittsburgh Penguins,2018
+/zapas/2648443,Pittsburgh Penguins,Detroit Red Wings,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Detroit Red Wings,Pittsburgh Penguins,2018
+/zapas/2648462,Pittsburgh Penguins,New York Rangers,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,New York Rangers,Pittsburgh Penguins,2018
+/zapas/2806383,Pittsburgh Penguins,Buffalo Sabres,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Buffalo Sabres,Pittsburgh Penguins,2019
+/zapas/2806398,Pittsburgh Penguins,Columbus Blue Jackets,7,2,0,3.0,0.0,1.0,3.0,7.0,2.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2019
+/zapas/2806414,Pittsburgh Penguins,Winnipeg Jets,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Winnipeg Jets,Pittsburgh Penguins,2019
+/zapas/2806426,Pittsburgh Penguins,Anaheim Ducks,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,Anaheim Ducks,Pittsburgh Penguins,2019
+/zapas/2806447,Minnesota Wild,Pittsburgh Penguins,4,7,0,0.0,3.0,0.0,3.0,7.0,4.0,1.0,Minnesota Wild,Pittsburgh Penguins,2019
+/zapas/2806451,Winnipeg Jets,Pittsburgh Penguins,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,Winnipeg Jets,Pittsburgh Penguins,2019
+/zapas/2806468,Pittsburgh Penguins,Colorado Avalanche,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Colorado Avalanche,Pittsburgh Penguins,2019
+/zapas/2806484,Pittsburgh Penguins,Dallas Stars,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Dallas Stars,Pittsburgh Penguins,2019
+/zapas/2806495,Pittsburgh Penguins,Vegas Golden Knights,0,3,0,0.0,3.0,1.0,0.0,0.0,3.0,0.0,Vegas Golden Knights,Pittsburgh Penguins,2019
+/zapas/2806511,Florida Panthers,Pittsburgh Penguins,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Florida Panthers,Pittsburgh Penguins,2019
+/zapas/2806520,Tampa Bay Lightning,Pittsburgh Penguins,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,2019
+/zapas/2806542,Dallas Stars,Pittsburgh Penguins,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Dallas Stars,Pittsburgh Penguins,2019
+/zapas/2806558,Pittsburgh Penguins,Philadelphia Flyers,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2019
+/zapas/2806580,Pittsburgh Penguins,Edmonton Oilers,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Edmonton Oilers,Pittsburgh Penguins,2019
+/zapas/2806596,Boston Bruins,Pittsburgh Penguins,6,4,0,3.0,0.0,0.0,0.0,4.0,6.0,0.0,Boston Bruins,Pittsburgh Penguins,2019
+/zapas/2806615,New York Islanders,Pittsburgh Penguins,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Islanders,Pittsburgh Penguins,2019
+/zapas/2806633,Pittsburgh Penguins,Chicago Blackhawks,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Chicago Blackhawks,Pittsburgh Penguins,2019
+/zapas/2806650,New York Rangers,Pittsburgh Penguins,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,New York Rangers,Pittsburgh Penguins,2019
+/zapas/2806671,New Jersey Devils,Pittsburgh Penguins,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,New Jersey Devils,Pittsburgh Penguins,2019
+/zapas/2806684,Pittsburgh Penguins,Toronto Maple Leafs,6,1,0,3.0,0.0,1.0,3.0,6.0,1.0,1.0,Toronto Maple Leafs,Pittsburgh Penguins,2019
+/zapas/2806697,Pittsburgh Penguins,New York Islanders,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,New York Islanders,Pittsburgh Penguins,2019
+/zapas/2806711,New York Islanders,Pittsburgh Penguins,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,New York Islanders,Pittsburgh Penguins,2019
+/zapas/2806722,Pittsburgh Penguins,New Jersey Devils,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,New Jersey Devils,Pittsburgh Penguins,2019
+/zapas/2806744,Pittsburgh Penguins,Calgary Flames,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Calgary Flames,Pittsburgh Penguins,2019
+/zapas/2806758,Pittsburgh Penguins,Vancouver Canucks,8,6,0,3.0,0.0,1.0,3.0,8.0,6.0,1.0,Vancouver Canucks,Pittsburgh Penguins,2019
+/zapas/2806776,Columbus Blue Jackets,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Columbus Blue Jackets,Pittsburgh Penguins,2019
+/zapas/2806788,St. Louis Blues,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,St. Louis Blues,Pittsburgh Penguins,2019
+/zapas/2806811,Pittsburgh Penguins,St. Louis Blues,3,0,0,3.0,0.0,1.0,3.0,3.0,0.0,1.0,St. Louis Blues,Pittsburgh Penguins,2019
+/zapas/2806825,Pittsburgh Penguins,Arizona Coyotes,2,0,0,3.0,0.0,1.0,3.0,2.0,0.0,1.0,Arizona Coyotes,Pittsburgh Penguins,2019
+/zapas/2806832,Detroit Red Wings,Pittsburgh Penguins,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Detroit Red Wings,Pittsburgh Penguins,2019
+/zapas/2806850,Pittsburgh Penguins,Montreal Canadiens,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Montreal Canadiens,Pittsburgh Penguins,2019
+/zapas/2806866,Pittsburgh Penguins,Columbus Blue Jackets,1,0,1,2.0,1.0,1.0,2.0,1.0,0.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2019
+/zapas/2806887,Pittsburgh Penguins,Los Angeles Kings,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Los Angeles Kings,Pittsburgh Penguins,2019
+/zapas/2806907,Calgary Flames,Pittsburgh Penguins,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Calgary Flames,Pittsburgh Penguins,2019
+/zapas/2806927,Edmonton Oilers,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Edmonton Oilers,Pittsburgh Penguins,2019
+/zapas/2806939,Vancouver Canucks,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Vancouver Canucks,Pittsburgh Penguins,2019
+/zapas/2806963,Nashville Predators,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Nashville Predators,Pittsburgh Penguins,2019
+/zapas/2806973,Pittsburgh Penguins,Nashville Predators,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Nashville Predators,Pittsburgh Penguins,2019
+/zapas/2806988,Pittsburgh Penguins,Ottawa Senators,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Ottawa Senators,Pittsburgh Penguins,2019
+/zapas/2807007,Pittsburgh Penguins,San Jose Sharks,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,San Jose Sharks,Pittsburgh Penguins,2019
+/zapas/2807023,Montreal Canadiens,Pittsburgh Penguins,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Montreal Canadiens,Pittsburgh Penguins,2019
+/zapas/2807030,Pittsburgh Penguins,Florida Panthers,1,4,0,0.0,3.0,1.0,0.0,1.0,4.0,0.0,Florida Panthers,Pittsburgh Penguins,2019
+/zapas/2807049,Vegas Golden Knights,Pittsburgh Penguins,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Vegas Golden Knights,Pittsburgh Penguins,2019
+/zapas/2807067,Colorado Avalanche,Pittsburgh Penguins,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Colorado Avalanche,Pittsburgh Penguins,2019
+/zapas/2807082,Arizona Coyotes,Pittsburgh Penguins,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Arizona Coyotes,Pittsburgh Penguins,2019
+/zapas/2807094,Pittsburgh Penguins,Minnesota Wild,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Minnesota Wild,Pittsburgh Penguins,2019
+/zapas/2807103,Boston Bruins,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Boston Bruins,Pittsburgh Penguins,2019
+/zapas/2807116,Detroit Red Wings,Pittsburgh Penguins,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,Detroit Red Wings,Pittsburgh Penguins,2019
+/zapas/2807131,Pittsburgh Penguins,Boston Bruins,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Boston Bruins,Pittsburgh Penguins,2019
+/zapas/2807139,Philadelphia Flyers,Pittsburgh Penguins,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2019
+/zapas/2807162,Pittsburgh Penguins,Philadelphia Flyers,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2019
+/zapas/2807182,Washington Capitals,Pittsburgh Penguins,3,4,0,0.0,3.0,0.0,3.0,4.0,3.0,1.0,Washington Capitals,Pittsburgh Penguins,2019
+/zapas/2807205,Tampa Bay Lightning,Pittsburgh Penguins,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,2019
+/zapas/2807224,Florida Panthers,Pittsburgh Penguins,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Florida Panthers,Pittsburgh Penguins,2019
+/zapas/2807246,Pittsburgh Penguins,Tampa Bay Lightning,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,2019
+/zapas/2807268,Pittsburgh Penguins,Montreal Canadiens,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Montreal Canadiens,Pittsburgh Penguins,2019
+/zapas/2807282,Pittsburgh Penguins,Detroit Red Wings,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Detroit Red Wings,Pittsburgh Penguins,2019
+/zapas/2807297,Pittsburgh Penguins,Toronto Maple Leafs,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Toronto Maple Leafs,Pittsburgh Penguins,2019
+/zapas/2807309,Toronto Maple Leafs,Pittsburgh Penguins,4,0,0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,Toronto Maple Leafs,Pittsburgh Penguins,2019
+/zapas/2807326,Pittsburgh Penguins,Buffalo Sabres,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Buffalo Sabres,Pittsburgh Penguins,2019
+/zapas/2807335,Washington Capitals,Pittsburgh Penguins,5,3,0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,Washington Capitals,Pittsburgh Penguins,2019
+/zapas/2807359,Los Angeles Kings,Pittsburgh Penguins,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Los Angeles Kings,Pittsburgh Penguins,2019
+/zapas/2807374,Anaheim Ducks,Pittsburgh Penguins,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Anaheim Ducks,Pittsburgh Penguins,2019
+/zapas/2807386,San Jose Sharks,Pittsburgh Penguins,5,0,0,3.0,0.0,0.0,0.0,0.0,5.0,0.0,San Jose Sharks,Pittsburgh Penguins,2019
+/zapas/2807398,Pittsburgh Penguins,Ottawa Senators,7,3,0,3.0,0.0,1.0,3.0,7.0,3.0,1.0,Ottawa Senators,Pittsburgh Penguins,2019
+/zapas/2807409,Buffalo Sabres,Pittsburgh Penguins,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2019
+/zapas/2807426,Pittsburgh Penguins,Washington Capitals,2,5,0,0.0,3.0,1.0,0.0,2.0,5.0,0.0,Washington Capitals,Pittsburgh Penguins,2019
+/zapas/2807435,Pittsburgh Penguins,Carolina Hurricanes,2,6,0,0.0,3.0,1.0,0.0,2.0,6.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,2019
+/zapas/2807448,New Jersey Devils,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New Jersey Devils,Pittsburgh Penguins,2019
+/zapas/2893211,Philadelphia Flyers,Pittsburgh Penguins,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2020
+/zapas/2893227,Philadelphia Flyers,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2020
+/zapas/2893243,Pittsburgh Penguins,Washington Capitals,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,Washington Capitals,Pittsburgh Penguins,2020
+/zapas/2893259,Pittsburgh Penguins,Washington Capitals,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Washington Capitals,Pittsburgh Penguins,2020
+/zapas/2893280,Pittsburgh Penguins,New York Rangers,4,3,1,2.0,1.0,1.0,2.0,4.0,3.0,1.0,New York Rangers,Pittsburgh Penguins,2020
+/zapas/2893298,Pittsburgh Penguins,New York Rangers,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,New York Rangers,Pittsburgh Penguins,2020
+/zapas/2893308,Boston Bruins,Pittsburgh Penguins,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Boston Bruins,Pittsburgh Penguins,2020
+/zapas/2893322,Boston Bruins,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Boston Bruins,Pittsburgh Penguins,2020
+/zapas/2893336,New York Rangers,Pittsburgh Penguins,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,New York Rangers,Pittsburgh Penguins,2020
+/zapas/2893353,New York Rangers,Pittsburgh Penguins,3,1,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,New York Rangers,Pittsburgh Penguins,2020
+/zapas/2893392,New York Islanders,Pittsburgh Penguins,4,3,0,3.0,0.0,0.0,0.0,3.0,4.0,0.0,New York Islanders,Pittsburgh Penguins,2020
+/zapas/2893429,New York Islanders,Pittsburgh Penguins,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Islanders,Pittsburgh Penguins,2020
+/zapas/2893450,Pittsburgh Penguins,Washington Capitals,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Washington Capitals,Pittsburgh Penguins,2020
+/zapas/2893466,Pittsburgh Penguins,Washington Capitals,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Washington Capitals,Pittsburgh Penguins,2020
+/zapas/2893478,Pittsburgh Penguins,New York Islanders,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,New York Islanders,Pittsburgh Penguins,2020
+/zapas/2893494,Pittsburgh Penguins,New York Islanders,3,2,0,3.0,0.0,1.0,3.0,3.0,2.0,1.0,New York Islanders,Pittsburgh Penguins,2020
+/zapas/2893510,Washington Capitals,Pittsburgh Penguins,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,Washington Capitals,Pittsburgh Penguins,2020
+/zapas/2893523,Washington Capitals,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Washington Capitals,Pittsburgh Penguins,2020
+/zapas/2893542,New York Islanders,Pittsburgh Penguins,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,New York Islanders,Pittsburgh Penguins,2020
+/zapas/2893552,New York Islanders,Pittsburgh Penguins,2,0,0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,New York Islanders,Pittsburgh Penguins,2020
+/zapas/2893564,Pittsburgh Penguins,Philadelphia Flyers,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2020
+/zapas/2893578,Pittsburgh Penguins,Philadelphia Flyers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2020
+/zapas/2893877,Pittsburgh Penguins,Philadelphia Flyers,4,3,0,3.0,0.0,1.0,3.0,4.0,3.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2020
+/zapas/2893603,Pittsburgh Penguins,New York Rangers,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,New York Rangers,Pittsburgh Penguins,2020
+/zapas/2893614,Pittsburgh Penguins,New York Rangers,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New York Rangers,Pittsburgh Penguins,2020
+/zapas/2893626,Buffalo Sabres,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2020
+/zapas/2893641,Buffalo Sabres,Pittsburgh Penguins,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2020
+/zapas/2893660,Pittsburgh Penguins,Boston Bruins,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Boston Bruins,Pittsburgh Penguins,2020
+/zapas/2893667,Pittsburgh Penguins,Boston Bruins,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Boston Bruins,Pittsburgh Penguins,2020
+/zapas/2893414,New Jersey Devils,Pittsburgh Penguins,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,New Jersey Devils,Pittsburgh Penguins,2020
+/zapas/2893685,New Jersey Devils,Pittsburgh Penguins,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,New Jersey Devils,Pittsburgh Penguins,2020
+/zapas/2893364,Pittsburgh Penguins,New Jersey Devils,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,New Jersey Devils,Pittsburgh Penguins,2020
+/zapas/2893718,Pittsburgh Penguins,Buffalo Sabres,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2020
+/zapas/2893745,Pittsburgh Penguins,Buffalo Sabres,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2020
+/zapas/2893771,Pittsburgh Penguins,New York Islanders,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,New York Islanders,Pittsburgh Penguins,2020
+/zapas/2893760,Pittsburgh Penguins,New York Islanders,2,1,0,3.0,0.0,1.0,3.0,2.0,1.0,1.0,New York Islanders,Pittsburgh Penguins,2020
+/zapas/2893781,Boston Bruins,Pittsburgh Penguins,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Boston Bruins,Pittsburgh Penguins,2020
+/zapas/2893796,Boston Bruins,Pittsburgh Penguins,7,5,0,3.0,0.0,0.0,0.0,5.0,7.0,0.0,Boston Bruins,Pittsburgh Penguins,2020
+/zapas/2893823,New York Rangers,Pittsburgh Penguins,8,4,0,3.0,0.0,0.0,0.0,4.0,8.0,0.0,New York Rangers,Pittsburgh Penguins,2020
+/zapas/2893837,New York Rangers,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New York Rangers,Pittsburgh Penguins,2020
+/zapas/2893702,New Jersey Devils,Pittsburgh Penguins,4,6,0,0.0,3.0,0.0,3.0,6.0,4.0,1.0,New Jersey Devils,Pittsburgh Penguins,2020
+/zapas/2893859,New Jersey Devils,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,New Jersey Devils,Pittsburgh Penguins,2020
+/zapas/2893889,Pittsburgh Penguins,Philadelphia Flyers,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2020
+/zapas/2893901,Buffalo Sabres,Pittsburgh Penguins,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2020
+/zapas/2893927,Buffalo Sabres,Pittsburgh Penguins,4,2,0,3.0,0.0,0.0,0.0,2.0,4.0,0.0,Buffalo Sabres,Pittsburgh Penguins,2020
+/zapas/2893378,Pittsburgh Penguins,New Jersey Devils,7,6,0,3.0,0.0,1.0,3.0,7.0,6.0,1.0,New Jersey Devils,Pittsburgh Penguins,2020
+/zapas/2893943,Pittsburgh Penguins,New Jersey Devils,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,New Jersey Devils,Pittsburgh Penguins,2020
+/zapas/2893957,Pittsburgh Penguins,New Jersey Devils,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,New Jersey Devils,Pittsburgh Penguins,2020
+/zapas/2893965,Pittsburgh Penguins,Boston Bruins,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Boston Bruins,Pittsburgh Penguins,2020
+/zapas/2893981,Pittsburgh Penguins,Boston Bruins,1,3,0,0.0,3.0,1.0,0.0,1.0,3.0,0.0,Boston Bruins,Pittsburgh Penguins,2020
+/zapas/2893996,Washington Capitals,Pittsburgh Penguins,4,5,1,1.0,2.0,0.0,2.0,5.0,4.0,1.0,Washington Capitals,Pittsburgh Penguins,2020
+/zapas/2894012,Washington Capitals,Pittsburgh Penguins,0,3,0,0.0,3.0,0.0,3.0,3.0,0.0,1.0,Washington Capitals,Pittsburgh Penguins,2020
+/zapas/2894025,Philadelphia Flyers,Pittsburgh Penguins,7,2,0,3.0,0.0,0.0,0.0,2.0,7.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2020
+/zapas/2894034,Philadelphia Flyers,Pittsburgh Penguins,3,7,0,0.0,3.0,0.0,3.0,7.0,3.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2020
+/zapas/2894050,Pittsburgh Penguins,Buffalo Sabres,8,4,0,3.0,0.0,1.0,3.0,8.0,4.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2020
+/zapas/2894070,Pittsburgh Penguins,Buffalo Sabres,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2020
+/zapas/2896983,Tampa Bay Lightning,Pittsburgh Penguins,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Tampa Bay Lightning,Pittsburgh Penguins,2021
+/zapas/2896994,Florida Panthers,Pittsburgh Penguins,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,Florida Panthers,Pittsburgh Penguins,2021
+/zapas/2897012,Pittsburgh Penguins,Chicago Blackhawks,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Chicago Blackhawks,Pittsburgh Penguins,2021
+/zapas/2897029,Pittsburgh Penguins,Dallas Stars,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Dallas Stars,Pittsburgh Penguins,2021
+/zapas/2897057,Pittsburgh Penguins,Toronto Maple Leafs,7,1,0,3.0,0.0,1.0,3.0,7.0,1.0,1.0,Toronto Maple Leafs,Pittsburgh Penguins,2021
+/zapas/2897077,Pittsburgh Penguins,Tampa Bay Lightning,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Tampa Bay Lightning,Pittsburgh Penguins,2021
+/zapas/2897090,Pittsburgh Penguins,Calgary Flames,0,4,0,0.0,3.0,1.0,0.0,0.0,4.0,0.0,Calgary Flames,Pittsburgh Penguins,2021
+/zapas/2897107,Pittsburgh Penguins,New Jersey Devils,2,4,0,0.0,3.0,1.0,0.0,2.0,4.0,0.0,New Jersey Devils,Pittsburgh Penguins,2021
+/zapas/2897137,Pittsburgh Penguins,Philadelphia Flyers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2021
+/zapas/2897152,Pittsburgh Penguins,Minnesota Wild,4,5,1,1.0,2.0,1.0,1.0,4.0,5.0,0.0,Minnesota Wild,Pittsburgh Penguins,2021
+/zapas/2897166,Chicago Blackhawks,Pittsburgh Penguins,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Chicago Blackhawks,Pittsburgh Penguins,2021
+/zapas/2897186,Pittsburgh Penguins,Florida Panthers,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Florida Panthers,Pittsburgh Penguins,2021
+/zapas/2897199,Ottawa Senators,Pittsburgh Penguins,6,3,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,Ottawa Senators,Pittsburgh Penguins,2021
+/zapas/2897210,Washington Capitals,Pittsburgh Penguins,6,1,0,3.0,0.0,0.0,0.0,1.0,6.0,0.0,Washington Capitals,Pittsburgh Penguins,2021
+/zapas/2897224,Pittsburgh Penguins,Buffalo Sabres,1,2,0,0.0,3.0,1.0,0.0,1.0,2.0,0.0,Buffalo Sabres,Pittsburgh Penguins,2021
+/zapas/2897236,Montreal Canadiens,Pittsburgh Penguins,0,6,0,0.0,3.0,0.0,3.0,6.0,0.0,1.0,Montreal Canadiens,Pittsburgh Penguins,2021
+/zapas/2897248,Toronto Maple Leafs,Pittsburgh Penguins,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Toronto Maple Leafs,Pittsburgh Penguins,2021
+/zapas/2897266,Winnipeg Jets,Pittsburgh Penguins,1,3,0,0.0,3.0,0.0,3.0,3.0,1.0,1.0,Winnipeg Jets,Pittsburgh Penguins,2021
+/zapas/2897282,Pittsburgh Penguins,Vancouver Canucks,4,1,0,3.0,0.0,1.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Pittsburgh Penguins,2021
+/zapas/2897294,New York Islanders,Pittsburgh Penguins,0,1,0,0.0,3.0,0.0,3.0,1.0,0.0,1.0,New York Islanders,Pittsburgh Penguins,2021
+/zapas/2897306,Pittsburgh Penguins,Montreal Canadiens,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Montreal Canadiens,Pittsburgh Penguins,2021
+/zapas/2897314,Calgary Flames,Pittsburgh Penguins,2,1,1,2.0,1.0,0.0,1.0,1.0,2.0,0.0,Calgary Flames,Pittsburgh Penguins,2021
+/zapas/2897328,Edmonton Oilers,Pittsburgh Penguins,5,2,0,3.0,0.0,0.0,0.0,2.0,5.0,0.0,Edmonton Oilers,Pittsburgh Penguins,2021
+/zapas/2897348,Vancouver Canucks,Pittsburgh Penguins,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Vancouver Canucks,Pittsburgh Penguins,2021
+/zapas/2897365,Seattle Kraken,Pittsburgh Penguins,1,6,0,0.0,3.0,0.0,3.0,6.0,1.0,1.0,Seattle Kraken,Pittsburgh Penguins,2021
+/zapas/2897399,Washington Capitals,Pittsburgh Penguins,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Washington Capitals,Pittsburgh Penguins,2021
+/zapas/2897411,Pittsburgh Penguins,Anaheim Ducks,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,Anaheim Ducks,Pittsburgh Penguins,2021
+/zapas/2897431,Pittsburgh Penguins,Montreal Canadiens,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Montreal Canadiens,Pittsburgh Penguins,2021
+/zapas/2897451,Pittsburgh Penguins,Buffalo Sabres,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Buffalo Sabres,Pittsburgh Penguins,2021
+/zapas/2897466,New Jersey Devils,Pittsburgh Penguins,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,New Jersey Devils,Pittsburgh Penguins,2021
+/zapas/2897562,Pittsburgh Penguins,San Jose Sharks,8,5,0,3.0,0.0,1.0,3.0,8.0,5.0,1.0,San Jose Sharks,Pittsburgh Penguins,2021
+/zapas/2897579,Pittsburgh Penguins,St. Louis Blues,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,St. Louis Blues,Pittsburgh Penguins,2021
+/zapas/2897592,Philadelphia Flyers,Pittsburgh Penguins,2,6,0,0.0,3.0,0.0,3.0,6.0,2.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2021
+/zapas/2897602,Dallas Stars,Pittsburgh Penguins,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Dallas Stars,Pittsburgh Penguins,2021
+/zapas/2897619,Anaheim Ducks,Pittsburgh Penguins,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Anaheim Ducks,Pittsburgh Penguins,2021
+/zapas/2897631,Los Angeles Kings,Pittsburgh Penguins,6,2,0,3.0,0.0,0.0,0.0,2.0,6.0,0.0,Los Angeles Kings,Pittsburgh Penguins,2021
+/zapas/2897646,San Jose Sharks,Pittsburgh Penguins,1,2,1,1.0,2.0,0.0,2.0,2.0,1.0,1.0,San Jose Sharks,Pittsburgh Penguins,2021
+/zapas/2897663,Vegas Golden Knights,Pittsburgh Penguins,3,5,0,0.0,3.0,0.0,3.0,5.0,3.0,1.0,Vegas Golden Knights,Pittsburgh Penguins,2021
+/zapas/2897693,Pittsburgh Penguins,Ottawa Senators,6,4,0,3.0,0.0,1.0,3.0,6.0,4.0,1.0,Ottawa Senators,Pittsburgh Penguins,2021
+/zapas/2897701,Columbus Blue Jackets,Pittsburgh Penguins,2,5,0,0.0,3.0,0.0,3.0,5.0,2.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2021
+/zapas/2897716,Pittsburgh Penguins,Winnipeg Jets,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Winnipeg Jets,Pittsburgh Penguins,2021
+/zapas/2897731,Pittsburgh Penguins,Arizona Coyotes,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,Arizona Coyotes,Pittsburgh Penguins,2021
+/zapas/2897746,Pittsburgh Penguins,Seattle Kraken,1,2,1,1.0,2.0,1.0,1.0,1.0,2.0,0.0,Seattle Kraken,Pittsburgh Penguins,2021
+/zapas/2897752,Pittsburgh Penguins,Detroit Red Wings,2,3,1,1.0,2.0,1.0,1.0,2.0,3.0,0.0,Detroit Red Wings,Pittsburgh Penguins,2021
+/zapas/2897770,Pittsburgh Penguins,Los Angeles Kings,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Los Angeles Kings,Pittsburgh Penguins,2021
+/zapas/2897787,Pittsburgh Penguins,Washington Capitals,3,4,1,1.0,2.0,1.0,1.0,3.0,4.0,0.0,Washington Capitals,Pittsburgh Penguins,2021
+/zapas/2897512,Boston Bruins,Pittsburgh Penguins,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,Boston Bruins,Pittsburgh Penguins,2021
+/zapas/2897543,Ottawa Senators,Pittsburgh Penguins,0,2,0,0.0,3.0,0.0,3.0,2.0,0.0,1.0,Ottawa Senators,Pittsburgh Penguins,2021
+/zapas/2897802,New Jersey Devils,Pittsburgh Penguins,2,4,0,0.0,3.0,0.0,3.0,4.0,2.0,1.0,New Jersey Devils,Pittsburgh Penguins,2021
+/zapas/2897502,Pittsburgh Penguins,Philadelphia Flyers,5,4,1,2.0,1.0,1.0,2.0,5.0,4.0,1.0,Philadelphia Flyers,Pittsburgh Penguins,2021
+/zapas/2897528,Toronto Maple Leafs,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Toronto Maple Leafs,Pittsburgh Penguins,2021
+/zapas/2898292,Pittsburgh Penguins,Carolina Hurricanes,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,2021
+/zapas/2897484,Pittsburgh Penguins,New Jersey Devils,1,6,0,0.0,3.0,1.0,0.0,1.0,6.0,0.0,New Jersey Devils,Pittsburgh Penguins,2021
+/zapas/2897819,Pittsburgh Penguins,New York Rangers,1,0,0,3.0,0.0,1.0,3.0,1.0,0.0,1.0,New York Rangers,Pittsburgh Penguins,2021
+/zapas/2897827,Columbus Blue Jackets,Pittsburgh Penguins,2,3,0,0.0,3.0,0.0,3.0,3.0,2.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2021
+/zapas/2897849,Tampa Bay Lightning,Pittsburgh Penguins,1,5,0,0.0,3.0,0.0,3.0,5.0,1.0,1.0,Tampa Bay Lightning,Pittsburgh Penguins,2021
+/zapas/2897859,Carolina Hurricanes,Pittsburgh Penguins,3,2,1,2.0,1.0,0.0,1.0,2.0,3.0,0.0,Carolina Hurricanes,Pittsburgh Penguins,2021
+/zapas/2897893,Pittsburgh Penguins,Florida Panthers,3,4,0,0.0,3.0,1.0,0.0,3.0,4.0,0.0,Florida Panthers,Pittsburgh Penguins,2021
+/zapas/2897911,Pittsburgh Penguins,Vegas Golden Knights,5,2,0,3.0,0.0,1.0,3.0,5.0,2.0,1.0,Vegas Golden Knights,Pittsburgh Penguins,2021
+/zapas/2897931,Pittsburgh Penguins,Carolina Hurricanes,4,2,0,3.0,0.0,1.0,3.0,4.0,2.0,1.0,Carolina Hurricanes,Pittsburgh Penguins,2021
+/zapas/2897939,Nashville Predators,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Nashville Predators,Pittsburgh Penguins,2021
+/zapas/2897953,St. Louis Blues,Pittsburgh Penguins,2,3,1,1.0,2.0,0.0,2.0,3.0,2.0,1.0,St. Louis Blues,Pittsburgh Penguins,2021
+/zapas/2897965,Arizona Coyotes,Pittsburgh Penguins,1,4,0,0.0,3.0,0.0,3.0,4.0,1.0,1.0,Arizona Coyotes,Pittsburgh Penguins,2021
+/zapas/2897992,Pittsburgh Penguins,Columbus Blue Jackets,5,1,0,3.0,0.0,1.0,3.0,5.0,1.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2021
+/zapas/2897998,Buffalo Sabres,Pittsburgh Penguins,4,3,1,2.0,1.0,0.0,1.0,3.0,4.0,0.0,Buffalo Sabres,Pittsburgh Penguins,2021
+/zapas/2898014,New York Rangers,Pittsburgh Penguins,5,1,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,New York Rangers,Pittsburgh Penguins,2021
+/zapas/2898034,Pittsburgh Penguins,Detroit Red Wings,11,2,0,3.0,0.0,1.0,3.0,11.0,2.0,1.0,Detroit Red Wings,Pittsburgh Penguins,2021
+/zapas/2898047,Pittsburgh Penguins,New York Rangers,2,3,0,0.0,3.0,1.0,0.0,2.0,3.0,0.0,New York Rangers,Pittsburgh Penguins,2021
+/zapas/2898058,Minnesota Wild,Pittsburgh Penguins,3,4,1,1.0,2.0,0.0,2.0,4.0,3.0,1.0,Minnesota Wild,Pittsburgh Penguins,2021
+/zapas/2898072,Colorado Avalanche,Pittsburgh Penguins,3,2,0,3.0,0.0,0.0,0.0,2.0,3.0,0.0,Colorado Avalanche,Pittsburgh Penguins,2021
+/zapas/2898103,Pittsburgh Penguins,Colorado Avalanche,4,6,0,0.0,3.0,1.0,0.0,4.0,6.0,0.0,Colorado Avalanche,Pittsburgh Penguins,2021
+/zapas/2898115,New York Rangers,Pittsburgh Penguins,3,0,0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,New York Rangers,Pittsburgh Penguins,2021
+/zapas/2898135,Pittsburgh Penguins,Washington Capitals,3,6,0,0.0,3.0,1.0,0.0,3.0,6.0,0.0,Washington Capitals,Pittsburgh Penguins,2021
+/zapas/2898140,Pittsburgh Penguins,Nashville Predators,3,2,1,2.0,1.0,1.0,2.0,3.0,2.0,1.0,Nashville Predators,Pittsburgh Penguins,2021
+/zapas/2897907,New York Islanders,Pittsburgh Penguins,5,4,1,2.0,1.0,0.0,1.0,4.0,5.0,0.0,New York Islanders,Pittsburgh Penguins,2021
+/zapas/2898172,Pittsburgh Penguins,New York Islanders,6,3,0,3.0,0.0,1.0,3.0,6.0,3.0,1.0,New York Islanders,Pittsburgh Penguins,2021
+/zapas/2898185,Boston Bruins,Pittsburgh Penguins,2,1,0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,Boston Bruins,Pittsburgh Penguins,2021
+/zapas/2898223,Pittsburgh Penguins,Boston Bruins,4,0,0,3.0,0.0,1.0,3.0,4.0,0.0,1.0,Boston Bruins,Pittsburgh Penguins,2021
+/zapas/2898237,Detroit Red Wings,Pittsburgh Penguins,2,7,0,0.0,3.0,0.0,3.0,7.0,2.0,1.0,Detroit Red Wings,Pittsburgh Penguins,2021
+/zapas/2898249,Philadelphia Flyers,Pittsburgh Penguins,4,1,0,3.0,0.0,0.0,0.0,1.0,4.0,0.0,Philadelphia Flyers,Pittsburgh Penguins,2021
+/zapas/2898265,Pittsburgh Penguins,Edmonton Oilers,1,5,0,0.0,3.0,1.0,0.0,1.0,5.0,0.0,Edmonton Oilers,Pittsburgh Penguins,2021
+/zapas/2898156,Pittsburgh Penguins,Columbus Blue Jackets,5,3,0,3.0,0.0,1.0,3.0,5.0,3.0,1.0,Columbus Blue Jackets,Pittsburgh Penguins,2021

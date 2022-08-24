@@ -109,7 +109,7 @@ class One_season:
         df.loc[(df["goals_home"] > df["goals_away"]), 'home_wins'] = 1
         df.loc[(df["goals_home"] < df["goals_away"]), 'home_wins'] = 0
 
-        df["season"] = int(season)
+        df["season"] = int(self.season)
 
         return df
 
@@ -127,8 +127,7 @@ class One_team_season(One_season):
         """this function creates a link based on the specific team and season"""
         code_of_season = season_codes[self.season]
         code_of_interest = dict_team_codes[self.team]
-        return f'https://nhl.cz{code_of_interest}/zapasy?matchList-filter-season={self.season}&matchList-filter' \
-               f'-competition={code_of_season} '
+        return f'https://nhl.cz{code_of_interest}/zapasy?matchList-filter-season={self.season}&matchList-filter-competition={code_of_season}'
 
     def create_whole_df(self):
         """This function creates the dataframe. Now using more variables then in the class One_season. Especially
@@ -174,7 +173,7 @@ class One_team_season(One_season):
         df.loc[(df["TOI_home"] == 1), 'TOI'] = df["team_home"]
         df.loc[(df["TOI_home"] == 0), 'TOI'] = df["team_away"]
 
-        df["season"] = int(season)
+        df["season"] = int(self.season)
 
         return df
 

@@ -1,98 +1,262 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
 /zapas/2526374,0.0,1.0,Detroit Red Wings,Edmonton Oilers,28.0,59.0,56.0,17.0,50.0,72.0
 /zapas/2526395,0.0,0.0,Detroit Red Wings,New York Rangers,26.0,59.0,61.0,33.0,65.0,56.0
+/zapas/2526405,0.0,1.0,Detroit Red Wings,New Jersey Devils,27.0,58.0,59.0,33.0,62.0,65.0
+/zapas/2526426,0.0,1.0,Detroit Red Wings,Los Angeles Kings,25.0,57.0,61.0,28.0,56.0,49.0
 /zapas/2526436,0.0,1.0,Detroit Red Wings,Montreal Canadiens,22.0,52.0,62.0,30.0,52.0,60.0
 /zapas/2526453,0.0,0.0,Detroit Red Wings,Montreal Canadiens,22.0,53.0,65.0,33.0,57.0,58.0
+/zapas/2526473,1.0,1.0,Detroit Red Wings,Winnipeg Jets,22.0,51.0,69.0,42.0,72.0,45.0
 /zapas/2526498,0.0,1.0,Detroit Red Wings,St. Louis Blues,24.0,53.0,66.0,38.0,66.0,51.0
 /zapas/2526517,0.0,1.0,Detroit Red Wings,Florida Panthers,24.0,53.0,68.0,23.0,55.0,71.0
+/zapas/2526531,0.0,1.0,Detroit Red Wings,Boston Bruins,25.0,54.0,69.0,35.0,54.0,49.0
+/zapas/2526548,1.0,1.0,Detroit Red Wings,Toronto Maple Leafs,26.0,54.0,69.0,33.0,58.0,50.0
 /zapas/2526572,1.0,0.0,Detroit Red Wings,New York Islanders,27.0,54.0,68.0,31.0,70.0,72.0
+/zapas/2526581,0.0,0.0,Detroit Red Wings,Philadelphia Flyers,27.0,55.0,68.0,29.0,51.0,56.0
+/zapas/2526597,0.0,0.0,Detroit Red Wings,Boston Bruins,27.0,57.0,69.0,35.0,59.0,48.0
+/zapas/2526613,0.0,0.0,Detroit Red Wings,New Jersey Devils,24.0,54.0,72.0,36.0,61.0,55.0
 /zapas/2526632,1.0,1.0,Detroit Red Wings,New York Rangers,21.0,52.0,73.0,34.0,62.0,47.0
+/zapas/2526651,1.0,1.0,Detroit Red Wings,Pittsburgh Penguins,23.0,52.0,69.0,25.0,60.0,56.0
 /zapas/2526668,1.0,1.0,Detroit Red Wings,Ottawa Senators,25.0,55.0,68.0,15.0,38.0,72.0
 /zapas/2526683,1.0,1.0,Detroit Red Wings,Florida Panthers,24.0,49.0,67.0,31.0,50.0,57.0
+/zapas/2526702,0.0,1.0,Detroit Red Wings,Tampa Bay Lightning,24.0,50.0,68.0,38.0,67.0,47.0
+/zapas/2526725,0.0,0.0,Detroit Red Wings,Pittsburgh Penguins,23.0,49.0,69.0,28.0,62.0,54.0
 /zapas/2526735,1.0,0.0,Detroit Red Wings,Chicago Blackhawks,23.0,48.0,67.0,30.0,60.0,56.0
 /zapas/2526744,0.0,1.0,Detroit Red Wings,Dallas Stars,25.0,51.0,65.0,31.0,62.0,52.0
 /zapas/2526768,0.0,1.0,Detroit Red Wings,Carolina Hurricanes,24.0,50.0,65.0,28.0,54.0,63.0
+/zapas/2526780,1.0,0.0,Detroit Red Wings,New Jersey Devils,24.0,50.0,64.0,29.0,62.0,62.0
+/zapas/2526788,0.0,1.0,Detroit Red Wings,Philadelphia Flyers,27.0,50.0,58.0,40.0,62.0,51.0
 /zapas/2526806,0.0,1.0,Detroit Red Wings,Chicago Blackhawks,28.0,51.0,51.0,29.0,57.0,56.0
+/zapas/2526829,1.0,1.0,Detroit Red Wings,San Jose Sharks,25.0,47.0,55.0,30.0,66.0,69.0
 /zapas/2526843,1.0,0.0,Detroit Red Wings,Carolina Hurricanes,27.0,48.0,50.0,34.0,53.0,58.0
 /zapas/2526851,0.0,0.0,Detroit Red Wings,Florida Panthers,29.0,51.0,49.0,30.0,52.0,57.0
+/zapas/2526871,0.0,1.0,Detroit Red Wings,Boston Bruins,28.0,51.0,49.0,49.0,78.0,36.0
 /zapas/2526889,0.0,0.0,Detroit Red Wings,New York Islanders,25.0,50.0,51.0,23.0,59.0,76.0
+/zapas/2526908,1.0,0.0,Detroit Red Wings,Washington Capitals,23.0,50.0,55.0,33.0,61.0,58.0
+/zapas/2526924,1.0,1.0,Detroit Red Wings,Anaheim Ducks,25.0,52.0,55.0,34.0,59.0,56.0
+/zapas/2526937,0.0,0.0,Detroit Red Wings,Tampa Bay Lightning,28.0,53.0,53.0,33.0,65.0,61.0
+/zapas/2526955,1.0,0.0,Detroit Red Wings,Nashville Predators,28.0,53.0,54.0,36.0,58.0,47.0
+/zapas/2526963,0.0,1.0,Detroit Red Wings,Toronto Maple Leafs,29.0,53.0,53.0,35.0,66.0,52.0
+/zapas/2526976,0.0,1.0,Detroit Red Wings,Nashville Predators,26.0,51.0,55.0,36.0,59.0,48.0
 /zapas/2526989,0.0,1.0,Detroit Red Wings,Buffalo Sabres,24.0,51.0,57.0,22.0,55.0,63.0
 /zapas/2527005,1.0,1.0,Detroit Red Wings,Carolina Hurricanes,22.0,49.0,58.0,26.0,48.0,60.0
 /zapas/2527014,1.0,0.0,Detroit Red Wings,New York Rangers,25.0,50.0,54.0,15.0,47.0,81.0
 /zapas/2527034,0.0,0.0,Detroit Red Wings,St. Louis Blues,27.0,52.0,52.0,25.0,49.0,61.0
+/zapas/2527048,0.0,0.0,Detroit Red Wings,Winnipeg Jets,24.0,49.0,54.0,35.0,69.0,53.0
+/zapas/2527067,0.0,0.0,Detroit Red Wings,Minnesota Wild,24.0,50.0,54.0,37.0,69.0,61.0
+/zapas/2527074,0.0,0.0,Detroit Red Wings,Boston Bruins,24.0,50.0,55.0,42.0,68.0,49.0
+/zapas/2527090,0.0,1.0,Detroit Red Wings,Vegas Golden Knights,22.0,52.0,61.0,33.0,69.0,61.0
+/zapas/2527098,0.0,0.0,Detroit Red Wings,Columbus Blue Jackets,21.0,50.0,62.0,28.0,56.0,55.0
+/zapas/2527124,0.0,0.0,Detroit Red Wings,San Jose Sharks,21.0,51.0,60.0,31.0,55.0,53.0
+/zapas/2527145,0.0,0.0,Detroit Red Wings,Los Angeles Kings,19.0,52.0,64.0,33.0,61.0,56.0
+/zapas/2527150,0.0,0.0,Detroit Red Wings,Anaheim Ducks,16.0,49.0,67.0,31.0,54.0,51.0
+/zapas/2527162,0.0,0.0,Detroit Red Wings,Colorado Avalanche,16.0,49.0,68.0,33.0,62.0,59.0
+/zapas/2527180,1.0,1.0,Detroit Red Wings,Philadelphia Flyers,16.0,48.0,70.0,34.0,66.0,60.0
+/zapas/2527195,0.0,1.0,Detroit Red Wings,Washington Capitals,17.0,47.0,67.0,34.0,64.0,63.0
+/zapas/2527207,0.0,0.0,Detroit Red Wings,Toronto Maple Leafs,15.0,42.0,64.0,41.0,79.0,60.0
 /zapas/2527226,0.0,0.0,Detroit Red Wings,Montreal Canadiens,12.0,43.0,67.0,20.0,48.0,69.0
+/zapas/2527233,1.0,1.0,Detroit Red Wings,Pittsburgh Penguins,12.0,44.0,67.0,38.0,79.0,63.0
 /zapas/2527245,1.0,0.0,Detroit Red Wings,Buffalo Sabres,12.0,46.0,68.0,23.0,45.0,65.0
 /zapas/2527261,1.0,1.0,Detroit Red Wings,Ottawa Senators,15.0,50.0,68.0,17.0,54.0,73.0
+/zapas/2527285,0.0,0.0,Detroit Red Wings,Columbus Blue Jackets,18.0,50.0,65.0,44.0,74.0,48.0
 /zapas/2527300,0.0,1.0,Detroit Red Wings,Montreal Canadiens,18.0,52.0,67.0,20.0,49.0,68.0
 /zapas/2527315,0.0,1.0,Detroit Red Wings,New York Islanders,15.0,52.0,70.0,19.0,57.0,74.0
+/zapas/2647208,0.0,1.0,Detroit Red Wings,Columbus Blue Jackets,14.0,52.0,72.0,41.0,79.0,56.0
+/zapas/2647229,0.0,0.0,Detroit Red Wings,Los Angeles Kings,15.0,53.0,73.0,35.0,61.0,49.0
+/zapas/2647233,0.0,0.0,Detroit Red Wings,Anaheim Ducks,15.0,52.0,73.0,43.0,65.0,40.0
+/zapas/2647250,0.0,1.0,Detroit Red Wings,Toronto Maple Leafs,16.0,53.0,72.0,36.0,79.0,64.0
+/zapas/2647259,0.0,0.0,Detroit Red Wings,Boston Bruins,15.0,51.0,71.0,33.0,59.0,56.0
 /zapas/2647273,0.0,0.0,Detroit Red Wings,Montreal Canadiens,15.0,53.0,75.0,20.0,49.0,68.0
+/zapas/2647291,0.0,0.0,Detroit Red Wings,Tampa Bay Lightning,15.0,54.0,79.0,34.0,71.0,63.0
 /zapas/2647306,1.0,0.0,Detroit Red Wings,Florida Panthers,15.0,52.0,77.0,35.0,61.0,55.0
+/zapas/2647317,0.0,1.0,Detroit Red Wings,Carolina Hurricanes,17.0,55.0,76.0,29.0,66.0,63.0
+/zapas/2647343,0.0,1.0,Detroit Red Wings,Winnipeg Jets,17.0,54.0,75.0,40.0,68.0,57.0
+/zapas/2647358,1.0,1.0,Detroit Red Wings,Dallas Stars,17.0,54.0,72.0,27.0,58.0,60.0
+/zapas/2647368,1.0,0.0,Detroit Red Wings,Columbus Blue Jackets,18.0,53.0,70.0,34.0,78.0,69.0
+/zapas/2647382,1.0,1.0,Detroit Red Wings,New Jersey Devils,21.0,58.0,72.0,37.0,64.0,61.0
 /zapas/2647395,0.0,1.0,Detroit Red Wings,Edmonton Oilers,24.0,59.0,71.0,28.0,56.0,61.0
 /zapas/2647417,1.0,1.0,Detroit Red Wings,Vancouver Canucks,24.0,60.0,71.0,32.0,64.0,66.0
 /zapas/2647436,1.0,1.0,Detroit Red Wings,New York Rangers,23.0,58.0,71.0,21.0,51.0,67.0
+/zapas/2647448,1.0,0.0,Detroit Red Wings,Carolina Hurricanes,22.0,55.0,70.0,23.0,53.0,59.0
 /zapas/2647466,1.0,1.0,Detroit Red Wings,Arizona Coyotes,21.0,57.0,73.0,30.0,58.0,47.0
 /zapas/2647479,0.0,0.0,Detroit Red Wings,Ottawa Senators,23.0,59.0,69.0,23.0,64.0,85.0
-/zapas/2647490,1.0,0.0,Detroit Red Wings,New Jersey Devils,23.0,57.0,67.0,28.0,59.0,64.0
+/zapas/2647490,1.0,0.0,Detroit Red Wings,New Jersey Devils,23.0,57.0,67.0,31.0,62.0,64.0
+/zapas/2647522,1.0,1.0,Detroit Red Wings,Boston Bruins,24.0,57.0,65.0,35.0,58.0,49.0
+/zapas/2647535,0.0,0.0,Detroit Red Wings,Washington Capitals,25.0,58.0,64.0,29.0,65.0,69.0
 /zapas/2647549,0.0,1.0,Detroit Red Wings,Buffalo Sabres,25.0,57.0,63.0,36.0,66.0,57.0
+/zapas/2647564,0.0,1.0,Detroit Red Wings,Columbus Blue Jackets,25.0,57.0,63.0,34.0,68.0,66.0
+/zapas/2647575,1.0,1.0,Detroit Red Wings,St. Louis Blues,25.0,59.0,65.0,26.0,62.0,63.0
+/zapas/2647596,1.0,0.0,Detroit Red Wings,Boston Bruins,28.0,61.0,60.0,31.0,47.0,47.0
+/zapas/2647609,0.0,1.0,Detroit Red Wings,Colorado Avalanche,31.0,62.0,55.0,38.0,76.0,58.0
+/zapas/2647620,0.0,1.0,Detroit Red Wings,Tampa Bay Lightning,31.0,61.0,54.0,39.0,79.0,62.0
+/zapas/2647627,1.0,0.0,Detroit Red Wings,Toronto Maple Leafs,30.0,62.0,57.0,40.0,69.0,47.0
+/zapas/2647646,0.0,1.0,Detroit Red Wings,New York Islanders,32.0,66.0,58.0,31.0,59.0,61.0
 /zapas/2647660,1.0,1.0,Detroit Red Wings,Los Angeles Kings,32.0,67.0,59.0,25.0,49.0,55.0
+/zapas/2647665,0.0,0.0,Detroit Red Wings,Washington Capitals,32.0,66.0,58.0,37.0,71.0,56.0
 /zapas/2647688,0.0,1.0,Detroit Red Wings,Ottawa Senators,29.0,63.0,61.0,25.0,66.0,79.0
+/zapas/2647696,0.0,0.0,Detroit Red Wings,New York Islanders,26.0,61.0,62.0,28.0,55.0,63.0
 /zapas/2647718,0.0,0.0,Detroit Red Wings,Philadelphia Flyers,27.0,61.0,62.0,27.0,61.0,70.0
+/zapas/2647732,1.0,0.0,Detroit Red Wings,Carolina Hurricanes,25.0,60.0,63.0,27.0,48.0,59.0
 /zapas/2647745,0.0,1.0,Detroit Red Wings,Florida Panthers,26.0,61.0,62.0,24.0,65.0,77.0
+/zapas/2647761,0.0,0.0,Detroit Red Wings,Toronto Maple Leafs,24.0,58.0,61.0,39.0,78.0,58.0
+/zapas/2647767,0.0,0.0,Detroit Red Wings,Pittsburgh Penguins,22.0,56.0,65.0,34.0,66.0,59.0
+/zapas/2647792,0.0,0.0,Detroit Red Wings,Dallas Stars,22.0,57.0,68.0,28.0,50.0,52.0
 /zapas/2647804,0.0,1.0,Detroit Red Wings,Florida Panthers,20.0,55.0,71.0,27.0,66.0,74.0
+/zapas/2647814,0.0,1.0,Detroit Red Wings,Calgary Flames,19.0,55.0,73.0,41.0,79.0,51.0
+/zapas/2647828,1.0,1.0,Detroit Red Wings,Nashville Predators,19.0,57.0,75.0,26.0,54.0,55.0
+/zapas/2647847,0.0,1.0,Detroit Red Wings,Washington Capitals,20.0,59.0,75.0,41.0,73.0,52.0
 /zapas/2647860,0.0,1.0,Detroit Red Wings,Montreal Canadiens,20.0,56.0,71.0,31.0,57.0,55.0
+/zapas/2647882,0.0,0.0,Detroit Red Wings,Winnipeg Jets,17.0,54.0,71.0,37.0,71.0,57.0
 /zapas/2647891,1.0,0.0,Detroit Red Wings,Minnesota Wild,14.0,52.0,73.0,25.0,47.0,57.0
 /zapas/2647913,1.0,1.0,Detroit Red Wings,Anaheim Ducks,17.0,57.0,73.0,25.0,53.0,65.0
+/zapas/2647935,0.0,0.0,Detroit Red Wings,Calgary Flames,19.0,55.0,68.0,40.0,76.0,55.0
 /zapas/2647951,0.0,0.0,Detroit Red Wings,Vancouver Canucks,17.0,54.0,70.0,34.0,60.0,52.0
 /zapas/2647962,1.0,0.0,Detroit Red Wings,Edmonton Oilers,17.0,54.0,70.0,23.0,61.0,73.0
+/zapas/2647984,1.0,1.0,Detroit Red Wings,Toronto Maple Leafs,17.0,54.0,71.0,30.0,68.0,62.0
 /zapas/2647991,1.0,0.0,Detroit Red Wings,Ottawa Senators,19.0,55.0,67.0,17.0,54.0,70.0
+/zapas/2648028,0.0,1.0,Detroit Red Wings,Vegas Golden Knights,22.0,55.0,63.0,33.0,56.0,49.0
 /zapas/2648037,0.0,0.0,Detroit Red Wings,Buffalo Sabres,21.0,55.0,63.0,21.0,57.0,70.0
 /zapas/2648051,0.0,0.0,Detroit Red Wings,Chicago Blackhawks,21.0,54.0,63.0,35.0,78.0,66.0
+/zapas/2648068,1.0,0.0,Detroit Red Wings,Nashville Predators,18.0,52.0,67.0,34.0,69.0,54.0
 /zapas/2648077,1.0,1.0,Detroit Red Wings,Ottawa Senators,21.0,54.0,67.0,18.0,55.0,65.0
 /zapas/2648090,0.0,0.0,Detroit Red Wings,Philadelphia Flyers,23.0,53.0,64.0,33.0,57.0,57.0
 /zapas/2648105,0.0,1.0,Detroit Red Wings,Philadelphia Flyers,24.0,56.0,65.0,35.0,62.0,59.0
 /zapas/2648123,0.0,1.0,Detroit Red Wings,Chicago Blackhawks,24.0,56.0,63.0,32.0,84.0,76.0
 /zapas/2648140,0.0,1.0,Detroit Red Wings,Minnesota Wild,24.0,57.0,64.0,23.0,49.0,67.0
+/zapas/2648156,0.0,1.0,Detroit Red Wings,San Jose Sharks,24.0,56.0,62.0,40.0,78.0,61.0
 /zapas/2648172,0.0,1.0,Detroit Red Wings,Montreal Canadiens,22.0,55.0,64.0,33.0,57.0,52.0
 /zapas/2648204,0.0,0.0,Detroit Red Wings,Arizona Coyotes,22.0,54.0,69.0,32.0,58.0,59.0
+/zapas/2648224,0.0,0.0,Detroit Red Wings,Colorado Avalanche,22.0,53.0,69.0,24.0,59.0,61.0
 /zapas/2648234,1.0,1.0,Detroit Red Wings,New York Rangers,23.0,54.0,69.0,27.0,58.0,60.0
+/zapas/2648250,0.0,0.0,Detroit Red Wings,Tampa Bay Lightning,22.0,52.0,69.0,43.0,70.0,42.0
 /zapas/2648258,0.0,0.0,Detroit Red Wings,Florida Panthers,19.0,51.0,71.0,27.0,66.0,63.0
 /zapas/2648273,0.0,0.0,Detroit Red Wings,Montreal Canadiens,19.0,48.0,71.0,28.0,58.0,64.0
+/zapas/2648285,0.0,1.0,Detroit Red Wings,Tampa Bay Lightning,19.0,47.0,71.0,46.0,71.0,39.0
+/zapas/2648298,1.0,1.0,Detroit Red Wings,New York Islanders,16.0,48.0,74.0,34.0,55.0,46.0
 /zapas/2648322,1.0,0.0,Detroit Red Wings,New York Rangers,17.0,47.0,73.0,22.0,54.0,66.0
+/zapas/2648338,0.0,0.0,Detroit Red Wings,St. Louis Blues,17.0,48.0,75.0,36.0,64.0,45.0
+/zapas/2648360,1.0,0.0,Detroit Red Wings,Vegas Golden Knights,17.0,47.0,76.0,38.0,72.0,55.0
+/zapas/2648375,1.0,0.0,Detroit Red Wings,San Jose Sharks,19.0,49.0,75.0,34.0,68.0,64.0
 /zapas/2648387,1.0,0.0,Detroit Red Wings,Buffalo Sabres,22.0,50.0,72.0,9.0,42.0,80.0
 /zapas/2648397,1.0,1.0,Detroit Red Wings,New Jersey Devils,21.0,52.0,74.0,22.0,47.0,61.0
+/zapas/2648417,1.0,1.0,Detroit Red Wings,Boston Bruins,21.0,53.0,72.0,39.0,73.0,53.0
+/zapas/2648431,1.0,1.0,Detroit Red Wings,Pittsburgh Penguins,23.0,54.0,69.0,38.0,59.0,48.0
+/zapas/2648443,0.0,0.0,Detroit Red Wings,Pittsburgh Penguins,26.0,57.0,67.0,35.0,56.0,49.0
 /zapas/2648459,0.0,1.0,Detroit Red Wings,Buffalo Sabres,25.0,54.0,66.0,9.0,43.0,81.0
+/zapas/2806401,1.0,0.0,Detroit Red Wings,Nashville Predators,25.0,53.0,70.0,34.0,52.0,52.0
+/zapas/2806408,1.0,1.0,Detroit Red Wings,Dallas Stars,28.0,55.0,68.0,34.0,51.0,38.0
 /zapas/2806416,0.0,1.0,Detroit Red Wings,Anaheim Ducks,31.0,58.0,63.0,39.0,62.0,54.0
+/zapas/2806424,1.0,0.0,Detroit Red Wings,Montreal Canadiens,31.0,58.0,63.0,31.0,62.0,62.0
+/zapas/2806443,0.0,1.0,Detroit Red Wings,Toronto Maple Leafs,33.0,59.0,61.0,25.0,64.0,80.0
+/zapas/2806465,0.0,0.0,Detroit Red Wings,Vancouver Canucks,31.0,58.0,64.0,26.0,58.0,58.0
+/zapas/2806479,0.0,0.0,Detroit Red Wings,Calgary Flames,31.0,57.0,66.0,33.0,66.0,49.0
+/zapas/2806487,0.0,0.0,Detroit Red Wings,Edmonton Oilers,31.0,57.0,65.0,30.0,66.0,70.0
+/zapas/2806513,0.0,1.0,Detroit Red Wings,Vancouver Canucks,31.0,57.0,64.0,29.0,59.0,53.0
 /zapas/2806519,0.0,0.0,Detroit Red Wings,Ottawa Senators,31.0,55.0,64.0,21.0,54.0,70.0
 /zapas/2806535,0.0,1.0,Detroit Red Wings,Buffalo Sabres,28.0,55.0,68.0,29.0,64.0,64.0
+/zapas/2806547,0.0,1.0,Detroit Red Wings,St. Louis Blues,25.0,52.0,68.0,37.0,65.0,59.0
+/zapas/2806560,1.0,1.0,Detroit Red Wings,Edmonton Oilers,26.0,54.0,68.0,31.0,59.0,62.0
+/zapas/2806575,0.0,0.0,Detroit Red Wings,Carolina Hurricanes,27.0,54.0,67.0,36.0,61.0,48.0
+/zapas/2806585,0.0,0.0,Detroit Red Wings,Florida Panthers,24.0,54.0,72.0,30.0,71.0,76.0
+/zapas/2806598,0.0,1.0,Detroit Red Wings,Nashville Predators,22.0,49.0,72.0,40.0,71.0,54.0
+/zapas/2806611,0.0,0.0,Detroit Red Wings,New York Rangers,19.0,46.0,78.0,25.0,58.0,69.0
+/zapas/2806625,1.0,1.0,Detroit Red Wings,Boston Bruins,16.0,41.0,80.0,41.0,72.0,54.0
+/zapas/2806642,1.0,1.0,Detroit Red Wings,Vegas Golden Knights,16.0,41.0,81.0,28.0,57.0,62.0
 /zapas/2806654,1.0,0.0,Detroit Red Wings,Anaheim Ducks,19.0,43.0,79.0,33.0,55.0,52.0
 /zapas/2806669,0.0,0.0,Detroit Red Wings,Los Angeles Kings,21.0,46.0,75.0,20.0,53.0,74.0
 /zapas/2806689,0.0,0.0,Detroit Red Wings,San Jose Sharks,19.0,43.0,75.0,27.0,59.0,70.0
 /zapas/2806699,0.0,1.0,Detroit Red Wings,Ottawa Senators,17.0,42.0,76.0,24.0,55.0,66.0
+/zapas/2806713,0.0,0.0,Detroit Red Wings,Columbus Blue Jackets,17.0,44.0,77.0,24.0,50.0,65.0
 /zapas/2806732,0.0,0.0,Detroit Red Wings,New Jersey Devils,14.0,44.0,80.0,22.0,48.0,73.0
+/zapas/2806739,0.0,1.0,Detroit Red Wings,Carolina Hurricanes,14.0,43.0,80.0,32.0,70.0,60.0
+/zapas/2806755,0.0,1.0,Detroit Red Wings,Toronto Maple Leafs,14.0,42.0,77.0,27.0,62.0,65.0
+/zapas/2806773,0.0,0.0,Detroit Red Wings,Philadelphia Flyers,14.0,41.0,78.0,33.0,61.0,59.0
+/zapas/2806783,0.0,1.0,Detroit Red Wings,Washington Capitals,14.0,41.0,82.0,42.0,77.0,58.0
+/zapas/2806797,0.0,1.0,Detroit Red Wings,New York Islanders,14.0,41.0,82.0,44.0,62.0,45.0
+/zapas/2806832,0.0,1.0,Detroit Red Wings,Pittsburgh Penguins,14.0,40.0,81.0,31.0,66.0,55.0
+/zapas/2806853,0.0,0.0,Detroit Red Wings,Winnipeg Jets,14.0,43.0,84.0,38.0,59.0,49.0
+/zapas/2806867,1.0,1.0,Detroit Red Wings,Winnipeg Jets,13.0,40.0,84.0,41.0,62.0,47.0
+/zapas/2806884,1.0,0.0,Detroit Red Wings,Montreal Canadiens,13.0,42.0,85.0,28.0,59.0,68.0
 /zapas/2806893,0.0,1.0,Detroit Red Wings,Los Angeles Kings,16.0,41.0,79.0,26.0,48.0,52.0
+/zapas/2806905,0.0,1.0,Detroit Red Wings,Columbus Blue Jackets,16.0,43.0,79.0,26.0,48.0,51.0
+/zapas/2806933,0.0,0.0,Detroit Red Wings,Toronto Maple Leafs,16.0,45.0,78.0,29.0,65.0,62.0
+/zapas/2806943,0.0,1.0,Detroit Red Wings,Arizona Coyotes,16.0,45.0,77.0,31.0,56.0,53.0
+/zapas/2806972,0.0,0.0,Detroit Red Wings,Florida Panthers,13.0,43.0,80.0,30.0,71.0,63.0
+/zapas/2806983,0.0,0.0,Detroit Red Wings,Tampa Bay Lightning,10.0,44.0,83.0,30.0,68.0,60.0
 /zapas/2806996,1.0,1.0,Detroit Red Wings,San Jose Sharks,8.0,41.0,82.0,22.0,50.0,67.0
+/zapas/2807016,0.0,0.0,Detroit Red Wings,Dallas Stars,10.0,41.0,79.0,34.0,56.0,51.0
+/zapas/2807033,0.0,0.0,Detroit Red Wings,Chicago Blackhawks,9.0,39.0,79.0,26.0,58.0,72.0
+/zapas/2807045,1.0,1.0,Detroit Red Wings,Montreal Canadiens,9.0,38.0,79.0,21.0,56.0,64.0
 /zapas/2807065,1.0,1.0,Detroit Red Wings,Ottawa Senators,12.0,38.0,77.0,17.0,53.0,78.0
 /zapas/2807081,0.0,1.0,Detroit Red Wings,Buffalo Sabres,14.0,40.0,74.0,25.0,60.0,70.0
+/zapas/2807093,0.0,0.0,Detroit Red Wings,New York Islanders,14.0,41.0,77.0,28.0,53.0,59.0
+/zapas/2807116,0.0,1.0,Detroit Red Wings,Pittsburgh Penguins,14.0,43.0,79.0,41.0,69.0,51.0
+/zapas/2807125,0.0,1.0,Detroit Red Wings,Florida Panthers,15.0,43.0,75.0,36.0,76.0,62.0
+/zapas/2807135,0.0,0.0,Detroit Red Wings,Colorado Avalanche,15.0,42.0,74.0,31.0,70.0,62.0
+/zapas/2807143,0.0,0.0,Detroit Red Wings,Minnesota Wild,15.0,44.0,76.0,25.0,64.0,72.0
+/zapas/2807161,0.0,0.0,Detroit Red Wings,New York Rangers,15.0,43.0,75.0,27.0,70.0,68.0
+/zapas/2807173,0.0,1.0,Detroit Red Wings,New York Rangers,15.0,44.0,74.0,27.0,69.0,70.0
+/zapas/2807187,0.0,1.0,Detroit Red Wings,Philadelphia Flyers,12.0,39.0,73.0,31.0,69.0,65.0
 /zapas/2807203,1.0,0.0,Detroit Red Wings,Buffalo Sabres,9.0,37.0,75.0,20.0,46.0,67.0
+/zapas/2807217,0.0,0.0,Detroit Red Wings,Columbus Blue Jackets,11.0,39.0,74.0,45.0,57.0,34.0
+/zapas/2807231,1.0,1.0,Detroit Red Wings,Boston Bruins,11.0,36.0,71.0,41.0,67.0,47.0
 /zapas/2807242,0.0,0.0,Detroit Red Wings,Buffalo Sabres,14.0,38.0,68.0,23.0,48.0,62.0
 /zapas/2807260,0.0,0.0,Detroit Red Wings,New Jersey Devils,14.0,38.0,66.0,29.0,68.0,68.0
+/zapas/2807271,0.0,0.0,Detroit Red Wings,Boston Bruins,14.0,35.0,65.0,40.0,62.0,44.0
+/zapas/2807282,0.0,0.0,Detroit Red Wings,Pittsburgh Penguins,14.0,35.0,67.0,39.0,66.0,55.0
+/zapas/2807299,1.0,1.0,Detroit Red Wings,Montreal Canadiens,11.0,34.0,72.0,24.0,52.0,55.0
+/zapas/2807317,0.0,0.0,Detroit Red Wings,New York Islanders,14.0,37.0,71.0,25.0,53.0,60.0
+/zapas/2807339,0.0,1.0,Detroit Red Wings,Calgary Flames,14.0,36.0,71.0,31.0,69.0,67.0
 /zapas/2807351,0.0,1.0,Detroit Red Wings,New Jersey Devils,11.0,34.0,72.0,29.0,61.0,66.0
+/zapas/2807365,0.0,1.0,Detroit Red Wings,Minnesota Wild,9.0,32.0,74.0,30.0,62.0,62.0
 /zapas/2807381,0.0,0.0,Detroit Red Wings,Ottawa Senators,9.0,32.0,76.0,22.0,53.0,67.0
-/zapas/2893250,0.0,1.0,Detroit Red Wings,Columbus Blue Jackets,17.0,38.0,68.0,26.0,48.0,53.0
-/zapas/2893260,1.0,1.0,Detroit Red Wings,Columbus Blue Jackets,17.0,40.0,68.0,26.0,48.0,54.0
-/zapas/2893275,0.0,0.0,Detroit Red Wings,Chicago Blackhawks,17.0,39.0,67.0,24.0,58.0,71.0
-/zapas/2893289,0.0,0.0,Detroit Red Wings,Chicago Blackhawks,17.0,40.0,69.0,27.0,62.0,71.0
-/zapas/2893304,0.0,0.0,Detroit Red Wings,Dallas Stars,14.0,39.0,74.0,33.0,62.0,57.0
-/zapas/2893318,0.0,0.0,Detroit Red Wings,Dallas Stars,15.0,38.0,73.0,32.0,59.0,55.0
-/zapas/2893457,0.0,1.0,Detroit Red Wings,Chicago Blackhawks,18.0,43.0,63.0,26.0,57.0,60.0
-/zapas/2893471,0.0,1.0,Detroit Red Wings,Chicago Blackhawks,19.0,44.0,64.0,27.0,57.0,58.0
+/zapas/2807393,0.0,1.0,Detroit Red Wings,Colorado Avalanche,10.0,33.0,72.0,44.0,62.0,42.0
+/zapas/2807420,1.0,1.0,Detroit Red Wings,Chicago Blackhawks,9.0,33.0,72.0,29.0,68.0,60.0
+/zapas/2807436,1.0,1.0,Detroit Red Wings,Tampa Bay Lightning,12.0,34.0,69.0,40.0,65.0,51.0
+/zapas/2807450,0.0,1.0,Detroit Red Wings,Carolina Hurricanes,14.0,36.0,67.0,29.0,65.0,63.0
+/zapas/2893222,0.0,1.0,Detroit Red Wings,Carolina Hurricanes,14.0,36.0,68.0,31.0,69.0,63.0
+/zapas/2893237,1.0,1.0,Detroit Red Wings,Carolina Hurricanes,14.0,34.0,67.0,32.0,70.0,62.0
+/zapas/2893250,0.0,1.0,Detroit Red Wings,Columbus Blue Jackets,17.0,38.0,68.0,22.0,44.0,63.0
+/zapas/2893260,1.0,1.0,Detroit Red Wings,Columbus Blue Jackets,17.0,40.0,68.0,22.0,43.0,62.0
+/zapas/2893275,0.0,0.0,Detroit Red Wings,Chicago Blackhawks,17.0,39.0,67.0,20.0,60.0,70.0
+/zapas/2893289,0.0,0.0,Detroit Red Wings,Chicago Blackhawks,17.0,40.0,69.0,23.0,62.0,66.0
+/zapas/2893304,0.0,0.0,Detroit Red Wings,Dallas Stars,14.0,39.0,74.0,32.0,56.0,50.0
+/zapas/2893318,0.0,0.0,Detroit Red Wings,Dallas Stars,15.0,38.0,73.0,31.0,53.0,48.0
+/zapas/2893341,0.0,1.0,Detroit Red Wings,Florida Panthers,15.0,40.0,76.0,28.0,57.0,62.0
+/zapas/2893350,0.0,1.0,Detroit Red Wings,Florida Panthers,16.0,41.0,75.0,30.0,58.0,61.0
+/zapas/2893368,0.0,0.0,Detroit Red Wings,Tampa Bay Lightning,16.0,42.0,73.0,33.0,66.0,59.0
+/zapas/2893383,0.0,0.0,Detroit Red Wings,Tampa Bay Lightning,13.0,39.0,75.0,33.0,68.0,59.0
+/zapas/2893400,1.0,0.0,Detroit Red Wings,Florida Panthers,13.0,39.0,74.0,34.0,60.0,57.0
+/zapas/2893416,0.0,0.0,Detroit Red Wings,Florida Panthers,16.0,41.0,71.0,34.0,60.0,57.0
+/zapas/2893423,0.0,0.0,Detroit Red Wings,Nashville Predators,16.0,41.0,69.0,23.0,48.0,65.0
+/zapas/2893438,1.0,0.0,Detroit Red Wings,Nashville Predators,16.0,42.0,65.0,24.0,47.0,64.0
+/zapas/2893457,0.0,1.0,Detroit Red Wings,Chicago Blackhawks,18.0,43.0,63.0,28.0,58.0,58.0
+/zapas/2893471,0.0,1.0,Detroit Red Wings,Chicago Blackhawks,19.0,44.0,64.0,27.0,57.0,57.0
+/zapas/2893484,0.0,1.0,Detroit Red Wings,Florida Panthers,16.0,42.0,65.0,36.0,60.0,58.0
+/zapas/2893500,1.0,1.0,Detroit Red Wings,Florida Panthers,14.0,39.0,68.0,39.0,64.0,55.0
+/zapas/2893513,0.0,1.0,Detroit Red Wings,Nashville Predators,17.0,39.0,64.0,27.0,47.0,59.0
+/zapas/2893527,1.0,1.0,Detroit Red Wings,Nashville Predators,17.0,39.0,63.0,27.0,47.0,59.0
 /zapas/2893535,1.0,0.0,Detroit Red Wings,Chicago Blackhawks,17.0,40.0,63.0,32.0,62.0,56.0
 /zapas/2893548,0.0,0.0,Detroit Red Wings,Chicago Blackhawks,20.0,43.0,63.0,32.0,63.0,56.0
 /zapas/2893565,0.0,0.0,Detroit Red Wings,Columbus Blue Jackets,18.0,42.0,68.0,25.0,56.0,67.0
+/zapas/2893577,0.0,0.0,Detroit Red Wings,Carolina Hurricanes,18.0,42.0,68.0,37.0,71.0,56.0
+/zapas/2893616,0.0,1.0,Detroit Red Wings,Tampa Bay Lightning,18.0,42.0,67.0,43.0,70.0,43.0
+/zapas/2893631,1.0,1.0,Detroit Red Wings,Tampa Bay Lightning,18.0,44.0,69.0,45.0,72.0,41.0
+/zapas/2893651,0.0,1.0,Detroit Red Wings,Carolina Hurricanes,21.0,47.0,66.0,38.0,75.0,57.0
+/zapas/2893668,1.0,1.0,Detroit Red Wings,Carolina Hurricanes,20.0,46.0,65.0,39.0,73.0,55.0
 /zapas/2893683,1.0,1.0,Detroit Red Wings,Dallas Stars,23.0,48.0,64.0,21.0,52.0,58.0
 /zapas/2893698,0.0,1.0,Detroit Red Wings,Dallas Stars,26.0,50.0,61.0,20.0,51.0,57.0
+/zapas/2893713,0.0,0.0,Detroit Red Wings,Nashville Predators,26.0,49.0,61.0,26.0,47.0,63.0
+/zapas/2893724,0.0,0.0,Detroit Red Wings,Nashville Predators,23.0,45.0,62.0,29.0,48.0,57.0
 /zapas/2893746,1.0,1.0,Detroit Red Wings,Columbus Blue Jackets,23.0,45.0,67.0,23.0,50.0,65.0
 /zapas/2893754,1.0,1.0,Detroit Red Wings,Columbus Blue Jackets,26.0,46.0,65.0,20.0,45.0,63.0
+/zapas/2893770,0.0,0.0,Detroit Red Wings,Florida Panthers,26.0,46.0,64.0,33.0,60.0,53.0
+/zapas/2893785,0.0,0.0,Detroit Red Wings,Florida Panthers,25.0,45.0,65.0,36.0,63.0,52.0
+/zapas/2893800,0.0,0.0,Detroit Red Wings,Tampa Bay Lightning,26.0,47.0,66.0,40.0,69.0,49.0
+/zapas/2893809,1.0,0.0,Detroit Red Wings,Tampa Bay Lightning,26.0,46.0,61.0,40.0,68.0,50.0
+/zapas/2893827,0.0,1.0,Detroit Red Wings,Nashville Predators,26.0,49.0,61.0,34.0,55.0,51.0
+/zapas/2893841,0.0,1.0,Detroit Red Wings,Nashville Predators,27.0,51.0,62.0,33.0,56.0,52.0
+/zapas/2893853,1.0,0.0,Detroit Red Wings,Carolina Hurricanes,24.0,47.0,67.0,43.0,63.0,41.0
+/zapas/2893867,1.0,0.0,Detroit Red Wings,Carolina Hurricanes,23.0,47.0,68.0,42.0,63.0,43.0
 /zapas/2893890,1.0,1.0,Detroit Red Wings,Chicago Blackhawks,26.0,48.0,62.0,23.0,49.0,67.0
 /zapas/2893906,0.0,1.0,Detroit Red Wings,Chicago Blackhawks,29.0,51.0,59.0,22.0,48.0,68.0
 /zapas/2893914,0.0,0.0,Detroit Red Wings,Dallas Stars,29.0,49.0,58.0,32.0,55.0,46.0
@@ -100,43 +264,90 @@ game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,T
 /zapas/2893944,1.0,1.0,Detroit Red Wings,Dallas Stars,26.0,44.0,58.0,34.0,58.0,45.0
 /zapas/2893958,0.0,1.0,Detroit Red Wings,Dallas Stars,29.0,50.0,59.0,34.0,59.0,49.0
 /zapas/2893982,0.0,0.0,Detroit Red Wings,Columbus Blue Jackets,27.0,47.0,59.0,13.0,41.0,71.0
+/zapas/2893997,0.0,0.0,Detroit Red Wings,Carolina Hurricanes,25.0,44.0,58.0,40.0,62.0,44.0
+/zapas/2894014,1.0,1.0,Detroit Red Wings,Tampa Bay Lightning,25.0,45.0,58.0,33.0,60.0,59.0
+/zapas/2894019,0.0,1.0,Detroit Red Wings,Tampa Bay Lightning,27.0,46.0,56.0,31.0,55.0,57.0
 /zapas/2894057,1.0,0.0,Detroit Red Wings,Columbus Blue Jackets,27.0,46.0,51.0,15.0,41.0,68.0
 /zapas/2894071,0.0,0.0,Detroit Red Wings,Columbus Blue Jackets,27.0,48.0,52.0,15.0,42.0,70.0
+/zapas/2896993,0.0,1.0,Detroit Red Wings,Tampa Bay Lightning,25.0,48.0,56.0,28.0,54.0,65.0
 /zapas/2897010,1.0,1.0,Detroit Red Wings,Vancouver Canucks,26.0,53.0,59.0,22.0,55.0,73.0
 /zapas/2897026,1.0,1.0,Detroit Red Wings,Columbus Blue Jackets,28.0,54.0,57.0,19.0,51.0,69.0
-/zapas/2897052,0.0,0.0,Detroit Red Wings,Montreal Canadiens,28.0,52.0,58.0,24.0,41.0,55.0
+/zapas/2897039,0.0,1.0,Detroit Red Wings,Calgary Flames,31.0,57.0,56.0,29.0,62.0,54.0
+/zapas/2897052,0.0,0.0,Detroit Red Wings,Montreal Canadiens,28.0,52.0,58.0,15.0,38.0,72.0
 /zapas/2897061,1.0,0.0,Detroit Red Wings,Chicago Blackhawks,27.0,51.0,61.0,18.0,56.0,78.0
-/zapas/2897123,0.0,0.0,Detroit Red Wings,Montreal Canadiens,25.0,53.0,61.0,19.0,41.0,60.0
+/zapas/2897082,1.0,0.0,Detroit Red Wings,Washington Capitals,30.0,56.0,57.0,40.0,71.0,53.0
+/zapas/2897094,0.0,1.0,Detroit Red Wings,Florida Panthers,30.0,54.0,55.0,48.0,84.0,49.0
+/zapas/2897106,0.0,0.0,Detroit Red Wings,Toronto Maple Leafs,28.0,53.0,57.0,33.0,58.0,56.0
+/zapas/2897123,0.0,0.0,Detroit Red Wings,Montreal Canadiens,25.0,53.0,61.0,18.0,44.0,67.0
+/zapas/2897132,0.0,0.0,Detroit Red Wings,Boston Bruins,25.0,53.0,60.0,35.0,61.0,46.0
 /zapas/2897147,1.0,0.0,Detroit Red Wings,Buffalo Sabres,24.0,52.0,62.0,22.0,57.0,70.0
-/zapas/2897159,1.0,1.0,Detroit Red Wings,Vegas Golden Knights,26.0,54.0,60.0,31.0,58.0,54.0
-/zapas/2897200,1.0,1.0,Detroit Red Wings,Montreal Canadiens,27.0,55.0,60.0,15.0,40.0,67.0
+/zapas/2897159,1.0,1.0,Detroit Red Wings,Vegas Golden Knights,26.0,54.0,60.0,31.0,62.0,54.0
+/zapas/2897170,1.0,1.0,Detroit Red Wings,Edmonton Oilers,26.0,52.0,59.0,44.0,78.0,56.0
+/zapas/2897184,0.0,1.0,Detroit Red Wings,Washington Capitals,28.0,55.0,59.0,37.0,63.0,51.0
+/zapas/2897200,1.0,1.0,Detroit Red Wings,Montreal Canadiens,27.0,55.0,60.0,15.0,43.0,71.0
 /zapas/2897212,0.0,0.0,Detroit Red Wings,Columbus Blue Jackets,29.0,57.0,59.0,27.0,58.0,61.0
-/zapas/2897228,0.0,0.0,Detroit Red Wings,Vegas Golden Knights,27.0,60.0,67.0,29.0,56.0,61.0
+/zapas/2897216,0.0,0.0,Detroit Red Wings,Dallas Stars,27.0,59.0,64.0,20.0,50.0,66.0
+/zapas/2897228,0.0,0.0,Detroit Red Wings,Vegas Golden Knights,27.0,60.0,67.0,33.0,64.0,56.0
 /zapas/2897246,0.0,0.0,Detroit Red Wings,Arizona Coyotes,24.0,57.0,70.0,13.0,42.0,77.0
+/zapas/2897278,1.0,1.0,Detroit Red Wings,St. Louis Blues,24.0,54.0,67.0,37.0,72.0,52.0
 /zapas/2897304,1.0,1.0,Detroit Red Wings,Buffalo Sabres,26.0,52.0,62.0,24.0,58.0,67.0
+/zapas/2897323,1.0,0.0,Detroit Red Wings,Boston Bruins,25.0,52.0,63.0,34.0,60.0,55.0
 /zapas/2897331,1.0,1.0,Detroit Red Wings,Seattle Kraken,25.0,50.0,63.0,22.0,58.0,70.0
-/zapas/2897353,1.0,1.0,Detroit Red Wings,New York Islanders,27.0,54.0,63.0,20.0,36.0,57.0
+/zapas/2897353,1.0,1.0,Detroit Red Wings,New York Islanders,27.0,54.0,63.0,22.0,40.0,58.0
+/zapas/2897378,0.0,1.0,Detroit Red Wings,Nashville Predators,29.0,57.0,60.0,33.0,60.0,57.0
+/zapas/2897388,0.0,0.0,Detroit Red Wings,St. Louis Blues,26.0,53.0,62.0,25.0,59.0,62.0
+/zapas/2897395,0.0,0.0,Detroit Red Wings,Colorado Avalanche,24.0,52.0,66.0,40.0,89.0,66.0
 /zapas/2897427,1.0,1.0,Detroit Red Wings,New York Islanders,23.0,53.0,70.0,23.0,42.0,58.0
+/zapas/2897445,0.0,0.0,Detroit Red Wings,Carolina Hurricanes,26.0,51.0,66.0,35.0,54.0,47.0
 /zapas/2897459,1.0,1.0,Detroit Red Wings,New Jersey Devils,26.0,54.0,68.0,21.0,57.0,72.0
+/zapas/2897544,0.0,1.0,Detroit Red Wings,Washington Capitals,29.0,58.0,65.0,40.0,71.0,52.0
+/zapas/2897560,0.0,1.0,Detroit Red Wings,Boston Bruins,27.0,55.0,65.0,34.0,57.0,52.0
 /zapas/2897574,1.0,1.0,Detroit Red Wings,San Jose Sharks,24.0,51.0,68.0,26.0,57.0,67.0
+/zapas/2897598,0.0,0.0,Detroit Red Wings,Los Angeles Kings,24.0,53.0,68.0,27.0,53.0,59.0
 /zapas/2897581,0.0,0.0,Detroit Red Wings,Anaheim Ducks,24.0,53.0,70.0,25.0,52.0,57.0
 /zapas/2897620,0.0,0.0,Detroit Red Wings,San Jose Sharks,23.0,53.0,72.0,28.0,58.0,66.0
 /zapas/2897638,0.0,1.0,Detroit Red Wings,Winnipeg Jets,24.0,52.0,70.0,27.0,56.0,63.0
 /zapas/2897655,1.0,1.0,Detroit Red Wings,Buffalo Sabres,24.0,50.0,68.0,15.0,51.0,77.0
 /zapas/2897669,1.0,0.0,Detroit Red Wings,Buffalo Sabres,27.0,52.0,63.0,15.0,47.0,76.0
+/zapas/2897698,0.0,1.0,Detroit Red Wings,Dallas Stars,28.0,54.0,63.0,31.0,60.0,63.0
+/zapas/2897705,0.0,0.0,Detroit Red Wings,Nashville Predators,26.0,54.0,66.0,38.0,66.0,54.0
 /zapas/2897735,0.0,1.0,Detroit Red Wings,Chicago Blackhawks,24.0,52.0,68.0,23.0,50.0,67.0
+/zapas/2897752,1.0,0.0,Detroit Red Wings,Pittsburgh Penguins,21.0,55.0,75.0,49.0,81.0,47.0
+/zapas/2897758,0.0,1.0,Detroit Red Wings,Toronto Maple Leafs,21.0,54.0,74.0,42.0,85.0,58.0
 /zapas/2897774,1.0,1.0,Detroit Red Wings,Anaheim Ducks,19.0,54.0,78.0,27.0,51.0,57.0
+/zapas/2897790,0.0,1.0,Detroit Red Wings,Los Angeles Kings,21.0,54.0,74.0,35.0,61.0,59.0
 /zapas/2897680,1.0,0.0,Detroit Red Wings,Philadelphia Flyers,21.0,55.0,73.0,19.0,53.0,67.0
 /zapas/2897794,1.0,1.0,Detroit Red Wings,Philadelphia Flyers,24.0,58.0,69.0,16.0,51.0,70.0
+/zapas/2897495,0.0,0.0,Detroit Red Wings,Minnesota Wild,24.0,60.0,70.0,38.0,76.0,56.0
+/zapas/2897514,1.0,0.0,Detroit Red Wings,New York Rangers,24.0,61.0,72.0,37.0,66.0,51.0
+/zapas/2897473,0.0,1.0,Detroit Red Wings,Colorado Avalanche,23.0,59.0,72.0,45.0,69.0,46.0
+/zapas/2898262,0.0,1.0,Detroit Red Wings,Toronto Maple Leafs,23.0,60.0,74.0,35.0,78.0,66.0
+/zapas/2897837,1.0,1.0,Detroit Red Wings,Carolina Hurricanes,23.0,66.0,79.0,39.0,70.0,53.0
+/zapas/2897857,0.0,0.0,Detroit Red Wings,Tampa Bay Lightning,22.0,64.0,80.0,42.0,74.0,54.0
+/zapas/2897866,0.0,0.0,Detroit Red Wings,Florida Panthers,22.0,65.0,79.0,38.0,88.0,58.0
 /zapas/2897890,0.0,1.0,Detroit Red Wings,Arizona Coyotes,21.0,64.0,81.0,23.0,55.0,68.0
+/zapas/2897904,0.0,1.0,Detroit Red Wings,Minnesota Wild,20.0,64.0,87.0,32.0,76.0,70.0
+/zapas/2897914,0.0,0.0,Detroit Red Wings,Calgary Flames,21.0,69.0,90.0,47.0,81.0,46.0
+/zapas/2897937,0.0,0.0,Detroit Red Wings,Edmonton Oilers,18.0,65.0,93.0,34.0,65.0,57.0
 /zapas/2897949,1.0,0.0,Detroit Red Wings,Vancouver Canucks,16.0,67.0,98.0,38.0,76.0,61.0
 /zapas/2897967,0.0,0.0,Detroit Red Wings,Seattle Kraken,18.0,64.0,93.0,15.0,48.0,72.0
 /zapas/2897989,1.0,1.0,Detroit Red Wings,Philadelphia Flyers,18.0,65.0,93.0,23.0,53.0,70.0
 /zapas/2897531,0.0,0.0,Detroit Red Wings,New York Islanders,21.0,66.0,88.0,33.0,65.0,55.0
+/zapas/2898025,0.0,1.0,Detroit Red Wings,Tampa Bay Lightning,19.0,65.0,91.0,33.0,60.0,57.0
+/zapas/2898034,0.0,0.0,Detroit Red Wings,Pittsburgh Penguins,20.0,62.0,86.0,36.0,60.0,53.0
+/zapas/2898054,0.0,1.0,Detroit Red Wings,New York Rangers,18.0,62.0,96.0,37.0,61.0,52.0
 /zapas/2898068,0.0,1.0,Detroit Red Wings,Ottawa Senators,19.0,63.0,96.0,19.0,47.0,67.0
 /zapas/2898086,0.0,0.0,Detroit Red Wings,Ottawa Senators,16.0,59.0,98.0,19.0,49.0,68.0
+/zapas/2898099,1.0,1.0,Detroit Red Wings,Boston Bruins,13.0,57.0,101.0,44.0,80.0,47.0
 /zapas/2898107,1.0,0.0,Detroit Red Wings,Winnipeg Jets,16.0,58.0,97.0,31.0,72.0,69.0
 /zapas/2898132,0.0,1.0,Detroit Red Wings,Columbus Blue Jackets,17.0,58.0,96.0,22.0,57.0,79.0
 /zapas/2898153,0.0,1.0,Detroit Red Wings,Ottawa Senators,18.0,60.0,96.0,21.0,56.0,70.0
+/zapas/2898173,1.0,0.0,Detroit Red Wings,Carolina Hurricanes,18.0,54.0,90.0,35.0,62.0,47.0
+/zapas/2898190,0.0,0.0,Detroit Red Wings,New York Rangers,19.0,53.0,87.0,37.0,66.0,53.0
+/zapas/2898194,0.0,1.0,Detroit Red Wings,Florida Panthers,19.0,52.0,88.0,47.0,90.0,56.0
+/zapas/2898206,1.0,0.0,Detroit Red Wings,Tampa Bay Lightning,19.0,51.0,88.0,26.0,58.0,57.0
+/zapas/2898220,0.0,0.0,Detroit Red Wings,Florida Panthers,22.0,53.0,82.0,46.0,87.0,56.0
+/zapas/2898237,0.0,1.0,Detroit Red Wings,Pittsburgh Penguins,21.0,50.0,81.0,29.0,70.0,59.0
 /zapas/2898246,1.0,0.0,Detroit Red Wings,New Jersey Devils,21.0,52.0,85.0,19.0,61.0,81.0
+/zapas/2897815,0.0,0.0,Detroit Red Wings,Toronto Maple Leafs,24.0,50.0,78.0,41.0,84.0,70.0
 /zapas/2898289,1.0,0.0,Detroit Red Wings,New Jersey Devils,21.0,49.0,81.0,18.0,60.0,82.0

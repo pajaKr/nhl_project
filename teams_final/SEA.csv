@@ -1,30 +1,63 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2897305,1.0,0.0,Seattle Kraken,Florida Panthers,19.0,54.0,72.0,41.0,76.0,52.0
 /zapas/2897316,1.0,0.0,Seattle Kraken,Buffalo Sabres,22.0,55.0,69.0,22.0,55.0,69.0
 /zapas/2897331,0.0,0.0,Seattle Kraken,Detroit Red Wings,22.0,58.0,70.0,25.0,50.0,63.0
+/zapas/2897344,1.0,1.0,Seattle Kraken,Edmonton Oilers,22.0,60.0,72.0,43.0,79.0,59.0
+/zapas/2897365,0.0,1.0,Seattle Kraken,Pittsburgh Penguins,25.0,63.0,69.0,28.0,53.0,56.0
 /zapas/2897385,0.0,1.0,Seattle Kraken,Winnipeg Jets,25.0,62.0,71.0,31.0,56.0,53.0
 /zapas/2897402,0.0,1.0,Seattle Kraken,Columbus Blue Jackets,25.0,60.0,70.0,28.0,66.0,68.0
 /zapas/2897419,1.0,0.0,Seattle Kraken,San Jose Sharks,23.0,59.0,74.0,29.0,53.0,58.0
 /zapas/2897432,0.0,0.0,Seattle Kraken,Anaheim Ducks,23.0,58.0,74.0,36.0,63.0,47.0
+/zapas/2897453,0.0,1.0,Seattle Kraken,Edmonton Oilers,23.0,58.0,75.0,28.0,62.0,66.0
 /zapas/2897523,0.0,1.0,Seattle Kraken,Philadelphia Flyers,23.0,59.0,75.0,22.0,47.0,71.0
+/zapas/2897535,0.0,1.0,Seattle Kraken,Calgary Flames,21.0,56.0,76.0,30.0,58.0,47.0
 /zapas/2897548,0.0,1.0,Seattle Kraken,Vancouver Canucks,21.0,56.0,77.0,28.0,49.0,57.0
+/zapas/2897612,0.0,0.0,Seattle Kraken,Colorado Avalanche,21.0,56.0,78.0,47.0,98.0,64.0
+/zapas/2897629,0.0,0.0,Seattle Kraken,Dallas Stars,21.0,55.0,75.0,37.0,65.0,55.0
+/zapas/2897635,0.0,0.0,Seattle Kraken,St. Louis Blues,21.0,55.0,76.0,37.0,71.0,55.0
+/zapas/2897647,0.0,1.0,Seattle Kraken,Los Angeles Kings,21.0,54.0,74.0,35.0,60.0,52.0
 /zapas/2897665,1.0,1.0,Seattle Kraken,Chicago Blackhawks,21.0,52.0,70.0,25.0,53.0,65.0
 /zapas/2897687,1.0,1.0,Seattle Kraken,San Jose Sharks,20.0,50.0,70.0,29.0,59.0,63.0
+/zapas/2897696,0.0,1.0,Seattle Kraken,St. Louis Blues,20.0,51.0,71.0,40.0,75.0,55.0
+/zapas/2897714,1.0,1.0,Seattle Kraken,Florida Panthers,20.0,51.0,73.0,41.0,90.0,61.0
+/zapas/2897726,0.0,1.0,Seattle Kraken,Nashville Predators,20.0,52.0,75.0,41.0,70.0,53.0
+/zapas/2897746,1.0,0.0,Seattle Kraken,Pittsburgh Penguins,17.0,47.0,75.0,48.0,82.0,50.0
+/zapas/2897769,0.0,0.0,Seattle Kraken,New York Rangers,18.0,46.0,72.0,32.0,60.0,52.0
+/zapas/2897780,0.0,0.0,Seattle Kraken,Boston Bruins,15.0,44.0,72.0,38.0,66.0,60.0
 /zapas/2897761,1.0,0.0,Seattle Kraken,New York Islanders,15.0,45.0,69.0,34.0,60.0,48.0
 /zapas/2897477,0.0,1.0,Seattle Kraken,Arizona Coyotes,18.0,48.0,66.0,18.0,55.0,78.0
 /zapas/2898009,1.0,0.0,Seattle Kraken,Anaheim Ducks,17.0,46.0,66.0,26.0,50.0,58.0
+/zapas/2897463,0.0,1.0,Seattle Kraken,Toronto Maple Leafs,17.0,47.0,68.0,37.0,84.0,67.0
 /zapas/2897604,0.0,0.0,Seattle Kraken,Winnipeg Jets,17.0,48.0,70.0,26.0,55.0,64.0
+/zapas/2897492,0.0,0.0,Seattle Kraken,Calgary Flames,17.0,48.0,70.0,38.0,79.0,54.0
 /zapas/2897504,0.0,0.0,Seattle Kraken,Vancouver Canucks,16.0,47.0,69.0,29.0,54.0,56.0
 /zapas/2897569,0.0,1.0,Seattle Kraken,New York Islanders,16.0,45.0,68.0,30.0,57.0,53.0
+/zapas/2897798,0.0,1.0,Seattle Kraken,Boston Bruins,16.0,45.0,68.0,36.0,58.0,60.0
 /zapas/2897821,0.0,0.0,Seattle Kraken,San Jose Sharks,17.0,44.0,67.0,20.0,50.0,70.0
+/zapas/2897841,1.0,1.0,Seattle Kraken,Nashville Predators,17.0,43.0,65.0,30.0,62.0,62.0
+/zapas/2897869,0.0,0.0,Seattle Kraken,Washington Capitals,20.0,46.0,66.0,24.0,58.0,59.0
+/zapas/2897878,0.0,0.0,Seattle Kraken,Carolina Hurricanes,20.0,47.0,68.0,38.0,69.0,52.0
+/zapas/2897889,0.0,0.0,Seattle Kraken,Toronto Maple Leafs,18.0,46.0,69.0,35.0,84.0,74.0
 /zapas/2897903,0.0,0.0,Seattle Kraken,Ottawa Senators,15.0,47.0,73.0,22.0,44.0,55.0
 /zapas/2897919,1.0,0.0,Seattle Kraken,Montreal Canadiens,16.0,50.0,72.0,23.0,62.0,81.0
+/zapas/2897945,0.0,1.0,Seattle Kraken,Tampa Bay Lightning,15.0,49.0,72.0,39.0,68.0,59.0
 /zapas/2897967,1.0,1.0,Seattle Kraken,Detroit Red Wings,15.0,48.0,72.0,18.0,64.0,93.0
 /zapas/2897995,1.0,0.0,Seattle Kraken,Arizona Coyotes,16.0,50.0,73.0,28.0,69.0,64.0
+/zapas/2898016,0.0,0.0,Seattle Kraken,Los Angeles Kings,19.0,52.0,72.0,34.0,60.0,59.0
+/zapas/2898035,1.0,0.0,Seattle Kraken,Los Angeles Kings,19.0,52.0,73.0,34.0,59.0,58.0
 /zapas/2898051,0.0,1.0,Seattle Kraken,Vegas Golden Knights,19.0,55.0,74.0,24.0,54.0,63.0
 /zapas/2898065,0.0,1.0,Seattle Kraken,Vegas Golden Knights,19.0,53.0,72.0,27.0,57.0,61.0
+/zapas/2898083,1.0,1.0,Seattle Kraken,Dallas Stars,16.0,51.0,74.0,34.0,59.0,58.0
+/zapas/2898106,0.0,0.0,Seattle Kraken,St. Louis Blues,19.0,53.0,69.0,34.0,75.0,65.0
 /zapas/2898112,1.0,0.0,Seattle Kraken,Chicago Blackhawks,19.0,51.0,68.0,20.0,64.0,77.0
+/zapas/2898125,0.0,1.0,Seattle Kraken,Calgary Flames,22.0,52.0,66.0,38.0,72.0,53.0
+/zapas/2898147,0.0,0.0,Seattle Kraken,Calgary Flames,22.0,51.0,65.0,38.0,71.0,53.0
 /zapas/2898178,1.0,1.0,Seattle Kraken,New Jersey Devils,22.0,52.0,65.0,19.0,61.0,77.0
 /zapas/2897583,1.0,1.0,Seattle Kraken,Ottawa Senators,23.0,54.0,65.0,28.0,61.0,65.0
+/zapas/2898211,1.0,1.0,Seattle Kraken,Colorado Avalanche,26.0,57.0,64.0,43.0,74.0,50.0
+/zapas/2898227,0.0,0.0,Seattle Kraken,Minnesota Wild,26.0,56.0,63.0,43.0,73.0,51.0
+/zapas/2898233,0.0,0.0,Seattle Kraken,Dallas Stars,26.0,57.0,64.0,32.0,55.0,63.0
 /zapas/2898253,0.0,0.0,Seattle Kraken,Vancouver Canucks,26.0,57.0,64.0,30.0,67.0,57.0
+/zapas/2898267,0.0,1.0,Seattle Kraken,Los Angeles Kings,26.0,55.0,63.0,33.0,57.0,59.0
 /zapas/2898281,1.0,1.0,Seattle Kraken,San Jose Sharks,25.0,55.0,64.0,22.0,55.0,68.0
 /zapas/2898159,0.0,0.0,Seattle Kraken,Winnipeg Jets,26.0,54.0,61.0,28.0,59.0,64.0

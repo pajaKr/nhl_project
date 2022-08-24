@@ -1,130 +1,349 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2526365,1.0,0.0,Arizona Coyotes,Toronto Maple Leafs,11.0,49.0,78.0,34.0,72.0,61.0
+/zapas/2526399,1.0,1.0,Arizona Coyotes,Los Angeles Kings,14.0,50.0,73.0,29.0,59.0,51.0
+/zapas/2526408,0.0,1.0,Arizona Coyotes,Vegas Golden Knights,16.0,51.0,69.0,36.0,75.0,63.0
 /zapas/2526429,0.0,0.0,Arizona Coyotes,Edmonton Oilers,16.0,52.0,70.0,23.0,56.0,65.0
 /zapas/2526440,0.0,0.0,Arizona Coyotes,Calgary Flames,17.0,50.0,68.0,27.0,58.0,67.0
+/zapas/2526457,1.0,1.0,Arizona Coyotes,New Jersey Devils,17.0,48.0,67.0,32.0,59.0,62.0
+/zapas/2526464,0.0,0.0,Arizona Coyotes,Vegas Golden Knights,20.0,50.0,62.0,31.0,72.0,69.0
+/zapas/2526484,0.0,0.0,Arizona Coyotes,Boston Bruins,21.0,50.0,60.0,33.0,55.0,55.0
+/zapas/2526505,0.0,0.0,Arizona Coyotes,Columbus Blue Jackets,21.0,48.0,62.0,31.0,55.0,51.0
 /zapas/2526510,0.0,0.0,Arizona Coyotes,Chicago Blackhawks,19.0,44.0,60.0,25.0,55.0,59.0
+/zapas/2526543,0.0,1.0,Arizona Coyotes,Tampa Bay Lightning,19.0,42.0,58.0,40.0,72.0,49.0
+/zapas/2526557,0.0,1.0,Arizona Coyotes,Pittsburgh Penguins,19.0,39.0,57.0,26.0,59.0,56.0
 /zapas/2526577,0.0,1.0,Arizona Coyotes,Florida Panthers,17.0,39.0,60.0,24.0,48.0,59.0
+/zapas/2526596,1.0,1.0,Arizona Coyotes,Washington Capitals,16.0,39.0,60.0,39.0,66.0,53.0
+/zapas/2526608,0.0,1.0,Arizona Coyotes,Colorado Avalanche,18.0,41.0,59.0,25.0,58.0,64.0
+/zapas/2526621,1.0,0.0,Arizona Coyotes,Colorado Avalanche,17.0,41.0,62.0,27.0,61.0,62.0
+/zapas/2526626,0.0,1.0,Arizona Coyotes,Toronto Maple Leafs,20.0,43.0,59.0,34.0,57.0,44.0
+/zapas/2526648,0.0,0.0,Arizona Coyotes,Anaheim Ducks,20.0,46.0,62.0,27.0,49.0,59.0
+/zapas/2526678,1.0,1.0,Arizona Coyotes,Nashville Predators,17.0,43.0,63.0,37.0,63.0,50.0
 /zapas/2526693,0.0,1.0,Arizona Coyotes,New York Rangers,17.0,43.0,63.0,34.0,62.0,47.0
 /zapas/2526723,0.0,1.0,Arizona Coyotes,Edmonton Oilers,15.0,40.0,64.0,26.0,55.0,64.0
+/zapas/2526732,0.0,0.0,Arizona Coyotes,San Jose Sharks,15.0,41.0,65.0,32.0,60.0,61.0
+/zapas/2526746,0.0,1.0,Arizona Coyotes,San Jose Sharks,14.0,43.0,69.0,33.0,62.0,62.0
+/zapas/2526756,0.0,0.0,Arizona Coyotes,Nashville Predators,15.0,43.0,68.0,38.0,59.0,48.0
 /zapas/2526771,1.0,0.0,Arizona Coyotes,St. Louis Blues,15.0,43.0,68.0,28.0,48.0,49.0
 /zapas/2526784,1.0,1.0,Arizona Coyotes,New York Islanders,18.0,48.0,67.0,21.0,64.0,80.0
+/zapas/2526810,0.0,1.0,Arizona Coyotes,Columbus Blue Jackets,17.0,46.0,69.0,25.0,49.0,66.0
 /zapas/2526840,0.0,1.0,Arizona Coyotes,Dallas Stars,16.0,45.0,68.0,34.0,64.0,47.0
+/zapas/2526858,0.0,0.0,Arizona Coyotes,Los Angeles Kings,16.0,45.0,66.0,21.0,45.0,58.0
+/zapas/2526874,0.0,0.0,Arizona Coyotes,Winnipeg Jets,16.0,45.0,71.0,41.0,64.0,46.0
+/zapas/2526886,1.0,0.0,Arizona Coyotes,Minnesota Wild,16.0,47.0,72.0,37.0,65.0,57.0
+/zapas/2526903,0.0,1.0,Arizona Coyotes,Philadelphia Flyers,18.0,50.0,71.0,31.0,61.0,61.0
 /zapas/2526917,1.0,1.0,Arizona Coyotes,Chicago Blackhawks,19.0,51.0,71.0,23.0,54.0,61.0
+/zapas/2526929,1.0,0.0,Arizona Coyotes,San Jose Sharks,22.0,55.0,69.0,31.0,67.0,64.0
 /zapas/2526941,1.0,1.0,Arizona Coyotes,Montreal Canadiens,23.0,54.0,68.0,20.0,46.0,60.0
 /zapas/2526951,1.0,1.0,Arizona Coyotes,Edmonton Oilers,26.0,57.0,64.0,17.0,50.0,75.0
 /zapas/2526993,0.0,1.0,Arizona Coyotes,Calgary Flames,26.0,55.0,63.0,30.0,57.0,63.0
+/zapas/2527010,1.0,1.0,Arizona Coyotes,Anaheim Ducks,26.0,53.0,61.0,35.0,56.0,53.0
 /zapas/2527017,0.0,1.0,Arizona Coyotes,Vancouver Canucks,29.0,53.0,56.0,20.0,56.0,65.0
+/zapas/2527042,1.0,1.0,Arizona Coyotes,Minnesota Wild,27.0,51.0,57.0,43.0,71.0,51.0
 /zapas/2527059,1.0,1.0,Arizona Coyotes,Ottawa Senators,29.0,55.0,58.0,18.0,55.0,70.0
 /zapas/2527072,0.0,0.0,Arizona Coyotes,Edmonton Oilers,32.0,55.0,55.0,21.0,60.0,71.0
 /zapas/2527085,1.0,0.0,Arizona Coyotes,Vancouver Canucks,32.0,53.0,53.0,22.0,59.0,65.0
+/zapas/2527106,0.0,0.0,Arizona Coyotes,Colorado Avalanche,34.0,53.0,51.0,27.0,54.0,64.0
 /zapas/2527116,1.0,1.0,Arizona Coyotes,Vancouver Canucks,33.0,53.0,53.0,19.0,56.0,69.0
+/zapas/2527131,1.0,1.0,Arizona Coyotes,Los Angeles Kings,33.0,49.0,51.0,35.0,61.0,52.0
+/zapas/2527144,0.0,1.0,Arizona Coyotes,Nashville Predators,33.0,50.0,52.0,43.0,74.0,49.0
+/zapas/2527160,0.0,1.0,Arizona Coyotes,Minnesota Wild,33.0,51.0,53.0,37.0,69.0,61.0
 /zapas/2527174,1.0,1.0,Arizona Coyotes,Calgary Flames,33.0,51.0,52.0,26.0,52.0,66.0
 /zapas/2527186,1.0,0.0,Arizona Coyotes,Buffalo Sabres,36.0,56.0,48.0,27.0,55.0,65.0
 /zapas/2527192,0.0,0.0,Arizona Coyotes,Carolina Hurricanes,39.0,57.0,45.0,24.0,54.0,70.0
 /zapas/2527210,0.0,0.0,Arizona Coyotes,Florida Panthers,37.0,58.0,48.0,41.0,72.0,55.0
+/zapas/2527227,1.0,0.0,Arizona Coyotes,Tampa Bay Lightning,36.0,57.0,48.0,34.0,74.0,68.0
+/zapas/2527242,1.0,0.0,Arizona Coyotes,Vegas Golden Knights,36.0,55.0,48.0,35.0,62.0,51.0
+/zapas/2527253,0.0,0.0,Arizona Coyotes,Los Angeles Kings,36.0,56.0,49.0,36.0,61.0,47.0
 /zapas/2527269,1.0,1.0,Arizona Coyotes,St. Louis Blues,33.0,53.0,51.0,26.0,49.0,59.0
 /zapas/2527289,1.0,0.0,Arizona Coyotes,Calgary Flames,33.0,58.0,51.0,20.0,41.0,68.0
 /zapas/2527304,0.0,0.0,Arizona Coyotes,Vancouver Canucks,36.0,60.0,47.0,22.0,51.0,64.0
+/zapas/2527320,0.0,1.0,Arizona Coyotes,Anaheim Ducks,34.0,61.0,51.0,38.0,63.0,46.0
+/zapas/2647210,0.0,0.0,Arizona Coyotes,Dallas Stars,34.0,60.0,51.0,23.0,51.0,61.0
+/zapas/2647224,0.0,1.0,Arizona Coyotes,Anaheim Ducks,31.0,55.0,51.0,41.0,69.0,46.0
+/zapas/2647242,1.0,0.0,Arizona Coyotes,Anaheim Ducks,28.0,53.0,51.0,42.0,64.0,40.0
 /zapas/2647267,0.0,1.0,Arizona Coyotes,Buffalo Sabres,29.0,53.0,49.0,18.0,48.0,79.0
+/zapas/2647281,0.0,0.0,Arizona Coyotes,Minnesota Wild,26.0,51.0,51.0,29.0,55.0,58.0
 /zapas/2647293,1.0,0.0,Arizona Coyotes,Chicago Blackhawks,26.0,50.0,48.0,22.0,61.0,81.0
+/zapas/2647302,0.0,0.0,Arizona Coyotes,Winnipeg Jets,26.0,53.0,49.0,41.0,67.0,53.0
+/zapas/2647321,1.0,0.0,Arizona Coyotes,Columbus Blue Jackets,24.0,52.0,51.0,38.0,77.0,63.0
 /zapas/2647341,1.0,1.0,Arizona Coyotes,Vancouver Canucks,27.0,54.0,49.0,33.0,62.0,59.0
+/zapas/2647355,1.0,1.0,Arizona Coyotes,Tampa Bay Lightning,30.0,57.0,47.0,40.0,71.0,55.0
 /zapas/2647373,1.0,1.0,Arizona Coyotes,Ottawa Senators,30.0,59.0,46.0,18.0,57.0,79.0
-/zapas/2647412,0.0,1.0,Arizona Coyotes,Philadelphia Flyers,32.0,59.0,43.0,24.0,58.0,82.0
-/zapas/2647427,0.0,0.0,Arizona Coyotes,Philadelphia Flyers,32.0,59.0,44.0,27.0,63.0,77.0
+/zapas/2647392,1.0,1.0,Arizona Coyotes,Carolina Hurricanes,30.0,60.0,46.0,28.0,61.0,53.0
+/zapas/2647412,0.0,1.0,Arizona Coyotes,Philadelphia Flyers,32.0,59.0,43.0,30.0,64.0,69.0
+/zapas/2647427,0.0,0.0,Arizona Coyotes,Philadelphia Flyers,32.0,59.0,44.0,32.0,67.0,68.0
+/zapas/2647447,0.0,0.0,Arizona Coyotes,Pittsburgh Penguins,30.0,59.0,48.0,29.0,68.0,64.0
+/zapas/2647453,1.0,0.0,Arizona Coyotes,Washington Capitals,27.0,56.0,50.0,31.0,69.0,66.0
 /zapas/2647466,0.0,0.0,Arizona Coyotes,Detroit Red Wings,30.0,58.0,47.0,21.0,57.0,73.0
+/zapas/2647482,1.0,1.0,Arizona Coyotes,Nashville Predators,27.0,53.0,53.0,44.0,69.0,47.0
+/zapas/2647497,0.0,1.0,Arizona Coyotes,Boston Bruins,27.0,51.0,53.0,32.0,58.0,52.0
+/zapas/2647526,0.0,1.0,Arizona Coyotes,Vegas Golden Knights,26.0,49.0,51.0,24.0,54.0,62.0
+/zapas/2647541,0.0,1.0,Arizona Coyotes,Colorado Avalanche,27.0,51.0,51.0,33.0,74.0,61.0
+/zapas/2647556,0.0,1.0,Arizona Coyotes,Calgary Flames,27.0,52.0,53.0,32.0,63.0,59.0
 /zapas/2647570,1.0,0.0,Arizona Coyotes,Minnesota Wild,27.0,53.0,58.0,39.0,69.0,54.0
+/zapas/2647584,1.0,0.0,Arizona Coyotes,Nashville Predators,28.0,54.0,59.0,38.0,68.0,51.0
+/zapas/2647602,1.0,1.0,Arizona Coyotes,St. Louis Blues,31.0,57.0,56.0,24.0,60.0,62.0
 /zapas/2647623,1.0,0.0,Arizona Coyotes,Los Angeles Kings,34.0,62.0,55.0,22.0,44.0,59.0
+/zapas/2647634,0.0,1.0,Arizona Coyotes,Washington Capitals,34.0,60.0,55.0,34.0,69.0,60.0
+/zapas/2647650,0.0,1.0,Arizona Coyotes,San Jose Sharks,34.0,59.0,54.0,28.0,58.0,64.0
+/zapas/2647663,0.0,0.0,Arizona Coyotes,Boston Bruins,31.0,58.0,58.0,28.0,47.0,52.0
 /zapas/2647677,0.0,0.0,Arizona Coyotes,Buffalo Sabres,28.0,57.0,61.0,31.0,65.0,58.0
 /zapas/2647686,1.0,0.0,Arizona Coyotes,New York Rangers,25.0,51.0,63.0,31.0,63.0,64.0
+/zapas/2647704,0.0,0.0,Arizona Coyotes,Carolina Hurricanes,24.0,50.0,65.0,24.0,47.0,62.0
+/zapas/2647723,0.0,1.0,Arizona Coyotes,New York Islanders,22.0,46.0,65.0,28.0,54.0,62.0
 /zapas/2647736,0.0,1.0,Arizona Coyotes,Montreal Canadiens,22.0,45.0,63.0,30.0,61.0,68.0
+/zapas/2647749,1.0,1.0,Arizona Coyotes,Colorado Avalanche,21.0,42.0,60.0,38.0,70.0,60.0
+/zapas/2647763,1.0,0.0,Arizona Coyotes,San Jose Sharks,24.0,48.0,60.0,36.0,68.0,57.0
 /zapas/2647776,0.0,0.0,Arizona Coyotes,Los Angeles Kings,23.0,48.0,62.0,25.0,52.0,57.0
 /zapas/2647794,1.0,0.0,Arizona Coyotes,Anaheim Ducks,23.0,48.0,58.0,31.0,53.0,59.0
+/zapas/2647796,0.0,1.0,Arizona Coyotes,Vegas Golden Knights,22.0,51.0,61.0,40.0,67.0,53.0
 /zapas/2647818,0.0,1.0,Arizona Coyotes,Edmonton Oilers,22.0,51.0,64.0,26.0,57.0,66.0
 /zapas/2647832,0.0,1.0,Arizona Coyotes,New Jersey Devils,21.0,50.0,64.0,25.0,62.0,71.0
 /zapas/2647845,1.0,1.0,Arizona Coyotes,New York Rangers,22.0,51.0,62.0,25.0,53.0,72.0
 /zapas/2647878,1.0,0.0,Arizona Coyotes,Vancouver Canucks,25.0,55.0,56.0,30.0,55.0,51.0
 /zapas/2647895,1.0,0.0,Arizona Coyotes,Edmonton Oilers,24.0,55.0,56.0,29.0,59.0,65.0
+/zapas/2647902,0.0,0.0,Arizona Coyotes,Calgary Flames,24.0,55.0,58.0,42.0,78.0,58.0
+/zapas/2647923,1.0,1.0,Arizona Coyotes,San Jose Sharks,21.0,50.0,64.0,47.0,87.0,54.0
+/zapas/2647936,0.0,1.0,Arizona Coyotes,Pittsburgh Penguins,21.0,54.0,66.0,41.0,74.0,50.0
+/zapas/2647952,1.0,0.0,Arizona Coyotes,Toronto Maple Leafs,22.0,54.0,65.0,30.0,68.0,63.0
 /zapas/2647959,1.0,0.0,Arizona Coyotes,Ottawa Senators,25.0,55.0,62.0,20.0,52.0,65.0
 /zapas/2647964,0.0,0.0,Arizona Coyotes,Montreal Canadiens,28.0,55.0,60.0,33.0,56.0,54.0
+/zapas/2647999,0.0,0.0,Arizona Coyotes,San Jose Sharks,28.0,55.0,59.0,40.0,85.0,69.0
+/zapas/2648006,0.0,0.0,Arizona Coyotes,Dallas Stars,27.0,53.0,59.0,32.0,45.0,43.0
+/zapas/2648015,0.0,0.0,Arizona Coyotes,Nashville Predators,27.0,57.0,61.0,28.0,59.0,53.0
+/zapas/2648034,0.0,1.0,Arizona Coyotes,Columbus Blue Jackets,27.0,58.0,63.0,32.0,62.0,57.0
+/zapas/2648043,1.0,1.0,Arizona Coyotes,Dallas Stars,27.0,59.0,65.0,33.0,46.0,44.0
+/zapas/2648072,1.0,0.0,Arizona Coyotes,Vegas Golden Knights,27.0,56.0,63.0,33.0,59.0,53.0
+/zapas/2648082,0.0,1.0,Arizona Coyotes,St. Louis Blues,28.0,57.0,62.0,38.0,63.0,47.0
+/zapas/2648093,1.0,1.0,Arizona Coyotes,Toronto Maple Leafs,28.0,56.0,64.0,33.0,66.0,59.0
+/zapas/2648108,0.0,0.0,Arizona Coyotes,Calgary Flames,29.0,53.0,60.0,38.0,81.0,70.0
 /zapas/2648122,1.0,0.0,Arizona Coyotes,Edmonton Oilers,29.0,54.0,60.0,18.0,55.0,73.0
 /zapas/2648137,1.0,0.0,Arizona Coyotes,Vancouver Canucks,31.0,56.0,59.0,23.0,49.0,61.0
+/zapas/2648159,1.0,1.0,Arizona Coyotes,Winnipeg Jets,32.0,57.0,58.0,33.0,70.0,65.0
 /zapas/2648175,1.0,1.0,Arizona Coyotes,Florida Panthers,32.0,56.0,59.0,30.0,63.0,60.0
 /zapas/2648186,1.0,1.0,Arizona Coyotes,Vancouver Canucks,32.0,56.0,59.0,24.0,50.0,60.0
 /zapas/2648204,1.0,1.0,Arizona Coyotes,Detroit Red Wings,32.0,58.0,59.0,22.0,54.0,69.0
 /zapas/2648225,0.0,1.0,Arizona Coyotes,Anaheim Ducks,35.0,60.0,53.0,18.0,32.0,63.0
+/zapas/2648239,1.0,1.0,Arizona Coyotes,Calgary Flames,32.0,55.0,53.0,35.0,62.0,61.0
 /zapas/2648254,1.0,1.0,Arizona Coyotes,Los Angeles Kings,34.0,55.0,50.0,20.0,52.0,75.0
 /zapas/2648267,0.0,0.0,Arizona Coyotes,Chicago Blackhawks,34.0,55.0,50.0,34.0,85.0,76.0
+/zapas/2648274,1.0,0.0,Arizona Coyotes,St. Louis Blues,31.0,53.0,55.0,43.0,64.0,40.0
 /zapas/2648288,1.0,1.0,Arizona Coyotes,Anaheim Ducks,34.0,55.0,54.0,21.0,44.0,63.0
 /zapas/2648307,0.0,1.0,Arizona Coyotes,Edmonton Oilers,36.0,59.0,52.0,26.0,54.0,66.0
+/zapas/2648316,0.0,0.0,Arizona Coyotes,Tampa Bay Lightning,37.0,57.0,50.0,47.0,78.0,44.0
 /zapas/2648334,0.0,0.0,Arizona Coyotes,Florida Panthers,37.0,56.0,49.0,29.0,70.0,62.0
 /zapas/2648348,0.0,0.0,Arizona Coyotes,New Jersey Devils,37.0,56.0,49.0,17.0,47.0,72.0
+/zapas/2648363,0.0,0.0,Arizona Coyotes,New York Islanders,35.0,54.0,49.0,29.0,50.0,51.0
 /zapas/2648382,1.0,1.0,Arizona Coyotes,Chicago Blackhawks,32.0,49.0,49.0,31.0,71.0,70.0
+/zapas/2648398,0.0,0.0,Arizona Coyotes,Colorado Avalanche,35.0,50.0,45.0,36.0,58.0,43.0
 /zapas/2648414,1.0,1.0,Arizona Coyotes,Minnesota Wild,33.0,50.0,48.0,29.0,42.0,54.0
 /zapas/2648436,0.0,1.0,Arizona Coyotes,Los Angeles Kings,36.0,52.0,43.0,19.0,49.0,73.0
-/zapas/2891020,0.0,0.0,Arizona Coyotes,Nashville Predators,33.0,49.0,46.0,26.0,56.0,64.0
-/zapas/2891021,1.0,1.0,Arizona Coyotes,Nashville Predators,30.0,46.0,48.0,26.0,55.0,64.0
-/zapas/2891022,1.0,1.0,Arizona Coyotes,Nashville Predators,30.0,47.0,48.0,23.0,51.0,64.0
-/zapas/2891084,1.0,1.0,Arizona Coyotes,Colorado Avalanche,26.0,46.0,52.0,30.0,56.0,55.0
-/zapas/2891085,0.0,1.0,Arizona Coyotes,Colorado Avalanche,29.0,49.0,47.0,30.0,56.0,54.0
-/zapas/2891086,0.0,0.0,Arizona Coyotes,Colorado Avalanche,26.0,47.0,53.0,33.0,59.0,50.0
-/zapas/2893217,0.0,1.0,Arizona Coyotes,San Jose Sharks,23.0,42.0,59.0,24.0,52.0,59.0
-/zapas/2893234,1.0,1.0,Arizona Coyotes,San Jose Sharks,23.0,43.0,60.0,23.0,52.0,60.0
-/zapas/2893307,0.0,1.0,Arizona Coyotes,Anaheim Ducks,25.0,52.0,63.0,26.0,52.0,61.0
-/zapas/2893321,1.0,1.0,Arizona Coyotes,Anaheim Ducks,24.0,50.0,61.0,26.0,48.0,60.0
-/zapas/2893475,0.0,1.0,Arizona Coyotes,Los Angeles Kings,25.0,48.0,64.0,34.0,64.0,52.0
-/zapas/2893490,0.0,1.0,Arizona Coyotes,Los Angeles Kings,26.0,50.0,64.0,34.0,65.0,53.0
-/zapas/2893505,1.0,1.0,Arizona Coyotes,Anaheim Ducks,26.0,50.0,65.0,23.0,41.0,56.0
-/zapas/2893517,1.0,1.0,Arizona Coyotes,Anaheim Ducks,26.0,50.0,66.0,20.0,39.0,58.0
+/zapas/2648451,1.0,0.0,Arizona Coyotes,Vegas Golden Knights,34.0,50.0,44.0,35.0,66.0,52.0
+/zapas/2648466,0.0,1.0,Arizona Coyotes,Winnipeg Jets,35.0,51.0,43.0,27.0,59.0,61.0
+/zapas/2806388,0.0,0.0,Arizona Coyotes,Anaheim Ducks,32.0,49.0,46.0,33.0,60.0,60.0
+/zapas/2806402,0.0,1.0,Arizona Coyotes,Boston Bruins,30.0,46.0,45.0,37.0,72.0,56.0
+/zapas/2806433,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,27.0,41.0,44.0,35.0,66.0,49.0
+/zapas/2806448,0.0,0.0,Arizona Coyotes,Colorado Avalanche,27.0,42.0,44.0,38.0,58.0,47.0
+/zapas/2806463,1.0,0.0,Arizona Coyotes,Winnipeg Jets,28.0,43.0,44.0,31.0,59.0,63.0
+/zapas/2806480,1.0,1.0,Arizona Coyotes,Nashville Predators,28.0,45.0,46.0,39.0,66.0,57.0
+/zapas/2806491,1.0,1.0,Arizona Coyotes,Ottawa Senators,28.0,46.0,46.0,21.0,55.0,69.0
+/zapas/2806512,1.0,0.0,Arizona Coyotes,New York Rangers,31.0,50.0,41.0,18.0,48.0,70.0
+/zapas/2806522,0.0,0.0,Arizona Coyotes,New York Islanders,30.0,50.0,42.0,31.0,47.0,47.0
+/zapas/2806533,1.0,0.0,Arizona Coyotes,New Jersey Devils,27.0,46.0,45.0,25.0,46.0,65.0
+/zapas/2806553,1.0,0.0,Arizona Coyotes,Buffalo Sabres,29.0,49.0,45.0,32.0,62.0,57.0
+/zapas/2806567,0.0,1.0,Arizona Coyotes,Montreal Canadiens,31.0,51.0,43.0,34.0,76.0,59.0
+/zapas/2806590,1.0,1.0,Arizona Coyotes,Colorado Avalanche,31.0,50.0,43.0,36.0,69.0,55.0
+/zapas/2806599,1.0,0.0,Arizona Coyotes,Edmonton Oilers,33.0,52.0,41.0,31.0,53.0,56.0
+/zapas/2806607,0.0,0.0,Arizona Coyotes,Calgary Flames,35.0,55.0,41.0,26.0,57.0,58.0
+/zapas/2806622,0.0,1.0,Arizona Coyotes,Columbus Blue Jackets,33.0,57.0,45.0,26.0,55.0,64.0
+/zapas/2806635,0.0,1.0,Arizona Coyotes,Minnesota Wild,32.0,57.0,45.0,19.0,47.0,68.0
+/zapas/2806646,1.0,0.0,Arizona Coyotes,Washington Capitals,29.0,56.0,49.0,41.0,76.0,59.0
+/zapas/2806651,1.0,0.0,Arizona Coyotes,St. Louis Blues,31.0,59.0,49.0,39.0,67.0,57.0
+/zapas/2806665,0.0,0.0,Arizona Coyotes,Minnesota Wild,30.0,58.0,50.0,19.0,47.0,69.0
+/zapas/2806677,1.0,1.0,Arizona Coyotes,Calgary Flames,30.0,58.0,49.0,29.0,57.0,56.0
+/zapas/2806693,1.0,1.0,Arizona Coyotes,Los Angeles Kings,33.0,60.0,47.0,22.0,53.0,72.0
+/zapas/2806719,0.0,1.0,Arizona Coyotes,Toronto Maple Leafs,36.0,63.0,46.0,21.0,59.0,71.0
+/zapas/2806726,1.0,0.0,Arizona Coyotes,Los Angeles Kings,33.0,60.0,48.0,23.0,49.0,67.0
+/zapas/2806740,0.0,1.0,Arizona Coyotes,Edmonton Oilers,35.0,61.0,47.0,31.0,59.0,57.0
+/zapas/2806762,1.0,1.0,Arizona Coyotes,Anaheim Ducks,33.0,60.0,49.0,23.0,57.0,69.0
+/zapas/2806775,0.0,0.0,Arizona Coyotes,Vegas Golden Knights,32.0,59.0,50.0,25.0,55.0,61.0
+/zapas/2806787,0.0,1.0,Arizona Coyotes,San Jose Sharks,30.0,55.0,50.0,29.0,60.0,65.0
+/zapas/2806805,1.0,0.0,Arizona Coyotes,Columbus Blue Jackets,28.0,54.0,52.0,25.0,52.0,60.0
+/zapas/2806818,1.0,0.0,Arizona Coyotes,Philadelphia Flyers,31.0,56.0,50.0,35.0,66.0,57.0
+/zapas/2806825,0.0,0.0,Arizona Coyotes,Pittsburgh Penguins,31.0,54.0,48.0,28.0,64.0,58.0
+/zapas/2806842,1.0,0.0,Arizona Coyotes,Chicago Blackhawks,29.0,51.0,48.0,30.0,60.0,59.0
+/zapas/2806856,0.0,1.0,Arizona Coyotes,Calgary Flames,31.0,54.0,47.0,28.0,51.0,59.0
+/zapas/2806871,1.0,1.0,Arizona Coyotes,Chicago Blackhawks,28.0,53.0,52.0,28.0,59.0,64.0
+/zapas/2806888,0.0,1.0,Arizona Coyotes,New Jersey Devils,29.0,55.0,52.0,20.0,44.0,67.0
+/zapas/2806910,1.0,0.0,Arizona Coyotes,San Jose Sharks,28.0,53.0,50.0,32.0,60.0,66.0
+/zapas/2806922,0.0,1.0,Arizona Coyotes,Minnesota Wild,31.0,54.0,49.0,36.0,70.0,64.0
+/zapas/2806943,1.0,0.0,Arizona Coyotes,Detroit Red Wings,31.0,56.0,53.0,16.0,45.0,77.0
+/zapas/2806952,0.0,0.0,Arizona Coyotes,Nashville Predators,32.0,57.0,52.0,26.0,63.0,71.0
+/zapas/2806976,0.0,0.0,Arizona Coyotes,Vegas Golden Knights,30.0,56.0,53.0,33.0,63.0,57.0
+/zapas/2806985,0.0,1.0,Arizona Coyotes,Dallas Stars,30.0,55.0,54.0,33.0,57.0,53.0
+/zapas/2807001,1.0,1.0,Arizona Coyotes,St. Louis Blues,27.0,54.0,58.0,42.0,66.0,47.0
+/zapas/2807012,1.0,1.0,Arizona Coyotes,Anaheim Ducks,27.0,54.0,59.0,21.0,50.0,66.0
+/zapas/2807026,1.0,1.0,Arizona Coyotes,Philadelphia Flyers,30.0,57.0,58.0,34.0,68.0,58.0
+/zapas/2807040,1.0,0.0,Arizona Coyotes,Florida Panthers,30.0,60.0,58.0,30.0,67.0,61.0
+/zapas/2807056,0.0,0.0,Arizona Coyotes,Tampa Bay Lightning,32.0,62.0,56.0,39.0,73.0,55.0
+/zapas/2807066,0.0,0.0,Arizona Coyotes,Carolina Hurricanes,30.0,58.0,57.0,32.0,64.0,55.0
+/zapas/2807082,0.0,1.0,Arizona Coyotes,Pittsburgh Penguins,29.0,57.0,58.0,39.0,69.0,57.0
+/zapas/2807100,1.0,1.0,Arizona Coyotes,San Jose Sharks,30.0,58.0,58.0,23.0,48.0,64.0
+/zapas/2807115,0.0,0.0,Arizona Coyotes,Vancouver Canucks,30.0,60.0,59.0,33.0,65.0,66.0
+/zapas/2807121,0.0,0.0,Arizona Coyotes,Edmonton Oilers,27.0,58.0,61.0,29.0,60.0,68.0
+/zapas/2807154,0.0,0.0,Arizona Coyotes,Anaheim Ducks,27.0,61.0,66.0,17.0,47.0,67.0
+/zapas/2807160,0.0,1.0,Arizona Coyotes,Los Angeles Kings,25.0,59.0,67.0,22.0,50.0,60.0
+/zapas/2807176,0.0,1.0,Arizona Coyotes,Chicago Blackhawks,26.0,59.0,65.0,34.0,71.0,63.0
+/zapas/2807200,1.0,1.0,Arizona Coyotes,Edmonton Oilers,24.0,56.0,66.0,32.0,73.0,69.0
+/zapas/2807214,0.0,1.0,Arizona Coyotes,Carolina Hurricanes,27.0,58.0,64.0,28.0,62.0,59.0
+/zapas/2807220,0.0,0.0,Arizona Coyotes,Boston Bruins,24.0,58.0,67.0,39.0,65.0,48.0
+/zapas/2807236,1.0,0.0,Arizona Coyotes,Montreal Canadiens,24.0,55.0,63.0,23.0,56.0,56.0
+/zapas/2807243,0.0,0.0,Arizona Coyotes,Toronto Maple Leafs,24.0,53.0,63.0,34.0,79.0,72.0
+/zapas/2807261,0.0,0.0,Arizona Coyotes,Ottawa Senators,25.0,53.0,63.0,17.0,48.0,74.0
+/zapas/2807280,1.0,1.0,Arizona Coyotes,Washington Capitals,25.0,54.0,62.0,31.0,71.0,70.0
+/zapas/2807293,1.0,1.0,Arizona Coyotes,New York Islanders,28.0,55.0,59.0,28.0,56.0,60.0
+/zapas/2807305,0.0,0.0,Arizona Coyotes,Dallas Stars,28.0,54.0,59.0,36.0,58.0,52.0
+/zapas/2807314,0.0,0.0,Arizona Coyotes,St. Louis Blues,25.0,52.0,60.0,24.0,63.0,68.0
+/zapas/2807330,1.0,1.0,Arizona Coyotes,Tampa Bay Lightning,22.0,46.0,59.0,45.0,71.0,39.0
+/zapas/2807355,0.0,1.0,Arizona Coyotes,Florida Panthers,22.0,48.0,60.0,31.0,66.0,71.0
+/zapas/2807382,1.0,1.0,Arizona Coyotes,Buffalo Sabres,22.0,49.0,58.0,29.0,58.0,60.0
+/zapas/2807408,1.0,0.0,Arizona Coyotes,Vancouver Canucks,25.0,54.0,57.0,30.0,63.0,62.0
+/zapas/2807422,0.0,0.0,Arizona Coyotes,Calgary Flames,27.0,55.0,55.0,29.0,73.0,67.0
+/zapas/2807443,0.0,0.0,Arizona Coyotes,Winnipeg Jets,24.0,51.0,55.0,32.0,60.0,47.0
+/zapas/2893217,0.0,1.0,Arizona Coyotes,San Jose Sharks,24.0,52.0,56.0,24.0,52.0,59.0
+/zapas/2893234,1.0,1.0,Arizona Coyotes,San Jose Sharks,25.0,52.0,53.0,23.0,52.0,60.0
+/zapas/2893252,0.0,0.0,Arizona Coyotes,Vegas Golden Knights,28.0,55.0,52.0,42.0,69.0,52.0
+/zapas/2893266,0.0,0.0,Arizona Coyotes,Vegas Golden Knights,27.0,55.0,53.0,42.0,70.0,54.0
+/zapas/2893278,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,26.0,55.0,55.0,45.0,73.0,52.0
+/zapas/2893295,0.0,1.0,Arizona Coyotes,Vegas Golden Knights,26.0,57.0,57.0,42.0,68.0,55.0
+/zapas/2893307,0.0,1.0,Arizona Coyotes,Anaheim Ducks,26.0,54.0,53.0,26.0,52.0,61.0
+/zapas/2893321,1.0,1.0,Arizona Coyotes,Anaheim Ducks,26.0,52.0,50.0,26.0,48.0,60.0
+/zapas/2893359,0.0,0.0,Arizona Coyotes,St. Louis Blues,26.0,52.0,50.0,43.0,67.0,50.0
+/zapas/2893372,1.0,0.0,Arizona Coyotes,St. Louis Blues,25.0,53.0,51.0,43.0,70.0,53.0
+/zapas/2893756,1.0,0.0,Arizona Coyotes,St. Louis Blues,28.0,55.0,51.0,40.0,68.0,56.0
+/zapas/2893773,1.0,0.0,Arizona Coyotes,St. Louis Blues,28.0,55.0,51.0,37.0,65.0,58.0
+/zapas/2893892,0.0,1.0,Arizona Coyotes,St. Louis Blues,27.0,57.0,53.0,35.0,62.0,57.0
+/zapas/2893441,0.0,1.0,Arizona Coyotes,St. Louis Blues,27.0,56.0,54.0,36.0,63.0,56.0
+/zapas/2893454,1.0,1.0,Arizona Coyotes,St. Louis Blues,28.0,60.0,58.0,36.0,64.0,57.0
+/zapas/2893475,0.0,1.0,Arizona Coyotes,Los Angeles Kings,28.0,54.0,55.0,34.0,64.0,52.0
+/zapas/2893490,0.0,1.0,Arizona Coyotes,Los Angeles Kings,29.0,55.0,56.0,34.0,65.0,53.0
+/zapas/2893505,1.0,1.0,Arizona Coyotes,Anaheim Ducks,26.0,52.0,58.0,23.0,41.0,56.0
+/zapas/2893517,1.0,1.0,Arizona Coyotes,Anaheim Ducks,26.0,52.0,59.0,20.0,39.0,58.0
+/zapas/2893521,0.0,1.0,Arizona Coyotes,Colorado Avalanche,28.0,54.0,59.0,32.0,57.0,52.0
+/zapas/2893540,0.0,1.0,Arizona Coyotes,Colorado Avalanche,28.0,54.0,58.0,35.0,57.0,48.0
 /zapas/2893950,1.0,0.0,Arizona Coyotes,Los Angeles Kings,27.0,53.0,60.0,30.0,60.0,56.0
+/zapas/2893583,0.0,1.0,Arizona Coyotes,Minnesota Wild,27.0,51.0,59.0,33.0,62.0,54.0
+/zapas/2893593,1.0,1.0,Arizona Coyotes,Minnesota Wild,27.0,50.0,60.0,34.0,63.0,52.0
+/zapas/2893606,1.0,0.0,Arizona Coyotes,Colorado Avalanche,30.0,53.0,57.0,36.0,59.0,51.0
+/zapas/2893620,0.0,0.0,Arizona Coyotes,Colorado Avalanche,30.0,51.0,57.0,33.0,58.0,52.0
+/zapas/2893634,0.0,0.0,Arizona Coyotes,Minnesota Wild,31.0,52.0,58.0,35.0,64.0,54.0
+/zapas/2893650,0.0,0.0,Arizona Coyotes,Minnesota Wild,31.0,52.0,61.0,35.0,64.0,53.0
+/zapas/2893388,0.0,0.0,Arizona Coyotes,Minnesota Wild,28.0,50.0,63.0,38.0,65.0,49.0
 /zapas/2893684,0.0,0.0,Arizona Coyotes,Anaheim Ducks,28.0,47.0,62.0,16.0,51.0,76.0
 /zapas/2893669,1.0,0.0,Arizona Coyotes,Anaheim Ducks,26.0,45.0,62.0,15.0,51.0,77.0
+/zapas/2893710,0.0,1.0,Arizona Coyotes,Colorado Avalanche,26.0,47.0,62.0,39.0,64.0,46.0
+/zapas/2893716,1.0,1.0,Arizona Coyotes,Colorado Avalanche,24.0,44.0,64.0,41.0,66.0,43.0
 /zapas/2893736,1.0,1.0,Arizona Coyotes,San Jose Sharks,26.0,48.0,64.0,26.0,57.0,66.0
 /zapas/2893748,1.0,1.0,Arizona Coyotes,San Jose Sharks,28.0,49.0,61.0,26.0,57.0,65.0
+/zapas/2893413,0.0,0.0,Arizona Coyotes,Colorado Avalanche,28.0,52.0,61.0,40.0,74.0,48.0
 /zapas/2893791,1.0,0.0,Arizona Coyotes,Anaheim Ducks,27.0,53.0,67.0,14.0,50.0,78.0
 /zapas/2893812,1.0,0.0,Arizona Coyotes,Anaheim Ducks,30.0,55.0,65.0,14.0,51.0,77.0
 /zapas/2893818,1.0,0.0,Arizona Coyotes,Los Angeles Kings,29.0,54.0,64.0,23.0,47.0,54.0
 /zapas/2893832,0.0,0.0,Arizona Coyotes,Los Angeles Kings,30.0,55.0,63.0,20.0,46.0,59.0
+/zapas/2893847,0.0,0.0,Arizona Coyotes,Vegas Golden Knights,30.0,56.0,64.0,34.0,64.0,48.0
+/zapas/2893863,0.0,0.0,Arizona Coyotes,Vegas Golden Knights,30.0,58.0,65.0,34.0,66.0,51.0
+/zapas/2893427,0.0,0.0,Arizona Coyotes,Colorado Avalanche,27.0,55.0,64.0,47.0,82.0,46.0
+/zapas/2893397,0.0,0.0,Arizona Coyotes,Minnesota Wild,27.0,56.0,63.0,37.0,57.0,55.0
+/zapas/2893908,1.0,1.0,Arizona Coyotes,St. Louis Blues,24.0,53.0,66.0,22.0,50.0,61.0
+/zapas/2893920,0.0,1.0,Arizona Coyotes,Minnesota Wild,24.0,53.0,66.0,40.0,61.0,55.0
+/zapas/2893935,0.0,1.0,Arizona Coyotes,Minnesota Wild,23.0,54.0,69.0,40.0,62.0,54.0
 /zapas/2893960,1.0,0.0,Arizona Coyotes,Los Angeles Kings,23.0,55.0,69.0,21.0,47.0,61.0
 /zapas/2893974,0.0,0.0,Arizona Coyotes,San Jose Sharks,26.0,58.0,65.0,22.0,45.0,67.0
 /zapas/2893989,0.0,0.0,Arizona Coyotes,San Jose Sharks,26.0,62.0,68.0,24.0,50.0,69.0
+/zapas/2894002,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,25.0,62.0,69.0,41.0,71.0,42.0
+/zapas/2894017,0.0,1.0,Arizona Coyotes,Vegas Golden Knights,25.0,60.0,68.0,41.0,70.0,42.0
 /zapas/2894030,0.0,1.0,Arizona Coyotes,Los Angeles Kings,26.0,61.0,66.0,21.0,45.0,64.0
 /zapas/2894044,0.0,1.0,Arizona Coyotes,Los Angeles Kings,24.0,58.0,65.0,21.0,45.0,65.0
 /zapas/2894061,1.0,0.0,Arizona Coyotes,San Jose Sharks,21.0,55.0,67.0,25.0,54.0,68.0
 /zapas/2894076,1.0,0.0,Arizona Coyotes,San Jose Sharks,21.0,56.0,69.0,23.0,52.0,70.0
 /zapas/2896997,0.0,0.0,Arizona Coyotes,Columbus Blue Jackets,23.0,58.0,64.0,17.0,46.0,70.0
 /zapas/2897007,0.0,0.0,Arizona Coyotes,Buffalo Sabres,20.0,56.0,70.0,24.0,61.0,72.0
-/zapas/2897047,0.0,1.0,Arizona Coyotes,New York Islanders,16.0,51.0,76.0,32.0,55.0,58.0
+/zapas/2897016,0.0,1.0,Arizona Coyotes,St. Louis Blues,19.0,54.0,70.0,36.0,71.0,55.0
+/zapas/2897033,0.0,1.0,Arizona Coyotes,Edmonton Oilers,16.0,53.0,75.0,42.0,70.0,51.0
+/zapas/2897047,0.0,1.0,Arizona Coyotes,New York Islanders,16.0,51.0,76.0,23.0,45.0,51.0
+/zapas/2897067,0.0,0.0,Arizona Coyotes,Florida Panthers,16.0,47.0,72.0,44.0,79.0,51.0
+/zapas/2897089,0.0,0.0,Arizona Coyotes,Tampa Bay Lightning,16.0,50.0,76.0,28.0,56.0,64.0
+/zapas/2897096,0.0,0.0,Arizona Coyotes,Washington Capitals,16.0,49.0,77.0,38.0,67.0,55.0
+/zapas/2897112,0.0,0.0,Arizona Coyotes,Carolina Hurricanes,16.0,47.0,74.0,45.0,70.0,43.0
 /zapas/2897124,0.0,0.0,Arizona Coyotes,Philadelphia Flyers,13.0,45.0,74.0,29.0,63.0,67.0
 /zapas/2897139,0.0,0.0,Arizona Coyotes,Anaheim Ducks,13.0,43.0,72.0,24.0,57.0,63.0
+/zapas/2897173,0.0,1.0,Arizona Coyotes,Minnesota Wild,13.0,44.0,75.0,31.0,67.0,73.0
 /zapas/2897187,0.0,0.0,Arizona Coyotes,Chicago Blackhawks,13.0,42.0,74.0,15.0,50.0,74.0
+/zapas/2897195,0.0,0.0,Arizona Coyotes,Nashville Predators,13.0,41.0,72.0,32.0,59.0,53.0
+/zapas/2897215,1.0,0.0,Arizona Coyotes,St. Louis Blues,10.0,39.0,76.0,35.0,68.0,54.0
 /zapas/2897231,0.0,1.0,Arizona Coyotes,Columbus Blue Jackets,12.0,40.0,75.0,30.0,62.0,61.0
 /zapas/2897246,1.0,1.0,Arizona Coyotes,Detroit Red Wings,13.0,42.0,77.0,24.0,57.0,70.0
+/zapas/2897256,1.0,0.0,Arizona Coyotes,Los Angeles Kings,15.0,42.0,74.0,24.0,48.0,57.0
+/zapas/2897275,0.0,1.0,Arizona Coyotes,Edmonton Oilers,14.0,39.0,73.0,38.0,74.0,61.0
+/zapas/2897302,0.0,1.0,Arizona Coyotes,Dallas Stars,12.0,37.0,74.0,27.0,57.0,61.0
 /zapas/2897315,1.0,0.0,Arizona Coyotes,Winnipeg Jets,12.0,37.0,69.0,32.0,59.0,56.0
+/zapas/2897322,0.0,0.0,Arizona Coyotes,Minnesota Wild,14.0,37.0,67.0,35.0,76.0,63.0
 /zapas/2897345,0.0,1.0,Arizona Coyotes,Vegas Golden Knights,14.0,35.0,65.0,31.0,65.0,61.0
+/zapas/2897366,0.0,0.0,Arizona Coyotes,Dallas Stars,14.0,35.0,67.0,32.0,57.0,56.0
+/zapas/2897396,0.0,1.0,Arizona Coyotes,Florida Panthers,14.0,36.0,68.0,36.0,74.0,62.0
 /zapas/2897405,0.0,1.0,Arizona Coyotes,Philadelphia Flyers,14.0,34.0,66.0,20.0,37.0,69.0
+/zapas/2897433,0.0,1.0,Arizona Coyotes,New York Rangers,14.0,36.0,66.0,40.0,62.0,54.0
 /zapas/2897446,1.0,0.0,Arizona Coyotes,Anaheim Ducks,14.0,38.0,67.0,36.0,63.0,48.0
 /zapas/2897519,0.0,0.0,Arizona Coyotes,San Jose Sharks,16.0,43.0,70.0,26.0,48.0,58.0
 /zapas/2897570,0.0,1.0,Arizona Coyotes,Winnipeg Jets,17.0,50.0,75.0,28.0,58.0,59.0
 /zapas/2897585,1.0,1.0,Arizona Coyotes,Chicago Blackhawks,17.0,50.0,75.0,25.0,49.0,64.0
+/zapas/2897601,0.0,1.0,Arizona Coyotes,Nashville Predators,17.0,51.0,75.0,38.0,64.0,54.0
+/zapas/2897628,1.0,1.0,Arizona Coyotes,Toronto Maple Leafs,17.0,51.0,74.0,45.0,80.0,49.0
+/zapas/2897642,0.0,0.0,Arizona Coyotes,Colorado Avalanche,20.0,52.0,73.0,45.0,96.0,68.0
+/zapas/2897649,0.0,1.0,Arizona Coyotes,Colorado Avalanche,21.0,54.0,73.0,44.0,93.0,68.0
 /zapas/2897667,1.0,1.0,Arizona Coyotes,Montreal Canadiens,18.0,51.0,76.0,11.0,42.0,78.0
 /zapas/2897683,1.0,0.0,Arizona Coyotes,New Jersey Devils,20.0,52.0,73.0,17.0,57.0,77.0
 /zapas/2897699,0.0,0.0,Arizona Coyotes,New York Islanders,21.0,54.0,73.0,26.0,47.0,55.0
+/zapas/2897711,0.0,0.0,Arizona Coyotes,New York Rangers,19.0,52.0,76.0,36.0,58.0,50.0
+/zapas/2897731,0.0,0.0,Arizona Coyotes,Pittsburgh Penguins,19.0,52.0,78.0,46.0,77.0,49.0
+/zapas/2897748,0.0,1.0,Arizona Coyotes,Boston Bruins,19.0,53.0,81.0,37.0,66.0,58.0
 /zapas/2897754,0.0,1.0,Arizona Coyotes,Buffalo Sabres,16.0,53.0,83.0,18.0,47.0,70.0
+/zapas/2897777,1.0,0.0,Arizona Coyotes,Colorado Avalanche,16.0,52.0,81.0,49.0,82.0,47.0
+/zapas/2897788,0.0,1.0,Arizona Coyotes,Calgary Flames,18.0,54.0,76.0,28.0,62.0,60.0
 /zapas/2897462,0.0,0.0,Arizona Coyotes,Vancouver Canucks,18.0,55.0,76.0,34.0,51.0,46.0
 /zapas/2897477,1.0,0.0,Arizona Coyotes,Seattle Kraken,18.0,55.0,78.0,18.0,48.0,66.0
+/zapas/2897493,0.0,1.0,Arizona Coyotes,Tampa Bay Lightning,21.0,57.0,75.0,38.0,70.0,59.0
+/zapas/2897508,0.0,1.0,Arizona Coyotes,Los Angeles Kings,21.0,58.0,76.0,36.0,65.0,61.0
+/zapas/2897558,1.0,1.0,Arizona Coyotes,Dallas Stars,19.0,55.0,76.0,35.0,67.0,61.0
+/zapas/2897792,0.0,1.0,Arizona Coyotes,Los Angeles Kings,21.0,51.0,69.0,36.0,67.0,62.0
 /zapas/2897806,1.0,1.0,Arizona Coyotes,Vegas Golden Knights,21.0,52.0,69.0,29.0,58.0,56.0
 /zapas/2897822,0.0,1.0,Arizona Coyotes,Winnipeg Jets,21.0,49.0,66.0,22.0,52.0,67.0
+/zapas/2897847,1.0,1.0,Arizona Coyotes,Colorado Avalanche,21.0,50.0,67.0,49.0,71.0,41.0
 /zapas/2897864,1.0,1.0,Arizona Coyotes,Ottawa Senators,21.0,50.0,67.0,26.0,43.0,48.0
 /zapas/2897890,1.0,0.0,Arizona Coyotes,Detroit Red Wings,23.0,55.0,68.0,21.0,64.0,81.0
+/zapas/2897902,1.0,0.0,Arizona Coyotes,Toronto Maple Leafs,26.0,64.0,65.0,38.0,87.0,72.0
+/zapas/2897918,0.0,0.0,Arizona Coyotes,Boston Bruins,25.0,64.0,67.0,33.0,58.0,56.0
 /zapas/2897933,1.0,0.0,Arizona Coyotes,Ottawa Senators,22.0,62.0,69.0,23.0,48.0,59.0
 /zapas/2897942,1.0,0.0,Arizona Coyotes,Montreal Canadiens,25.0,67.0,68.0,22.0,61.0,81.0
+/zapas/2897965,0.0,1.0,Arizona Coyotes,Pittsburgh Penguins,28.0,70.0,64.0,32.0,56.0,55.0
 /zapas/2897976,0.0,0.0,Arizona Coyotes,San Jose Sharks,28.0,68.0,62.0,19.0,45.0,69.0
 /zapas/2897995,0.0,1.0,Arizona Coyotes,Seattle Kraken,28.0,69.0,64.0,16.0,50.0,73.0
+/zapas/2898011,0.0,0.0,Arizona Coyotes,Calgary Flames,28.0,70.0,65.0,43.0,76.0,49.0
 /zapas/2898029,0.0,0.0,Arizona Coyotes,Winnipeg Jets,26.0,69.0,67.0,33.0,76.0,69.0
+/zapas/2898036,0.0,0.0,Arizona Coyotes,Edmonton Oilers,27.0,68.0,65.0,34.0,78.0,68.0
 /zapas/2898050,1.0,1.0,Arizona Coyotes,San Jose Sharks,27.0,68.0,66.0,24.0,49.0,65.0
 /zapas/2898064,0.0,1.0,Arizona Coyotes,Anaheim Ducks,27.0,68.0,66.0,13.0,49.0,83.0
 /zapas/2898084,1.0,0.0,Arizona Coyotes,Chicago Blackhawks,27.0,65.0,67.0,19.0,66.0,81.0
+/zapas/2898091,0.0,0.0,Arizona Coyotes,St. Louis Blues,29.0,65.0,64.0,34.0,76.0,67.0
 /zapas/2898109,0.0,1.0,Arizona Coyotes,Vancouver Canucks,26.0,63.0,68.0,34.0,68.0,57.0
 /zapas/2898124,0.0,0.0,Arizona Coyotes,Vegas Golden Knights,26.0,62.0,70.0,28.0,58.0,62.0
 /zapas/2898146,0.0,1.0,Arizona Coyotes,New Jersey Devils,23.0,60.0,75.0,19.0,64.0,78.0
 /zapas/2898162,0.0,0.0,Arizona Coyotes,Vancouver Canucks,23.0,59.0,76.0,33.0,65.0,59.0
+/zapas/2898180,0.0,0.0,Arizona Coyotes,Calgary Flames,20.0,58.0,82.0,38.0,69.0,54.0
+/zapas/2898198,0.0,1.0,Arizona Coyotes,Carolina Hurricanes,17.0,51.0,86.0,30.0,60.0,53.0
 /zapas/2898209,0.0,1.0,Arizona Coyotes,Chicago Blackhawks,14.0,45.0,89.0,16.0,63.0,81.0
+/zapas/2898225,0.0,1.0,Arizona Coyotes,Washington Capitals,13.0,43.0,89.0,37.0,81.0,71.0
+/zapas/2898229,0.0,1.0,Arizona Coyotes,St. Louis Blues,13.0,41.0,88.0,41.0,85.0,62.0
+/zapas/2898258,1.0,0.0,Arizona Coyotes,Minnesota Wild,11.0,40.0,90.0,45.0,78.0,50.0
+/zapas/2898269,1.0,0.0,Arizona Coyotes,Dallas Stars,11.0,39.0,90.0,35.0,55.0,60.0
+/zapas/2898280,1.0,1.0,Arizona Coyotes,Nashville Predators,13.0,42.0,89.0,30.0,64.0,75.0

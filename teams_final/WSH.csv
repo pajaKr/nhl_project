@@ -1,24 +1,348 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
-/zapas/2732004,1.0,1.0,Washington Capitals,Carolina Hurricanes,40.0,72.0,49.0,27.0,64.0,67.0
-/zapas/2732005,1.0,1.0,Washington Capitals,Carolina Hurricanes,41.0,72.0,48.0,26.0,63.0,67.0
-/zapas/2732006,0.0,0.0,Washington Capitals,Carolina Hurricanes,40.0,70.0,48.0,24.0,62.0,70.0
-/zapas/2732007,0.0,0.0,Washington Capitals,Carolina Hurricanes,40.0,68.0,50.0,24.0,64.0,69.0
-/zapas/2732008,1.0,1.0,Washington Capitals,Carolina Hurricanes,37.0,65.0,51.0,27.0,64.0,67.0
-/zapas/2732009,0.0,0.0,Washington Capitals,Carolina Hurricanes,37.0,67.0,48.0,27.0,62.0,67.0
-/zapas/2732010,0.0,1.0,Washington Capitals,Carolina Hurricanes,37.0,68.0,50.0,27.0,64.0,67.0
-/zapas/2891075,0.0,1.0,Washington Capitals,New York Islanders,35.0,65.0,51.0,32.0,55.0,52.0
-/zapas/2891076,0.0,1.0,Washington Capitals,New York Islanders,33.0,65.0,54.0,35.0,58.0,51.0
-/zapas/2891077,0.0,0.0,Washington Capitals,New York Islanders,30.0,63.0,57.0,38.0,63.0,50.0
-/zapas/2891078,1.0,0.0,Washington Capitals,New York Islanders,28.0,58.0,57.0,37.0,61.0,48.0
-/zapas/2891079,0.0,1.0,Washington Capitals,New York Islanders,31.0,59.0,55.0,37.0,59.0,46.0
-/zapas/2894336,1.0,1.0,Washington Capitals,Boston Bruins,31.0,57.0,55.0,35.0,59.0,51.0
-/zapas/2894337,0.0,1.0,Washington Capitals,Boston Bruins,33.0,58.0,54.0,33.0,55.0,52.0
-/zapas/2894338,0.0,0.0,Washington Capitals,Boston Bruins,31.0,58.0,58.0,32.0,57.0,54.0
-/zapas/2894339,0.0,0.0,Washington Capitals,Boston Bruins,29.0,56.0,61.0,31.0,56.0,56.0
-/zapas/2894340,0.0,1.0,Washington Capitals,Boston Bruins,29.0,53.0,59.0,31.0,56.0,55.0
-/zapas/2900317,1.0,0.0,Washington Capitals,Florida Panthers,26.0,51.0,60.0,21.0,57.0,75.0
-/zapas/2900318,0.0,0.0,Washington Capitals,Florida Panthers,26.0,52.0,61.0,21.0,57.0,75.0
-/zapas/2900319,1.0,1.0,Washington Capitals,Florida Panthers,23.0,47.0,64.0,21.0,58.0,74.0
-/zapas/2900320,0.0,1.0,Washington Capitals,Florida Panthers,23.0,49.0,62.0,21.0,56.0,73.0
-/zapas/2900321,0.0,0.0,Washington Capitals,Florida Panthers,21.0,47.0,63.0,23.0,54.0,68.0
-/zapas/2900322,0.0,1.0,Washington Capitals,Florida Panthers,19.0,46.0,65.0,26.0,58.0,65.0
+/zapas/2526392,1.0,1.0,Washington Capitals,Tampa Bay Lightning,27.0,53.0,63.0,44.0,78.0,51.0
+/zapas/2526402,1.0,0.0,Washington Capitals,Toronto Maple Leafs,30.0,54.0,61.0,33.0,64.0,57.0
+/zapas/2526435,0.0,1.0,Washington Capitals,Los Angeles Kings,30.0,53.0,61.0,28.0,57.0,48.0
+/zapas/2526456,1.0,1.0,Washington Capitals,Columbus Blue Jackets,30.0,53.0,58.0,31.0,55.0,49.0
+/zapas/2526466,1.0,1.0,Washington Capitals,San Jose Sharks,33.0,57.0,59.0,37.0,52.0,41.0
+/zapas/2526481,1.0,1.0,Washington Capitals,Chicago Blackhawks,34.0,57.0,57.0,27.0,55.0,55.0
+/zapas/2526494,1.0,1.0,Washington Capitals,New York Rangers,37.0,62.0,55.0,39.0,74.0,55.0
+/zapas/2526514,0.0,0.0,Washington Capitals,New York Islanders,40.0,64.0,51.0,32.0,76.0,72.0
+/zapas/2526523,1.0,1.0,Washington Capitals,Colorado Avalanche,37.0,60.0,52.0,26.0,64.0,71.0
+/zapas/2526533,1.0,0.0,Washington Capitals,Boston Bruins,40.0,64.0,52.0,34.0,55.0,50.0
+/zapas/2526556,1.0,1.0,Washington Capitals,Anaheim Ducks,40.0,65.0,52.0,29.0,50.0,56.0
+/zapas/2526576,1.0,0.0,Washington Capitals,Dallas Stars,39.0,65.0,52.0,29.0,58.0,60.0
+/zapas/2526596,0.0,0.0,Washington Capitals,Arizona Coyotes,39.0,66.0,53.0,16.0,39.0,60.0
+/zapas/2526607,0.0,0.0,Washington Capitals,Vegas Golden Knights,40.0,67.0,53.0,37.0,69.0,63.0
+/zapas/2526615,0.0,0.0,Washington Capitals,New York Rangers,37.0,63.0,55.0,35.0,65.0,49.0
+/zapas/2526623,1.0,1.0,Washington Capitals,Boston Bruins,36.0,61.0,55.0,40.0,63.0,43.0
+/zapas/2526643,1.0,1.0,Washington Capitals,New Jersey Devils,38.0,62.0,52.0,34.0,58.0,54.0
+/zapas/2526659,1.0,0.0,Washington Capitals,Carolina Hurricanes,41.0,65.0,48.0,29.0,53.0,63.0
+/zapas/2526700,1.0,1.0,Washington Capitals,St. Louis Blues,40.0,67.0,51.0,26.0,43.0,48.0
+/zapas/2526707,1.0,1.0,Washington Capitals,Vancouver Canucks,42.0,70.0,50.0,17.0,49.0,79.0
+/zapas/2526716,0.0,1.0,Washington Capitals,Carolina Hurricanes,42.0,68.0,49.0,28.0,53.0,64.0
+/zapas/2526720,1.0,0.0,Washington Capitals,Carolina Hurricanes,39.0,66.0,51.0,30.0,54.0,62.0
+/zapas/2526752,0.0,0.0,Washington Capitals,New Jersey Devils,39.0,66.0,52.0,30.0,61.0,60.0
+/zapas/2526759,0.0,1.0,Washington Capitals,Montreal Canadiens,40.0,67.0,51.0,25.0,56.0,61.0
+/zapas/2526775,0.0,1.0,Washington Capitals,Philadelphia Flyers,37.0,65.0,51.0,41.0,65.0,52.0
+/zapas/2526805,1.0,0.0,Washington Capitals,Florida Panthers,35.0,62.0,52.0,28.0,55.0,66.0
+/zapas/2526828,1.0,1.0,Washington Capitals,Philadelphia Flyers,35.0,60.0,52.0,36.0,58.0,55.0
+/zapas/2526842,0.0,0.0,Washington Capitals,Pittsburgh Penguins,35.0,61.0,53.0,33.0,62.0,51.0
+/zapas/2526859,0.0,1.0,Washington Capitals,Vegas Golden Knights,35.0,64.0,57.0,42.0,66.0,42.0
+/zapas/2526869,1.0,0.0,Washington Capitals,Columbus Blue Jackets,32.0,62.0,59.0,20.0,43.0,63.0
+/zapas/2526891,1.0,1.0,Washington Capitals,Columbus Blue Jackets,32.0,60.0,58.0,20.0,44.0,64.0
+/zapas/2526908,0.0,1.0,Washington Capitals,Detroit Red Wings,33.0,61.0,58.0,23.0,50.0,55.0
+/zapas/2526927,0.0,0.0,Washington Capitals,Winnipeg Jets,32.0,61.0,60.0,37.0,60.0,51.0
+/zapas/2526939,1.0,0.0,Washington Capitals,Minnesota Wild,32.0,62.0,61.0,41.0,66.0,52.0
+/zapas/2526956,0.0,0.0,Washington Capitals,Chicago Blackhawks,35.0,67.0,60.0,20.0,50.0,63.0
+/zapas/2526967,1.0,0.0,Washington Capitals,Buffalo Sabres,34.0,68.0,66.0,22.0,55.0,66.0
+/zapas/2526975,0.0,1.0,Washington Capitals,Tampa Bay Lightning,35.0,67.0,65.0,30.0,65.0,66.0
+/zapas/2526990,0.0,0.0,Washington Capitals,Florida Panthers,32.0,64.0,67.0,30.0,60.0,65.0
+/zapas/2527008,1.0,1.0,Washington Capitals,Buffalo Sabres,30.0,61.0,66.0,24.0,55.0,61.0
+/zapas/2527018,0.0,0.0,Washington Capitals,Columbus Blue Jackets,31.0,62.0,64.0,23.0,48.0,57.0
+/zapas/2527025,1.0,1.0,Washington Capitals,Ottawa Senators,28.0,60.0,68.0,18.0,53.0,70.0
+/zapas/2527060,1.0,1.0,Washington Capitals,Toronto Maple Leafs,31.0,62.0,67.0,42.0,71.0,52.0
+/zapas/2527082,0.0,0.0,Washington Capitals,Anaheim Ducks,31.0,63.0,66.0,36.0,59.0,55.0
+/zapas/2527096,0.0,0.0,Washington Capitals,Los Angeles Kings,30.0,60.0,66.0,34.0,61.0,53.0
+/zapas/2527108,1.0,0.0,Washington Capitals,San Jose Sharks,30.0,59.0,66.0,31.0,60.0,57.0
+/zapas/2527119,1.0,1.0,Washington Capitals,Winnipeg Jets,32.0,60.0,64.0,39.0,71.0,51.0
+/zapas/2527138,1.0,0.0,Washington Capitals,New York Islanders,31.0,59.0,64.0,22.0,52.0,66.0
+/zapas/2527146,1.0,1.0,Washington Capitals,New York Islanders,31.0,61.0,64.0,19.0,53.0,72.0
+/zapas/2527166,0.0,0.0,Washington Capitals,Philadelphia Flyers,34.0,63.0,60.0,33.0,62.0,58.0
+/zapas/2527177,1.0,1.0,Washington Capitals,Dallas Stars,34.0,63.0,62.0,26.0,44.0,58.0
+/zapas/2527195,1.0,0.0,Washington Capitals,Detroit Red Wings,34.0,64.0,63.0,17.0,47.0,67.0
+/zapas/2527208,1.0,0.0,Washington Capitals,Montreal Canadiens,34.0,61.0,61.0,20.0,44.0,65.0
+/zapas/2527224,1.0,0.0,Washington Capitals,New York Rangers,36.0,63.0,60.0,22.0,58.0,70.0
+/zapas/2527241,1.0,1.0,Washington Capitals,New York Rangers,38.0,64.0,58.0,19.0,57.0,73.0
+/zapas/2527256,0.0,1.0,Washington Capitals,Carolina Hurricanes,37.0,62.0,58.0,23.0,57.0,75.0
+/zapas/2527275,1.0,0.0,Washington Capitals,Pittsburgh Penguins,37.0,62.0,55.0,34.0,77.0,68.0
+/zapas/2527280,1.0,0.0,Washington Capitals,St. Louis Blues,37.0,62.0,54.0,26.0,48.0,61.0
+/zapas/2527298,0.0,1.0,Washington Capitals,Nashville Predators,40.0,64.0,52.0,41.0,67.0,51.0
+/zapas/2527317,1.0,1.0,Washington Capitals,New Jersey Devils,40.0,65.0,53.0,38.0,62.0,52.0
+/zapas/2647200,1.0,1.0,Washington Capitals,Boston Bruins,40.0,65.0,55.0,34.0,63.0,57.0
+/zapas/2647205,0.0,0.0,Washington Capitals,Pittsburgh Penguins,43.0,71.0,50.0,30.0,71.0,69.0
+/zapas/2647241,1.0,1.0,Washington Capitals,Vegas Golden Knights,41.0,74.0,55.0,28.0,53.0,58.0
+/zapas/2647246,0.0,0.0,Washington Capitals,New Jersey Devils,41.0,74.0,55.0,35.0,65.0,56.0
+/zapas/2647263,0.0,1.0,Washington Capitals,Toronto Maple Leafs,41.0,74.0,57.0,39.0,82.0,62.0
+/zapas/2647285,1.0,1.0,Washington Capitals,New York Rangers,41.0,75.0,58.0,18.0,54.0,71.0
+/zapas/2647297,0.0,1.0,Washington Capitals,Florida Panthers,40.0,77.0,61.0,33.0,58.0,55.0
+/zapas/2647319,1.0,0.0,Washington Capitals,Vancouver Canucks,39.0,79.0,65.0,31.0,60.0,60.0
+/zapas/2647340,0.0,0.0,Washington Capitals,Edmonton Oilers,39.0,77.0,64.0,27.0,59.0,66.0
+/zapas/2647349,1.0,0.0,Washington Capitals,Calgary Flames,36.0,72.0,65.0,20.0,49.0,71.0
+/zapas/2647380,0.0,0.0,Washington Capitals,Montreal Canadiens,38.0,73.0,62.0,29.0,61.0,61.0
+/zapas/2647398,0.0,1.0,Washington Capitals,Dallas Stars,35.0,73.0,65.0,32.0,59.0,55.0
+/zapas/2647411,1.0,1.0,Washington Capitals,Edmonton Oilers,33.0,75.0,69.0,28.0,57.0,62.0
+/zapas/2647422,1.0,1.0,Washington Capitals,Pittsburgh Penguins,33.0,73.0,67.0,31.0,72.0,66.0
+/zapas/2647435,0.0,1.0,Washington Capitals,Columbus Blue Jackets,33.0,71.0,66.0,30.0,70.0,71.0
+/zapas/2647453,0.0,1.0,Washington Capitals,Arizona Coyotes,31.0,69.0,66.0,27.0,56.0,50.0
+/zapas/2647467,1.0,0.0,Washington Capitals,Minnesota Wild,31.0,69.0,66.0,37.0,65.0,55.0
+/zapas/2647472,0.0,0.0,Washington Capitals,Winnipeg Jets,31.0,71.0,67.0,41.0,68.0,53.0
+/zapas/2647487,1.0,0.0,Washington Capitals,Colorado Avalanche,28.0,68.0,68.0,33.0,72.0,59.0
+/zapas/2647509,1.0,0.0,Washington Capitals,Montreal Canadiens,30.0,68.0,66.0,34.0,66.0,65.0
+/zapas/2647520,1.0,1.0,Washington Capitals,Chicago Blackhawks,29.0,68.0,67.0,24.0,52.0,67.0
+/zapas/2647535,1.0,1.0,Washington Capitals,Detroit Red Wings,29.0,65.0,69.0,25.0,58.0,64.0
+/zapas/2647545,1.0,0.0,Washington Capitals,New York Rangers,31.0,62.0,63.0,33.0,60.0,55.0
+/zapas/2647562,1.0,0.0,Washington Capitals,New York Islanders,31.0,62.0,64.0,33.0,66.0,59.0
+/zapas/2647589,1.0,1.0,Washington Capitals,New Jersey Devils,34.0,66.0,59.0,22.0,54.0,72.0
+/zapas/2647605,0.0,1.0,Washington Capitals,Anaheim Ducks,37.0,70.0,58.0,24.0,42.0,60.0
+/zapas/2647622,0.0,0.0,Washington Capitals,Vegas Golden Knights,35.0,71.0,61.0,29.0,64.0,57.0
+/zapas/2647634,1.0,0.0,Washington Capitals,Arizona Coyotes,34.0,69.0,60.0,34.0,60.0,55.0
+/zapas/2647649,1.0,0.0,Washington Capitals,Columbus Blue Jackets,34.0,68.0,60.0,36.0,76.0,65.0
+/zapas/2647665,1.0,1.0,Washington Capitals,Detroit Red Wings,37.0,71.0,56.0,32.0,66.0,58.0
+/zapas/2647689,1.0,0.0,Washington Capitals,Carolina Hurricanes,38.0,73.0,55.0,23.0,43.0,58.0
+/zapas/2647698,1.0,1.0,Washington Capitals,Buffalo Sabres,40.0,75.0,54.0,33.0,67.0,57.0
+/zapas/2647726,0.0,1.0,Washington Capitals,Pittsburgh Penguins,41.0,76.0,53.0,28.0,66.0,63.0
+/zapas/2647741,1.0,1.0,Washington Capitals,Buffalo Sabres,38.0,73.0,53.0,34.0,64.0,59.0
+/zapas/2647752,1.0,0.0,Washington Capitals,Ottawa Senators,38.0,73.0,53.0,26.0,63.0,73.0
+/zapas/2647768,1.0,1.0,Washington Capitals,Carolina Hurricanes,41.0,76.0,51.0,29.0,50.0,58.0
+/zapas/2647787,1.0,0.0,Washington Capitals,Ottawa Senators,44.0,78.0,48.0,23.0,59.0,74.0
+/zapas/2647797,0.0,1.0,Washington Capitals,Nashville Predators,44.0,76.0,48.0,26.0,52.0,57.0
+/zapas/2647825,0.0,0.0,Washington Capitals,St. Louis Blues,44.0,78.0,51.0,23.0,46.0,70.0
+/zapas/2647830,0.0,0.0,Washington Capitals,Dallas Stars,42.0,77.0,54.0,30.0,54.0,56.0
+/zapas/2647847,1.0,0.0,Washington Capitals,Detroit Red Wings,41.0,73.0,52.0,20.0,59.0,75.0
+/zapas/2647859,1.0,1.0,Washington Capitals,Philadelphia Flyers,41.0,72.0,52.0,18.0,47.0,75.0
+/zapas/2647869,1.0,0.0,Washington Capitals,Boston Bruins,41.0,74.0,54.0,33.0,61.0,55.0
+/zapas/2647890,0.0,1.0,Washington Capitals,Columbus Blue Jackets,41.0,73.0,53.0,33.0,62.0,60.0
+/zapas/2647907,0.0,1.0,Washington Capitals,St. Louis Blues,39.0,70.0,54.0,32.0,51.0,57.0
+/zapas/2647914,0.0,0.0,Washington Capitals,Nashville Predators,36.0,65.0,55.0,27.0,57.0,56.0
+/zapas/2647933,0.0,1.0,Washington Capitals,New York Islanders,36.0,62.0,56.0,40.0,63.0,44.0
+/zapas/2647949,0.0,0.0,Washington Capitals,Chicago Blackhawks,36.0,59.0,53.0,24.0,66.0,75.0
+/zapas/2647958,0.0,1.0,Washington Capitals,San Jose Sharks,33.0,60.0,59.0,41.0,83.0,65.0
+/zapas/2647963,0.0,0.0,Washington Capitals,Toronto Maple Leafs,31.0,62.0,66.0,28.0,66.0,64.0
+/zapas/2647983,1.0,1.0,Washington Capitals,Calgary Flames,28.0,59.0,70.0,42.0,83.0,60.0
+/zapas/2648000,0.0,1.0,Washington Capitals,Boston Bruins,29.0,57.0,68.0,32.0,63.0,56.0
+/zapas/2648012,1.0,1.0,Washington Capitals,Vancouver Canucks,27.0,53.0,66.0,31.0,55.0,53.0
+/zapas/2648025,1.0,1.0,Washington Capitals,Colorado Avalanche,30.0,55.0,66.0,17.0,58.0,75.0
+/zapas/2648047,0.0,1.0,Washington Capitals,Florida Panthers,29.0,57.0,68.0,27.0,55.0,65.0
+/zapas/2648059,1.0,1.0,Washington Capitals,Los Angeles Kings,27.0,57.0,73.0,30.0,53.0,58.0
+/zapas/2648064,0.0,0.0,Washington Capitals,Columbus Blue Jackets,27.0,60.0,76.0,32.0,67.0,61.0
+/zapas/2648085,1.0,0.0,Washington Capitals,San Jose Sharks,24.0,57.0,77.0,43.0,89.0,66.0
+/zapas/2648107,0.0,0.0,Washington Capitals,Anaheim Ducks,27.0,59.0,72.0,13.0,33.0,76.0
+/zapas/2648112,1.0,0.0,Washington Capitals,Los Angeles Kings,27.0,59.0,72.0,24.0,53.0,66.0
+/zapas/2648127,1.0,0.0,Washington Capitals,Toronto Maple Leafs,29.0,61.0,72.0,31.0,64.0,58.0
+/zapas/2648143,0.0,0.0,Washington Capitals,Buffalo Sabres,29.0,61.0,72.0,21.0,56.0,72.0
+/zapas/2648154,1.0,1.0,Washington Capitals,New York Rangers,26.0,58.0,74.0,30.0,64.0,60.0
+/zapas/2648169,1.0,1.0,Washington Capitals,Ottawa Senators,25.0,60.0,77.0,19.0,55.0,61.0
+/zapas/2648191,1.0,0.0,Washington Capitals,New York Islanders,27.0,66.0,77.0,39.0,56.0,34.0
+/zapas/2648207,1.0,0.0,Washington Capitals,New York Rangers,30.0,68.0,74.0,29.0,67.0,65.0
+/zapas/2648227,1.0,0.0,Washington Capitals,Philadelphia Flyers,32.0,69.0,69.0,43.0,71.0,55.0
+/zapas/2648243,1.0,1.0,Washington Capitals,New Jersey Devils,35.0,74.0,70.0,21.0,51.0,64.0
+/zapas/2648259,1.0,1.0,Washington Capitals,Winnipeg Jets,38.0,72.0,62.0,28.0,67.0,69.0
+/zapas/2648271,0.0,0.0,Washington Capitals,Pittsburgh Penguins,40.0,69.0,56.0,35.0,65.0,58.0
+/zapas/2648283,1.0,0.0,Washington Capitals,Philadelphia Flyers,40.0,69.0,55.0,40.0,70.0,58.0
+/zapas/2648304,0.0,0.0,Washington Capitals,Tampa Bay Lightning,40.0,70.0,54.0,47.0,75.0,43.0
+/zapas/2648320,1.0,0.0,Washington Capitals,New Jersey Devils,40.0,73.0,59.0,20.0,50.0,69.0
+/zapas/2648331,0.0,1.0,Washington Capitals,Tampa Bay Lightning,40.0,74.0,58.0,49.0,80.0,42.0
+/zapas/2648346,0.0,1.0,Washington Capitals,Minnesota Wild,39.0,74.0,60.0,27.0,49.0,59.0
+/zapas/2648362,1.0,1.0,Washington Capitals,Philadelphia Flyers,38.0,71.0,57.0,31.0,67.0,67.0
+/zapas/2648376,1.0,1.0,Washington Capitals,Carolina Hurricanes,38.0,68.0,54.0,40.0,64.0,46.0
+/zapas/2648388,1.0,0.0,Washington Capitals,Carolina Hurricanes,41.0,72.0,52.0,40.0,63.0,47.0
+/zapas/2648405,1.0,0.0,Washington Capitals,Tampa Bay Lightning,41.0,70.0,53.0,47.0,83.0,47.0
+/zapas/2648419,0.0,0.0,Washington Capitals,Florida Panthers,44.0,74.0,51.0,30.0,74.0,68.0
+/zapas/2648444,1.0,1.0,Washington Capitals,Montreal Canadiens,41.0,74.0,54.0,34.0,63.0,53.0
+/zapas/2648463,0.0,1.0,Washington Capitals,New York Islanders,41.0,73.0,53.0,30.0,47.0,50.0
+/zapas/2806378,1.0,0.0,Washington Capitals,St. Louis Blues,41.0,71.0,51.0,36.0,65.0,51.0
+/zapas/2806390,1.0,0.0,Washington Capitals,New York Islanders,41.0,68.0,48.0,33.0,49.0,47.0
+/zapas/2806399,0.0,1.0,Washington Capitals,Carolina Hurricanes,41.0,63.0,47.0,36.0,62.0,55.0
+/zapas/2806415,0.0,1.0,Washington Capitals,Dallas Stars,39.0,62.0,49.0,31.0,50.0,41.0
+/zapas/2806428,0.0,0.0,Washington Capitals,Nashville Predators,38.0,62.0,51.0,35.0,57.0,52.0
+/zapas/2806446,1.0,0.0,Washington Capitals,Dallas Stars,35.0,62.0,54.0,28.0,51.0,47.0
+/zapas/2806459,0.0,1.0,Washington Capitals,Colorado Avalanche,35.0,63.0,55.0,40.0,60.0,47.0
+/zapas/2806469,1.0,1.0,Washington Capitals,Toronto Maple Leafs,32.0,63.0,60.0,28.0,68.0,76.0
+/zapas/2806485,1.0,1.0,Washington Capitals,New York Rangers,35.0,64.0,58.0,22.0,50.0,67.0
+/zapas/2806502,1.0,0.0,Washington Capitals,Chicago Blackhawks,35.0,64.0,58.0,31.0,60.0,53.0
+/zapas/2806518,1.0,0.0,Washington Capitals,Calgary Flames,38.0,66.0,55.0,33.0,59.0,48.0
+/zapas/2806530,0.0,0.0,Washington Capitals,Edmonton Oilers,38.0,67.0,57.0,32.0,59.0,61.0
+/zapas/2806536,1.0,0.0,Washington Capitals,Vancouver Canucks,38.0,66.0,56.0,31.0,62.0,52.0
+/zapas/2806556,1.0,0.0,Washington Capitals,Toronto Maple Leafs,40.0,71.0,59.0,27.0,68.0,73.0
+/zapas/2806574,1.0,1.0,Washington Capitals,Buffalo Sabres,39.0,72.0,61.0,33.0,63.0,57.0
+/zapas/2806594,1.0,1.0,Washington Capitals,Calgary Flames,39.0,74.0,61.0,29.0,60.0,57.0
+/zapas/2806614,1.0,0.0,Washington Capitals,Florida Panthers,39.0,75.0,61.0,33.0,70.0,69.0
+/zapas/2806634,1.0,1.0,Washington Capitals,Vegas Golden Knights,38.0,74.0,62.0,31.0,58.0,58.0
+/zapas/2806646,0.0,1.0,Washington Capitals,Arizona Coyotes,41.0,76.0,59.0,29.0,56.0,49.0
+/zapas/2806659,1.0,0.0,Washington Capitals,Philadelphia Flyers,39.0,77.0,62.0,28.0,64.0,69.0
+/zapas/2806672,0.0,1.0,Washington Capitals,Montreal Canadiens,41.0,79.0,60.0,32.0,72.0,63.0
+/zapas/2806679,1.0,0.0,Washington Capitals,Boston Bruins,39.0,78.0,63.0,40.0,71.0,56.0
+/zapas/2806692,1.0,1.0,Washington Capitals,Anaheim Ducks,38.0,79.0,64.0,28.0,55.0,58.0
+/zapas/2806708,0.0,0.0,Washington Capitals,New York Rangers,40.0,82.0,63.0,28.0,66.0,72.0
+/zapas/2806724,0.0,1.0,Washington Capitals,Vancouver Canucks,39.0,80.0,63.0,32.0,66.0,60.0
+/zapas/2806759,1.0,1.0,Washington Capitals,Florida Panthers,40.0,76.0,59.0,32.0,77.0,72.0
+/zapas/2806774,1.0,1.0,Washington Capitals,Tampa Bay Lightning,40.0,76.0,61.0,33.0,75.0,66.0
+/zapas/2806783,1.0,0.0,Washington Capitals,Detroit Red Wings,42.0,77.0,58.0,14.0,41.0,82.0
+/zapas/2806809,1.0,0.0,Washington Capitals,San Jose Sharks,42.0,78.0,57.0,32.0,61.0,63.0
+/zapas/2806813,1.0,0.0,Washington Capitals,Los Angeles Kings,42.0,78.0,57.0,24.0,48.0,61.0
+/zapas/2806827,1.0,0.0,Washington Capitals,Anaheim Ducks,42.0,76.0,55.0,21.0,53.0,70.0
+/zapas/2806845,0.0,1.0,Washington Capitals,Columbus Blue Jackets,42.0,74.0,54.0,21.0,49.0,62.0
+/zapas/2806860,1.0,1.0,Washington Capitals,Boston Bruins,41.0,73.0,55.0,38.0,71.0,54.0
+/zapas/2806885,1.0,0.0,Washington Capitals,Tampa Bay Lightning,42.0,70.0,52.0,32.0,74.0,63.0
+/zapas/2806897,0.0,0.0,Washington Capitals,Columbus Blue Jackets,43.0,71.0,51.0,24.0,48.0,55.0
+/zapas/2806925,1.0,0.0,Washington Capitals,New Jersey Devils,40.0,65.0,53.0,21.0,42.0,65.0
+/zapas/2806935,1.0,1.0,Washington Capitals,Tampa Bay Lightning,40.0,67.0,54.0,33.0,73.0,60.0
+/zapas/2806947,0.0,0.0,Washington Capitals,Boston Bruins,41.0,65.0,51.0,34.0,63.0,54.0
+/zapas/2806961,1.0,1.0,Washington Capitals,Columbus Blue Jackets,38.0,63.0,56.0,34.0,58.0,48.0
+/zapas/2806974,0.0,0.0,Washington Capitals,Carolina Hurricanes,39.0,62.0,53.0,34.0,66.0,55.0
+/zapas/2806990,0.0,1.0,Washington Capitals,New York Islanders,37.0,64.0,58.0,29.0,56.0,58.0
+/zapas/2807015,1.0,0.0,Washington Capitals,Carolina Hurricanes,37.0,65.0,57.0,36.0,66.0,53.0
+/zapas/2807029,1.0,1.0,Washington Capitals,San Jose Sharks,38.0,66.0,58.0,23.0,48.0,64.0
+/zapas/2807043,1.0,1.0,Washington Capitals,Ottawa Senators,37.0,66.0,60.0,20.0,56.0,73.0
+/zapas/2807052,0.0,0.0,Washington Capitals,Philadelphia Flyers,40.0,71.0,57.0,31.0,67.0,63.0
+/zapas/2807072,0.0,1.0,Washington Capitals,New Jersey Devils,39.0,72.0,58.0,22.0,53.0,72.0
+/zapas/2807088,1.0,1.0,Washington Capitals,Carolina Hurricanes,36.0,69.0,60.0,35.0,65.0,52.0
+/zapas/2807108,1.0,1.0,Washington Capitals,New Jersey Devils,37.0,67.0,57.0,25.0,58.0,66.0
+/zapas/2807119,1.0,0.0,Washington Capitals,New York Islanders,37.0,67.0,57.0,28.0,57.0,59.0
+/zapas/2807144,1.0,0.0,Washington Capitals,Montreal Canadiens,37.0,68.0,59.0,24.0,58.0,55.0
+/zapas/2807153,0.0,1.0,Washington Capitals,Nashville Predators,37.0,69.0,60.0,28.0,63.0,67.0
+/zapas/2807163,1.0,0.0,Washington Capitals,Ottawa Senators,34.0,70.0,63.0,24.0,59.0,74.0
+/zapas/2807182,0.0,1.0,Washington Capitals,Pittsburgh Penguins,37.0,73.0,61.0,39.0,68.0,54.0
+/zapas/2807193,1.0,1.0,Washington Capitals,Los Angeles Kings,34.0,73.0,63.0,18.0,49.0,63.0
+/zapas/2807226,0.0,1.0,Washington Capitals,Philadelphia Flyers,34.0,72.0,63.0,31.0,65.0,62.0
+/zapas/2807238,0.0,1.0,Washington Capitals,New York Islanders,34.0,74.0,67.0,26.0,58.0,63.0
+/zapas/2807264,1.0,0.0,Washington Capitals,Colorado Avalanche,31.0,71.0,69.0,36.0,76.0,59.0
+/zapas/2807280,0.0,0.0,Washington Capitals,Arizona Coyotes,31.0,71.0,70.0,25.0,54.0,62.0
+/zapas/2807294,0.0,0.0,Washington Capitals,Vegas Golden Knights,31.0,69.0,66.0,30.0,67.0,65.0
+/zapas/2807311,0.0,1.0,Washington Capitals,Montreal Canadiens,29.0,69.0,68.0,23.0,53.0,56.0
+/zapas/2807324,0.0,0.0,Washington Capitals,New Jersey Devils,30.0,68.0,66.0,26.0,60.0,69.0
+/zapas/2807335,1.0,1.0,Washington Capitals,Pittsburgh Penguins,30.0,67.0,65.0,35.0,60.0,56.0
+/zapas/2807349,1.0,1.0,Washington Capitals,Winnipeg Jets,30.0,68.0,65.0,25.0,56.0,57.0
+/zapas/2807368,0.0,0.0,Washington Capitals,Winnipeg Jets,30.0,67.0,64.0,26.0,55.0,56.0
+/zapas/2807390,1.0,0.0,Washington Capitals,Minnesota Wild,27.0,61.0,66.0,35.0,69.0,56.0
+/zapas/2807405,0.0,1.0,Washington Capitals,Philadelphia Flyers,30.0,63.0,66.0,43.0,80.0,53.0
+/zapas/2807412,0.0,0.0,Washington Capitals,New York Rangers,30.0,64.0,66.0,34.0,63.0,53.0
+/zapas/2807426,1.0,0.0,Washington Capitals,Pittsburgh Penguins,28.0,67.0,72.0,29.0,54.0,58.0
+/zapas/2807442,0.0,0.0,Washington Capitals,Buffalo Sabres,28.0,67.0,72.0,20.0,48.0,65.0
+/zapas/2893218,1.0,0.0,Washington Capitals,Buffalo Sabres,26.0,63.0,71.0,22.0,50.0,65.0
+/zapas/2893226,1.0,0.0,Washington Capitals,Buffalo Sabres,26.0,65.0,73.0,22.0,52.0,66.0
+/zapas/2893243,0.0,0.0,Washington Capitals,Pittsburgh Penguins,29.0,63.0,69.0,25.0,57.0,68.0
+/zapas/2893259,0.0,0.0,Washington Capitals,Pittsburgh Penguins,27.0,61.0,70.0,24.0,57.0,68.0
+/zapas/2893279,1.0,1.0,Washington Capitals,Buffalo Sabres,28.0,62.0,71.0,23.0,55.0,62.0
+/zapas/2893297,0.0,1.0,Washington Capitals,Buffalo Sabres,27.0,62.0,72.0,23.0,55.0,62.0
+/zapas/2893311,1.0,1.0,Washington Capitals,New York Islanders,28.0,63.0,69.0,25.0,45.0,56.0
+/zapas/2893325,1.0,1.0,Washington Capitals,New York Islanders,31.0,63.0,66.0,22.0,42.0,56.0
+/zapas/2893338,1.0,1.0,Washington Capitals,Boston Bruins,31.0,66.0,67.0,41.0,61.0,44.0
+/zapas/2893354,0.0,1.0,Washington Capitals,Boston Bruins,33.0,69.0,67.0,39.0,60.0,47.0
+/zapas/2893376,0.0,0.0,Washington Capitals,New York Rangers,33.0,70.0,69.0,27.0,64.0,64.0
+/zapas/2893399,0.0,1.0,Washington Capitals,Philadelphia Flyers,32.0,69.0,69.0,42.0,69.0,52.0
+/zapas/2893450,0.0,0.0,Washington Capitals,Pittsburgh Penguins,32.0,71.0,73.0,23.0,60.0,72.0
+/zapas/2893466,1.0,0.0,Washington Capitals,Pittsburgh Penguins,29.0,69.0,76.0,26.0,65.0,73.0
+/zapas/2893876,1.0,1.0,Washington Capitals,Buffalo Sabres,30.0,68.0,74.0,17.0,46.0,63.0
+/zapas/2893492,0.0,1.0,Washington Capitals,New York Rangers,33.0,71.0,72.0,22.0,53.0,60.0
+/zapas/2893602,1.0,1.0,Washington Capitals,New Jersey Devils,30.0,68.0,73.0,33.0,55.0,53.0
+/zapas/2893510,0.0,1.0,Washington Capitals,Pittsburgh Penguins,33.0,70.0,71.0,29.0,64.0,68.0
+/zapas/2893523,1.0,1.0,Washington Capitals,Pittsburgh Penguins,33.0,67.0,68.0,28.0,63.0,68.0
+/zapas/2893541,1.0,0.0,Washington Capitals,New Jersey Devils,33.0,67.0,68.0,30.0,56.0,58.0
+/zapas/2893555,1.0,0.0,Washington Capitals,New Jersey Devils,35.0,70.0,67.0,27.0,55.0,63.0
+/zapas/2893568,1.0,0.0,Washington Capitals,Boston Bruins,35.0,67.0,65.0,36.0,61.0,50.0
+/zapas/2893584,0.0,0.0,Washington Capitals,Boston Bruins,34.0,67.0,65.0,34.0,60.0,52.0
+/zapas/2893980,1.0,0.0,Washington Capitals,Philadelphia Flyers,33.0,65.0,66.0,34.0,64.0,63.0
+/zapas/2893612,1.0,1.0,Washington Capitals,New Jersey Devils,35.0,64.0,62.0,23.0,49.0,63.0
+/zapas/2893628,1.0,0.0,Washington Capitals,Philadelphia Flyers,35.0,65.0,63.0,33.0,64.0,62.0
+/zapas/2893643,1.0,0.0,Washington Capitals,Philadelphia Flyers,37.0,67.0,62.0,30.0,64.0,67.0
+/zapas/2893428,1.0,0.0,Washington Capitals,Buffalo Sabres,37.0,69.0,64.0,14.0,40.0,69.0
+/zapas/2893666,1.0,1.0,Washington Capitals,New York Islanders,37.0,69.0,61.0,48.0,67.0,40.0
+/zapas/2893686,1.0,1.0,Washington Capitals,New York Rangers,38.0,68.0,59.0,31.0,63.0,51.0
+/zapas/2893499,0.0,1.0,Washington Capitals,New York Rangers,41.0,67.0,55.0,28.0,61.0,52.0
+/zapas/2893729,1.0,1.0,Washington Capitals,New Jersey Devils,41.0,66.0,54.0,21.0,47.0,65.0
+/zapas/2893734,1.0,1.0,Washington Capitals,New Jersey Devils,44.0,66.0,50.0,18.0,47.0,67.0
+/zapas/2893752,1.0,1.0,Washington Capitals,New York Rangers,47.0,67.0,44.0,33.0,72.0,53.0
+/zapas/2893768,0.0,0.0,Washington Capitals,New York Rangers,47.0,69.0,47.0,33.0,74.0,53.0
+/zapas/2893783,0.0,0.0,Washington Capitals,New York Islanders,44.0,68.0,51.0,39.0,67.0,46.0
+/zapas/2893790,1.0,0.0,Washington Capitals,New Jersey Devils,44.0,71.0,55.0,22.0,46.0,65.0
+/zapas/2893807,1.0,0.0,Washington Capitals,New Jersey Devils,43.0,69.0,53.0,21.0,43.0,64.0
+/zapas/2893822,0.0,0.0,Washington Capitals,New York Islanders,45.0,72.0,54.0,41.0,73.0,47.0
+/zapas/2893838,0.0,1.0,Washington Capitals,Boston Bruins,42.0,67.0,53.0,30.0,51.0,55.0
+/zapas/2893442,1.0,0.0,Washington Capitals,Buffalo Sabres,39.0,64.0,55.0,11.0,46.0,80.0
+/zapas/2893926,1.0,0.0,Washington Capitals,Boston Bruins,39.0,65.0,56.0,33.0,53.0,47.0
+/zapas/2893415,1.0,1.0,Washington Capitals,Philadelphia Flyers,40.0,71.0,56.0,20.0,52.0,82.0
+/zapas/2893886,0.0,1.0,Washington Capitals,Buffalo Sabres,43.0,76.0,52.0,15.0,50.0,77.0
+/zapas/2893903,1.0,0.0,Washington Capitals,Philadelphia Flyers,40.0,75.0,56.0,20.0,49.0,82.0
+/zapas/2893910,0.0,0.0,Washington Capitals,Boston Bruins,41.0,76.0,55.0,34.0,54.0,53.0
+/zapas/2893940,1.0,0.0,Washington Capitals,New York Islanders,38.0,74.0,58.0,32.0,58.0,49.0
+/zapas/2893955,1.0,0.0,Washington Capitals,New York Islanders,37.0,70.0,54.0,30.0,53.0,47.0
+/zapas/2893657,1.0,1.0,Washington Capitals,New York Islanders,37.0,70.0,57.0,27.0,53.0,51.0
+/zapas/2893996,0.0,1.0,Washington Capitals,Pittsburgh Penguins,37.0,68.0,56.0,44.0,74.0,53.0
+/zapas/2894012,0.0,1.0,Washington Capitals,Pittsburgh Penguins,35.0,70.0,60.0,43.0,76.0,56.0
+/zapas/2894024,1.0,0.0,Washington Capitals,New York Rangers,35.0,69.0,60.0,34.0,65.0,54.0
+/zapas/2894041,1.0,0.0,Washington Capitals,New York Rangers,35.0,71.0,60.0,34.0,67.0,58.0
+/zapas/2894056,0.0,1.0,Washington Capitals,Philadelphia Flyers,35.0,71.0,62.0,20.0,52.0,75.0
+/zapas/2894068,1.0,1.0,Washington Capitals,Philadelphia Flyers,32.0,68.0,62.0,21.0,52.0,74.0
+/zapas/2893862,1.0,1.0,Washington Capitals,Boston Bruins,34.0,68.0,58.0,41.0,69.0,45.0
+/zapas/2896987,1.0,1.0,Washington Capitals,New York Rangers,37.0,66.0,51.0,32.0,62.0,61.0
+/zapas/2897013,0.0,1.0,Washington Capitals,Tampa Bay Lightning,38.0,69.0,51.0,30.0,60.0,66.0
+/zapas/2897030,1.0,1.0,Washington Capitals,Colorado Avalanche,36.0,65.0,49.0,41.0,67.0,53.0
+/zapas/2897041,1.0,0.0,Washington Capitals,New Jersey Devils,39.0,71.0,51.0,20.0,56.0,78.0
+/zapas/2897058,0.0,1.0,Washington Capitals,Calgary Flames,42.0,73.0,48.0,32.0,63.0,50.0
+/zapas/2897066,1.0,0.0,Washington Capitals,Ottawa Senators,40.0,72.0,49.0,36.0,60.0,49.0
+/zapas/2897082,0.0,1.0,Washington Capitals,Detroit Red Wings,40.0,71.0,53.0,30.0,56.0,57.0
+/zapas/2897096,1.0,1.0,Washington Capitals,Arizona Coyotes,38.0,67.0,55.0,16.0,49.0,77.0
+/zapas/2897115,0.0,0.0,Washington Capitals,Tampa Bay Lightning,41.0,67.0,50.0,31.0,58.0,60.0
+/zapas/2897136,0.0,0.0,Washington Capitals,Florida Panthers,38.0,63.0,50.0,47.0,82.0,48.0
+/zapas/2897153,0.0,1.0,Washington Capitals,Philadelphia Flyers,39.0,64.0,49.0,32.0,65.0,63.0
+/zapas/2897162,1.0,1.0,Washington Capitals,Buffalo Sabres,37.0,64.0,51.0,23.0,59.0,69.0
+/zapas/2897184,1.0,0.0,Washington Capitals,Detroit Red Wings,37.0,63.0,51.0,28.0,55.0,59.0
+/zapas/2897191,1.0,0.0,Washington Capitals,Columbus Blue Jackets,37.0,64.0,51.0,27.0,55.0,61.0
+/zapas/2897210,1.0,1.0,Washington Capitals,Pittsburgh Penguins,39.0,64.0,49.0,31.0,68.0,64.0
+/zapas/2897214,0.0,0.0,Washington Capitals,Anaheim Ducks,42.0,70.0,47.0,32.0,67.0,57.0
+/zapas/2897226,1.0,0.0,Washington Capitals,Los Angeles Kings,40.0,66.0,47.0,24.0,48.0,56.0
+/zapas/2897244,1.0,0.0,Washington Capitals,San Jose Sharks,40.0,64.0,45.0,28.0,53.0,64.0
+/zapas/2897283,1.0,1.0,Washington Capitals,Montreal Canadiens,41.0,66.0,45.0,17.0,44.0,70.0
+/zapas/2897296,1.0,1.0,Washington Capitals,Florida Panthers,41.0,70.0,47.0,44.0,77.0,48.0
+/zapas/2897313,1.0,0.0,Washington Capitals,Carolina Hurricanes,41.0,69.0,49.0,45.0,64.0,44.0
+/zapas/2897324,0.0,0.0,Washington Capitals,Florida Panthers,43.0,72.0,49.0,39.0,72.0,52.0
+/zapas/2897341,0.0,1.0,Washington Capitals,Chicago Blackhawks,40.0,70.0,51.0,20.0,43.0,63.0
+/zapas/2897356,1.0,1.0,Washington Capitals,Columbus Blue Jackets,38.0,69.0,54.0,28.0,61.0,66.0
+/zapas/2897368,1.0,1.0,Washington Capitals,Anaheim Ducks,40.0,69.0,51.0,34.0,70.0,58.0
+/zapas/2897399,0.0,1.0,Washington Capitals,Pittsburgh Penguins,39.0,66.0,49.0,28.0,52.0,56.0
+/zapas/2897407,1.0,0.0,Washington Capitals,Buffalo Sabres,38.0,66.0,50.0,13.0,52.0,83.0
+/zapas/2897434,0.0,0.0,Washington Capitals,Chicago Blackhawks,37.0,67.0,52.0,25.0,48.0,56.0
+/zapas/2897449,1.0,0.0,Washington Capitals,Winnipeg Jets,38.0,69.0,54.0,28.0,56.0,54.0
+/zapas/2897468,0.0,1.0,Washington Capitals,Los Angeles Kings,40.0,70.0,51.0,31.0,53.0,50.0
+/zapas/2897532,1.0,1.0,Washington Capitals,Nashville Predators,40.0,71.0,52.0,40.0,61.0,50.0
+/zapas/2897544,1.0,0.0,Washington Capitals,Detroit Red Wings,40.0,71.0,52.0,29.0,58.0,65.0
+/zapas/2897563,0.0,1.0,Washington Capitals,New Jersey Devils,40.0,72.0,53.0,17.0,55.0,80.0
+/zapas/2897593,0.0,0.0,Washington Capitals,St. Louis Blues,38.0,71.0,54.0,34.0,70.0,57.0
+/zapas/2897603,0.0,0.0,Washington Capitals,Minnesota Wild,35.0,66.0,58.0,33.0,77.0,62.0
+/zapas/2897617,0.0,1.0,Washington Capitals,Boston Bruins,35.0,66.0,58.0,37.0,61.0,48.0
+/zapas/2897658,1.0,0.0,Washington Capitals,New York Islanders,32.0,67.0,65.0,21.0,42.0,62.0
+/zapas/2897662,0.0,1.0,Washington Capitals,Vancouver Canucks,32.0,65.0,65.0,31.0,51.0,49.0
+/zapas/2897681,1.0,1.0,Washington Capitals,Winnipeg Jets,32.0,65.0,64.0,28.0,56.0,61.0
+/zapas/2897690,0.0,0.0,Washington Capitals,Boston Bruins,31.0,63.0,64.0,36.0,61.0,53.0
+/zapas/2897712,1.0,1.0,Washington Capitals,Ottawa Senators,28.0,62.0,65.0,23.0,64.0,76.0
+/zapas/2897724,0.0,1.0,Washington Capitals,Vegas Golden Knights,27.0,61.0,65.0,35.0,79.0,61.0
+/zapas/2897736,0.0,1.0,Washington Capitals,San Jose Sharks,27.0,57.0,61.0,23.0,55.0,71.0
+/zapas/2897750,1.0,0.0,Washington Capitals,Dallas Stars,26.0,55.0,61.0,30.0,63.0,65.0
+/zapas/2897787,1.0,0.0,Washington Capitals,Pittsburgh Penguins,26.0,57.0,60.0,44.0,76.0,52.0
+/zapas/2897791,0.0,1.0,Washington Capitals,Edmonton Oilers,26.0,57.0,60.0,19.0,55.0,74.0
+/zapas/2898277,0.0,1.0,Washington Capitals,Columbus Blue Jackets,26.0,58.0,61.0,20.0,60.0,84.0
+/zapas/2897573,1.0,0.0,Washington Capitals,Montreal Canadiens,24.0,59.0,64.0,10.0,44.0,90.0
+/zapas/2897515,0.0,1.0,Washington Capitals,Ottawa Senators,26.0,60.0,61.0,29.0,55.0,51.0
+/zapas/2898074,1.0,0.0,Washington Capitals,Nashville Predators,23.0,56.0,63.0,34.0,68.0,59.0
+/zapas/2897483,1.0,0.0,Washington Capitals,Philadelphia Flyers,26.0,58.0,61.0,13.0,49.0,75.0
+/zapas/2897803,0.0,0.0,Washington Capitals,New York Rangers,26.0,58.0,61.0,37.0,65.0,50.0
+/zapas/2897818,0.0,0.0,Washington Capitals,Philadelphia Flyers,23.0,56.0,64.0,9.0,47.0,80.0
+/zapas/2897831,0.0,1.0,Washington Capitals,Toronto Maple Leafs,22.0,54.0,62.0,35.0,84.0,71.0
+/zapas/2897853,1.0,1.0,Washington Capitals,Carolina Hurricanes,22.0,56.0,62.0,39.0,70.0,53.0
+/zapas/2897869,1.0,1.0,Washington Capitals,Seattle Kraken,24.0,58.0,59.0,20.0,46.0,66.0
+/zapas/2897883,1.0,0.0,Washington Capitals,Calgary Flames,27.0,60.0,54.0,47.0,83.0,46.0
+/zapas/2897895,0.0,0.0,Washington Capitals,Edmonton Oilers,27.0,63.0,58.0,33.0,63.0,57.0
+/zapas/2897909,1.0,0.0,Washington Capitals,Vancouver Canucks,28.0,64.0,58.0,38.0,71.0,58.0
+/zapas/2897944,1.0,1.0,Washington Capitals,New York Islanders,28.0,64.0,58.0,29.0,66.0,60.0
+/zapas/2897957,1.0,0.0,Washington Capitals,Columbus Blue Jackets,30.0,65.0,57.0,35.0,77.0,75.0
+/zapas/2897963,1.0,0.0,Washington Capitals,Carolina Hurricanes,31.0,69.0,57.0,37.0,57.0,46.0
+/zapas/2897979,0.0,1.0,Washington Capitals,Dallas Stars,33.0,73.0,59.0,29.0,56.0,59.0
+/zapas/2897993,0.0,1.0,Washington Capitals,St. Louis Blues,33.0,74.0,58.0,31.0,71.0,64.0
+/zapas/2898013,1.0,0.0,Washington Capitals,Buffalo Sabres,30.0,71.0,63.0,25.0,56.0,71.0
+/zapas/2898026,1.0,1.0,Washington Capitals,New Jersey Devils,30.0,71.0,63.0,22.0,72.0,77.0
+/zapas/2898039,0.0,1.0,Washington Capitals,Carolina Hurricanes,33.0,72.0,61.0,35.0,57.0,50.0
+/zapas/2898089,0.0,1.0,Washington Capitals,Minnesota Wild,33.0,69.0,62.0,31.0,64.0,65.0
+/zapas/2898108,1.0,1.0,Washington Capitals,Tampa Bay Lightning,30.0,65.0,65.0,32.0,61.0,59.0
+/zapas/2898135,1.0,0.0,Washington Capitals,Pittsburgh Penguins,33.0,68.0,64.0,30.0,64.0,57.0
+/zapas/2898141,1.0,1.0,Washington Capitals,Boston Bruins,33.0,70.0,66.0,41.0,77.0,50.0
+/zapas/2898157,1.0,1.0,Washington Capitals,Philadelphia Flyers,33.0,69.0,65.0,21.0,57.0,75.0
+/zapas/2898170,0.0,0.0,Washington Capitals,Toronto Maple Leafs,36.0,77.0,63.0,37.0,82.0,74.0
+/zapas/2898187,1.0,0.0,Washington Capitals,Montreal Canadiens,36.0,79.0,68.0,20.0,61.0,77.0
+/zapas/2898200,1.0,0.0,Washington Capitals,Colorado Avalanche,39.0,84.0,67.0,44.0,75.0,51.0
+/zapas/2898210,0.0,0.0,Washington Capitals,Vegas Golden Knights,39.0,83.0,69.0,26.0,62.0,62.0
+/zapas/2898225,1.0,0.0,Washington Capitals,Arizona Coyotes,37.0,81.0,71.0,13.0,43.0,89.0
+/zapas/2898250,0.0,1.0,Washington Capitals,Toronto Maple Leafs,37.0,78.0,67.0,42.0,84.0,67.0
+/zapas/2898266,0.0,1.0,Washington Capitals,New York Islanders,37.0,78.0,67.0,27.0,57.0,65.0
+/zapas/2897501,0.0,0.0,Washington Capitals,New York Islanders,35.0,75.0,68.0,30.0,60.0,64.0
+/zapas/2898290,0.0,0.0,Washington Capitals,New York Rangers,33.0,72.0,70.0,38.0,66.0,46.0

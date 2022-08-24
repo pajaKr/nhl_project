@@ -1,90 +1,352 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
+/zapas/2526375,1.0,1.0,Florida Panthers,Toronto Maple Leafs,22.0,61.0,72.0,31.0,65.0,60.0
 /zapas/2526406,0.0,1.0,Florida Panthers,Chicago Blackhawks,24.0,60.0,68.0,28.0,53.0,55.0
+/zapas/2526416,1.0,0.0,Florida Panthers,New Jersey Devils,21.0,56.0,68.0,32.0,60.0,65.0
 /zapas/2526423,1.0,0.0,Florida Panthers,New York Rangers,21.0,54.0,68.0,34.0,68.0,57.0
+/zapas/2526446,0.0,1.0,Florida Panthers,San Jose Sharks,24.0,56.0,68.0,37.0,54.0,40.0
 /zapas/2526459,0.0,0.0,Florida Panthers,Carolina Hurricanes,24.0,56.0,65.0,27.0,57.0,64.0
 /zapas/2526467,0.0,1.0,Florida Panthers,New York Islanders,25.0,55.0,64.0,37.0,81.0,67.0
+/zapas/2526488,1.0,1.0,Florida Panthers,Winnipeg Jets,23.0,55.0,68.0,41.0,72.0,48.0
+/zapas/2526502,0.0,1.0,Florida Panthers,Colorado Avalanche,26.0,60.0,67.0,23.0,63.0,74.0
 /zapas/2526517,1.0,0.0,Florida Panthers,Detroit Red Wings,23.0,55.0,71.0,24.0,53.0,68.0
 /zapas/2526527,0.0,0.0,Florida Panthers,Chicago Blackhawks,24.0,55.0,69.0,28.0,56.0,56.0
+/zapas/2526540,0.0,0.0,Florida Panthers,Colorado Avalanche,25.0,52.0,64.0,26.0,66.0,69.0
+/zapas/2526564,0.0,0.0,Florida Panthers,Vegas Golden Knights,25.0,50.0,59.0,34.0,66.0,64.0
 /zapas/2526577,1.0,0.0,Florida Panthers,Arizona Coyotes,24.0,48.0,59.0,17.0,39.0,60.0
+/zapas/2526594,1.0,1.0,Florida Panthers,Minnesota Wild,27.0,50.0,58.0,35.0,58.0,55.0
 /zapas/2526601,1.0,1.0,Florida Panthers,Ottawa Senators,27.0,50.0,59.0,17.0,45.0,71.0
+/zapas/2526625,1.0,1.0,Florida Panthers,Philadelphia Flyers,30.0,50.0,57.0,26.0,49.0,59.0
 /zapas/2526642,1.0,1.0,Florida Panthers,Montreal Canadiens,31.0,49.0,56.0,26.0,54.0,59.0
+/zapas/2526662,0.0,0.0,Florida Panthers,Minnesota Wild,31.0,49.0,56.0,29.0,54.0,62.0
 /zapas/2526683,0.0,0.0,Florida Panthers,Detroit Red Wings,31.0,50.0,57.0,24.0,49.0,67.0
+/zapas/2526701,0.0,0.0,Florida Panthers,Columbus Blue Jackets,31.0,50.0,58.0,27.0,52.0,64.0
 /zapas/2526711,1.0,0.0,Florida Panthers,St. Louis Blues,30.0,50.0,60.0,27.0,44.0,49.0
 /zapas/2526721,0.0,1.0,Florida Panthers,Calgary Flames,33.0,56.0,60.0,30.0,54.0,50.0
+/zapas/2526760,1.0,1.0,Florida Panthers,Vegas Golden Knights,30.0,55.0,62.0,43.0,66.0,45.0
+/zapas/2526770,0.0,0.0,Florida Panthers,Nashville Predators,29.0,54.0,61.0,37.0,59.0,48.0
 /zapas/2526792,0.0,0.0,Florida Panthers,Dallas Stars,29.0,56.0,63.0,33.0,62.0,48.0
+/zapas/2526805,0.0,1.0,Florida Panthers,Washington Capitals,28.0,55.0,66.0,35.0,62.0,52.0
 /zapas/2526817,1.0,0.0,Florida Panthers,New York Islanders,27.0,53.0,65.0,22.0,64.0,80.0
 /zapas/2526831,1.0,0.0,Florida Panthers,Buffalo Sabres,27.0,51.0,62.0,22.0,51.0,64.0
 /zapas/2526851,1.0,1.0,Florida Panthers,Detroit Red Wings,30.0,52.0,57.0,29.0,51.0,49.0
 /zapas/2526872,1.0,1.0,Florida Panthers,Vancouver Canucks,31.0,53.0,58.0,20.0,54.0,71.0
+/zapas/2526892,0.0,1.0,Florida Panthers,Los Angeles Kings,33.0,54.0,56.0,27.0,53.0,51.0
 /zapas/2526916,1.0,0.0,Florida Panthers,Edmonton Oilers,33.0,54.0,57.0,23.0,51.0,67.0
 /zapas/2526932,1.0,0.0,Florida Panthers,Vancouver Canucks,36.0,59.0,57.0,20.0,50.0,62.0
 /zapas/2526958,1.0,0.0,Florida Panthers,Calgary Flames,36.0,60.0,58.0,37.0,61.0,56.0
+/zapas/2526965,0.0,0.0,Florida Panthers,Winnipeg Jets,36.0,62.0,59.0,39.0,64.0,47.0
+/zapas/2526972,0.0,0.0,Florida Panthers,Toronto Maple Leafs,33.0,63.0,66.0,38.0,69.0,52.0
+/zapas/2526990,1.0,1.0,Florida Panthers,Washington Capitals,30.0,60.0,65.0,32.0,64.0,67.0
+/zapas/2527006,1.0,1.0,Florida Panthers,Pittsburgh Penguins,30.0,61.0,67.0,48.0,85.0,48.0
+/zapas/2527026,1.0,1.0,Florida Panthers,Toronto Maple Leafs,33.0,66.0,67.0,42.0,70.0,51.0
+/zapas/2527039,1.0,1.0,Florida Panthers,New Jersey Devils,35.0,67.0,65.0,27.0,51.0,59.0
 /zapas/2527046,1.0,1.0,Florida Panthers,Buffalo Sabres,37.0,68.0,64.0,26.0,54.0,56.0
+/zapas/2527063,1.0,1.0,Florida Panthers,Philadelphia Flyers,37.0,65.0,61.0,35.0,64.0,57.0
+/zapas/2527078,0.0,0.0,Florida Panthers,Tampa Bay Lightning,40.0,67.0,58.0,38.0,76.0,61.0
 /zapas/2527092,1.0,1.0,Florida Panthers,Montreal Canadiens,39.0,67.0,60.0,23.0,52.0,62.0
 /zapas/2527110,1.0,1.0,Florida Panthers,New York Rangers,42.0,69.0,56.0,18.0,48.0,77.0
 /zapas/2527121,0.0,1.0,Florida Panthers,Ottawa Senators,44.0,72.0,53.0,21.0,57.0,67.0
+/zapas/2527141,1.0,1.0,Florida Panthers,Boston Bruins,44.0,73.0,54.0,41.0,75.0,57.0
 /zapas/2527153,0.0,1.0,Florida Panthers,Edmonton Oilers,44.0,72.0,53.0,21.0,58.0,65.0
 /zapas/2527172,1.0,0.0,Florida Panthers,Montreal Canadiens,41.0,70.0,55.0,21.0,47.0,67.0
 /zapas/2527179,1.0,0.0,Florida Panthers,Ottawa Senators,41.0,69.0,53.0,25.0,65.0,68.0
+/zapas/2527193,0.0,0.0,Florida Panthers,Columbus Blue Jackets,41.0,73.0,54.0,41.0,69.0,52.0
 /zapas/2527210,1.0,1.0,Florida Panthers,Arizona Coyotes,41.0,72.0,55.0,37.0,58.0,48.0
 /zapas/2527223,1.0,0.0,Florida Panthers,New York Islanders,41.0,69.0,52.0,18.0,58.0,72.0
+/zapas/2527240,0.0,0.0,Florida Panthers,Toronto Maple Leafs,41.0,68.0,49.0,39.0,75.0,60.0
 /zapas/2527247,0.0,0.0,Florida Panthers,Ottawa Senators,38.0,65.0,50.0,18.0,57.0,74.0
+/zapas/2527260,0.0,0.0,Florida Panthers,Boston Bruins,39.0,65.0,46.0,37.0,67.0,57.0
 /zapas/2527279,1.0,1.0,Florida Panthers,Carolina Hurricanes,39.0,66.0,50.0,26.0,60.0,70.0
+/zapas/2527288,1.0,1.0,Florida Panthers,Nashville Predators,39.0,66.0,50.0,44.0,73.0,50.0
+/zapas/2527301,1.0,1.0,Florida Panthers,Boston Bruins,39.0,62.0,46.0,36.0,67.0,59.0
 /zapas/2527316,1.0,1.0,Florida Panthers,Buffalo Sabres,40.0,62.0,46.0,20.0,50.0,76.0
+/zapas/2526672,1.0,0.0,Florida Panthers,Boston Bruins,40.0,63.0,47.0,37.0,69.0,57.0
+/zapas/2647219,0.0,0.0,Florida Panthers,Tampa Bay Lightning,40.0,63.0,48.0,33.0,73.0,69.0
+/zapas/2647245,0.0,1.0,Florida Panthers,Columbus Blue Jackets,38.0,60.0,49.0,43.0,79.0,53.0
 /zapas/2647262,0.0,1.0,Florida Panthers,Vancouver Canucks,37.0,60.0,49.0,24.0,54.0,62.0
+/zapas/2647278,0.0,0.0,Florida Panthers,Philadelphia Flyers,34.0,57.0,52.0,32.0,68.0,65.0
+/zapas/2647297,1.0,0.0,Florida Panthers,Washington Capitals,33.0,58.0,55.0,40.0,77.0,61.0
 /zapas/2647306,0.0,1.0,Florida Panthers,Detroit Red Wings,35.0,61.0,55.0,15.0,52.0,77.0
 /zapas/2647320,0.0,0.0,Florida Panthers,New York Rangers,33.0,61.0,59.0,15.0,49.0,72.0
+/zapas/2647329,1.0,0.0,Florida Panthers,New York Islanders,33.0,61.0,60.0,22.0,62.0,71.0
+/zapas/2647346,0.0,0.0,Florida Panthers,New Jersey Devils,32.0,62.0,62.0,40.0,69.0,54.0
+/zapas/2647377,0.0,1.0,Florida Panthers,Winnipeg Jets,29.0,57.0,63.0,39.0,67.0,58.0
+/zapas/2647390,1.0,0.0,Florida Panthers,Winnipeg Jets,29.0,59.0,63.0,40.0,66.0,56.0
 /zapas/2647426,1.0,1.0,Florida Panthers,Edmonton Oilers,29.0,59.0,63.0,27.0,54.0,59.0
+/zapas/2647446,1.0,1.0,Florida Panthers,New York Islanders,29.0,60.0,64.0,32.0,65.0,55.0
 /zapas/2647452,1.0,1.0,Florida Panthers,Ottawa Senators,32.0,61.0,62.0,26.0,67.0,82.0
-/zapas/2647465,1.0,0.0,Florida Panthers,Philadelphia Flyers,34.0,64.0,60.0,29.0,66.0,75.0
+/zapas/2647465,1.0,0.0,Florida Panthers,Philadelphia Flyers,34.0,64.0,60.0,32.0,70.0,68.0
+/zapas/2647478,0.0,0.0,Florida Panthers,Columbus Blue Jackets,37.0,65.0,56.0,31.0,64.0,68.0
 /zapas/2647495,0.0,0.0,Florida Panthers,New York Rangers,34.0,65.0,61.0,24.0,57.0,67.0
 /zapas/2647510,1.0,0.0,Florida Panthers,Ottawa Senators,31.0,65.0,64.0,29.0,70.0,81.0
+/zapas/2647523,0.0,0.0,Florida Panthers,Tampa Bay Lightning,31.0,69.0,67.0,38.0,74.0,60.0
+/zapas/2647540,0.0,0.0,Florida Panthers,Carolina Hurricanes,28.0,68.0,71.0,29.0,57.0,59.0
 /zapas/2647550,0.0,1.0,Florida Panthers,Chicago Blackhawks,25.0,65.0,73.0,21.0,45.0,64.0
 /zapas/2647561,1.0,1.0,Florida Panthers,New Jersey Devils,25.0,68.0,76.0,24.0,54.0,70.0
 /zapas/2647576,0.0,1.0,Florida Panthers,Anaheim Ducks,27.0,68.0,74.0,22.0,42.0,61.0
 /zapas/2647588,1.0,1.0,Florida Panthers,Buffalo Sabres,27.0,68.0,74.0,37.0,71.0,56.0
+/zapas/2647598,0.0,1.0,Florida Panthers,Tampa Bay Lightning,28.0,66.0,70.0,40.0,76.0,60.0
+/zapas/2647615,1.0,1.0,Florida Panthers,Boston Bruins,27.0,64.0,70.0,31.0,47.0,46.0
+/zapas/2647628,0.0,1.0,Florida Panthers,Colorado Avalanche,29.0,66.0,66.0,35.0,73.0,60.0
 /zapas/2647648,0.0,1.0,Florida Panthers,New York Rangers,29.0,66.0,66.0,32.0,61.0,60.0
+/zapas/2647668,0.0,0.0,Florida Panthers,St. Louis Blues,28.0,67.0,69.0,24.0,53.0,65.0
 /zapas/2647682,0.0,0.0,Florida Panthers,Minnesota Wild,28.0,68.0,70.0,30.0,66.0,61.0
+/zapas/2647695,1.0,1.0,Florida Panthers,Toronto Maple Leafs,28.0,67.0,71.0,38.0,72.0,52.0
 /zapas/2647715,1.0,0.0,Florida Panthers,Buffalo Sabres,27.0,67.0,72.0,34.0,63.0,57.0
+/zapas/2647729,0.0,0.0,Florida Panthers,Toronto Maple Leafs,27.0,68.0,73.0,39.0,76.0,56.0
 /zapas/2647745,1.0,0.0,Florida Panthers,Detroit Red Wings,24.0,65.0,77.0,26.0,61.0,62.0
 /zapas/2647759,1.0,0.0,Florida Panthers,Chicago Blackhawks,24.0,62.0,77.0,22.0,57.0,72.0
 /zapas/2647778,0.0,1.0,Florida Panthers,Montreal Canadiens,24.0,66.0,79.0,31.0,57.0,62.0
 /zapas/2647789,1.0,1.0,Florida Panthers,Philadelphia Flyers,24.0,66.0,77.0,24.0,56.0,71.0
 /zapas/2647804,1.0,0.0,Florida Panthers,Detroit Red Wings,27.0,66.0,74.0,20.0,55.0,71.0
 /zapas/2647821,0.0,0.0,Florida Panthers,Buffalo Sabres,26.0,63.0,72.0,26.0,55.0,59.0
+/zapas/2647839,0.0,1.0,Florida Panthers,Columbus Blue Jackets,26.0,63.0,69.0,32.0,62.0,60.0
+/zapas/2647858,0.0,0.0,Florida Panthers,Pittsburgh Penguins,27.0,65.0,69.0,41.0,73.0,51.0
 /zapas/2647877,0.0,0.0,Florida Panthers,Edmonton Oilers,26.0,62.0,69.0,29.0,56.0,62.0
+/zapas/2647883,0.0,0.0,Florida Panthers,Calgary Flames,25.0,61.0,70.0,42.0,78.0,56.0
 /zapas/2647900,0.0,0.0,Florida Panthers,Vancouver Canucks,25.0,62.0,71.0,28.0,54.0,53.0
 /zapas/2647912,0.0,0.0,Florida Panthers,Montreal Canadiens,23.0,60.0,74.0,36.0,58.0,53.0
+/zapas/2647931,1.0,1.0,Florida Panthers,Toronto Maple Leafs,22.0,57.0,74.0,33.0,72.0,63.0
+/zapas/2647945,1.0,0.0,Florida Panthers,Nashville Predators,22.0,55.0,75.0,27.0,60.0,57.0
+/zapas/2647957,1.0,1.0,Florida Panthers,San Jose Sharks,25.0,57.0,72.0,44.0,86.0,62.0
+/zapas/2647980,0.0,1.0,Florida Panthers,Nashville Predators,27.0,59.0,69.0,28.0,59.0,54.0
+/zapas/2647992,1.0,1.0,Florida Panthers,Vegas Golden Knights,27.0,57.0,69.0,34.0,60.0,52.0
+/zapas/2648009,0.0,1.0,Florida Panthers,St. Louis Blues,30.0,59.0,65.0,34.0,57.0,51.0
+/zapas/2648022,1.0,1.0,Florida Panthers,Pittsburgh Penguins,28.0,57.0,65.0,38.0,71.0,56.0
+/zapas/2648047,1.0,0.0,Florida Panthers,Washington Capitals,27.0,55.0,65.0,29.0,57.0,68.0
+/zapas/2648056,0.0,1.0,Florida Panthers,Tampa Bay Lightning,29.0,59.0,63.0,40.0,69.0,55.0
+/zapas/2648063,0.0,1.0,Florida Panthers,Dallas Stars,26.0,59.0,67.0,33.0,46.0,42.0
+/zapas/2648075,1.0,1.0,Florida Panthers,Calgary Flames,23.0,53.0,67.0,37.0,79.0,67.0
 /zapas/2648106,1.0,1.0,Florida Panthers,Montreal Canadiens,25.0,53.0,64.0,32.0,53.0,48.0
 /zapas/2648114,1.0,1.0,Florida Panthers,Buffalo Sabres,25.0,57.0,66.0,21.0,56.0,72.0
+/zapas/2648128,0.0,1.0,Florida Panthers,Carolina Hurricanes,26.0,57.0,65.0,39.0,71.0,53.0
 /zapas/2648147,1.0,1.0,Florida Panthers,Los Angeles Kings,26.0,57.0,65.0,22.0,52.0,65.0
+/zapas/2648164,1.0,0.0,Florida Panthers,Colorado Avalanche,28.0,60.0,62.0,24.0,62.0,67.0
 /zapas/2648175,0.0,0.0,Florida Panthers,Arizona Coyotes,30.0,63.0,60.0,32.0,56.0,59.0
+/zapas/2648187,0.0,0.0,Florida Panthers,Vegas Golden Knights,30.0,63.0,60.0,23.0,56.0,65.0
+/zapas/2648203,0.0,1.0,Florida Panthers,Carolina Hurricanes,31.0,65.0,62.0,42.0,75.0,46.0
 /zapas/2648211,0.0,1.0,Florida Panthers,Ottawa Senators,32.0,67.0,61.0,14.0,50.0,70.0
+/zapas/2648220,0.0,0.0,Florida Panthers,Pittsburgh Penguins,32.0,68.0,59.0,29.0,65.0,70.0
+/zapas/2648231,0.0,0.0,Florida Panthers,Boston Bruins,30.0,67.0,61.0,41.0,65.0,45.0
 /zapas/2648242,1.0,1.0,Florida Panthers,Minnesota Wild,27.0,66.0,63.0,31.0,56.0,58.0
 /zapas/2648258,1.0,1.0,Florida Panthers,Detroit Red Wings,27.0,66.0,63.0,19.0,51.0,71.0
+/zapas/2648290,1.0,0.0,Florida Panthers,San Jose Sharks,30.0,71.0,60.0,42.0,76.0,59.0
 /zapas/2648299,1.0,0.0,Florida Panthers,Los Angeles Kings,30.0,72.0,61.0,17.0,51.0,73.0
 /zapas/2648314,0.0,0.0,Florida Panthers,Anaheim Ducks,33.0,74.0,61.0,24.0,46.0,57.0
+/zapas/2648328,0.0,0.0,Florida Panthers,Dallas Stars,31.0,73.0,62.0,31.0,48.0,48.0
 /zapas/2648334,1.0,1.0,Florida Panthers,Arizona Coyotes,29.0,70.0,62.0,37.0,56.0,49.0
+/zapas/2648355,0.0,1.0,Florida Panthers,Boston Bruins,32.0,72.0,59.0,43.0,71.0,46.0
+/zapas/2648367,0.0,0.0,Florida Panthers,Toronto Maple Leafs,32.0,75.0,63.0,33.0,69.0,66.0
 /zapas/2648378,0.0,0.0,Florida Panthers,Montreal Canadiens,30.0,77.0,68.0,28.0,55.0,57.0
 /zapas/2648390,1.0,0.0,Florida Panthers,Ottawa Senators,27.0,72.0,71.0,17.0,53.0,73.0
+/zapas/2648403,1.0,0.0,Florida Panthers,Boston Bruins,27.0,73.0,71.0,42.0,75.0,49.0
+/zapas/2648419,1.0,1.0,Florida Panthers,Washington Capitals,30.0,74.0,68.0,44.0,74.0,51.0
+/zapas/2648442,0.0,1.0,Florida Panthers,New York Islanders,30.0,73.0,70.0,31.0,49.0,49.0
 /zapas/2648460,0.0,1.0,Florida Panthers,New Jersey Devils,29.0,70.0,69.0,18.0,38.0,64.0
-/zapas/2890994,0.0,0.0,Florida Panthers,New York Islanders,28.0,70.0,69.0,26.0,58.0,63.0
-/zapas/2890995,0.0,0.0,Florida Panthers,New York Islanders,27.0,66.0,65.0,29.0,57.0,58.0
-/zapas/2890996,1.0,1.0,Florida Panthers,New York Islanders,26.0,65.0,65.0,32.0,58.0,56.0
-/zapas/2890997,0.0,1.0,Florida Panthers,New York Islanders,29.0,66.0,64.0,29.0,56.0,58.0
-/zapas/2894357,0.0,1.0,Florida Panthers,Tampa Bay Lightning,28.0,65.0,66.0,42.0,67.0,44.0
-/zapas/2894358,0.0,1.0,Florida Panthers,Tampa Bay Lightning,28.0,66.0,67.0,42.0,69.0,46.0
-/zapas/2894359,1.0,0.0,Florida Panthers,Tampa Bay Lightning,25.0,61.0,68.0,42.0,70.0,46.0
-/zapas/2894360,0.0,0.0,Florida Panthers,Tampa Bay Lightning,24.0,61.0,72.0,41.0,70.0,48.0
-/zapas/2894361,1.0,1.0,Florida Panthers,Tampa Bay Lightning,21.0,59.0,76.0,44.0,74.0,47.0
-/zapas/2894362,0.0,0.0,Florida Panthers,Tampa Bay Lightning,21.0,59.0,74.0,42.0,71.0,48.0
-/zapas/2900317,0.0,1.0,Florida Panthers,Washington Capitals,21.0,57.0,75.0,26.0,51.0,60.0
-/zapas/2900318,1.0,1.0,Florida Panthers,Washington Capitals,21.0,57.0,75.0,26.0,52.0,61.0
-/zapas/2900319,0.0,0.0,Florida Panthers,Washington Capitals,21.0,58.0,74.0,23.0,47.0,64.0
-/zapas/2900320,1.0,0.0,Florida Panthers,Washington Capitals,21.0,56.0,73.0,23.0,49.0,62.0
-/zapas/2900321,1.0,1.0,Florida Panthers,Washington Capitals,23.0,54.0,68.0,21.0,47.0,63.0
-/zapas/2900322,1.0,0.0,Florida Panthers,Washington Capitals,26.0,58.0,65.0,19.0,46.0,65.0
-/zapas/2900366,0.0,1.0,Florida Panthers,Tampa Bay Lightning,25.0,57.0,66.0,40.0,62.0,43.0
-/zapas/2900367,0.0,1.0,Florida Panthers,Tampa Bay Lightning,22.0,54.0,69.0,40.0,64.0,44.0
-/zapas/2900368,0.0,0.0,Florida Panthers,Tampa Bay Lightning,19.0,50.0,68.0,43.0,65.0,43.0
-/zapas/2900369,0.0,0.0,Florida Panthers,Tampa Bay Lightning,18.0,50.0,71.0,43.0,66.0,42.0
+/zapas/2806381,0.0,0.0,Florida Panthers,Tampa Bay Lightning,28.0,70.0,69.0,42.0,81.0,59.0
+/zapas/2806397,1.0,1.0,Florida Panthers,Tampa Bay Lightning,27.0,67.0,68.0,43.0,82.0,58.0
+/zapas/2806412,0.0,1.0,Florida Panthers,Carolina Hurricanes,29.0,68.0,67.0,35.0,60.0,55.0
+/zapas/2806434,0.0,0.0,Florida Panthers,Buffalo Sabres,29.0,69.0,70.0,19.0,54.0,71.0
+/zapas/2806444,0.0,0.0,Florida Panthers,New York Islanders,29.0,69.0,70.0,31.0,45.0,48.0
+/zapas/2806456,1.0,0.0,Florida Panthers,New Jersey Devils,30.0,68.0,69.0,19.0,42.0,73.0
+/zapas/2806483,0.0,1.0,Florida Panthers,Colorado Avalanche,30.0,68.0,71.0,42.0,64.0,46.0
+/zapas/2806497,1.0,0.0,Florida Panthers,Nashville Predators,28.0,66.0,75.0,37.0,63.0,58.0
+/zapas/2806511,1.0,1.0,Florida Panthers,Pittsburgh Penguins,27.0,65.0,75.0,34.0,58.0,51.0
+/zapas/2806529,0.0,0.0,Florida Panthers,Calgary Flames,27.0,65.0,74.0,30.0,58.0,51.0
+/zapas/2806546,1.0,0.0,Florida Panthers,Edmonton Oilers,28.0,68.0,77.0,34.0,61.0,57.0
+/zapas/2806554,0.0,0.0,Florida Panthers,Vancouver Canucks,31.0,72.0,75.0,30.0,64.0,56.0
+/zapas/2806568,1.0,0.0,Florida Panthers,Colorado Avalanche,28.0,70.0,80.0,41.0,72.0,52.0
+/zapas/2806585,1.0,1.0,Florida Panthers,Detroit Red Wings,30.0,71.0,76.0,24.0,54.0,72.0
+/zapas/2806614,0.0,1.0,Florida Panthers,Washington Capitals,33.0,70.0,69.0,39.0,75.0,61.0
+/zapas/2806628,0.0,0.0,Florida Panthers,New York Islanders,34.0,73.0,68.0,42.0,63.0,42.0
+/zapas/2806639,1.0,0.0,Florida Panthers,New York Rangers,31.0,69.0,68.0,31.0,62.0,61.0
+/zapas/2806648,1.0,0.0,Florida Panthers,Boston Bruins,30.0,71.0,72.0,42.0,72.0,51.0
+/zapas/2806664,0.0,1.0,Florida Panthers,Winnipeg Jets,29.0,71.0,73.0,28.0,55.0,60.0
+/zapas/2806682,1.0,1.0,Florida Panthers,New York Rangers,28.0,73.0,75.0,28.0,64.0,72.0
+/zapas/2806695,1.0,1.0,Florida Panthers,Philadelphia Flyers,31.0,74.0,74.0,30.0,61.0,60.0
+/zapas/2806710,1.0,1.0,Florida Panthers,Anaheim Ducks,34.0,77.0,71.0,25.0,54.0,62.0
+/zapas/2806733,0.0,0.0,Florida Panthers,Carolina Hurricanes,33.0,78.0,72.0,31.0,70.0,61.0
+/zapas/2806738,0.0,1.0,Florida Panthers,Buffalo Sabres,33.0,77.0,70.0,24.0,52.0,63.0
+/zapas/2806759,0.0,0.0,Florida Panthers,Washington Capitals,32.0,77.0,72.0,40.0,76.0,59.0
+/zapas/2806785,1.0,1.0,Florida Panthers,Nashville Predators,31.0,78.0,73.0,29.0,64.0,61.0
+/zapas/2806802,0.0,1.0,Florida Panthers,Minnesota Wild,31.0,75.0,69.0,36.0,65.0,57.0
+/zapas/2806834,1.0,1.0,Florida Panthers,Columbus Blue Jackets,30.0,73.0,68.0,23.0,52.0,61.0
+/zapas/2806840,1.0,1.0,Florida Panthers,San Jose Sharks,31.0,74.0,67.0,29.0,58.0,68.0
+/zapas/2806849,0.0,1.0,Florida Panthers,Tampa Bay Lightning,31.0,75.0,66.0,30.0,74.0,65.0
+/zapas/2806865,0.0,1.0,Florida Panthers,New York Islanders,30.0,71.0,62.0,40.0,61.0,47.0
+/zapas/2806886,0.0,1.0,Florida Panthers,Boston Bruins,27.0,66.0,63.0,32.0,65.0,57.0
+/zapas/2806895,1.0,1.0,Florida Panthers,Ottawa Senators,27.0,66.0,60.0,28.0,53.0,59.0
+/zapas/2806924,1.0,1.0,Florida Panthers,Dallas Stars,28.0,68.0,58.0,38.0,58.0,44.0
+/zapas/2806936,1.0,0.0,Florida Panthers,Carolina Hurricanes,28.0,71.0,62.0,37.0,66.0,48.0
+/zapas/2806948,0.0,0.0,Florida Panthers,Tampa Bay Lightning,30.0,71.0,59.0,30.0,71.0,61.0
+/zapas/2806972,1.0,1.0,Florida Panthers,Detroit Red Wings,30.0,71.0,63.0,13.0,43.0,80.0
+/zapas/2806984,1.0,1.0,Florida Panthers,Montreal Canadiens,31.0,70.0,62.0,25.0,61.0,66.0
+/zapas/2806995,0.0,0.0,Florida Panthers,Columbus Blue Jackets,32.0,71.0,63.0,33.0,56.0,48.0
+/zapas/2807008,1.0,0.0,Florida Panthers,Ottawa Senators,32.0,69.0,63.0,25.0,56.0,66.0
+/zapas/2807021,0.0,0.0,Florida Panthers,Buffalo Sabres,32.0,71.0,63.0,26.0,62.0,67.0
+/zapas/2807030,1.0,0.0,Florida Panthers,Pittsburgh Penguins,29.0,68.0,64.0,40.0,70.0,54.0
+/zapas/2807040,0.0,1.0,Florida Panthers,Arizona Coyotes,30.0,67.0,61.0,30.0,60.0,58.0
+/zapas/2807057,1.0,1.0,Florida Panthers,Vancouver Canucks,30.0,67.0,62.0,32.0,67.0,66.0
+/zapas/2807083,1.0,1.0,Florida Panthers,Toronto Maple Leafs,33.0,70.0,59.0,39.0,81.0,60.0
+/zapas/2807105,1.0,1.0,Florida Panthers,Los Angeles Kings,36.0,75.0,59.0,22.0,49.0,57.0
+/zapas/2807125,1.0,0.0,Florida Panthers,Detroit Red Wings,36.0,76.0,62.0,15.0,43.0,75.0
+/zapas/2807136,1.0,0.0,Florida Panthers,Minnesota Wild,39.0,78.0,59.0,28.0,65.0,71.0
+/zapas/2807141,1.0,0.0,Florida Panthers,Chicago Blackhawks,39.0,79.0,62.0,34.0,69.0,64.0
+/zapas/2807170,0.0,0.0,Florida Panthers,Montreal Canadiens,39.0,78.0,64.0,22.0,56.0,57.0
+/zapas/2807185,1.0,0.0,Florida Panthers,Toronto Maple Leafs,39.0,77.0,66.0,40.0,84.0,67.0
+/zapas/2807194,0.0,0.0,Florida Panthers,Columbus Blue Jackets,42.0,81.0,66.0,46.0,61.0,37.0
+/zapas/2807206,0.0,1.0,Florida Panthers,Vegas Golden Knights,43.0,79.0,63.0,31.0,67.0,66.0
+/zapas/2807224,0.0,1.0,Florida Panthers,Pittsburgh Penguins,40.0,75.0,69.0,38.0,68.0,57.0
+/zapas/2807237,0.0,0.0,Florida Panthers,Philadelphia Flyers,37.0,70.0,68.0,31.0,66.0,63.0
+/zapas/2807244,1.0,0.0,Florida Panthers,New Jersey Devils,34.0,67.0,70.0,29.0,66.0,68.0
+/zapas/2807259,0.0,1.0,Florida Panthers,Philadelphia Flyers,37.0,71.0,67.0,29.0,63.0,64.0
+/zapas/2807274,0.0,1.0,Florida Panthers,Edmonton Oilers,34.0,68.0,69.0,35.0,73.0,67.0
+/zapas/2807291,1.0,0.0,Florida Panthers,San Jose Sharks,31.0,63.0,68.0,31.0,51.0,56.0
+/zapas/2807306,1.0,0.0,Florida Panthers,Anaheim Ducks,34.0,67.0,67.0,23.0,54.0,67.0
+/zapas/2807316,0.0,0.0,Florida Panthers,Los Angeles Kings,34.0,65.0,65.0,15.0,46.0,67.0
+/zapas/2807333,0.0,0.0,Florida Panthers,Vegas Golden Knights,34.0,67.0,67.0,33.0,68.0,65.0
+/zapas/2807355,1.0,0.0,Florida Panthers,Arizona Coyotes,31.0,66.0,71.0,22.0,48.0,60.0
+/zapas/2807363,0.0,1.0,Florida Panthers,Toronto Maple Leafs,34.0,66.0,67.0,27.0,65.0,72.0
+/zapas/2807378,0.0,1.0,Florida Panthers,Chicago Blackhawks,31.0,64.0,70.0,26.0,64.0,62.0
+/zapas/2807388,0.0,1.0,Florida Panthers,Calgary Flames,29.0,58.0,69.0,27.0,71.0,70.0
+/zapas/2807411,0.0,1.0,Florida Panthers,Boston Bruins,26.0,54.0,69.0,43.0,61.0,43.0
+/zapas/2807431,1.0,1.0,Florida Panthers,Montreal Canadiens,24.0,51.0,70.0,26.0,59.0,60.0
+/zapas/2807451,1.0,0.0,Florida Panthers,St. Louis Blues,24.0,50.0,67.0,32.0,62.0,55.0
+/zapas/2893242,1.0,1.0,Florida Panthers,Chicago Blackhawks,24.0,48.0,65.0,21.0,57.0,65.0
+/zapas/2893258,1.0,1.0,Florida Panthers,Chicago Blackhawks,27.0,53.0,63.0,20.0,57.0,67.0
+/zapas/2893313,1.0,0.0,Florida Panthers,Columbus Blue Jackets,26.0,53.0,64.0,22.0,48.0,68.0
+/zapas/2893327,0.0,0.0,Florida Panthers,Columbus Blue Jackets,27.0,57.0,66.0,22.0,50.0,70.0
+/zapas/2893341,1.0,0.0,Florida Panthers,Detroit Red Wings,28.0,57.0,62.0,15.0,40.0,76.0
+/zapas/2893350,1.0,0.0,Florida Panthers,Detroit Red Wings,30.0,58.0,61.0,16.0,41.0,75.0
+/zapas/2893377,0.0,1.0,Florida Panthers,Nashville Predators,33.0,60.0,59.0,27.0,48.0,59.0
+/zapas/2893384,1.0,1.0,Florida Panthers,Nashville Predators,31.0,60.0,62.0,29.0,53.0,60.0
+/zapas/2893400,0.0,1.0,Florida Panthers,Detroit Red Wings,34.0,60.0,57.0,13.0,39.0,74.0
+/zapas/2893416,1.0,1.0,Florida Panthers,Detroit Red Wings,34.0,60.0,57.0,16.0,41.0,71.0
+/zapas/2893431,1.0,1.0,Florida Panthers,Tampa Bay Lightning,34.0,57.0,55.0,37.0,69.0,51.0
+/zapas/2893445,0.0,1.0,Florida Panthers,Tampa Bay Lightning,34.0,58.0,56.0,37.0,68.0,49.0
+/zapas/2893465,1.0,0.0,Florida Panthers,Tampa Bay Lightning,34.0,55.0,57.0,40.0,71.0,46.0
+/zapas/2893270,1.0,0.0,Florida Panthers,Carolina Hurricanes,37.0,58.0,56.0,35.0,71.0,57.0
+/zapas/2893484,1.0,0.0,Florida Panthers,Detroit Red Wings,36.0,60.0,58.0,16.0,42.0,65.0
+/zapas/2893500,0.0,0.0,Florida Panthers,Detroit Red Wings,39.0,64.0,55.0,14.0,39.0,68.0
+/zapas/2893221,1.0,1.0,Florida Panthers,Dallas Stars,38.0,63.0,54.0,26.0,55.0,53.0
+/zapas/2893511,0.0,1.0,Florida Panthers,Dallas Stars,41.0,66.0,52.0,23.0,54.0,55.0
+/zapas/2893525,1.0,1.0,Florida Panthers,Dallas Stars,40.0,65.0,53.0,23.0,53.0,54.0
+/zapas/2893544,0.0,1.0,Florida Panthers,Carolina Hurricanes,40.0,64.0,54.0,36.0,70.0,55.0
+/zapas/2893557,0.0,1.0,Florida Panthers,Carolina Hurricanes,38.0,65.0,57.0,35.0,69.0,56.0
+/zapas/2893573,1.0,0.0,Florida Panthers,Nashville Predators,36.0,62.0,58.0,21.0,43.0,65.0
+/zapas/2893589,1.0,0.0,Florida Panthers,Nashville Predators,37.0,62.0,58.0,21.0,45.0,66.0
+/zapas/2893286,0.0,0.0,Florida Panthers,Carolina Hurricanes,38.0,64.0,57.0,37.0,72.0,56.0
+/zapas/2893615,1.0,0.0,Florida Panthers,Columbus Blue Jackets,37.0,64.0,58.0,26.0,54.0,67.0
+/zapas/2893630,1.0,0.0,Florida Panthers,Columbus Blue Jackets,38.0,65.0,58.0,25.0,53.0,67.0
+/zapas/2893645,1.0,1.0,Florida Panthers,Chicago Blackhawks,37.0,67.0,60.0,32.0,65.0,60.0
+/zapas/2893659,1.0,1.0,Florida Panthers,Chicago Blackhawks,39.0,66.0,56.0,32.0,66.0,62.0
+/zapas/2893682,0.0,1.0,Florida Panthers,Nashville Predators,39.0,70.0,58.0,23.0,49.0,68.0
+/zapas/2893697,1.0,1.0,Florida Panthers,Nashville Predators,39.0,70.0,56.0,24.0,45.0,64.0
+/zapas/2894036,0.0,0.0,Florida Panthers,Tampa Bay Lightning,39.0,70.0,55.0,40.0,74.0,51.0
+/zapas/2893712,0.0,0.0,Florida Panthers,Chicago Blackhawks,36.0,68.0,58.0,25.0,60.0,67.0
+/zapas/2893723,0.0,0.0,Florida Panthers,Chicago Blackhawks,36.0,69.0,55.0,26.0,61.0,68.0
+/zapas/2893739,1.0,0.0,Florida Panthers,Dallas Stars,33.0,63.0,54.0,22.0,51.0,55.0
+/zapas/2893750,1.0,0.0,Florida Panthers,Dallas Stars,33.0,63.0,54.0,23.0,51.0,54.0
+/zapas/2893770,1.0,1.0,Florida Panthers,Detroit Red Wings,33.0,60.0,53.0,26.0,46.0,64.0
+/zapas/2893785,1.0,1.0,Florida Panthers,Detroit Red Wings,36.0,63.0,52.0,25.0,45.0,65.0
+/zapas/2893801,1.0,1.0,Florida Panthers,Columbus Blue Jackets,35.0,63.0,53.0,19.0,43.0,61.0
+/zapas/2893810,1.0,1.0,Florida Panthers,Columbus Blue Jackets,38.0,68.0,52.0,19.0,43.0,62.0
+/zapas/2893825,0.0,0.0,Florida Panthers,Carolina Hurricanes,38.0,68.0,50.0,37.0,56.0,45.0
+/zapas/2893839,0.0,0.0,Florida Panthers,Carolina Hurricanes,37.0,67.0,51.0,40.0,61.0,44.0
+/zapas/2893851,0.0,0.0,Florida Panthers,Dallas Stars,36.0,65.0,51.0,29.0,57.0,50.0
+/zapas/2893873,1.0,0.0,Florida Panthers,Dallas Stars,33.0,61.0,51.0,29.0,55.0,50.0
+/zapas/2893888,0.0,0.0,Florida Panthers,Tampa Bay Lightning,32.0,58.0,51.0,34.0,66.0,63.0
+/zapas/2893905,1.0,0.0,Florida Panthers,Tampa Bay Lightning,33.0,58.0,50.0,33.0,63.0,62.0
+/zapas/2893918,1.0,1.0,Florida Panthers,Columbus Blue Jackets,33.0,59.0,51.0,16.0,45.0,69.0
+/zapas/2893931,1.0,1.0,Florida Panthers,Columbus Blue Jackets,34.0,58.0,49.0,16.0,45.0,69.0
+/zapas/2893942,0.0,1.0,Florida Panthers,Carolina Hurricanes,34.0,59.0,48.0,39.0,58.0,42.0
+/zapas/2893956,1.0,1.0,Florida Panthers,Carolina Hurricanes,31.0,55.0,49.0,39.0,57.0,43.0
+/zapas/2893966,0.0,0.0,Florida Panthers,Nashville Predators,33.0,58.0,50.0,39.0,62.0,41.0
+/zapas/2893976,1.0,0.0,Florida Panthers,Nashville Predators,30.0,57.0,54.0,39.0,64.0,41.0
+/zapas/2893990,1.0,0.0,Florida Panthers,Chicago Blackhawks,33.0,61.0,53.0,22.0,50.0,66.0
+/zapas/2894004,1.0,0.0,Florida Panthers,Chicago Blackhawks,35.0,63.0,53.0,23.0,50.0,64.0
+/zapas/2893229,1.0,1.0,Florida Panthers,Dallas Stars,38.0,68.0,54.0,31.0,52.0,49.0
+/zapas/2894069,1.0,1.0,Florida Panthers,Tampa Bay Lightning,38.0,69.0,55.0,34.0,57.0,56.0
+/zapas/2894049,1.0,1.0,Florida Panthers,Tampa Bay Lightning,38.0,70.0,55.0,34.0,57.0,58.0
+/zapas/2896994,1.0,1.0,Florida Panthers,Pittsburgh Penguins,38.0,70.0,54.0,42.0,81.0,63.0
+/zapas/2897011,1.0,1.0,Florida Panthers,New York Islanders,38.0,72.0,56.0,26.0,45.0,46.0
+/zapas/2897027,1.0,0.0,Florida Panthers,Tampa Bay Lightning,38.0,72.0,55.0,32.0,60.0,63.0
+/zapas/2897040,1.0,1.0,Florida Panthers,Colorado Avalanche,38.0,73.0,56.0,41.0,67.0,51.0
+/zapas/2897056,1.0,0.0,Florida Panthers,Philadelphia Flyers,41.0,75.0,52.0,28.0,63.0,69.0
+/zapas/2897067,1.0,1.0,Florida Panthers,Arizona Coyotes,44.0,79.0,51.0,16.0,47.0,72.0
+/zapas/2897081,1.0,1.0,Florida Panthers,Boston Bruins,47.0,83.0,50.0,42.0,70.0,41.0
+/zapas/2897094,1.0,0.0,Florida Panthers,Detroit Red Wings,48.0,84.0,49.0,30.0,54.0,55.0
+/zapas/2897105,0.0,0.0,Florida Panthers,Boston Bruins,49.0,85.0,48.0,36.0,64.0,47.0
+/zapas/2897136,1.0,1.0,Florida Panthers,Washington Capitals,47.0,82.0,48.0,38.0,63.0,50.0
+/zapas/2897151,1.0,1.0,Florida Panthers,Carolina Hurricanes,46.0,83.0,50.0,47.0,70.0,43.0
+/zapas/2897161,0.0,0.0,Florida Panthers,New York Rangers,46.0,83.0,51.0,29.0,48.0,63.0
+/zapas/2897172,0.0,0.0,Florida Panthers,New Jersey Devils,46.0,84.0,51.0,29.0,55.0,62.0
+/zapas/2897186,0.0,0.0,Florida Panthers,Pittsburgh Penguins,44.0,83.0,55.0,35.0,67.0,58.0
+/zapas/2897201,0.0,0.0,Florida Panthers,Tampa Bay Lightning,45.0,84.0,54.0,32.0,57.0,59.0
+/zapas/2897220,1.0,1.0,Florida Panthers,New York Islanders,43.0,79.0,53.0,28.0,48.0,48.0
+/zapas/2897238,1.0,1.0,Florida Panthers,New Jersey Devils,44.0,81.0,51.0,29.0,55.0,59.0
+/zapas/2897252,1.0,1.0,Florida Panthers,Minnesota Wild,44.0,80.0,48.0,33.0,67.0,66.0
+/zapas/2897279,1.0,1.0,Florida Panthers,Philadelphia Flyers,45.0,80.0,48.0,33.0,52.0,54.0
+/zapas/2897296,0.0,0.0,Florida Panthers,Washington Capitals,44.0,77.0,48.0,41.0,70.0,47.0
+/zapas/2897305,0.0,1.0,Florida Panthers,Seattle Kraken,41.0,76.0,52.0,19.0,54.0,72.0
+/zapas/2897324,1.0,1.0,Florida Panthers,Washington Capitals,39.0,72.0,52.0,43.0,72.0,49.0
+/zapas/2897339,1.0,1.0,Florida Panthers,Buffalo Sabres,39.0,72.0,55.0,20.0,57.0,75.0
+/zapas/2897354,1.0,1.0,Florida Panthers,St. Louis Blues,39.0,75.0,58.0,28.0,62.0,58.0
+/zapas/2897372,0.0,0.0,Florida Panthers,St. Louis Blues,38.0,75.0,60.0,26.0,58.0,59.0
+/zapas/2897396,1.0,0.0,Florida Panthers,Arizona Coyotes,36.0,74.0,62.0,14.0,36.0,68.0
+/zapas/2897414,0.0,0.0,Florida Panthers,Colorado Avalanche,36.0,72.0,60.0,43.0,95.0,65.0
+/zapas/2897429,0.0,1.0,Florida Panthers,Ottawa Senators,33.0,70.0,62.0,17.0,57.0,81.0
+/zapas/2897442,0.0,1.0,Florida Panthers,Los Angeles Kings,31.0,69.0,68.0,34.0,56.0,48.0
+/zapas/2897530,1.0,1.0,Florida Panthers,New York Rangers,30.0,68.0,69.0,40.0,62.0,55.0
+/zapas/2897536,1.0,1.0,Florida Panthers,Tampa Bay Lightning,31.0,67.0,68.0,41.0,68.0,49.0
+/zapas/2897553,1.0,1.0,Florida Panthers,Montreal Canadiens,31.0,71.0,69.0,15.0,45.0,73.0
+/zapas/2897575,1.0,1.0,Florida Panthers,Calgary Flames,34.0,73.0,67.0,34.0,64.0,45.0
+/zapas/2897586,0.0,0.0,Florida Panthers,Dallas Stars,37.0,76.0,62.0,34.0,64.0,59.0
+/zapas/2897608,1.0,0.0,Florida Panthers,Carolina Hurricanes,37.0,79.0,65.0,42.0,70.0,46.0
+/zapas/2897624,1.0,1.0,Florida Panthers,Vancouver Canucks,38.0,81.0,65.0,31.0,53.0,52.0
+/zapas/2897645,1.0,1.0,Florida Panthers,Dallas Stars,38.0,80.0,66.0,37.0,65.0,55.0
+/zapas/2897657,1.0,1.0,Florida Panthers,Columbus Blue Jackets,38.0,83.0,66.0,23.0,64.0,75.0
+/zapas/2897673,0.0,0.0,Florida Panthers,Calgary Flames,38.0,87.0,64.0,30.0,61.0,55.0
+/zapas/2897688,1.0,0.0,Florida Panthers,Edmonton Oilers,36.0,86.0,68.0,22.0,56.0,70.0
+/zapas/2897694,1.0,0.0,Florida Panthers,Vancouver Canucks,39.0,89.0,64.0,34.0,55.0,49.0
+/zapas/2897714,0.0,0.0,Florida Panthers,Seattle Kraken,41.0,90.0,61.0,20.0,51.0,73.0
+/zapas/2897727,1.0,0.0,Florida Panthers,Winnipeg Jets,38.0,88.0,62.0,26.0,56.0,66.0
+/zapas/2897744,1.0,1.0,Florida Panthers,Vegas Golden Knights,38.0,86.0,61.0,36.0,71.0,58.0
+/zapas/2897760,1.0,1.0,Florida Panthers,San Jose Sharks,39.0,86.0,59.0,24.0,57.0,71.0
+/zapas/2897775,1.0,0.0,Florida Panthers,Columbus Blue Jackets,40.0,88.0,59.0,23.0,62.0,80.0
+/zapas/2897785,0.0,0.0,Florida Panthers,New York Rangers,40.0,93.0,62.0,32.0,61.0,53.0
+/zapas/2897516,1.0,0.0,Florida Panthers,Carolina Hurricanes,40.0,93.0,64.0,39.0,77.0,53.0
+/zapas/2897457,1.0,0.0,Florida Panthers,Minnesota Wild,42.0,94.0,58.0,36.0,78.0,62.0
+/zapas/2897479,1.0,0.0,Florida Panthers,Chicago Blackhawks,45.0,99.0,56.0,24.0,51.0,68.0
+/zapas/2897499,0.0,1.0,Florida Panthers,Nashville Predators,45.0,100.0,55.0,29.0,64.0,64.0
+/zapas/2897801,0.0,1.0,Florida Panthers,Columbus Blue Jackets,42.0,95.0,58.0,31.0,68.0,78.0
+/zapas/2897817,0.0,1.0,Florida Panthers,Edmonton Oilers,39.0,93.0,62.0,30.0,63.0,66.0
+/zapas/2897850,1.0,1.0,Florida Panthers,Ottawa Senators,36.0,90.0,64.0,26.0,47.0,51.0
+/zapas/2897866,1.0,1.0,Florida Panthers,Detroit Red Wings,38.0,88.0,58.0,22.0,65.0,79.0
+/zapas/2897880,1.0,0.0,Florida Panthers,Buffalo Sabres,39.0,90.0,57.0,23.0,57.0,73.0
+/zapas/2897893,1.0,0.0,Florida Panthers,Pittsburgh Penguins,39.0,91.0,56.0,38.0,65.0,55.0
+/zapas/2897905,1.0,1.0,Florida Panthers,Philadelphia Flyers,39.0,88.0,58.0,17.0,49.0,71.0
+/zapas/2897924,0.0,0.0,Florida Panthers,Los Angeles Kings,39.0,85.0,59.0,36.0,60.0,62.0
+/zapas/2897936,1.0,0.0,Florida Panthers,San Jose Sharks,40.0,86.0,57.0,22.0,49.0,65.0
+/zapas/2897950,0.0,0.0,Florida Panthers,Vegas Golden Knights,39.0,83.0,59.0,22.0,49.0,65.0
+/zapas/2897958,1.0,0.0,Florida Panthers,Anaheim Ducks,37.0,84.0,63.0,23.0,58.0,78.0
+/zapas/2898006,1.0,0.0,Florida Panthers,Montreal Canadiens,40.0,84.0,58.0,26.0,64.0,72.0
+/zapas/2898024,1.0,0.0,Florida Panthers,Ottawa Senators,40.0,83.0,58.0,21.0,49.0,65.0
+/zapas/2898030,0.0,0.0,Florida Panthers,Toronto Maple Leafs,39.0,83.0,60.0,32.0,75.0,75.0
+/zapas/2898046,1.0,1.0,Florida Panthers,Montreal Canadiens,37.0,80.0,61.0,30.0,67.0,63.0
+/zapas/2898061,1.0,1.0,Florida Panthers,Chicago Blackhawks,37.0,79.0,61.0,22.0,68.0,78.0
+/zapas/2898078,1.0,0.0,Florida Panthers,New Jersey Devils,40.0,81.0,56.0,21.0,70.0,79.0
+/zapas/2898085,1.0,0.0,Florida Panthers,Buffalo Sabres,40.0,85.0,60.0,27.0,58.0,73.0
+/zapas/2898100,1.0,1.0,Florida Panthers,Toronto Maple Leafs,40.0,84.0,61.0,41.0,88.0,72.0
+/zapas/2898121,1.0,1.0,Florida Panthers,Buffalo Sabres,39.0,86.0,65.0,30.0,62.0,69.0
+/zapas/2898128,1.0,0.0,Florida Panthers,Nashville Predators,42.0,86.0,62.0,38.0,80.0,60.0
+/zapas/2898154,1.0,1.0,Florida Panthers,Anaheim Ducks,45.0,87.0,57.0,14.0,47.0,77.0
+/zapas/2898176,1.0,1.0,Florida Panthers,Winnipeg Jets,47.0,87.0,55.0,31.0,67.0,66.0
+/zapas/2898194,1.0,0.0,Florida Panthers,Detroit Red Wings,47.0,90.0,56.0,19.0,52.0,88.0
+/zapas/2898207,1.0,0.0,Florida Panthers,New York Islanders,47.0,90.0,55.0,36.0,60.0,56.0
+/zapas/2898220,1.0,1.0,Florida Panthers,Detroit Red Wings,46.0,87.0,56.0,22.0,53.0,82.0
+/zapas/2898239,1.0,1.0,Florida Panthers,Toronto Maple Leafs,46.0,88.0,55.0,41.0,84.0,69.0
+/zapas/2898245,0.0,1.0,Florida Panthers,Tampa Bay Lightning,45.0,85.0,54.0,32.0,69.0,49.0
+/zapas/2898259,0.0,0.0,Florida Panthers,Boston Bruins,44.0,87.0,59.0,34.0,64.0,53.0
+/zapas/2898275,1.0,0.0,Florida Panthers,Ottawa Senators,42.0,86.0,61.0,32.0,65.0,62.0
+/zapas/2898288,0.0,0.0,Florida Panthers,Montreal Canadiens,45.0,87.0,56.0,16.0,58.0,83.0

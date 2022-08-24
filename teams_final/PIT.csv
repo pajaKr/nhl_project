@@ -1,14 +1,350 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
-/zapas/2894343,0.0,1.0,Pittsburgh Penguins,New York Islanders,24.0,56.0,58.0,35.0,60.0,48.0
-/zapas/2894344,1.0,1.0,Pittsburgh Penguins,New York Islanders,22.0,52.0,62.0,37.0,62.0,48.0
-/zapas/2894345,1.0,0.0,Pittsburgh Penguins,New York Islanders,25.0,53.0,58.0,34.0,58.0,49.0
-/zapas/2894346,0.0,0.0,Pittsburgh Penguins,New York Islanders,25.0,53.0,61.0,31.0,58.0,52.0
-/zapas/2894347,0.0,1.0,Pittsburgh Penguins,New York Islanders,22.0,49.0,65.0,31.0,57.0,51.0
-/zapas/2894348,0.0,0.0,Pittsburgh Penguins,New York Islanders,23.0,49.0,64.0,31.0,58.0,52.0
-/zapas/2900310,1.0,0.0,Pittsburgh Penguins,New York Rangers,20.0,44.0,64.0,32.0,62.0,61.0
-/zapas/2900311,0.0,0.0,Pittsburgh Penguins,New York Rangers,19.0,45.0,65.0,32.0,63.0,62.0
-/zapas/2900312,1.0,1.0,Pittsburgh Penguins,New York Rangers,19.0,46.0,66.0,32.0,60.0,60.0
-/zapas/2900313,1.0,1.0,Pittsburgh Penguins,New York Rangers,22.0,50.0,66.0,32.0,62.0,62.0
-/zapas/2900314,0.0,0.0,Pittsburgh Penguins,New York Rangers,22.0,54.0,67.0,29.0,60.0,68.0
-/zapas/2900315,0.0,1.0,Pittsburgh Penguins,New York Rangers,22.0,54.0,66.0,31.0,63.0,68.0
-/zapas/2900316,0.0,0.0,Pittsburgh Penguins,New York Rangers,21.0,56.0,69.0,31.0,65.0,71.0
+/zapas/2526378,0.0,1.0,Pittsburgh Penguins,Vancouver Canucks,31.0,54.0,60.0,30.0,53.0,57.0
+/zapas/2526388,0.0,0.0,Pittsburgh Penguins,Boston Bruins,28.0,52.0,65.0,30.0,54.0,59.0
+/zapas/2526407,1.0,1.0,Pittsburgh Penguins,Tampa Bay Lightning,25.0,52.0,67.0,44.0,75.0,49.0
+/zapas/2526417,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,28.0,53.0,64.0,24.0,57.0,63.0
+/zapas/2526442,1.0,0.0,Pittsburgh Penguins,Buffalo Sabres,27.0,54.0,65.0,20.0,44.0,63.0
+/zapas/2526455,1.0,1.0,Pittsburgh Penguins,Buffalo Sabres,28.0,53.0,61.0,17.0,41.0,66.0
+/zapas/2526470,0.0,1.0,Pittsburgh Penguins,New York Rangers,28.0,54.0,59.0,37.0,74.0,57.0
+/zapas/2526485,1.0,1.0,Pittsburgh Penguins,New York Islanders,28.0,56.0,56.0,37.0,82.0,71.0
+/zapas/2526504,0.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,28.0,58.0,58.0,30.0,61.0,55.0
+/zapas/2526516,0.0,1.0,Pittsburgh Penguins,Colorado Avalanche,26.0,59.0,61.0,26.0,67.0,73.0
+/zapas/2526544,0.0,0.0,Pittsburgh Penguins,Vegas Golden Knights,26.0,59.0,61.0,31.0,68.0,69.0
+/zapas/2526557,1.0,0.0,Pittsburgh Penguins,Arizona Coyotes,26.0,59.0,56.0,19.0,39.0,57.0
+/zapas/2526568,0.0,0.0,Pittsburgh Penguins,Colorado Avalanche,26.0,60.0,56.0,23.0,62.0,70.0
+/zapas/2526586,1.0,1.0,Pittsburgh Penguins,Columbus Blue Jackets,25.0,61.0,58.0,32.0,50.0,52.0
+/zapas/2526604,0.0,1.0,Pittsburgh Penguins,Anaheim Ducks,27.0,62.0,56.0,27.0,50.0,60.0
+/zapas/2526616,1.0,1.0,Pittsburgh Penguins,Columbus Blue Jackets,24.0,59.0,59.0,35.0,52.0,50.0
+/zapas/2526634,0.0,0.0,Pittsburgh Penguins,Carolina Hurricanes,26.0,63.0,59.0,29.0,56.0,66.0
+/zapas/2526651,0.0,0.0,Pittsburgh Penguins,Detroit Red Wings,25.0,60.0,56.0,23.0,52.0,69.0
+/zapas/2526656,1.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,23.0,56.0,56.0,29.0,56.0,61.0
+/zapas/2526671,0.0,1.0,Pittsburgh Penguins,Carolina Hurricanes,23.0,58.0,56.0,27.0,53.0,66.0
+/zapas/2526682,1.0,0.0,Pittsburgh Penguins,New York Islanders,23.0,57.0,58.0,22.0,64.0,81.0
+/zapas/2526704,1.0,1.0,Pittsburgh Penguins,Boston Bruins,26.0,59.0,53.0,44.0,75.0,39.0
+/zapas/2526725,1.0,1.0,Pittsburgh Penguins,Detroit Red Wings,28.0,62.0,54.0,23.0,49.0,69.0
+/zapas/2526733,1.0,1.0,Pittsburgh Penguins,New York Rangers,28.0,61.0,53.0,28.0,56.0,55.0
+/zapas/2526748,0.0,0.0,Pittsburgh Penguins,Anaheim Ducks,29.0,61.0,51.0,31.0,54.0,50.0
+/zapas/2526758,1.0,0.0,Pittsburgh Penguins,Los Angeles Kings,26.0,60.0,56.0,32.0,60.0,51.0
+/zapas/2526769,0.0,0.0,Pittsburgh Penguins,San Jose Sharks,26.0,58.0,56.0,29.0,63.0,67.0
+/zapas/2526787,1.0,1.0,Pittsburgh Penguins,Carolina Hurricanes,26.0,56.0,54.0,30.0,54.0,61.0
+/zapas/2526802,1.0,1.0,Pittsburgh Penguins,Minnesota Wild,27.0,55.0,52.0,36.0,58.0,50.0
+/zapas/2526819,1.0,1.0,Pittsburgh Penguins,San Jose Sharks,30.0,58.0,51.0,31.0,67.0,68.0
+/zapas/2526842,1.0,1.0,Pittsburgh Penguins,Washington Capitals,33.0,62.0,51.0,35.0,61.0,53.0
+/zapas/2526852,0.0,0.0,Pittsburgh Penguins,New Jersey Devils,36.0,68.0,53.0,29.0,57.0,58.0
+/zapas/2526867,1.0,1.0,Pittsburgh Penguins,Vegas Golden Knights,33.0,65.0,54.0,42.0,65.0,43.0
+/zapas/2526895,0.0,0.0,Pittsburgh Penguins,Dallas Stars,36.0,68.0,54.0,41.0,69.0,39.0
+/zapas/2526906,1.0,0.0,Pittsburgh Penguins,St. Louis Blues,35.0,68.0,56.0,35.0,56.0,50.0
+/zapas/2526922,1.0,1.0,Pittsburgh Penguins,Ottawa Senators,38.0,72.0,53.0,21.0,52.0,74.0
+/zapas/2526935,1.0,1.0,Pittsburgh Penguins,Los Angeles Kings,39.0,73.0,52.0,24.0,53.0,57.0
+/zapas/2526954,1.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,42.0,75.0,51.0,35.0,66.0,53.0
+/zapas/2526962,1.0,0.0,Pittsburgh Penguins,Columbus Blue Jackets,45.0,79.0,50.0,20.0,46.0,60.0
+/zapas/2526996,1.0,0.0,Pittsburgh Penguins,Carolina Hurricanes,45.0,79.0,51.0,26.0,48.0,61.0
+/zapas/2527006,0.0,0.0,Pittsburgh Penguins,Florida Panthers,48.0,85.0,48.0,30.0,61.0,67.0
+/zapas/2527024,0.0,1.0,Pittsburgh Penguins,New Jersey Devils,45.0,86.0,54.0,27.0,52.0,58.0
+/zapas/2527037,0.0,0.0,Pittsburgh Penguins,Boston Bruins,43.0,82.0,52.0,41.0,64.0,48.0
+/zapas/2527058,1.0,1.0,Pittsburgh Penguins,New York Islanders,40.0,82.0,59.0,20.0,53.0,70.0
+/zapas/2527070,1.0,1.0,Pittsburgh Penguins,Calgary Flames,39.0,80.0,59.0,24.0,53.0,68.0
+/zapas/2527084,1.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,41.0,81.0,57.0,32.0,62.0,60.0
+/zapas/2527109,0.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,41.0,83.0,58.0,38.0,70.0,56.0
+/zapas/2527115,1.0,1.0,Pittsburgh Penguins,Dallas Stars,41.0,84.0,61.0,33.0,49.0,48.0
+/zapas/2527133,0.0,0.0,Pittsburgh Penguins,New York Rangers,41.0,84.0,61.0,19.0,48.0,73.0
+/zapas/2527140,1.0,0.0,Pittsburgh Penguins,Montreal Canadiens,39.0,81.0,62.0,24.0,49.0,62.0
+/zapas/2527175,0.0,0.0,Pittsburgh Penguins,New York Islanders,39.0,81.0,63.0,19.0,58.0,73.0
+/zapas/2527187,1.0,1.0,Pittsburgh Penguins,Montreal Canadiens,36.0,75.0,63.0,18.0,43.0,68.0
+/zapas/2527201,0.0,1.0,Pittsburgh Penguins,New Jersey Devils,39.0,79.0,63.0,27.0,60.0,62.0
+/zapas/2527217,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,37.0,77.0,63.0,33.0,65.0,62.0
+/zapas/2527233,0.0,0.0,Pittsburgh Penguins,Detroit Red Wings,38.0,79.0,63.0,12.0,44.0,67.0
+/zapas/2527246,1.0,0.0,Pittsburgh Penguins,New Jersey Devils,35.0,77.0,67.0,33.0,61.0,54.0
+/zapas/2527265,1.0,1.0,Pittsburgh Penguins,Montreal Canadiens,34.0,75.0,67.0,23.0,50.0,66.0
+/zapas/2527275,0.0,1.0,Pittsburgh Penguins,Washington Capitals,34.0,77.0,68.0,37.0,62.0,55.0
+/zapas/2527299,1.0,0.0,Pittsburgh Penguins,Columbus Blue Jackets,31.0,73.0,68.0,43.0,77.0,51.0
+/zapas/2527307,1.0,1.0,Pittsburgh Penguins,Ottawa Senators,30.0,73.0,70.0,19.0,56.0,71.0
+/zapas/2647205,1.0,1.0,Pittsburgh Penguins,Washington Capitals,30.0,71.0,69.0,43.0,71.0,50.0
+/zapas/2647221,0.0,1.0,Pittsburgh Penguins,Montreal Canadiens,32.0,73.0,69.0,19.0,51.0,72.0
+/zapas/2647248,1.0,1.0,Pittsburgh Penguins,Vegas Golden Knights,32.0,72.0,71.0,28.0,54.0,59.0
+/zapas/2647260,0.0,0.0,Pittsburgh Penguins,Montreal Canadiens,35.0,72.0,65.0,18.0,49.0,71.0
+/zapas/2647279,0.0,1.0,Pittsburgh Penguins,Vancouver Canucks,34.0,72.0,67.0,27.0,56.0,62.0
+/zapas/2647288,1.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,33.0,70.0,67.0,42.0,82.0,58.0
+/zapas/2647327,1.0,0.0,Pittsburgh Penguins,Edmonton Oilers,33.0,68.0,65.0,26.0,54.0,61.0
+/zapas/2647339,1.0,0.0,Pittsburgh Penguins,Calgary Flames,35.0,72.0,65.0,20.0,52.0,69.0
+/zapas/2647356,1.0,0.0,Pittsburgh Penguins,Vancouver Canucks,35.0,78.0,65.0,33.0,62.0,59.0
+/zapas/2647366,0.0,1.0,Pittsburgh Penguins,New York Islanders,37.0,80.0,61.0,29.0,63.0,59.0
+/zapas/2647379,0.0,0.0,Pittsburgh Penguins,New York Islanders,34.0,78.0,64.0,29.0,65.0,61.0
+/zapas/2647397,0.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,35.0,79.0,63.0,34.0,65.0,58.0
+/zapas/2647410,0.0,1.0,Pittsburgh Penguins,New Jersey Devils,32.0,74.0,65.0,37.0,63.0,58.0
+/zapas/2647422,0.0,0.0,Pittsburgh Penguins,Washington Capitals,31.0,72.0,66.0,33.0,73.0,67.0
+/zapas/2647447,1.0,1.0,Pittsburgh Penguins,Arizona Coyotes,29.0,68.0,64.0,30.0,59.0,48.0
+/zapas/2647463,0.0,0.0,Pittsburgh Penguins,New Jersey Devils,32.0,70.0,59.0,31.0,61.0,66.0
+/zapas/2647477,0.0,1.0,Pittsburgh Penguins,Tampa Bay Lightning,30.0,68.0,60.0,39.0,73.0,58.0
+/zapas/2647494,0.0,0.0,Pittsburgh Penguins,Ottawa Senators,27.0,66.0,62.0,26.0,66.0,82.0
+/zapas/2647508,0.0,1.0,Pittsburgh Penguins,Buffalo Sabres,27.0,69.0,65.0,35.0,60.0,56.0
+/zapas/2647519,1.0,1.0,Pittsburgh Penguins,Dallas Stars,26.0,68.0,66.0,30.0,56.0,54.0
+/zapas/2647538,0.0,0.0,Pittsburgh Penguins,Boston Bruins,26.0,69.0,67.0,36.0,60.0,45.0
+/zapas/2647552,1.0,1.0,Pittsburgh Penguins,Columbus Blue Jackets,25.0,63.0,63.0,37.0,71.0,64.0
+/zapas/2647571,1.0,0.0,Pittsburgh Penguins,Winnipeg Jets,28.0,66.0,60.0,37.0,68.0,56.0
+/zapas/2647579,0.0,0.0,Pittsburgh Penguins,Colorado Avalanche,28.0,66.0,61.0,36.0,72.0,58.0
+/zapas/2647601,0.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,27.0,66.0,63.0,24.0,56.0,67.0
+/zapas/2647617,1.0,1.0,Pittsburgh Penguins,Colorado Avalanche,26.0,66.0,64.0,38.0,73.0,55.0
+/zapas/2647630,1.0,1.0,Pittsburgh Penguins,New York Islanders,26.0,69.0,67.0,31.0,58.0,59.0
+/zapas/2647645,0.0,0.0,Pittsburgh Penguins,Ottawa Senators,27.0,69.0,64.0,26.0,70.0,84.0
+/zapas/2647659,1.0,0.0,Pittsburgh Penguins,New York Islanders,25.0,61.0,65.0,33.0,60.0,60.0
+/zapas/2647674,0.0,0.0,Pittsburgh Penguins,Chicago Blackhawks,24.0,58.0,66.0,10.0,46.0,78.0
+/zapas/2647687,1.0,1.0,Pittsburgh Penguins,Boston Bruins,24.0,58.0,66.0,31.0,51.0,52.0
+/zapas/2647697,1.0,1.0,Pittsburgh Penguins,Los Angeles Kings,26.0,61.0,66.0,20.0,44.0,57.0
+/zapas/2647710,0.0,1.0,Pittsburgh Penguins,Anaheim Ducks,28.0,65.0,64.0,35.0,55.0,58.0
+/zapas/2647726,1.0,0.0,Pittsburgh Penguins,Washington Capitals,28.0,66.0,63.0,41.0,76.0,53.0
+/zapas/2647731,1.0,1.0,Pittsburgh Penguins,Minnesota Wild,31.0,67.0,62.0,27.0,61.0,59.0
+/zapas/2647753,1.0,0.0,Pittsburgh Penguins,Carolina Hurricanes,31.0,65.0,63.0,26.0,46.0,59.0
+/zapas/2647767,1.0,1.0,Pittsburgh Penguins,Detroit Red Wings,34.0,66.0,59.0,22.0,56.0,65.0
+/zapas/2647790,1.0,0.0,Pittsburgh Penguins,St. Louis Blues,37.0,68.0,57.0,26.0,48.0,64.0
+/zapas/2647799,1.0,0.0,Pittsburgh Penguins,Minnesota Wild,40.0,70.0,52.0,22.0,54.0,61.0
+/zapas/2647815,1.0,0.0,Pittsburgh Penguins,New York Rangers,42.0,69.0,49.0,28.0,59.0,68.0
+/zapas/2647827,1.0,1.0,Pittsburgh Penguins,Winnipeg Jets,42.0,71.0,50.0,34.0,73.0,63.0
+/zapas/2647849,0.0,1.0,Pittsburgh Penguins,Chicago Blackhawks,44.0,74.0,48.0,21.0,63.0,78.0
+/zapas/2647858,1.0,1.0,Pittsburgh Penguins,Florida Panthers,41.0,73.0,51.0,27.0,65.0,69.0
+/zapas/2647884,1.0,0.0,Pittsburgh Penguins,Anaheim Ducks,41.0,74.0,49.0,27.0,51.0,60.0
+/zapas/2647896,0.0,0.0,Pittsburgh Penguins,Los Angeles Kings,44.0,78.0,47.0,23.0,45.0,56.0
+/zapas/2647918,0.0,0.0,Pittsburgh Penguins,San Jose Sharks,44.0,78.0,48.0,47.0,85.0,53.0
+/zapas/2647936,1.0,0.0,Pittsburgh Penguins,Arizona Coyotes,41.0,74.0,50.0,21.0,54.0,66.0
+/zapas/2647947,0.0,0.0,Pittsburgh Penguins,Vegas Golden Knights,40.0,71.0,50.0,40.0,60.0,50.0
+/zapas/2647970,0.0,1.0,Pittsburgh Penguins,New Jersey Devils,39.0,73.0,55.0,23.0,54.0,64.0
+/zapas/2647974,1.0,1.0,Pittsburgh Penguins,Tampa Bay Lightning,37.0,74.0,60.0,46.0,85.0,55.0
+/zapas/2647982,1.0,1.0,Pittsburgh Penguins,Ottawa Senators,40.0,75.0,56.0,18.0,52.0,67.0
+/zapas/2647990,0.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,40.0,75.0,56.0,31.0,67.0,59.0
+/zapas/2648011,0.0,1.0,Pittsburgh Penguins,Carolina Hurricanes,38.0,73.0,56.0,34.0,64.0,62.0
+/zapas/2648022,0.0,0.0,Pittsburgh Penguins,Florida Panthers,38.0,71.0,56.0,28.0,57.0,65.0
+/zapas/2648046,0.0,0.0,Pittsburgh Penguins,Tampa Bay Lightning,36.0,71.0,58.0,40.0,69.0,53.0
+/zapas/2648058,1.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,33.0,73.0,62.0,31.0,57.0,57.0
+/zapas/2648073,1.0,1.0,Pittsburgh Penguins,Edmonton Oilers,33.0,74.0,63.0,18.0,60.0,79.0
+/zapas/2648091,0.0,1.0,Pittsburgh Penguins,Calgary Flames,33.0,72.0,62.0,38.0,80.0,67.0
+/zapas/2648102,1.0,1.0,Pittsburgh Penguins,New York Rangers,30.0,70.0,66.0,27.0,56.0,66.0
+/zapas/2648115,1.0,0.0,Pittsburgh Penguins,New Jersey Devils,30.0,73.0,69.0,22.0,56.0,72.0
+/zapas/2648131,0.0,1.0,Pittsburgh Penguins,San Jose Sharks,30.0,70.0,70.0,40.0,84.0,69.0
+/zapas/2648151,0.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,27.0,66.0,74.0,37.0,63.0,58.0
+/zapas/2648171,1.0,0.0,Pittsburgh Penguins,Columbus Blue Jackets,28.0,66.0,73.0,31.0,60.0,54.0
+/zapas/2648189,0.0,0.0,Pittsburgh Penguins,Buffalo Sabres,28.0,66.0,74.0,18.0,56.0,78.0
+/zapas/2648201,1.0,0.0,Pittsburgh Penguins,Montreal Canadiens,26.0,62.0,74.0,36.0,65.0,49.0
+/zapas/2648220,1.0,1.0,Pittsburgh Penguins,Florida Panthers,29.0,65.0,70.0,32.0,68.0,59.0
+/zapas/2648232,1.0,1.0,Pittsburgh Penguins,Columbus Blue Jackets,31.0,66.0,67.0,25.0,53.0,58.0
+/zapas/2648253,0.0,0.0,Pittsburgh Penguins,Columbus Blue Jackets,32.0,66.0,65.0,25.0,52.0,57.0
+/zapas/2648260,1.0,1.0,Pittsburgh Penguins,Boston Bruins,32.0,64.0,62.0,44.0,64.0,44.0
+/zapas/2648271,1.0,1.0,Pittsburgh Penguins,Washington Capitals,35.0,65.0,58.0,40.0,69.0,56.0
+/zapas/2648281,1.0,0.0,Pittsburgh Penguins,Buffalo Sabres,35.0,66.0,59.0,16.0,49.0,73.0
+/zapas/2648297,0.0,1.0,Pittsburgh Penguins,St. Louis Blues,35.0,66.0,56.0,37.0,56.0,42.0
+/zapas/2648313,0.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,35.0,65.0,58.0,35.0,74.0,68.0
+/zapas/2648324,0.0,0.0,Pittsburgh Penguins,Carolina Hurricanes,36.0,66.0,56.0,41.0,67.0,45.0
+/zapas/2648339,1.0,0.0,Pittsburgh Penguins,Nashville Predators,36.0,66.0,56.0,30.0,56.0,56.0
+/zapas/2648358,1.0,0.0,Pittsburgh Penguins,Dallas Stars,38.0,64.0,52.0,30.0,46.0,46.0
+/zapas/2648369,1.0,0.0,Pittsburgh Penguins,New York Rangers,38.0,63.0,53.0,22.0,54.0,64.0
+/zapas/2648396,0.0,1.0,Pittsburgh Penguins,Nashville Predators,38.0,65.0,54.0,29.0,48.0,56.0
+/zapas/2648415,1.0,1.0,Pittsburgh Penguins,Carolina Hurricanes,38.0,62.0,52.0,37.0,63.0,50.0
+/zapas/2648431,0.0,0.0,Pittsburgh Penguins,Detroit Red Wings,38.0,59.0,48.0,23.0,54.0,69.0
+/zapas/2648443,1.0,1.0,Pittsburgh Penguins,Detroit Red Wings,35.0,56.0,49.0,26.0,57.0,67.0
+/zapas/2648462,0.0,1.0,Pittsburgh Penguins,New York Rangers,38.0,60.0,46.0,17.0,45.0,68.0
+/zapas/2806383,0.0,1.0,Pittsburgh Penguins,Buffalo Sabres,38.0,60.0,46.0,12.0,47.0,77.0
+/zapas/2806398,1.0,1.0,Pittsburgh Penguins,Columbus Blue Jackets,35.0,56.0,47.0,32.0,58.0,48.0
+/zapas/2806414,0.0,1.0,Pittsburgh Penguins,Winnipeg Jets,37.0,60.0,45.0,26.0,60.0,65.0
+/zapas/2806426,1.0,1.0,Pittsburgh Penguins,Anaheim Ducks,34.0,56.0,48.0,42.0,65.0,52.0
+/zapas/2806447,1.0,0.0,Pittsburgh Penguins,Minnesota Wild,35.0,55.0,47.0,18.0,37.0,63.0
+/zapas/2806451,1.0,0.0,Pittsburgh Penguins,Winnipeg Jets,35.0,59.0,51.0,31.0,61.0,61.0
+/zapas/2806468,1.0,1.0,Pittsburgh Penguins,Colorado Avalanche,38.0,65.0,49.0,41.0,62.0,47.0
+/zapas/2806484,1.0,1.0,Pittsburgh Penguins,Dallas Stars,37.0,64.0,49.0,22.0,47.0,55.0
+/zapas/2806495,0.0,1.0,Pittsburgh Penguins,Vegas Golden Knights,37.0,63.0,48.0,31.0,66.0,55.0
+/zapas/2806511,0.0,0.0,Pittsburgh Penguins,Florida Panthers,34.0,58.0,51.0,27.0,65.0,75.0
+/zapas/2806520,0.0,0.0,Pittsburgh Penguins,Tampa Bay Lightning,34.0,59.0,50.0,38.0,82.0,66.0
+/zapas/2806542,1.0,0.0,Pittsburgh Penguins,Dallas Stars,33.0,60.0,51.0,27.0,49.0,52.0
+/zapas/2806558,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,35.0,61.0,48.0,21.0,57.0,71.0
+/zapas/2806580,0.0,1.0,Pittsburgh Penguins,Edmonton Oilers,36.0,66.0,48.0,30.0,53.0,58.0
+/zapas/2806596,0.0,0.0,Pittsburgh Penguins,Boston Bruins,34.0,64.0,48.0,41.0,72.0,53.0
+/zapas/2806615,1.0,0.0,Pittsburgh Penguins,New York Islanders,31.0,63.0,52.0,41.0,60.0,42.0
+/zapas/2806633,1.0,1.0,Pittsburgh Penguins,Chicago Blackhawks,33.0,66.0,52.0,23.0,55.0,62.0
+/zapas/2806650,0.0,0.0,Pittsburgh Penguins,New York Rangers,32.0,66.0,53.0,29.0,63.0,65.0
+/zapas/2806671,0.0,0.0,Pittsburgh Penguins,New Jersey Devils,33.0,67.0,52.0,24.0,53.0,73.0
+/zapas/2806684,1.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,30.0,64.0,53.0,25.0,65.0,68.0
+/zapas/2806697,0.0,1.0,Pittsburgh Penguins,New York Islanders,32.0,67.0,50.0,44.0,63.0,43.0
+/zapas/2806711,0.0,0.0,Pittsburgh Penguins,New York Islanders,33.0,70.0,52.0,44.0,66.0,46.0
+/zapas/2806722,1.0,1.0,Pittsburgh Penguins,New Jersey Devils,31.0,66.0,54.0,23.0,51.0,74.0
+/zapas/2806744,1.0,1.0,Pittsburgh Penguins,Calgary Flames,34.0,69.0,51.0,25.0,50.0,60.0
+/zapas/2806758,1.0,1.0,Pittsburgh Penguins,Vancouver Canucks,33.0,70.0,52.0,29.0,61.0,60.0
+/zapas/2806776,0.0,0.0,Pittsburgh Penguins,Columbus Blue Jackets,33.0,71.0,54.0,28.0,53.0,60.0
+/zapas/2806788,0.0,0.0,Pittsburgh Penguins,St. Louis Blues,30.0,66.0,57.0,37.0,59.0,49.0
+/zapas/2806811,1.0,1.0,Pittsburgh Penguins,St. Louis Blues,28.0,65.0,60.0,40.0,63.0,45.0
+/zapas/2806825,1.0,1.0,Pittsburgh Penguins,Arizona Coyotes,28.0,64.0,58.0,31.0,54.0,48.0
+/zapas/2806832,1.0,0.0,Pittsburgh Penguins,Detroit Red Wings,31.0,66.0,55.0,14.0,40.0,81.0
+/zapas/2806850,0.0,1.0,Pittsburgh Penguins,Montreal Canadiens,34.0,69.0,54.0,29.0,61.0,68.0
+/zapas/2806866,1.0,1.0,Pittsburgh Penguins,Columbus Blue Jackets,34.0,68.0,55.0,22.0,50.0,61.0
+/zapas/2806887,1.0,1.0,Pittsburgh Penguins,Los Angeles Kings,33.0,66.0,55.0,27.0,48.0,50.0
+/zapas/2806907,1.0,0.0,Pittsburgh Penguins,Calgary Flames,32.0,64.0,58.0,31.0,52.0,58.0
+/zapas/2806927,1.0,0.0,Pittsburgh Penguins,Edmonton Oilers,34.0,67.0,57.0,28.0,61.0,66.0
+/zapas/2806939,0.0,0.0,Pittsburgh Penguins,Vancouver Canucks,37.0,68.0,53.0,21.0,60.0,71.0
+/zapas/2806963,1.0,0.0,Pittsburgh Penguins,Nashville Predators,35.0,65.0,54.0,29.0,62.0,64.0
+/zapas/2806973,1.0,1.0,Pittsburgh Penguins,Nashville Predators,36.0,67.0,54.0,28.0,63.0,67.0
+/zapas/2806988,1.0,1.0,Pittsburgh Penguins,Ottawa Senators,38.0,71.0,55.0,25.0,56.0,65.0
+/zapas/2807007,0.0,1.0,Pittsburgh Penguins,San Jose Sharks,41.0,75.0,55.0,20.0,46.0,66.0
+/zapas/2807023,1.0,0.0,Pittsburgh Penguins,Montreal Canadiens,39.0,71.0,57.0,21.0,58.0,66.0
+/zapas/2807030,0.0,1.0,Pittsburgh Penguins,Florida Panthers,40.0,70.0,54.0,29.0,68.0,64.0
+/zapas/2807049,1.0,0.0,Pittsburgh Penguins,Vegas Golden Knights,39.0,68.0,54.0,37.0,69.0,60.0
+/zapas/2807067,1.0,0.0,Pittsburgh Penguins,Colorado Avalanche,39.0,68.0,56.0,35.0,74.0,60.0
+/zapas/2807082,1.0,0.0,Pittsburgh Penguins,Arizona Coyotes,39.0,69.0,57.0,29.0,57.0,58.0
+/zapas/2807094,1.0,1.0,Pittsburgh Penguins,Minnesota Wild,38.0,65.0,54.0,30.0,66.0,68.0
+/zapas/2807103,0.0,0.0,Pittsburgh Penguins,Boston Bruins,41.0,70.0,52.0,27.0,58.0,63.0
+/zapas/2807116,1.0,0.0,Pittsburgh Penguins,Detroit Red Wings,41.0,69.0,51.0,14.0,43.0,79.0
+/zapas/2807131,1.0,1.0,Pittsburgh Penguins,Boston Bruins,40.0,68.0,52.0,29.0,59.0,60.0
+/zapas/2807139,0.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,40.0,70.0,55.0,27.0,63.0,68.0
+/zapas/2807162,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,37.0,65.0,55.0,27.0,62.0,65.0
+/zapas/2807182,1.0,0.0,Pittsburgh Penguins,Washington Capitals,39.0,68.0,54.0,37.0,73.0,61.0
+/zapas/2807205,0.0,0.0,Pittsburgh Penguins,Tampa Bay Lightning,40.0,71.0,57.0,48.0,75.0,40.0
+/zapas/2807224,1.0,0.0,Pittsburgh Penguins,Florida Panthers,38.0,68.0,57.0,40.0,75.0,69.0
+/zapas/2807246,0.0,1.0,Pittsburgh Penguins,Tampa Bay Lightning,38.0,67.0,58.0,50.0,72.0,36.0
+/zapas/2807268,1.0,1.0,Pittsburgh Penguins,Montreal Canadiens,36.0,63.0,58.0,23.0,50.0,52.0
+/zapas/2807282,1.0,1.0,Pittsburgh Penguins,Detroit Red Wings,39.0,66.0,55.0,14.0,35.0,67.0
+/zapas/2807297,1.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,39.0,66.0,54.0,30.0,69.0,68.0
+/zapas/2807309,0.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,39.0,65.0,52.0,27.0,67.0,72.0
+/zapas/2807326,0.0,1.0,Pittsburgh Penguins,Buffalo Sabres,36.0,60.0,54.0,28.0,58.0,65.0
+/zapas/2807335,0.0,0.0,Pittsburgh Penguins,Washington Capitals,35.0,60.0,56.0,30.0,67.0,65.0
+/zapas/2807359,0.0,0.0,Pittsburgh Penguins,Los Angeles Kings,33.0,60.0,59.0,16.0,46.0,67.0
+/zapas/2807374,0.0,0.0,Pittsburgh Penguins,Anaheim Ducks,33.0,60.0,57.0,24.0,52.0,64.0
+/zapas/2807386,0.0,0.0,Pittsburgh Penguins,San Jose Sharks,30.0,58.0,57.0,23.0,45.0,61.0
+/zapas/2807398,1.0,1.0,Pittsburgh Penguins,Ottawa Senators,28.0,54.0,59.0,23.0,55.0,67.0
+/zapas/2807409,1.0,0.0,Pittsburgh Penguins,Buffalo Sabres,29.0,57.0,59.0,26.0,53.0,61.0
+/zapas/2807426,0.0,1.0,Pittsburgh Penguins,Washington Capitals,29.0,54.0,58.0,28.0,67.0,72.0
+/zapas/2807435,0.0,1.0,Pittsburgh Penguins,Carolina Hurricanes,29.0,55.0,59.0,26.0,61.0,64.0
+/zapas/2807448,1.0,0.0,Pittsburgh Penguins,New Jersey Devils,27.0,55.0,64.0,36.0,61.0,52.0
+/zapas/2893211,0.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,27.0,56.0,63.0,45.0,77.0,46.0
+/zapas/2893227,0.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,27.0,59.0,66.0,45.0,80.0,49.0
+/zapas/2893243,1.0,1.0,Pittsburgh Penguins,Washington Capitals,25.0,57.0,68.0,29.0,63.0,69.0
+/zapas/2893259,1.0,1.0,Pittsburgh Penguins,Washington Capitals,24.0,57.0,68.0,27.0,61.0,70.0
+/zapas/2893280,1.0,1.0,Pittsburgh Penguins,New York Rangers,26.0,60.0,68.0,34.0,69.0,58.0
+/zapas/2893298,1.0,1.0,Pittsburgh Penguins,New York Rangers,25.0,61.0,69.0,32.0,68.0,61.0
+/zapas/2893308,0.0,0.0,Pittsburgh Penguins,Boston Bruins,27.0,63.0,69.0,39.0,59.0,46.0
+/zapas/2893322,0.0,0.0,Pittsburgh Penguins,Boston Bruins,25.0,61.0,71.0,38.0,58.0,46.0
+/zapas/2893336,1.0,0.0,Pittsburgh Penguins,New York Rangers,22.0,57.0,74.0,26.0,64.0,64.0
+/zapas/2893353,0.0,0.0,Pittsburgh Penguins,New York Rangers,21.0,57.0,76.0,27.0,67.0,66.0
+/zapas/2893392,0.0,0.0,Pittsburgh Penguins,New York Islanders,21.0,58.0,75.0,21.0,45.0,60.0
+/zapas/2893429,1.0,0.0,Pittsburgh Penguins,New York Islanders,21.0,59.0,74.0,27.0,49.0,58.0
+/zapas/2893450,1.0,1.0,Pittsburgh Penguins,Washington Capitals,23.0,60.0,72.0,32.0,71.0,73.0
+/zapas/2893466,0.0,1.0,Pittsburgh Penguins,Washington Capitals,26.0,65.0,73.0,29.0,69.0,76.0
+/zapas/2893478,1.0,1.0,Pittsburgh Penguins,New York Islanders,26.0,64.0,73.0,29.0,49.0,56.0
+/zapas/2893494,1.0,1.0,Pittsburgh Penguins,New York Islanders,29.0,68.0,69.0,29.0,50.0,56.0
+/zapas/2893510,1.0,0.0,Pittsburgh Penguins,Washington Capitals,29.0,64.0,68.0,33.0,70.0,71.0
+/zapas/2893523,0.0,0.0,Pittsburgh Penguins,Washington Capitals,28.0,63.0,68.0,33.0,67.0,68.0
+/zapas/2893542,1.0,0.0,Pittsburgh Penguins,New York Islanders,28.0,63.0,68.0,34.0,55.0,50.0
+/zapas/2893552,0.0,0.0,Pittsburgh Penguins,New York Islanders,30.0,65.0,65.0,34.0,54.0,49.0
+/zapas/2893564,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,27.0,60.0,65.0,37.0,64.0,57.0
+/zapas/2893578,0.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,30.0,62.0,61.0,34.0,63.0,61.0
+/zapas/2893877,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,30.0,63.0,60.0,37.0,67.0,62.0
+/zapas/2893603,1.0,1.0,Pittsburgh Penguins,New York Rangers,31.0,63.0,60.0,28.0,60.0,54.0
+/zapas/2893614,1.0,1.0,Pittsburgh Penguins,New York Rangers,32.0,63.0,57.0,28.0,58.0,55.0
+/zapas/2893626,1.0,0.0,Pittsburgh Penguins,Buffalo Sabres,33.0,63.0,56.0,17.0,45.0,68.0
+/zapas/2893641,1.0,0.0,Pittsburgh Penguins,Buffalo Sabres,33.0,65.0,56.0,16.0,44.0,69.0
+/zapas/2893660,1.0,1.0,Pittsburgh Penguins,Boston Bruins,35.0,66.0,53.0,33.0,55.0,50.0
+/zapas/2893667,0.0,1.0,Pittsburgh Penguins,Boston Bruins,38.0,69.0,50.0,31.0,53.0,52.0
+/zapas/2893414,0.0,0.0,Pittsburgh Penguins,New Jersey Devils,36.0,65.0,48.0,20.0,51.0,68.0
+/zapas/2893685,1.0,0.0,Pittsburgh Penguins,New Jersey Devils,36.0,66.0,48.0,23.0,53.0,67.0
+/zapas/2893364,0.0,1.0,Pittsburgh Penguins,New Jersey Devils,39.0,66.0,45.0,22.0,51.0,66.0
+/zapas/2893718,1.0,1.0,Pittsburgh Penguins,Buffalo Sabres,38.0,63.0,44.0,8.0,34.0,74.0
+/zapas/2893745,1.0,1.0,Pittsburgh Penguins,Buffalo Sabres,38.0,62.0,43.0,8.0,35.0,76.0
+/zapas/2893771,1.0,1.0,Pittsburgh Penguins,New York Islanders,41.0,65.0,40.0,42.0,67.0,42.0
+/zapas/2893760,1.0,1.0,Pittsburgh Penguins,New York Islanders,41.0,67.0,42.0,39.0,67.0,48.0
+/zapas/2893781,1.0,0.0,Pittsburgh Penguins,Boston Bruins,41.0,66.0,41.0,29.0,49.0,51.0
+/zapas/2893796,0.0,0.0,Pittsburgh Penguins,Boston Bruins,42.0,67.0,40.0,26.0,49.0,55.0
+/zapas/2893823,0.0,0.0,Pittsburgh Penguins,New York Rangers,42.0,70.0,42.0,34.0,74.0,53.0
+/zapas/2893837,1.0,0.0,Pittsburgh Penguins,New York Rangers,40.0,70.0,47.0,34.0,76.0,55.0
+/zapas/2893702,1.0,0.0,Pittsburgh Penguins,New Jersey Devils,43.0,75.0,47.0,24.0,51.0,67.0
+/zapas/2893859,1.0,0.0,Pittsburgh Penguins,New Jersey Devils,43.0,76.0,49.0,24.0,54.0,67.0
+/zapas/2893889,0.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,46.0,78.0,47.0,20.0,52.0,85.0
+/zapas/2893901,1.0,0.0,Pittsburgh Penguins,Buffalo Sabres,44.0,75.0,46.0,18.0,53.0,74.0
+/zapas/2893927,0.0,0.0,Pittsburgh Penguins,Buffalo Sabres,44.0,73.0,47.0,17.0,51.0,72.0
+/zapas/2893378,1.0,1.0,Pittsburgh Penguins,New Jersey Devils,41.0,71.0,49.0,20.0,49.0,71.0
+/zapas/2893943,1.0,1.0,Pittsburgh Penguins,New Jersey Devils,41.0,73.0,53.0,19.0,53.0,75.0
+/zapas/2893957,1.0,1.0,Pittsburgh Penguins,New Jersey Devils,41.0,75.0,54.0,16.0,51.0,78.0
+/zapas/2893965,1.0,1.0,Pittsburgh Penguins,Boston Bruins,41.0,75.0,55.0,39.0,65.0,53.0
+/zapas/2893981,0.0,1.0,Pittsburgh Penguins,Boston Bruins,44.0,75.0,53.0,36.0,63.0,53.0
+/zapas/2893996,1.0,0.0,Pittsburgh Penguins,Washington Capitals,44.0,74.0,53.0,37.0,68.0,56.0
+/zapas/2894012,1.0,0.0,Pittsburgh Penguins,Washington Capitals,43.0,76.0,56.0,35.0,70.0,60.0
+/zapas/2894025,0.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,45.0,78.0,54.0,20.0,47.0,75.0
+/zapas/2894034,1.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,42.0,75.0,59.0,23.0,51.0,69.0
+/zapas/2894050,1.0,1.0,Pittsburgh Penguins,Buffalo Sabres,42.0,78.0,62.0,27.0,63.0,68.0
+/zapas/2894070,1.0,1.0,Pittsburgh Penguins,Buffalo Sabres,42.0,80.0,63.0,24.0,61.0,75.0
+/zapas/2896983,1.0,0.0,Pittsburgh Penguins,Tampa Bay Lightning,42.0,79.0,62.0,31.0,54.0,60.0
+/zapas/2896994,0.0,0.0,Pittsburgh Penguins,Florida Panthers,42.0,81.0,63.0,38.0,70.0,54.0
+/zapas/2897012,1.0,1.0,Pittsburgh Penguins,Chicago Blackhawks,43.0,80.0,61.0,21.0,57.0,75.0
+/zapas/2897029,0.0,1.0,Pittsburgh Penguins,Dallas Stars,46.0,81.0,55.0,26.0,55.0,61.0
+/zapas/2897057,1.0,1.0,Pittsburgh Penguins,Toronto Maple Leafs,44.0,77.0,55.0,32.0,59.0,55.0
+/zapas/2897077,0.0,1.0,Pittsburgh Penguins,Tampa Bay Lightning,44.0,78.0,52.0,27.0,54.0,65.0
+/zapas/2897090,0.0,1.0,Pittsburgh Penguins,Calgary Flames,41.0,74.0,55.0,35.0,66.0,50.0
+/zapas/2897107,0.0,1.0,Pittsburgh Penguins,New Jersey Devils,40.0,73.0,57.0,22.0,56.0,74.0
+/zapas/2897137,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,37.0,72.0,59.0,32.0,63.0,61.0
+/zapas/2897152,0.0,1.0,Pittsburgh Penguins,Minnesota Wild,39.0,73.0,57.0,32.0,67.0,72.0
+/zapas/2897166,0.0,0.0,Pittsburgh Penguins,Chicago Blackhawks,37.0,70.0,56.0,14.0,50.0,76.0
+/zapas/2897186,1.0,1.0,Pittsburgh Penguins,Florida Panthers,35.0,67.0,58.0,44.0,83.0,55.0
+/zapas/2897199,0.0,0.0,Pittsburgh Penguins,Ottawa Senators,34.0,66.0,58.0,25.0,54.0,64.0
+/zapas/2897210,0.0,0.0,Pittsburgh Penguins,Washington Capitals,31.0,68.0,64.0,39.0,64.0,49.0
+/zapas/2897224,0.0,1.0,Pittsburgh Penguins,Buffalo Sabres,31.0,68.0,67.0,23.0,59.0,68.0
+/zapas/2897236,1.0,0.0,Pittsburgh Penguins,Montreal Canadiens,29.0,64.0,65.0,16.0,44.0,69.0
+/zapas/2897248,1.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,29.0,67.0,65.0,35.0,53.0,51.0
+/zapas/2897266,1.0,0.0,Pittsburgh Penguins,Winnipeg Jets,32.0,67.0,58.0,35.0,64.0,50.0
+/zapas/2897282,1.0,1.0,Pittsburgh Penguins,Vancouver Canucks,32.0,63.0,56.0,18.0,48.0,68.0
+/zapas/2897294,1.0,0.0,Pittsburgh Penguins,New York Islanders,32.0,59.0,53.0,22.0,43.0,61.0
+/zapas/2897306,0.0,1.0,Pittsburgh Penguins,Montreal Canadiens,32.0,59.0,53.0,17.0,46.0,73.0
+/zapas/2897314,0.0,0.0,Pittsburgh Penguins,Calgary Flames,29.0,56.0,57.0,40.0,68.0,37.0
+/zapas/2897328,0.0,0.0,Pittsburgh Penguins,Edmonton Oilers,29.0,53.0,54.0,42.0,77.0,59.0
+/zapas/2897348,1.0,0.0,Pittsburgh Penguins,Vancouver Canucks,26.0,50.0,57.0,21.0,49.0,61.0
+/zapas/2897365,1.0,0.0,Pittsburgh Penguins,Seattle Kraken,28.0,53.0,56.0,25.0,63.0,69.0
+/zapas/2897399,1.0,0.0,Pittsburgh Penguins,Washington Capitals,28.0,52.0,56.0,39.0,66.0,49.0
+/zapas/2897411,1.0,1.0,Pittsburgh Penguins,Anaheim Ducks,31.0,55.0,53.0,38.0,68.0,51.0
+/zapas/2897431,1.0,1.0,Pittsburgh Penguins,Montreal Canadiens,34.0,56.0,49.0,15.0,45.0,72.0
+/zapas/2897451,1.0,1.0,Pittsburgh Penguins,Buffalo Sabres,37.0,59.0,47.0,17.0,52.0,79.0
+/zapas/2897466,1.0,0.0,Pittsburgh Penguins,New Jersey Devils,37.0,59.0,47.0,20.0,57.0,74.0
+/zapas/2897562,1.0,1.0,Pittsburgh Penguins,San Jose Sharks,39.0,58.0,44.0,26.0,53.0,63.0
+/zapas/2897579,1.0,1.0,Pittsburgh Penguins,St. Louis Blues,41.0,64.0,46.0,34.0,71.0,57.0
+/zapas/2897592,1.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,42.0,66.0,47.0,19.0,50.0,76.0
+/zapas/2897602,0.0,0.0,Pittsburgh Penguins,Dallas Stars,45.0,69.0,43.0,34.0,66.0,61.0
+/zapas/2897619,1.0,0.0,Pittsburgh Penguins,Anaheim Ducks,45.0,70.0,40.0,27.0,55.0,58.0
+/zapas/2897631,0.0,0.0,Pittsburgh Penguins,Los Angeles Kings,48.0,73.0,39.0,32.0,58.0,55.0
+/zapas/2897646,1.0,0.0,Pittsburgh Penguins,San Jose Sharks,45.0,69.0,45.0,28.0,59.0,66.0
+/zapas/2897663,1.0,0.0,Pittsburgh Penguins,Vegas Golden Knights,44.0,69.0,46.0,36.0,79.0,58.0
+/zapas/2897693,1.0,1.0,Pittsburgh Penguins,Ottawa Senators,44.0,71.0,48.0,23.0,60.0,72.0
+/zapas/2897701,1.0,0.0,Pittsburgh Penguins,Columbus Blue Jackets,44.0,73.0,51.0,20.0,58.0,81.0
+/zapas/2897716,1.0,1.0,Pittsburgh Penguins,Winnipeg Jets,44.0,77.0,53.0,25.0,55.0,66.0
+/zapas/2897731,1.0,1.0,Pittsburgh Penguins,Arizona Coyotes,46.0,77.0,49.0,19.0,52.0,78.0
+/zapas/2897746,0.0,1.0,Pittsburgh Penguins,Seattle Kraken,48.0,82.0,50.0,17.0,47.0,75.0
+/zapas/2897752,0.0,1.0,Pittsburgh Penguins,Detroit Red Wings,49.0,81.0,47.0,21.0,55.0,75.0
+/zapas/2897770,0.0,1.0,Pittsburgh Penguins,Los Angeles Kings,47.0,79.0,49.0,35.0,59.0,57.0
+/zapas/2897787,0.0,1.0,Pittsburgh Penguins,Washington Capitals,44.0,76.0,52.0,26.0,57.0,60.0
+/zapas/2897512,1.0,0.0,Pittsburgh Penguins,Boston Bruins,42.0,75.0,54.0,38.0,66.0,60.0
+/zapas/2897543,1.0,0.0,Pittsburgh Penguins,Ottawa Senators,42.0,78.0,56.0,31.0,61.0,54.0
+/zapas/2897802,1.0,0.0,Pittsburgh Penguins,New Jersey Devils,42.0,75.0,54.0,19.0,63.0,75.0
+/zapas/2897502,1.0,1.0,Pittsburgh Penguins,Philadelphia Flyers,43.0,76.0,54.0,13.0,47.0,73.0
+/zapas/2897528,0.0,0.0,Pittsburgh Penguins,Toronto Maple Leafs,42.0,78.0,56.0,40.0,87.0,63.0
+/zapas/2898292,0.0,1.0,Pittsburgh Penguins,Carolina Hurricanes,39.0,71.0,55.0,40.0,78.0,54.0
+/zapas/2897484,0.0,1.0,Pittsburgh Penguins,New Jersey Devils,36.0,69.0,56.0,19.0,64.0,77.0
+/zapas/2897819,1.0,1.0,Pittsburgh Penguins,New York Rangers,33.0,64.0,60.0,40.0,66.0,47.0
+/zapas/2897827,1.0,0.0,Pittsburgh Penguins,Columbus Blue Jackets,36.0,63.0,57.0,34.0,71.0,75.0
+/zapas/2897849,1.0,0.0,Pittsburgh Penguins,Tampa Bay Lightning,36.0,62.0,58.0,43.0,76.0,53.0
+/zapas/2897859,0.0,0.0,Pittsburgh Penguins,Carolina Hurricanes,39.0,65.0,53.0,39.0,70.0,51.0
+/zapas/2897893,0.0,1.0,Pittsburgh Penguins,Florida Panthers,38.0,65.0,55.0,39.0,91.0,56.0
+/zapas/2897911,1.0,1.0,Pittsburgh Penguins,Vegas Golden Knights,35.0,63.0,56.0,27.0,48.0,55.0
+/zapas/2897931,1.0,1.0,Pittsburgh Penguins,Carolina Hurricanes,35.0,62.0,54.0,41.0,60.0,44.0
+/zapas/2897939,0.0,0.0,Pittsburgh Penguins,Nashville Predators,35.0,61.0,54.0,30.0,69.0,59.0
+/zapas/2897953,1.0,0.0,Pittsburgh Penguins,St. Louis Blues,33.0,59.0,56.0,36.0,73.0,57.0
+/zapas/2897965,1.0,0.0,Pittsburgh Penguins,Arizona Coyotes,32.0,56.0,55.0,28.0,70.0,64.0
+/zapas/2897992,1.0,1.0,Pittsburgh Penguins,Columbus Blue Jackets,34.0,59.0,54.0,35.0,74.0,75.0
+/zapas/2897998,0.0,0.0,Pittsburgh Penguins,Buffalo Sabres,36.0,62.0,52.0,23.0,53.0,72.0
+/zapas/2898014,0.0,0.0,Pittsburgh Penguins,New York Rangers,37.0,62.0,52.0,35.0,58.0,52.0
+/zapas/2898034,1.0,1.0,Pittsburgh Penguins,Detroit Red Wings,36.0,60.0,53.0,20.0,62.0,86.0
+/zapas/2898047,0.0,1.0,Pittsburgh Penguins,New York Rangers,36.0,67.0,53.0,37.0,63.0,52.0
+/zapas/2898058,1.0,0.0,Pittsburgh Penguins,Minnesota Wild,33.0,67.0,56.0,30.0,67.0,69.0
+/zapas/2898072,0.0,0.0,Pittsburgh Penguins,Colorado Avalanche,32.0,67.0,57.0,40.0,66.0,52.0
+/zapas/2898103,0.0,1.0,Pittsburgh Penguins,Colorado Avalanche,30.0,64.0,56.0,40.0,64.0,51.0
+/zapas/2898115,0.0,0.0,Pittsburgh Penguins,New York Rangers,30.0,67.0,58.0,34.0,62.0,58.0
+/zapas/2898135,0.0,1.0,Pittsburgh Penguins,Washington Capitals,30.0,64.0,57.0,33.0,68.0,64.0
+/zapas/2898140,1.0,1.0,Pittsburgh Penguins,Nashville Predators,30.0,66.0,57.0,35.0,75.0,60.0
+/zapas/2897907,0.0,0.0,Pittsburgh Penguins,New York Islanders,29.0,68.0,59.0,40.0,64.0,50.0
+/zapas/2898172,1.0,1.0,Pittsburgh Penguins,New York Islanders,27.0,69.0,62.0,39.0,67.0,53.0
+/zapas/2898185,0.0,0.0,Pittsburgh Penguins,Boston Bruins,27.0,70.0,64.0,35.0,70.0,56.0
+/zapas/2898223,1.0,1.0,Pittsburgh Penguins,Boston Bruins,26.0,69.0,63.0,35.0,65.0,53.0
+/zapas/2898237,1.0,0.0,Pittsburgh Penguins,Detroit Red Wings,29.0,70.0,59.0,21.0,50.0,81.0
+/zapas/2898249,0.0,0.0,Pittsburgh Penguins,Philadelphia Flyers,29.0,72.0,59.0,18.0,59.0,84.0
+/zapas/2898265,0.0,1.0,Pittsburgh Penguins,Edmonton Oilers,26.0,69.0,61.0,41.0,84.0,58.0
+/zapas/2898156,1.0,1.0,Pittsburgh Penguins,Columbus Blue Jackets,26.0,69.0,62.0,21.0,56.0,72.0

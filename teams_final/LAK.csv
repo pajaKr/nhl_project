@@ -1,64 +1,261 @@
 game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,TOI_goals_rec_tot,other_team_points_tot,other_team_goals_scored_tot,other_team_goals_rec_tot
-/zapas/2647486,1.0,0.0,Los Angeles Kings,Chicago Blackhawks,17.0,37.0,61.0,22.0,53.0,71.0
+/zapas/2526387,0.0,1.0,Los Angeles Kings,Winnipeg Jets,32.0,62.0,50.0,38.0,67.0,56.0
+/zapas/2526399,0.0,0.0,Los Angeles Kings,Arizona Coyotes,29.0,59.0,51.0,14.0,50.0,73.0
+/zapas/2526412,1.0,1.0,Los Angeles Kings,Anaheim Ducks,29.0,58.0,50.0,27.0,54.0,57.0
+/zapas/2526426,1.0,0.0,Los Angeles Kings,Detroit Red Wings,28.0,56.0,49.0,25.0,57.0,61.0
+/zapas/2526435,1.0,0.0,Los Angeles Kings,Washington Capitals,28.0,57.0,48.0,30.0,53.0,61.0
+/zapas/2526447,1.0,0.0,Los Angeles Kings,St. Louis Blues,28.0,57.0,49.0,38.0,69.0,52.0
+/zapas/2526462,1.0,0.0,Los Angeles Kings,Chicago Blackhawks,28.0,55.0,46.0,27.0,56.0,57.0
+/zapas/2526479,1.0,1.0,Los Angeles Kings,Minnesota Wild,31.0,56.0,44.0,32.0,56.0,55.0
+/zapas/2526491,1.0,1.0,Los Angeles Kings,Ottawa Senators,32.0,58.0,44.0,21.0,54.0,76.0
+/zapas/2526509,1.0,1.0,Los Angeles Kings,Carolina Hurricanes,31.0,58.0,47.0,27.0,58.0,64.0
+/zapas/2526521,0.0,0.0,Los Angeles Kings,New Jersey Devils,31.0,59.0,48.0,29.0,53.0,63.0
+/zapas/2526547,0.0,0.0,Los Angeles Kings,New York Rangers,31.0,58.0,49.0,36.0,71.0,54.0
+/zapas/2526554,0.0,0.0,Los Angeles Kings,New York Islanders,28.0,55.0,50.0,29.0,69.0,73.0
+/zapas/2526567,1.0,0.0,Los Angeles Kings,Philadelphia Flyers,28.0,55.0,50.0,29.0,50.0,55.0
+/zapas/2526591,1.0,1.0,Los Angeles Kings,Colorado Avalanche,29.0,55.0,48.0,24.0,61.0,68.0
+/zapas/2526611,0.0,0.0,Los Angeles Kings,San Jose Sharks,31.0,55.0,44.0,32.0,57.0,54.0
+/zapas/2526628,0.0,1.0,Los Angeles Kings,Vegas Golden Knights,31.0,54.0,44.0,42.0,71.0,57.0
+/zapas/2526646,1.0,0.0,Los Angeles Kings,Vancouver Canucks,32.0,54.0,44.0,23.0,57.0,75.0
+/zapas/2526664,1.0,0.0,Los Angeles Kings,Edmonton Oilers,35.0,57.0,45.0,30.0,67.0,68.0
+/zapas/2526680,0.0,0.0,Los Angeles Kings,Calgary Flames,35.0,58.0,45.0,26.0,50.0,52.0
+/zapas/2526695,0.0,1.0,Los Angeles Kings,Nashville Predators,35.0,59.0,45.0,35.0,60.0,50.0
+/zapas/2526731,0.0,1.0,Los Angeles Kings,Anaheim Ducks,35.0,61.0,47.0,31.0,55.0,54.0
+/zapas/2526739,0.0,1.0,Los Angeles Kings,San Jose Sharks,34.0,61.0,48.0,33.0,62.0,61.0
+/zapas/2526758,0.0,1.0,Los Angeles Kings,Pittsburgh Penguins,32.0,60.0,51.0,26.0,60.0,56.0
+/zapas/2526761,0.0,0.0,Los Angeles Kings,Anaheim Ducks,29.0,57.0,53.0,34.0,57.0,49.0
+/zapas/2526779,1.0,1.0,Los Angeles Kings,New York Rangers,26.0,53.0,53.0,26.0,51.0,55.0
+/zapas/2526795,0.0,0.0,Los Angeles Kings,Vancouver Canucks,26.0,53.0,54.0,15.0,46.0,76.0
+/zapas/2526799,1.0,0.0,Los Angeles Kings,Calgary Flames,23.0,52.0,59.0,35.0,53.0,41.0
+/zapas/2526824,1.0,0.0,Los Angeles Kings,Dallas Stars,22.0,49.0,58.0,36.0,66.0,45.0
+/zapas/2526836,0.0,0.0,Los Angeles Kings,Nashville Predators,23.0,48.0,55.0,36.0,54.0,45.0
+/zapas/2526858,1.0,1.0,Los Angeles Kings,Arizona Coyotes,21.0,45.0,58.0,16.0,45.0,66.0
+/zapas/2526879,1.0,1.0,Los Angeles Kings,Edmonton Oilers,24.0,50.0,53.0,29.0,51.0,62.0
+/zapas/2526892,1.0,0.0,Los Angeles Kings,Florida Panthers,27.0,53.0,51.0,33.0,54.0,56.0
+/zapas/2526900,0.0,0.0,Los Angeles Kings,Tampa Bay Lightning,29.0,53.0,48.0,36.0,64.0,55.0
+/zapas/2526923,0.0,0.0,Los Angeles Kings,Carolina Hurricanes,26.0,52.0,51.0,29.0,49.0,56.0
+/zapas/2526935,0.0,0.0,Los Angeles Kings,Pittsburgh Penguins,24.0,53.0,57.0,39.0,73.0,52.0
+/zapas/2526948,1.0,0.0,Los Angeles Kings,Buffalo Sabres,24.0,54.0,58.0,23.0,55.0,65.0
+/zapas/2526970,1.0,0.0,Los Angeles Kings,Chicago Blackhawks,26.0,56.0,57.0,20.0,52.0,62.0
+/zapas/2526978,1.0,0.0,Los Angeles Kings,Winnipeg Jets,26.0,55.0,55.0,39.0,67.0,47.0
+/zapas/2526994,0.0,1.0,Los Angeles Kings,Dallas Stars,26.0,54.0,58.0,35.0,57.0,47.0
+/zapas/2527011,0.0,1.0,Los Angeles Kings,Edmonton Oilers,26.0,51.0,56.0,21.0,53.0,65.0
+/zapas/2527022,1.0,1.0,Los Angeles Kings,Vegas Golden Knights,26.0,51.0,56.0,37.0,72.0,53.0
+/zapas/2527030,1.0,0.0,Los Angeles Kings,Vegas Golden Knights,28.0,52.0,54.0,37.0,72.0,53.0
+/zapas/2527043,1.0,1.0,Los Angeles Kings,Columbus Blue Jackets,31.0,55.0,51.0,24.0,50.0,56.0
+/zapas/2527056,0.0,1.0,Los Angeles Kings,Chicago Blackhawks,34.0,59.0,50.0,16.0,44.0,67.0
+/zapas/2527096,1.0,1.0,Los Angeles Kings,Washington Capitals,34.0,61.0,53.0,30.0,60.0,66.0
+/zapas/2527107,0.0,1.0,Los Angeles Kings,St. Louis Blues,34.0,60.0,52.0,26.0,44.0,55.0
+/zapas/2527123,1.0,1.0,Los Angeles Kings,Vancouver Canucks,34.0,60.0,53.0,19.0,56.0,66.0
+/zapas/2527131,0.0,0.0,Los Angeles Kings,Arizona Coyotes,35.0,61.0,52.0,33.0,49.0,51.0
+/zapas/2527145,1.0,1.0,Los Angeles Kings,Detroit Red Wings,33.0,61.0,56.0,19.0,52.0,64.0
+/zapas/2527154,0.0,1.0,Los Angeles Kings,New Jersey Devils,36.0,65.0,52.0,27.0,61.0,61.0
+/zapas/2527173,1.0,0.0,Los Angeles Kings,Minnesota Wild,33.0,59.0,55.0,40.0,71.0,56.0
+/zapas/2527182,0.0,0.0,Los Angeles Kings,Winnipeg Jets,32.0,58.0,56.0,39.0,71.0,49.0
+/zapas/2527198,1.0,0.0,Los Angeles Kings,Colorado Avalanche,30.0,56.0,57.0,36.0,68.0,54.0
+/zapas/2527216,0.0,0.0,Los Angeles Kings,Edmonton Oilers,33.0,60.0,54.0,27.0,62.0,59.0
+/zapas/2527230,1.0,1.0,Los Angeles Kings,Calgary Flames,33.0,59.0,50.0,20.0,46.0,72.0
+/zapas/2527253,1.0,1.0,Los Angeles Kings,Arizona Coyotes,36.0,61.0,47.0,36.0,56.0,49.0
+/zapas/2527258,0.0,0.0,Los Angeles Kings,Anaheim Ducks,36.0,61.0,47.0,36.0,58.0,44.0
+/zapas/2527282,1.0,1.0,Los Angeles Kings,Colorado Avalanche,34.0,59.0,48.0,34.0,65.0,51.0
+/zapas/2527305,1.0,1.0,Los Angeles Kings,Minnesota Wild,34.0,58.0,46.0,35.0,62.0,53.0
+/zapas/2527324,0.0,1.0,Los Angeles Kings,Dallas Stars,36.0,63.0,48.0,20.0,50.0,64.0
+/zapas/2647214,0.0,1.0,Los Angeles Kings,San Jose Sharks,36.0,62.0,48.0,34.0,72.0,58.0
+/zapas/2647229,1.0,1.0,Los Angeles Kings,Detroit Red Wings,35.0,61.0,49.0,15.0,53.0,73.0
+/zapas/2647238,0.0,0.0,Los Angeles Kings,Winnipeg Jets,35.0,61.0,50.0,41.0,66.0,51.0
+/zapas/2647249,1.0,0.0,Los Angeles Kings,Montreal Canadiens,32.0,57.0,50.0,19.0,50.0,70.0
+/zapas/2647257,0.0,0.0,Los Angeles Kings,Ottawa Senators,35.0,57.0,45.0,17.0,56.0,80.0
+/zapas/2647272,0.0,0.0,Los Angeles Kings,Toronto Maple Leafs,32.0,55.0,49.0,42.0,83.0,59.0
+/zapas/2647295,0.0,1.0,Los Angeles Kings,New York Islanders,32.0,54.0,46.0,23.0,60.0,69.0
+/zapas/2647303,0.0,1.0,Los Angeles Kings,Buffalo Sabres,29.0,53.0,53.0,18.0,47.0,78.0
+/zapas/2647326,0.0,0.0,Los Angeles Kings,Dallas Stars,28.0,51.0,54.0,22.0,56.0,66.0
+/zapas/2647336,0.0,0.0,Los Angeles Kings,Minnesota Wild,25.0,49.0,57.0,34.0,58.0,53.0
+/zapas/2647357,1.0,1.0,Los Angeles Kings,New York Rangers,25.0,50.0,58.0,15.0,48.0,71.0
+/zapas/2647388,0.0,1.0,Los Angeles Kings,Philadelphia Flyers,26.0,50.0,58.0,30.0,64.0,71.0
+/zapas/2647403,1.0,1.0,Los Angeles Kings,Columbus Blue Jackets,25.0,51.0,61.0,32.0,75.0,68.0
+/zapas/2647420,1.0,1.0,Los Angeles Kings,Anaheim Ducks,25.0,48.0,61.0,32.0,54.0,50.0
+/zapas/2647433,0.0,1.0,Los Angeles Kings,Minnesota Wild,28.0,50.0,59.0,34.0,63.0,57.0
+/zapas/2647450,0.0,1.0,Los Angeles Kings,Calgary Flames,25.0,48.0,62.0,32.0,66.0,62.0
+/zapas/2647469,0.0,1.0,Los Angeles Kings,Toronto Maple Leafs,22.0,44.0,61.0,37.0,68.0,52.0
+/zapas/2647486,1.0,0.0,Los Angeles Kings,Chicago Blackhawks,21.0,44.0,64.0,22.0,53.0,71.0
+/zapas/2647498,0.0,0.0,Los Angeles Kings,Nashville Predators,20.0,43.0,64.0,41.0,66.0,46.0
+/zapas/2647511,1.0,0.0,Los Angeles Kings,St. Louis Blues,18.0,41.0,65.0,27.0,62.0,63.0
+/zapas/2647529,0.0,1.0,Los Angeles Kings,Colorado Avalanche,21.0,41.0,61.0,33.0,71.0,59.0
 /zapas/2647555,0.0,1.0,Los Angeles Kings,Vancouver Canucks,20.0,42.0,65.0,19.0,54.0,75.0
 /zapas/2647559,1.0,1.0,Los Angeles Kings,Edmonton Oilers,17.0,40.0,67.0,28.0,59.0,62.0
 /zapas/2647574,1.0,0.0,Los Angeles Kings,Vancouver Canucks,20.0,44.0,67.0,20.0,55.0,75.0
 /zapas/2647586,0.0,0.0,Los Angeles Kings,Edmonton Oilers,19.0,43.0,68.0,25.0,55.0,62.0
+/zapas/2647592,0.0,0.0,Los Angeles Kings,Calgary Flames,19.0,44.0,66.0,34.0,66.0,57.0
+/zapas/2647610,1.0,1.0,Los Angeles Kings,Carolina Hurricanes,19.0,44.0,66.0,25.0,44.0,54.0
 /zapas/2647623,0.0,1.0,Los Angeles Kings,Arizona Coyotes,22.0,44.0,59.0,34.0,62.0,55.0
 /zapas/2647637,0.0,1.0,Los Angeles Kings,New Jersey Devils,22.0,44.0,56.0,20.0,53.0,77.0
+/zapas/2647643,1.0,1.0,Los Angeles Kings,Vegas Golden Knights,22.0,45.0,58.0,34.0,69.0,57.0
 /zapas/2647660,0.0,0.0,Los Angeles Kings,Detroit Red Wings,25.0,49.0,55.0,32.0,67.0,59.0
 /zapas/2647664,0.0,0.0,Los Angeles Kings,Buffalo Sabres,22.0,46.0,55.0,30.0,65.0,60.0
+/zapas/2647678,0.0,0.0,Los Angeles Kings,Columbus Blue Jackets,23.0,47.0,54.0,31.0,66.0,64.0
+/zapas/2647697,0.0,0.0,Los Angeles Kings,Pittsburgh Penguins,20.0,44.0,57.0,26.0,61.0,66.0
+/zapas/2647725,1.0,1.0,Los Angeles Kings,Winnipeg Jets,18.0,43.0,60.0,38.0,82.0,60.0
+/zapas/2647747,1.0,0.0,Los Angeles Kings,San Jose Sharks,21.0,46.0,58.0,35.0,66.0,58.0
+/zapas/2647762,1.0,0.0,Los Angeles Kings,Vegas Golden Knights,23.0,49.0,59.0,39.0,70.0,54.0
 /zapas/2647776,1.0,1.0,Los Angeles Kings,Arizona Coyotes,25.0,52.0,57.0,23.0,48.0,62.0
+/zapas/2647783,0.0,1.0,Los Angeles Kings,Vegas Golden Knights,26.0,52.0,57.0,40.0,69.0,55.0
+/zapas/2647805,1.0,0.0,Los Angeles Kings,Colorado Avalanche,26.0,50.0,56.0,32.0,65.0,64.0
+/zapas/2647812,0.0,0.0,Los Angeles Kings,Vegas Golden Knights,25.0,51.0,58.0,43.0,70.0,47.0
+/zapas/2647826,0.0,1.0,Los Angeles Kings,Tampa Bay Lightning,25.0,48.0,53.0,47.0,94.0,59.0
 /zapas/2647841,1.0,1.0,Los Angeles Kings,Edmonton Oilers,25.0,48.0,55.0,29.0,57.0,61.0
+/zapas/2647854,0.0,0.0,Los Angeles Kings,San Jose Sharks,25.0,47.0,53.0,36.0,75.0,67.0
 /zapas/2647880,0.0,1.0,Los Angeles Kings,Ottawa Senators,23.0,46.0,55.0,20.0,53.0,69.0
+/zapas/2647896,1.0,1.0,Los Angeles Kings,Pittsburgh Penguins,23.0,45.0,56.0,44.0,78.0,47.0
 /zapas/2647915,0.0,0.0,Los Angeles Kings,Minnesota Wild,26.0,49.0,54.0,25.0,48.0,61.0
+/zapas/2647930,1.0,0.0,Los Angeles Kings,Dallas Stars,24.0,49.0,57.0,26.0,47.0,53.0
+/zapas/2647939,0.0,0.0,Los Angeles Kings,Colorado Avalanche,27.0,50.0,56.0,18.0,60.0,79.0
+/zapas/2647955,1.0,1.0,Los Angeles Kings,St. Louis Blues,27.0,48.0,57.0,33.0,54.0,56.0
+/zapas/2647993,0.0,0.0,Los Angeles Kings,New York Islanders,27.0,47.0,59.0,44.0,62.0,35.0
 /zapas/2648004,1.0,0.0,Los Angeles Kings,New York Rangers,27.0,48.0,60.0,27.0,54.0,69.0
 /zapas/2648010,1.0,0.0,Los Angeles Kings,New Jersey Devils,28.0,49.0,59.0,25.0,58.0,62.0
 /zapas/2648024,1.0,0.0,Los Angeles Kings,Philadelphia Flyers,31.0,53.0,56.0,29.0,55.0,58.0
+/zapas/2648036,0.0,0.0,Los Angeles Kings,Boston Bruins,32.0,53.0,54.0,36.0,61.0,52.0
+/zapas/2648059,0.0,0.0,Los Angeles Kings,Washington Capitals,30.0,53.0,58.0,27.0,57.0,73.0
 /zapas/2648084,0.0,1.0,Los Angeles Kings,Vancouver Canucks,28.0,54.0,62.0,24.0,47.0,58.0
+/zapas/2648101,0.0,1.0,Los Angeles Kings,Boston Bruins,27.0,53.0,63.0,40.0,64.0,47.0
+/zapas/2648112,0.0,1.0,Los Angeles Kings,Washington Capitals,24.0,53.0,66.0,27.0,59.0,72.0
+/zapas/2648134,0.0,0.0,Los Angeles Kings,Nashville Predators,24.0,54.0,65.0,33.0,64.0,55.0
 /zapas/2648147,0.0,0.0,Los Angeles Kings,Florida Panthers,22.0,52.0,65.0,26.0,57.0,65.0
+/zapas/2648162,0.0,0.0,Los Angeles Kings,Tampa Bay Lightning,22.0,53.0,69.0,45.0,68.0,39.0
+/zapas/2648170,0.0,0.0,Los Angeles Kings,Carolina Hurricanes,23.0,54.0,67.0,39.0,69.0,49.0
+/zapas/2648188,0.0,1.0,Los Angeles Kings,Dallas Stars,20.0,51.0,73.0,28.0,42.0,50.0
 /zapas/2648198,1.0,1.0,Los Angeles Kings,Chicago Blackhawks,21.0,53.0,74.0,31.0,87.0,80.0
 /zapas/2648226,0.0,1.0,Los Angeles Kings,Montreal Canadiens,24.0,58.0,73.0,33.0,63.0,54.0
+/zapas/2648240,0.0,1.0,Los Angeles Kings,St. Louis Blues,21.0,54.0,74.0,42.0,64.0,43.0
 /zapas/2648254,0.0,0.0,Los Angeles Kings,Arizona Coyotes,20.0,52.0,75.0,34.0,55.0,50.0
 /zapas/2648262,1.0,0.0,Los Angeles Kings,Anaheim Ducks,17.0,52.0,78.0,18.0,40.0,66.0
+/zapas/2648289,0.0,1.0,Los Angeles Kings,Nashville Predators,20.0,54.0,73.0,27.0,53.0,58.0
 /zapas/2648299,0.0,1.0,Los Angeles Kings,Florida Panthers,17.0,51.0,73.0,30.0,72.0,61.0
+/zapas/2648318,0.0,1.0,Los Angeles Kings,Winnipeg Jets,17.0,52.0,73.0,29.0,67.0,68.0
+/zapas/2648345,1.0,1.0,Los Angeles Kings,San Jose Sharks,15.0,50.0,73.0,38.0,71.0,60.0
 /zapas/2648361,1.0,1.0,Los Angeles Kings,Anaheim Ducks,15.0,49.0,74.0,29.0,50.0,51.0
+/zapas/2648374,1.0,0.0,Los Angeles Kings,Calgary Flames,15.0,50.0,75.0,40.0,66.0,49.0
 /zapas/2648380,0.0,0.0,Los Angeles Kings,Edmonton Oilers,17.0,49.0,70.0,27.0,54.0,65.0
 /zapas/2648393,0.0,0.0,Los Angeles Kings,Vancouver Canucks,17.0,49.0,72.0,20.0,47.0,61.0
 /zapas/2648412,1.0,1.0,Los Angeles Kings,Chicago Blackhawks,17.0,48.0,71.0,31.0,68.0,67.0
+/zapas/2648426,0.0,1.0,Los Angeles Kings,Calgary Flames,19.0,49.0,69.0,39.0,63.0,43.0
 /zapas/2648436,1.0,0.0,Los Angeles Kings,Arizona Coyotes,19.0,49.0,73.0,36.0,52.0,43.0
 /zapas/2648454,0.0,0.0,Los Angeles Kings,Anaheim Ducks,22.0,51.0,72.0,30.0,56.0,60.0
+/zapas/2648468,1.0,1.0,Los Angeles Kings,Vegas Golden Knights,22.0,52.0,71.0,35.0,67.0,53.0
+/zapas/2806406,0.0,0.0,Los Angeles Kings,Edmonton Oilers,24.0,54.0,69.0,30.0,60.0,65.0
+/zapas/2806418,1.0,0.0,Los Angeles Kings,Calgary Flames,24.0,58.0,69.0,30.0,65.0,50.0
+/zapas/2806422,0.0,0.0,Los Angeles Kings,Vancouver Canucks,25.0,59.0,68.0,21.0,49.0,62.0
+/zapas/2806439,1.0,1.0,Los Angeles Kings,Nashville Predators,22.0,55.0,73.0,38.0,63.0,55.0
+/zapas/2806452,0.0,1.0,Los Angeles Kings,Vegas Golden Knights,25.0,61.0,74.0,32.0,67.0,55.0
+/zapas/2806467,0.0,1.0,Los Angeles Kings,Carolina Hurricanes,25.0,63.0,75.0,37.0,64.0,48.0
 /zapas/2806482,0.0,1.0,Los Angeles Kings,Buffalo Sabres,25.0,61.0,73.0,23.0,59.0,68.0
+/zapas/2806498,1.0,1.0,Los Angeles Kings,Calgary Flames,22.0,58.0,74.0,33.0,62.0,46.0
+/zapas/2806516,1.0,0.0,Los Angeles Kings,Winnipeg Jets,25.0,61.0,72.0,24.0,54.0,64.0
+/zapas/2806525,0.0,0.0,Los Angeles Kings,St. Louis Blues,28.0,61.0,70.0,38.0,70.0,60.0
+/zapas/2806543,0.0,0.0,Los Angeles Kings,Minnesota Wild,28.0,61.0,72.0,19.0,35.0,62.0
+/zapas/2806548,0.0,0.0,Los Angeles Kings,Chicago Blackhawks,25.0,58.0,75.0,20.0,49.0,62.0
+/zapas/2806569,0.0,1.0,Los Angeles Kings,Vancouver Canucks,23.0,55.0,77.0,31.0,68.0,56.0
+/zapas/2806593,1.0,1.0,Los Angeles Kings,Chicago Blackhawks,20.0,55.0,82.0,22.0,51.0,60.0
+/zapas/2806604,0.0,0.0,Los Angeles Kings,Toronto Maple Leafs,22.0,55.0,77.0,26.0,64.0,70.0
 /zapas/2806618,0.0,0.0,Los Angeles Kings,Ottawa Senators,21.0,54.0,77.0,19.0,54.0,72.0
+/zapas/2806631,0.0,0.0,Los Angeles Kings,Montreal Canadiens,20.0,53.0,78.0,33.0,73.0,62.0
+/zapas/2806655,1.0,1.0,Los Angeles Kings,Minnesota Wild,20.0,53.0,74.0,22.0,51.0,67.0
 /zapas/2806669,1.0,1.0,Los Angeles Kings,Detroit Red Wings,20.0,53.0,74.0,21.0,46.0,75.0
+/zapas/2806688,1.0,1.0,Los Angeles Kings,Vegas Golden Knights,22.0,54.0,71.0,28.0,59.0,61.0
+/zapas/2806693,0.0,0.0,Los Angeles Kings,Arizona Coyotes,22.0,53.0,72.0,33.0,60.0,47.0
+/zapas/2806721,1.0,1.0,Los Angeles Kings,Edmonton Oilers,22.0,48.0,69.0,33.0,62.0,54.0
+/zapas/2806726,0.0,1.0,Los Angeles Kings,Arizona Coyotes,23.0,49.0,67.0,33.0,60.0,48.0
 /zapas/2806749,0.0,1.0,Los Angeles Kings,San Jose Sharks,23.0,49.0,62.0,33.0,64.0,63.0
+/zapas/2806764,1.0,1.0,Los Angeles Kings,New York Islanders,21.0,45.0,62.0,41.0,63.0,51.0
 /zapas/2806769,0.0,0.0,Los Angeles Kings,San Jose Sharks,24.0,47.0,58.0,29.0,61.0,66.0
+/zapas/2806790,1.0,1.0,Los Angeles Kings,Winnipeg Jets,24.0,48.0,60.0,33.0,54.0,55.0
 /zapas/2806799,0.0,0.0,Los Angeles Kings,Anaheim Ducks,27.0,50.0,58.0,21.0,53.0,70.0
+/zapas/2806813,0.0,1.0,Los Angeles Kings,Washington Capitals,24.0,48.0,61.0,42.0,78.0,57.0
+/zapas/2806826,0.0,0.0,Los Angeles Kings,Edmonton Oilers,21.0,46.0,62.0,29.0,62.0,65.0
+/zapas/2806838,0.0,0.0,Los Angeles Kings,Calgary Flames,21.0,45.0,59.0,25.0,51.0,62.0
+/zapas/2806859,1.0,1.0,Los Angeles Kings,New York Rangers,21.0,47.0,58.0,36.0,64.0,57.0
 /zapas/2806873,1.0,0.0,Los Angeles Kings,Anaheim Ducks,24.0,49.0,54.0,23.0,57.0,68.0
+/zapas/2806887,0.0,0.0,Los Angeles Kings,Pittsburgh Penguins,27.0,48.0,50.0,33.0,66.0,55.0
 /zapas/2806893,1.0,0.0,Los Angeles Kings,Detroit Red Wings,26.0,48.0,52.0,16.0,41.0,79.0
+/zapas/2806900,1.0,0.0,Los Angeles Kings,Boston Bruins,29.0,51.0,51.0,32.0,63.0,55.0
+/zapas/2806917,0.0,0.0,Los Angeles Kings,Columbus Blue Jackets,30.0,53.0,51.0,29.0,53.0,51.0
 /zapas/2806928,0.0,0.0,Los Angeles Kings,Buffalo Sabres,31.0,53.0,51.0,25.0,64.0,71.0
+/zapas/2806957,0.0,1.0,Los Angeles Kings,St. Louis Blues,28.0,52.0,53.0,38.0,60.0,49.0
 /zapas/2806968,1.0,0.0,Los Angeles Kings,San Jose Sharks,26.0,50.0,55.0,24.0,53.0,69.0
+/zapas/2806975,0.0,0.0,Los Angeles Kings,Vancouver Canucks,25.0,49.0,54.0,27.0,66.0,68.0
+/zapas/2806998,1.0,1.0,Los Angeles Kings,Philadelphia Flyers,25.0,51.0,54.0,35.0,66.0,57.0
+/zapas/2807028,0.0,1.0,Los Angeles Kings,Nashville Predators,25.0,51.0,56.0,28.0,64.0,65.0
+/zapas/2807038,0.0,1.0,Los Angeles Kings,Columbus Blue Jackets,25.0,50.0,57.0,32.0,51.0,43.0
+/zapas/2807053,0.0,1.0,Los Angeles Kings,Dallas Stars,24.0,49.0,57.0,34.0,54.0,51.0
+/zapas/2807062,1.0,0.0,Los Angeles Kings,Vegas Golden Knights,21.0,46.0,58.0,37.0,70.0,60.0
+/zapas/2807073,0.0,0.0,Los Angeles Kings,Carolina Hurricanes,24.0,50.0,56.0,32.0,65.0,55.0
+/zapas/2807092,0.0,0.0,Los Angeles Kings,Tampa Bay Lightning,21.0,48.0,57.0,42.0,71.0,49.0
+/zapas/2807105,0.0,0.0,Los Angeles Kings,Florida Panthers,22.0,49.0,57.0,36.0,75.0,59.0
+/zapas/2807126,0.0,0.0,Los Angeles Kings,Philadelphia Flyers,22.0,51.0,58.0,24.0,60.0,70.0
+/zapas/2807155,0.0,1.0,Los Angeles Kings,Tampa Bay Lightning,22.0,51.0,60.0,42.0,72.0,47.0
+/zapas/2807160,1.0,0.0,Los Angeles Kings,Arizona Coyotes,22.0,50.0,60.0,25.0,59.0,67.0
 /zapas/2807180,0.0,1.0,Los Angeles Kings,Anaheim Ducks,21.0,50.0,61.0,18.0,49.0,68.0
+/zapas/2807193,0.0,0.0,Los Angeles Kings,Washington Capitals,18.0,49.0,63.0,34.0,73.0,63.0
+/zapas/2807207,0.0,0.0,Los Angeles Kings,New York Islanders,17.0,47.0,62.0,25.0,58.0,67.0
 /zapas/2807225,0.0,0.0,Los Angeles Kings,New Jersey Devils,14.0,46.0,65.0,26.0,66.0,74.0
+/zapas/2807233,0.0,0.0,Los Angeles Kings,New York Rangers,12.0,42.0,65.0,29.0,68.0,66.0
+/zapas/2807254,1.0,1.0,Los Angeles Kings,Calgary Flames,11.0,41.0,66.0,31.0,62.0,61.0
+/zapas/2807278,1.0,0.0,Los Angeles Kings,Colorado Avalanche,14.0,44.0,66.0,36.0,75.0,57.0
+/zapas/2807302,0.0,0.0,Los Angeles Kings,Winnipeg Jets,17.0,46.0,63.0,25.0,54.0,61.0
+/zapas/2807316,1.0,1.0,Los Angeles Kings,Florida Panthers,15.0,46.0,67.0,34.0,65.0,65.0
+/zapas/2807334,0.0,1.0,Los Angeles Kings,Colorado Avalanche,18.0,49.0,68.0,39.0,66.0,46.0
+/zapas/2807342,0.0,1.0,Los Angeles Kings,Edmonton Oilers,16.0,45.0,67.0,38.0,76.0,61.0
+/zapas/2807359,1.0,1.0,Los Angeles Kings,Pittsburgh Penguins,16.0,46.0,67.0,33.0,60.0,59.0
 /zapas/2807376,1.0,1.0,Los Angeles Kings,New Jersey Devils,19.0,46.0,64.0,32.0,61.0,60.0
+/zapas/2807392,1.0,0.0,Los Angeles Kings,Vegas Golden Knights,21.0,47.0,63.0,36.0,68.0,61.0
+/zapas/2807417,1.0,1.0,Los Angeles Kings,Toronto Maple Leafs,21.0,46.0,62.0,29.0,62.0,66.0
+/zapas/2807428,1.0,1.0,Los Angeles Kings,Minnesota Wild,23.0,47.0,60.0,38.0,71.0,50.0
+/zapas/2807445,1.0,1.0,Los Angeles Kings,Colorado Avalanche,25.0,51.0,59.0,43.0,60.0,46.0
 /zapas/2807458,1.0,1.0,Los Angeles Kings,Ottawa Senators,28.0,51.0,56.0,21.0,51.0,71.0
+/zapas/2893224,0.0,1.0,Los Angeles Kings,Minnesota Wild,31.0,53.0,54.0,37.0,68.0,56.0
+/zapas/2893240,0.0,1.0,Los Angeles Kings,Minnesota Wild,32.0,54.0,54.0,36.0,68.0,57.0
+/zapas/2893262,0.0,1.0,Los Angeles Kings,Colorado Avalanche,31.0,54.0,56.0,39.0,54.0,44.0
+/zapas/2893274,1.0,1.0,Los Angeles Kings,Colorado Avalanche,31.0,55.0,56.0,39.0,55.0,45.0
+/zapas/2893283,0.0,0.0,Los Angeles Kings,St. Louis Blues,34.0,57.0,54.0,37.0,59.0,51.0
+/zapas/2893290,1.0,0.0,Los Angeles Kings,St. Louis Blues,34.0,56.0,53.0,39.0,61.0,50.0
+/zapas/2893303,1.0,0.0,Los Angeles Kings,Minnesota Wild,37.0,62.0,53.0,36.0,69.0,54.0
+/zapas/2893317,0.0,0.0,Los Angeles Kings,Minnesota Wild,40.0,63.0,50.0,33.0,66.0,56.0
 /zapas/2893369,0.0,1.0,Los Angeles Kings,Anaheim Ducks,37.0,61.0,52.0,26.0,47.0,62.0
+/zapas/2893385,0.0,0.0,Los Angeles Kings,Vegas Golden Knights,34.0,59.0,54.0,45.0,68.0,50.0
+/zapas/2893402,0.0,0.0,Los Angeles Kings,Vegas Golden Knights,34.0,58.0,53.0,46.0,67.0,47.0
 /zapas/2893419,0.0,1.0,Los Angeles Kings,San Jose Sharks,31.0,56.0,53.0,19.0,54.0,67.0
 /zapas/2893435,1.0,1.0,Los Angeles Kings,San Jose Sharks,31.0,58.0,55.0,21.0,56.0,67.0
-/zapas/2893475,1.0,0.0,Los Angeles Kings,Arizona Coyotes,34.0,64.0,52.0,25.0,48.0,64.0
-/zapas/2893490,1.0,0.0,Los Angeles Kings,Arizona Coyotes,34.0,65.0,53.0,26.0,50.0,64.0
+/zapas/2893468,1.0,1.0,Los Angeles Kings,Minnesota Wild,34.0,62.0,53.0,32.0,65.0,57.0
+/zapas/2893475,1.0,0.0,Los Angeles Kings,Arizona Coyotes,34.0,64.0,52.0,28.0,54.0,55.0
+/zapas/2893490,1.0,0.0,Los Angeles Kings,Arizona Coyotes,34.0,65.0,53.0,29.0,55.0,56.0
+/zapas/2893503,1.0,0.0,Los Angeles Kings,St. Louis Blues,34.0,65.0,54.0,32.0,64.0,60.0
+/zapas/2893516,1.0,0.0,Los Angeles Kings,St. Louis Blues,35.0,67.0,54.0,32.0,63.0,61.0
+/zapas/2893530,0.0,0.0,Los Angeles Kings,Minnesota Wild,35.0,62.0,52.0,35.0,64.0,54.0
+/zapas/2893538,0.0,0.0,Los Angeles Kings,Minnesota Wild,32.0,60.0,54.0,35.0,64.0,54.0
 /zapas/2893950,0.0,1.0,Los Angeles Kings,Arizona Coyotes,30.0,60.0,56.0,27.0,53.0,60.0
+/zapas/2893587,0.0,1.0,Los Angeles Kings,St. Louis Blues,29.0,59.0,55.0,32.0,66.0,60.0
+/zapas/2893596,1.0,1.0,Los Angeles Kings,St. Louis Blues,29.0,58.0,54.0,33.0,68.0,60.0
 /zapas/2893608,0.0,0.0,Los Angeles Kings,Anaheim Ducks,31.0,60.0,54.0,20.0,47.0,63.0
 /zapas/2893622,1.0,0.0,Los Angeles Kings,Anaheim Ducks,29.0,61.0,58.0,19.0,50.0,67.0
+/zapas/2893636,0.0,0.0,Los Angeles Kings,Colorado Avalanche,32.0,64.0,55.0,35.0,58.0,49.0
+/zapas/2893653,0.0,0.0,Los Angeles Kings,Colorado Avalanche,29.0,58.0,54.0,36.0,57.0,47.0
+/zapas/2893675,1.0,1.0,Los Angeles Kings,St. Louis Blues,26.0,57.0,57.0,28.0,60.0,64.0
+/zapas/2893689,0.0,1.0,Los Angeles Kings,Vegas Golden Knights,29.0,58.0,53.0,41.0,67.0,44.0
+/zapas/2893703,1.0,1.0,Los Angeles Kings,Vegas Golden Knights,29.0,59.0,54.0,41.0,66.0,44.0
 /zapas/2893711,0.0,0.0,Los Angeles Kings,San Jose Sharks,32.0,60.0,50.0,23.0,56.0,68.0
 /zapas/2893722,0.0,0.0,Los Angeles Kings,San Jose Sharks,32.0,58.0,48.0,25.0,57.0,67.0
+/zapas/2893762,0.0,0.0,Los Angeles Kings,Vegas Golden Knights,31.0,57.0,48.0,37.0,64.0,46.0
+/zapas/2893777,1.0,0.0,Los Angeles Kings,Vegas Golden Knights,28.0,52.0,50.0,37.0,67.0,47.0
 /zapas/2893792,0.0,1.0,Los Angeles Kings,San Jose Sharks,28.0,52.0,52.0,27.0,59.0,66.0
 /zapas/2893804,0.0,1.0,Los Angeles Kings,San Jose Sharks,26.0,49.0,53.0,27.0,57.0,62.0
 /zapas/2893818,0.0,1.0,Los Angeles Kings,Arizona Coyotes,23.0,47.0,54.0,29.0,54.0,64.0
 /zapas/2893832,1.0,1.0,Los Angeles Kings,Arizona Coyotes,20.0,46.0,59.0,30.0,55.0,63.0
 /zapas/2893849,0.0,0.0,Los Angeles Kings,San Jose Sharks,20.0,48.0,61.0,30.0,53.0,56.0
 /zapas/2893857,1.0,0.0,Los Angeles Kings,San Jose Sharks,20.0,49.0,63.0,30.0,52.0,56.0
+/zapas/2893871,0.0,1.0,Los Angeles Kings,Vegas Golden Knights,22.0,50.0,61.0,35.0,62.0,47.0
+/zapas/2893882,0.0,1.0,Los Angeles Kings,Vegas Golden Knights,22.0,50.0,62.0,35.0,62.0,49.0
 /zapas/2893932,1.0,1.0,Los Angeles Kings,Anaheim Ducks,21.0,50.0,65.0,17.0,42.0,66.0
+/zapas/2893448,0.0,1.0,Los Angeles Kings,Minnesota Wild,22.0,50.0,63.0,40.0,62.0,55.0
 /zapas/2893960,0.0,1.0,Los Angeles Kings,Arizona Coyotes,21.0,47.0,61.0,23.0,55.0,69.0
 /zapas/2893973,1.0,1.0,Los Angeles Kings,Anaheim Ducks,18.0,42.0,64.0,17.0,43.0,64.0
 /zapas/2893988,0.0,1.0,Los Angeles Kings,Anaheim Ducks,21.0,46.0,63.0,17.0,43.0,65.0
@@ -66,10 +263,90 @@ game_id,TOI_result,TOI_home,TOI,other_team,TOI_points_tot,TOI_goals_scored_tot,T
 /zapas/2894018,0.0,0.0,Los Angeles Kings,Anaheim Ducks,21.0,45.0,62.0,18.0,40.0,59.0
 /zapas/2894030,1.0,0.0,Los Angeles Kings,Arizona Coyotes,21.0,45.0,64.0,26.0,61.0,66.0
 /zapas/2894044,1.0,0.0,Los Angeles Kings,Arizona Coyotes,21.0,45.0,65.0,24.0,58.0,65.0
-/zapas/2900303,1.0,0.0,Los Angeles Kings,Edmonton Oilers,22.0,45.0,68.0,19.0,57.0,75.0
-/zapas/2900304,0.0,0.0,Los Angeles Kings,Edmonton Oilers,25.0,47.0,66.0,17.0,57.0,77.0
-/zapas/2900305,0.0,1.0,Los Angeles Kings,Edmonton Oilers,22.0,43.0,69.0,20.0,60.0,71.0
-/zapas/2900306,1.0,1.0,Los Angeles Kings,Edmonton Oilers,22.0,43.0,72.0,23.0,66.0,66.0
-/zapas/2900307,1.0,0.0,Los Angeles Kings,Edmonton Oilers,22.0,43.0,70.0,20.0,62.0,69.0
-/zapas/2900308,0.0,1.0,Los Angeles Kings,Edmonton Oilers,24.0,46.0,70.0,20.0,63.0,70.0
-/zapas/2900309,0.0,0.0,Los Angeles Kings,Edmonton Oilers,24.0,46.0,68.0,20.0,59.0,68.0
+/zapas/2894060,0.0,1.0,Los Angeles Kings,Colorado Avalanche,24.0,48.0,65.0,42.0,72.0,56.0
+/zapas/2894075,0.0,1.0,Los Angeles Kings,Colorado Avalanche,24.0,48.0,64.0,42.0,70.0,57.0
+/zapas/2893664,0.0,1.0,Los Angeles Kings,St. Louis Blues,24.0,49.0,63.0,26.0,59.0,60.0
+/zapas/2893894,0.0,0.0,Los Angeles Kings,Colorado Avalanche,22.0,46.0,63.0,44.0,68.0,55.0
+/zapas/2893909,0.0,0.0,Los Angeles Kings,Colorado Avalanche,22.0,46.0,66.0,44.0,65.0,52.0
+/zapas/2896989,1.0,1.0,Los Angeles Kings,Vegas Golden Knights,22.0,45.0,68.0,44.0,76.0,42.0
+/zapas/2897001,0.0,1.0,Los Angeles Kings,Minnesota Wild,25.0,49.0,65.0,39.0,75.0,67.0
+/zapas/2897022,0.0,0.0,Los Angeles Kings,Nashville Predators,22.0,47.0,65.0,33.0,65.0,48.0
+/zapas/2897044,0.0,0.0,Los Angeles Kings,Dallas Stars,22.0,46.0,62.0,27.0,55.0,59.0
+/zapas/2897049,0.0,0.0,Los Angeles Kings,St. Louis Blues,20.0,44.0,63.0,39.0,77.0,53.0
+/zapas/2897064,0.0,0.0,Los Angeles Kings,St. Louis Blues,20.0,45.0,66.0,39.0,75.0,55.0
+/zapas/2897085,0.0,1.0,Los Angeles Kings,Winnipeg Jets,20.0,43.0,63.0,25.0,58.0,63.0
+/zapas/2897099,1.0,1.0,Los Angeles Kings,Montreal Canadiens,17.0,41.0,65.0,18.0,44.0,67.0
+/zapas/2897109,1.0,1.0,Los Angeles Kings,Buffalo Sabres,20.0,44.0,63.0,25.0,56.0,64.0
+/zapas/2897125,1.0,1.0,Los Angeles Kings,St. Louis Blues,23.0,47.0,61.0,43.0,74.0,50.0
+/zapas/2897140,1.0,1.0,Los Angeles Kings,New Jersey Devils,22.0,46.0,62.0,26.0,57.0,69.0
+/zapas/2897160,1.0,0.0,Los Angeles Kings,Toronto Maple Leafs,24.0,47.0,61.0,37.0,60.0,50.0
+/zapas/2897169,1.0,0.0,Los Angeles Kings,Montreal Canadiens,24.0,50.0,61.0,15.0,43.0,70.0
+/zapas/2897183,1.0,0.0,Los Angeles Kings,Ottawa Senators,26.0,51.0,57.0,28.0,56.0,63.0
+/zapas/2897197,0.0,0.0,Los Angeles Kings,Winnipeg Jets,26.0,50.0,55.0,32.0,63.0,52.0
+/zapas/2897226,0.0,1.0,Los Angeles Kings,Washington Capitals,24.0,48.0,56.0,40.0,66.0,47.0
+/zapas/2897243,0.0,1.0,Los Angeles Kings,Carolina Hurricanes,24.0,46.0,55.0,45.0,64.0,43.0
+/zapas/2897256,0.0,1.0,Los Angeles Kings,Arizona Coyotes,24.0,48.0,57.0,15.0,42.0,74.0
+/zapas/2897271,0.0,1.0,Los Angeles Kings,Toronto Maple Leafs,24.0,48.0,57.0,37.0,51.0,45.0
+/zapas/2897299,1.0,1.0,Los Angeles Kings,Ottawa Senators,24.0,50.0,57.0,15.0,49.0,78.0
+/zapas/2897318,0.0,1.0,Los Angeles Kings,Anaheim Ducks,27.0,53.0,54.0,30.0,65.0,58.0
+/zapas/2897333,0.0,1.0,Los Angeles Kings,Calgary Flames,25.0,51.0,57.0,41.0,68.0,35.0
+/zapas/2897359,1.0,0.0,Los Angeles Kings,Edmonton Oilers,25.0,51.0,57.0,40.0,77.0,61.0
+/zapas/2897364,0.0,0.0,Los Angeles Kings,Vancouver Canucks,28.0,55.0,56.0,18.0,46.0,64.0
+/zapas/2897383,1.0,1.0,Los Angeles Kings,Dallas Stars,27.0,53.0,57.0,35.0,62.0,56.0
+/zapas/2897400,1.0,1.0,Los Angeles Kings,Minnesota Wild,30.0,54.0,50.0,39.0,81.0,56.0
+/zapas/2897428,0.0,0.0,Los Angeles Kings,Tampa Bay Lightning,33.0,56.0,48.0,41.0,68.0,47.0
+/zapas/2897442,1.0,0.0,Los Angeles Kings,Florida Panthers,34.0,56.0,48.0,31.0,69.0,68.0
+/zapas/2897461,0.0,0.0,Los Angeles Kings,Carolina Hurricanes,34.0,55.0,47.0,35.0,57.0,49.0
+/zapas/2897468,1.0,0.0,Los Angeles Kings,Washington Capitals,31.0,53.0,50.0,40.0,70.0,51.0
+/zapas/2897518,0.0,1.0,Los Angeles Kings,Vegas Golden Knights,32.0,53.0,50.0,40.0,81.0,60.0
+/zapas/2897533,1.0,1.0,Los Angeles Kings,Vancouver Canucks,30.0,53.0,54.0,28.0,50.0,58.0
+/zapas/2897547,1.0,1.0,Los Angeles Kings,Philadelphia Flyers,29.0,50.0,54.0,22.0,50.0,72.0
+/zapas/2897582,0.0,1.0,Los Angeles Kings,Nashville Predators,30.0,53.0,55.0,38.0,64.0,53.0
+/zapas/2897598,1.0,1.0,Los Angeles Kings,Detroit Red Wings,27.0,53.0,59.0,24.0,53.0,68.0
+/zapas/2897611,1.0,1.0,Los Angeles Kings,New York Rangers,29.0,55.0,56.0,39.0,61.0,46.0
+/zapas/2897631,1.0,1.0,Los Angeles Kings,Pittsburgh Penguins,32.0,58.0,55.0,48.0,73.0,39.0
+/zapas/2897647,1.0,0.0,Los Angeles Kings,Seattle Kraken,35.0,60.0,52.0,21.0,54.0,74.0
+/zapas/2897664,0.0,0.0,Los Angeles Kings,San Jose Sharks,37.0,62.0,51.0,26.0,54.0,65.0
+/zapas/2897672,0.0,1.0,Los Angeles Kings,Tampa Bay Lightning,37.0,62.0,51.0,41.0,71.0,57.0
+/zapas/2897686,0.0,1.0,Los Angeles Kings,Colorado Avalanche,34.0,62.0,55.0,46.0,91.0,61.0
+/zapas/2897715,1.0,0.0,Los Angeles Kings,New Jersey Devils,33.0,59.0,54.0,17.0,58.0,79.0
+/zapas/2897722,0.0,0.0,Los Angeles Kings,New York Rangers,36.0,60.0,53.0,36.0,64.0,53.0
+/zapas/2897745,1.0,0.0,Los Angeles Kings,New York Islanders,34.0,57.0,55.0,32.0,53.0,47.0
+/zapas/2897762,0.0,0.0,Los Angeles Kings,Philadelphia Flyers,37.0,60.0,53.0,17.0,50.0,69.0
+/zapas/2897770,1.0,0.0,Los Angeles Kings,Pittsburgh Penguins,35.0,59.0,57.0,47.0,79.0,49.0
+/zapas/2897790,1.0,0.0,Los Angeles Kings,Detroit Red Wings,35.0,61.0,59.0,21.0,54.0,74.0
+/zapas/2897485,0.0,1.0,Los Angeles Kings,Edmonton Oilers,37.0,64.0,59.0,28.0,59.0,67.0
+/zapas/2897490,1.0,0.0,Los Angeles Kings,Vegas Golden Knights,34.0,62.0,63.0,29.0,58.0,56.0
+/zapas/2897508,1.0,0.0,Los Angeles Kings,Arizona Coyotes,36.0,65.0,61.0,21.0,58.0,76.0
+/zapas/2897792,1.0,0.0,Los Angeles Kings,Arizona Coyotes,36.0,67.0,62.0,21.0,51.0,69.0
+/zapas/2897804,1.0,0.0,Los Angeles Kings,Anaheim Ducks,39.0,67.0,58.0,24.0,56.0,70.0
+/zapas/2897811,1.0,1.0,Los Angeles Kings,New York Islanders,40.0,69.0,58.0,30.0,58.0,54.0
+/zapas/2897828,0.0,1.0,Los Angeles Kings,Boston Bruins,40.0,68.0,57.0,35.0,52.0,58.0
+/zapas/2897842,0.0,0.0,Los Angeles Kings,Dallas Stars,40.0,66.0,60.0,33.0,59.0,57.0
+/zapas/2897860,1.0,0.0,Los Angeles Kings,Columbus Blue Jackets,37.0,65.0,64.0,34.0,71.0,74.0
+/zapas/2897876,1.0,0.0,Los Angeles Kings,Buffalo Sabres,36.0,66.0,66.0,23.0,57.0,74.0
+/zapas/2897879,1.0,0.0,Los Angeles Kings,Boston Bruins,36.0,63.0,64.0,35.0,59.0,55.0
+/zapas/2897896,0.0,1.0,Los Angeles Kings,San Jose Sharks,35.0,63.0,65.0,19.0,43.0,67.0
+/zapas/2897913,0.0,0.0,Los Angeles Kings,San Jose Sharks,36.0,64.0,63.0,19.0,44.0,68.0
+/zapas/2897924,1.0,1.0,Los Angeles Kings,Florida Panthers,36.0,60.0,62.0,39.0,85.0,59.0
+/zapas/2897935,0.0,1.0,Los Angeles Kings,Colorado Avalanche,38.0,62.0,60.0,40.0,66.0,52.0
+/zapas/2897951,1.0,1.0,Los Angeles Kings,San Jose Sharks,35.0,59.0,61.0,22.0,50.0,66.0
+/zapas/2897966,0.0,0.0,Los Angeles Kings,Vegas Golden Knights,37.0,60.0,58.0,24.0,51.0,64.0
+/zapas/2897985,1.0,1.0,Los Angeles Kings,Nashville Predators,34.0,58.0,61.0,33.0,76.0,60.0
+/zapas/2898001,0.0,1.0,Los Angeles Kings,Chicago Blackhawks,36.0,61.0,58.0,22.0,60.0,73.0
+/zapas/2898016,1.0,1.0,Los Angeles Kings,Seattle Kraken,34.0,60.0,59.0,19.0,52.0,72.0
+/zapas/2898035,0.0,1.0,Los Angeles Kings,Seattle Kraken,34.0,59.0,58.0,19.0,52.0,73.0
+/zapas/2898052,0.0,0.0,Los Angeles Kings,Edmonton Oilers,34.0,58.0,59.0,34.0,79.0,67.0
+/zapas/2898057,1.0,0.0,Los Angeles Kings,Calgary Flames,33.0,57.0,60.0,40.0,74.0,52.0
+/zapas/2898075,1.0,0.0,Los Angeles Kings,Winnipeg Jets,32.0,55.0,59.0,31.0,71.0,69.0
+/zapas/2898090,0.0,1.0,Los Angeles Kings,Calgary Flames,32.0,55.0,59.0,35.0,72.0,58.0
+/zapas/2898110,0.0,1.0,Los Angeles Kings,Edmonton Oilers,29.0,53.0,61.0,37.0,80.0,60.0
+/zapas/2898130,0.0,0.0,Los Angeles Kings,Minnesota Wild,26.0,50.0,62.0,35.0,67.0,62.0
+/zapas/2898165,1.0,0.0,Los Angeles Kings,Chicago Blackhawks,26.0,53.0,61.0,19.0,66.0,79.0
+/zapas/2898158,0.0,0.0,Los Angeles Kings,Colorado Avalanche,29.0,55.0,59.0,41.0,65.0,50.0
+/zapas/2898177,1.0,1.0,Los Angeles Kings,Columbus Blue Jackets,27.0,54.0,65.0,24.0,61.0,78.0
+/zapas/2898201,1.0,0.0,Los Angeles Kings,Anaheim Ducks,27.0,53.0,66.0,16.0,50.0,76.0
+/zapas/2898214,1.0,1.0,Los Angeles Kings,Chicago Blackhawks,28.0,52.0,65.0,18.0,64.0,78.0
+/zapas/2898230,1.0,1.0,Los Angeles Kings,Anaheim Ducks,30.0,53.0,62.0,14.0,48.0,76.0
+/zapas/2898267,1.0,0.0,Los Angeles Kings,Seattle Kraken,33.0,57.0,59.0,26.0,55.0,63.0
+/zapas/2898279,0.0,0.0,Los Angeles Kings,Vancouver Canucks,34.0,59.0,60.0,33.0,71.0,57.0
