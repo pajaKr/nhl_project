@@ -51,12 +51,17 @@ We have calculated the accuracy of this model and it is 57.1% so it is better th
 ##### Model based on wins in duels
 
 Our second model is simpler than Logistic regression as it takes into account just the matches where the two teams have faced each other. This model works on counting the number of wins for each team and then saying which team will win based on which team has more wins. In the code, this works by summing the column *TOI_result* which has the value of one if TOI (*team_1*) won or zero if they lost. And then dividing this by the number of matches between teams.
+
 Here is the home advantage we have discovered reflected slightly in the fact that when the value is 0.5, meaning that both teams have won and lost the same number of matches in duels the win is predicted for *team_1* which should be the home team.
+
 The accuracy of this model is 53.26% which is a bit worst than the accuracy of the Logistic regression model. But the accuracy varies widely as for some duels the accuracy is 100% (42 duels) and for some 0% (24 duels). If we remove Seattle Kraken a team that has just recently joined NHL (they played NHL only in the season 2021/2022) so there is not as much data. Those numbers drop to 5 duels for 0% accuracy and 14 duels for 100% accuracy. So this model should not be used with Seattle Kraken as the small amount of data available makes it unreliable and highly variable.
 
 ##### Model based on points gained in duels
 
-Our third model is simpler than Logistic regression as it takes into account just the matches where the two teams have faced each other. This model works by counting the number of points gained by each team and then saying which team will win based on which team has more wins. The difference between the second and third models is that not all wins result in 3 points if the win is achieved in overtime the teams get 2 points for the win and 1 for the loss. In the code, this works by summing the column *TOI_points* which stores the number of points gained by *team_1* in each match, and dividing it by the number of matches times three, as three is the number of points available for each match.
+Our third model is simpler than Logistic regression as it takes into account just the matches where the two teams have faced each other. This model works by counting the number of points gained by each team and then saying which team will win based on which team has more points.
+
+The difference between the second and third models is that not all wins result in 3 points if the win is achieved in overtime the teams get 2 points for the win and 1 for the loss. In the code, this works by summing the column *TOI_points* which stores the number of points gained by *team_1* in each match, and dividing it by the number of matches times three, as three is the number of points available for each match.
+
 Here is the home advantage reflected slightly in the fact that when the value is 0.5, meaning that both teams have received the same amount of points in their duels. The win is assigned to *team_1* 
 
 #### Some important variables and columns
