@@ -30,6 +30,11 @@ Folder called teams info contains *teams_info.py* that gets team name, code (cod
 ##### nhl_project.ipynb
 *nhl_project.ipynb* is our main file. It contains our models and graphs.
 
+#### Some other important variables and columns
+* *match_ordr* this is created in nhl_project.ipynb and it is needed for models based on duels as it tells us the order in which the matches happened
+* *team_1* this is a variable set by the user as he selects the home team for our models and graphs, *Team_1* is often marked as TOI
+* *team_2* this is a variable set by the user as he selects the away team for our models and graphs
+
 ### Models
 
 We have 3 models in total to predict which team will win
@@ -57,10 +62,6 @@ This is a more complex model which is based on the 7 following variables:
 Here TOI is an abbreviation for Team Of Interest this is the team in variable *team_1*, and the other team is the team under variable *team_2* The model then produces either value of one or zero. One means the TOI (*team_1*) will win the match and a value of 0 means that *team_2* will win.
 We have calculated the accuracy of this model and it is 55.7% so it is better than random guessing by 5.7% which may not seem as much but in our eyes, it is a success.
 
-#### Some other important variables and columns
-* *match_ordr* this is created in nhl_project.ipynb and it is needed for models based on duels as it tells us the order in which the matches happened
-* *team_1* this is a variable set by the user as he selects the home team for our models and graphs, *Team_1* is often marked as TOI
-* *team_2* this is a variable set by the user as he selects the away team for our models and graphs
 
 #### Neural Network
 
