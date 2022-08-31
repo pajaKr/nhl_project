@@ -8,7 +8,7 @@ The code scrapes data from the website https://nhl.cz/. After the data is scrape
 
 ### Scraping data
 
-First of all, we scrape the website https://nhl.cz/. This is done by the code that is located in *scraping.py* we scrape data for the last 5 seasons of NHL so from the season 2017/2018 to the season 2021/2022. Once the data is scraped it is stored in the folder *teams_pre-processed* under *XXX_pre.csv* where XXX is the short name for the given team. Those short names are created by *teams_info.py* and then stored in *teams_info.csv*
+First of all, we download the teams info. This is done by *teams_info.py* in the teams_info folder. *teams_info.csv* is created, which contains teams' codes used by the website to distinguish teams and also short names of the teams, which we used for naming the .csv files. Then the main data is scraped from the website https://nhl.cz/. This is done by the code that is located in *scraping.py* we scrape data for the last 5 seasons of NHL so from the season 2017/2018 to the season 2021/2022. Once the data is scraped it is stored in the folder *teams_pre-processed* under *XXX_pre.csv* where XXX is the short name for the given team. Those short names are created by *teams_info.py* and then stored in *teams_info.csv*
 
 ###  Processing data
 *processing.py* is responsible for processing the data we have gathered. It creates columns for each team which we need for our models and graphs. Columns
@@ -45,7 +45,7 @@ Our first model is the most simple one as it takes into account just the matches
 
 Here is the home advantage we have discovered reflected slightly in the fact that when the value is 0.5, meaning that both teams have won and lost the same number of matches in duels the win is predicted for the home team.
 
-The accuracy of this model is 54.05% which is a bit worst than the accuracy of the Logistic regression model. But the accuracy varies widely as for some duels the accuracy is 100% (22 duels) and for some 0% (6 duels). If we remove Seattle Kraken a team that has just recently joined NHL (they played NHL only in the season 2021/2022) so there is not as much data. Those numbers drop to 0 duels for 0% accuracy and 6 duels for 100% accuracy. So this model should not be used with Seattle Kraken as the small amount of data available makes it unreliable and highly variable.
+The accuracy of this model is 54.05% which is a bit worse than the accuracy of the Logistic regression model and the Neural Network. But the accuracy varies widely as for some duels the accuracy is 100% (22 duels) and for some 0% (6 duels). If we remove Seattle Kraken a team that has just recently joined NHL (they played NHL only in the season 2021/2022) so there is not as much data. Those numbers drop to 0 duels for 0% accuracy and 6 duels for 100% accuracy. So this model should not be used with Seattle Kraken as the small amount of data available makes it unreliable and highly variable.
 
 
 #### Logistic regression model
