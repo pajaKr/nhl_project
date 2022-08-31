@@ -8,7 +8,7 @@ The code scrapes data from the website https://nhl.cz/. After the data is scrape
 
 ### Scraping data
 
-First of all, we download the teams info. This is done by *teams_info.py* in the teams_info folder. *teams_info.csv* is created, which contains teams' codes used by the website to distinguish teams and also short names of the teams, which we used for naming the .csv files. Then the main data is scraped from the website https://nhl.cz/. This is done by the code that is located in *scraping.py* we scrape data for the last 5 seasons of NHL so from the season 2017/2018 to the season 2021/2022. Once the data is scraped it is stored in the folder *teams_pre-processed* under *XXX_pre.csv* where XXX is the short name for the given team. Those short names are created by *teams_info.py* and then stored in *teams_info.csv*
+First of all, we download the teams info. This is done by *teams_info.py* in the teams_info folder. *teams_info.csv* is created, which contains teams' codes used by the website to distinguish teams and also short names of the teams, which we used for naming the .csv files. Then the main data is scraped from the website https://nhl.cz/. This is done by the code that is located in *scraping.py* we scrape data for the last 5 seasons of NHL so from the season 2017/2018 to the season 2021/2022. Once the data is scraped it is stored in the folder *teams_pre-processed* under *XXX_pre.csv* where XXX is the short name for the given team from *teams_info.csv*
 
 ###  Processing data
 *processing.py* is responsible for processing the data we have gathered. It creates columns for each team which we need for our models and graphs. Columns
